@@ -1,0 +1,71 @@
+{
+  "_note": "晒し屋X予想。本番ではcollectorがX(twitterapi.io)→Claude構造化で自動生成する。これは画面確認用のサンプル。",
+  "generated_at": "2026-06-24T04:00",
+  "predictions": [
+    {
+      "id": "demo1",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-21",
+      "target_date": "2026-06-22",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": ["シャーマンキング", "とある科学の超電磁砲2"],
+      "matsubi": [],
+      "note": "ゾロ目の日は全台系の実績アリ。スマスロ新台中心に強気で見る。",
+      "url": "https://x.com/slot_ogikiti"
+    },
+    {
+      "id": "demo2",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-21",
+      "target_date": "2026-06-22",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": ["無職転生", "東京リベンジャーズ"],
+      "matsubi": [],
+      "note": "5の付く日。無職転生の並びに注目。",
+      "url": "https://x.com/karasuro_7"
+    },
+    {
+      "id": "demo3",
+      "source": "スロイベ調査隊Z@関東",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-20",
+      "target_date": "2026-06-21",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": ["主役は銭形5", "炎炎ノ消防隊2"],
+      "matsubi": [],
+      "note": "毎月25日系の前哨。Aタイプ＋新台に配分ありそう。",
+      "url": "https://x.com/slo1_tyousataiZ"
+    },
+    {
+      "id": "demo4",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-21",
+      "target_date": "2026-06-22",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": ["スーパーリオエース2"],
+      "matsubi": [2],
+      "note": "末尾2に座れるなら狙い目。",
+      "url": "https://x.com/1_take6"
+    },
+    {
+      "id": "demo5",
+      "source": "【暁】AIナビ関東圏",
+      "handle": "grandcross777",
+      "posted_at": "2026-06-20",
+      "target_date": "2026-06-21",
+      "store": "マルハン綾瀬",
+      "area": "湘南台・他",
+      "machines": ["吉宗", "化物語"],
+      "matsubi": [],
+      "note": "7の付く日狙い。設定入る読み。",
+      "url": "https://x.com/grandcross777"
+    }
+  ]
+}
