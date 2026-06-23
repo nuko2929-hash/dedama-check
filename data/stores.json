@@ -51,7 +51,8 @@
     "sample_report": "693313",
     "resolved": true,
     "manual_tag_url": null,
-    "skip": false
+    "skip": true,
+    "skip_reason": "min-repoが最近のレポート未掲載(最新が2025年)。収集対象外。データ復活したらskip解除"
   },
   {
     "area": "相模大野",
@@ -170,7 +171,8 @@
     "sample_report": "2737497",
     "resolved": true,
     "manual_tag_url": null,
-    "skip": false
+    "skip": true,
+    "skip_reason": "min-repoが最近のレポート未掲載(最新が2025年)。収集対象外。データ復活したらskip解除"
   },
   {
     "area": "湘南台",
