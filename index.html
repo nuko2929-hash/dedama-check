@@ -122,6 +122,27 @@ function matchMachine(report, predMachine){
   return report.kishu.find(k=>{ const n=normMachine(k.name); return n&&(n.includes(p)||p.includes(n)); }) || null;
 }
 
+// ─── 過去データからの狙い目(参考) ───
+// その店の過去レポートのうち、今日と同種イベント日の実績を集計。
+function histStats(shop, date, reports){
+  if(!reports||!reports.length) return null;
+  const sk=normName(shop.name), todayKey=toKey(date);
+  const past=reports.filter(r=>{ if(!r.iso_date||r.iso_date>=todayKey) return false; const rk=normName(r.store); return rk.includes(sk.slice(0,3))||sk.includes(rk.slice(0,3)); });
+  if(!past.length) return null;
+  const todayReasons=getReasons(shop,date);
+  const same=past.filter(r=>{ const rr=getReasons(shop,parseKey(r.iso_date)); return rr.some(x=>todayReasons.includes(x)); });
+  const use=same.length>=2?same:past;
+  const diffs=use.map(r=>r.summary&&r.summary.total_diff).filter(v=>v!=null);
+  if(!diffs.length) return null;
+  const avg=Math.round(diffs.reduce((a,b)=>a+b,0)/diffs.length);
+  const plus=diffs.filter(v=>v>0).length;
+  // 過去で平均差枚トップだった機種(最頻の好調機種)
+  let bestMachine=null, bestAvg=-1e9;
+  use.forEach(r=>(r.kishu||[]).forEach(k=>{ if(k.avg_diff!=null && k.avg_diff>bestAvg){ bestAvg=k.avg_diff; bestMachine=k.name; }}));
+  return { n:diffs.length, avg, plusRate:Math.round(plus/diffs.length*100), sameEvent:same.length>=2,
+           label:(todayReasons[0]||"イベント").replace("🎂",""), bestMachine: bestAvg>1500?bestMachine:null };
+}
+
 // ─── 出玉結果モーダル ───
 function ResultModal({ report, preds, onClose }) {
   if(!report) return null;
@@ -218,7 +239,7 @@ function ResultModal({ report, preds, onClose }) {
 }
 
 // ─── 店舗カード ───
-function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMemo, allShopMemos, result, preds, onShowResult }) {
+function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMemo, allShopMemos, result, preds, hint, onShowResult }) {
   const [expanded, setExpanded] = useState(false);
   const [memoText, setMemoText] = useState("");
   const reasons = date ? getReasons(shop, date) : [];
@@ -244,6 +265,14 @@ function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMem
           )}
           {compact && <p className="text-xs text-gray-400 mt-0.5">{patternText(shop)}</p>}
           {compact && shopMemoCount>0 && <p className="text-xs text-gray-500 mt-0.5">メモ {shopMemoCount}件</p>}
+          {!compact && hint && (
+            <p className="text-xs mt-1">
+              <span className="text-gray-500">📈 過去{hint.sameEvent?`「${hint.label}」`:""}{hint.n}回 </span>
+              <span className={`font-bold ${diffColor(hint.avg)}`}>平均{fmtMai(hint.avg)}枚</span>
+              <span className="text-gray-500"> ・好調{hint.plusRate}%</span>
+              {hint.bestMachine && <span className="text-gray-500"> ・狙い{hint.bestMachine.length>12?hint.bestMachine.slice(0,12)+"…":hint.bestMachine}</span>}
+            </p>
+          )}
           {result && (
             <button onClick={()=>onShowResult(result)} className="mt-2 inline-flex items-center gap-1.5 text-xs font-bold px-2.5 py-1.5 rounded-lg bg-tiffany-500/100 text-ink-900">
               📊 出玉結果 {result.summary&&result.summary.total_diff!=null?<span className={result.summary.total_diff>0?"text-white":"text-ink-900"}>{fmtMai(result.summary.total_diff)}枚</span>:""}
@@ -280,7 +309,16 @@ function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMem
 }
 
 // ─── 今日ビュー ───
-function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, getPredictions, onShowResult }) {
+function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, getPredictions, getHint, onShowResult }) {
+  // 今日行くべき店: 今日のイベント店を「過去の同種イベント実績＋晒し屋予想」でスコア化
+  const recs = useMemo(() => {
+    const ev=shops.filter(s=>hasEvent(s,today));
+    return ev.map(s=>{ const h=getHint(s,today); const preds=getPredictions(s,today);
+        const score=(h?h.avg:0)+(h?h.plusRate*60:0)+(preds.length?9000:0);
+        return {s,h,preds,score}; })
+      .filter(x=>(x.h&&x.h.avg>0)||x.preds.length)  // プラス実績 or 晒し屋予想 がある店だけ推す
+      .sort((a,b)=>b.score-a.score).slice(0,3);
+  }, [shops, today, getHint, getPredictions]);
   const days = useMemo(() => {
     const result=[];
     for(let i=0;i<14;i++){
@@ -293,6 +331,21 @@ function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, ge
 
   return (
     <div className="pb-4">
+      {recs.length>0 && (
+        <div className="bg-ink-800 border border-tiffany-500/30 rounded-xl p-3 mb-4">
+          <h3 className="text-xs font-bold tracking-wider text-tiffany-300 mb-2">🔥 今日行くべき店</h3>
+          {recs.map((r,i)=>(
+            <div key={r.s.id} className="flex items-center gap-2 py-1 border-b border-ink-700 last:border-0">
+              <span className="text-tiffany-400 font-black w-4 text-center shrink-0">{i+1}</span>
+              <span className="font-bold text-white text-sm flex-1 min-w-0 truncate">{r.s.name}</span>
+              {r.preds.length>0 && <span className="text-[10px] px-1.5 py-0.5 rounded-full bg-tiffany-500/20 text-tiffany-300 font-bold shrink-0">🎯予想</span>}
+              {r.h ? <span className={`text-xs font-bold tabular-nums shrink-0 ${diffColor(r.h.avg)}`}>平均{fmtMai(r.h.avg)}</span>
+                   : <span className="text-[10px] text-gray-500 shrink-0">実績なし</span>}
+            </div>
+          ))}
+          <p className="text-[10px] text-gray-500 mt-1.5">過去の同種イベント実績＋晒し屋予想から自動算出（参考）</p>
+        </div>
+      )}
       {days.length===0 && <p className="text-center text-gray-500 py-12">2週間以内にイベントなし</p>}
       {days.map(({date, shops:ds}, idx) => {
         const isToday=sameDay(date,today), isTom=sameDay(date,addDays(today,1));
@@ -304,7 +357,7 @@ function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, ge
               <h2 className={`text-lg font-black ${isToday?"text-tiffany-400":isSun?"text-rose-500":isSat?"text-sky-500":"text-gray-100"}`}>{label}</h2>
               <span className="bg-tiffany-500/100 text-ink-900 text-xs font-bold px-2 py-0.5 rounded-full">{ds.length}件</span>
             </div>
-            {ds.map(shop => <ShopCard key={shop.id} shop={shop} date={date} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,date)} preds={getPredictions(shop,date)} onShowResult={onShowResult} />)}
+            {ds.map(shop => <ShopCard key={shop.id} shop={shop} date={date} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,date)} preds={getPredictions(shop,date)} hint={getHint(shop,date)} onShowResult={onShowResult} />)}
           </div>
         );
       })}
@@ -313,7 +366,7 @@ function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, ge
 }
 
 // ─── 暦ビュー ───
-function CalendarView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, getPredictions, onShowResult }) {
+function CalendarView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, getPredictions, getHint, onShowResult }) {
   const [viewMonth, setViewMonth] = useState(today.getMonth());
   const [viewYear, setViewYear] = useState(today.getFullYear());
   const [selectedDate, setSelectedDate] = useState(null);
@@ -371,7 +424,7 @@ function CalendarView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult,
             <span className="ml-2 text-sm font-normal text-gray-400">{selShops.length}件</span>
           </h3>
           {selShops.length===0 && <p className="text-sm text-gray-500 px-1">この日のイベントなし</p>}
-          {selShops.map(shop => <ShopCard key={shop.id} shop={shop} date={selectedDate} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,selectedDate)} preds={getPredictions(shop,selectedDate)} onShowResult={onShowResult} />)}
+          {selShops.map(shop => <ShopCard key={shop.id} shop={shop} date={selectedDate} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,selectedDate)} preds={getPredictions(shop,selectedDate)} hint={getHint(shop,selectedDate)} onShowResult={onShowResult} />)}
         </div>
       )}
     </div>
@@ -552,6 +605,7 @@ function App() {
     let out=[]; for(const k in predIndex){ const p=k.split("|"); if(p[1]===iso && (p[0].includes(sk.slice(0,3))||sk.includes(p[0].slice(0,3)))) out=out.concat(predIndex[k]); } return out;
   }, [predIndex]);
   const getPredictions = useCallback((shop, date) => date?predsByName(shop.name, toKey(date)):[], [predsByName]);
+  const getHint = useCallback((shop, date) => date?histStats(shop, date, reports):null, [reports]);
 
   const saveShops = useCallback(async(s)=>{setShops(s);try{await storage.set(SHOPS_KEY,JSON.stringify(s));}catch(e){}}, []);
   const saveMemos = useCallback(async(m)=>{setMemos(m);try{await storage.set(MEMOS_KEY,JSON.stringify(m));}catch(e){}}, []);
@@ -585,8 +639,8 @@ function App() {
           </div>
         </div>
         <div className="px-4 pt-3">
-          {tab==="today" && <TodayView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} getPredictions={getPredictions} onShowResult={setResultReport} />}
-          {tab==="calendar" && <CalendarView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} getPredictions={getPredictions} onShowResult={setResultReport} />}
+          {tab==="today" && <TodayView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} getPredictions={getPredictions} getHint={getHint} onShowResult={setResultReport} />}
+          {tab==="calendar" && <CalendarView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} getPredictions={getPredictions} getHint={getHint} onShowResult={setResultReport} />}
           {tab==="preds" && <PredictionView predictions={predictions} getResultByName={getResultByName} onShowResult={setResultReport} />}
           {tab==="memos" && <MemoView shops={shops} memos={memos} onDeleteMemo={handleDeleteMemo} />}
           {tab==="shops" && <ShopList shops={shops} onDelete={handleDeleteShop} onAdd={handleAddShop} memos={memos} />}
