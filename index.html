@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>出玉ダイジェスト</title>
+<style>
+  :root{
+    --bg:#F4F6F8; --card:#FFFFFF; --ink:#1A1F26; --muted:#5E6B78; --line:#E4E9EE;
+    --accent:#0E7C86; --accent-soft:#E2F2F3;
+    --plus:#0B7A3B; --plus-soft:#E7F5EC; --minus:#B23B3B; --minus-soft:#FBECEC;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;line-height:1.6;-webkit-text-size-adjust:100%}
+  .wrap{max-width:600px;margin:0 auto;padding:16px 14px 60px}
+  h1{font-size:1.05rem;font-weight:700;letter-spacing:.04em}
+  .sub{color:var(--muted);font-size:.78rem;margin-top:2px}
+  header.top{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:14px}
+
+  .chips{display:flex;gap:8px;overflow-x:auto;padding-bottom:8px;margin-bottom:8px;-webkit-overflow-scrolling:touch}
+  .chip{flex:0 0 auto;border:1.5px solid var(--line);background:var(--card);color:var(--muted);border-radius:999px;padding:8px 14px;font-size:.85rem;cursor:pointer;min-height:38px}
+  .chip.on{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+
+  /* 一覧カード */
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 15px;margin-bottom:10px;cursor:pointer;transition:transform .08s}
+  .card:active{transform:scale(.99)}
+  .card .row1{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+  .card .store{font-weight:700;font-size:1rem}
+  .card .date{color:var(--muted);font-size:.8rem;flex:0 0 auto}
+  .card .row2{display:flex;gap:14px;align-items:baseline;margin-top:6px;font-size:.9rem}
+  .big{font-weight:700;font-size:1.05rem}
+  .plus{color:var(--plus)} .minus{color:var(--minus)}
+  .card .meta{color:var(--muted);font-size:.82rem}
+  .area-tag{display:inline-block;font-size:.7rem;color:var(--accent);background:var(--accent-soft);border-radius:6px;padding:1px 7px;margin-right:6px}
+  .stale{font-size:.7rem;color:#9A6B00;background:#FBF3DD;border-radius:6px;padding:1px 7px}
+
+  /* 詳細 */
+  #detail{display:none}
+  .back{display:inline-flex;align-items:center;gap:6px;color:var(--accent);background:none;border:none;font-size:.92rem;padding:8px 0;cursor:pointer;min-height:44px}
+  .dhead{font-size:1.2rem;font-weight:700}
+  .dsub{color:var(--muted);font-size:.85rem;margin-bottom:14px}
+  .sec{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 15px;margin-bottom:12px}
+  .sec h2{font-size:.82rem;letter-spacing:.08em;color:var(--muted);margin-bottom:10px}
+  table{width:100%;border-collapse:collapse;font-size:.9rem}
+  .kv td{padding:5px 0;border-bottom:1px solid var(--line)}
+  .kv td:last-child{text-align:right;font-weight:700;font-variant-numeric:tabular-nums}
+  .kv tr:last-child td{border-bottom:none}
+  .est{font-size:.7rem;color:var(--muted);font-weight:400}
+
+  .grp{margin-bottom:12px}
+  .grp h3{font-size:.85rem;font-weight:700;margin-bottom:6px;color:var(--accent)}
+  .mline{display:flex;justify-content:space-between;gap:10px;padding:5px 0;border-bottom:1px dashed var(--line);font-size:.9rem}
+  .mline:last-child{border-bottom:none}
+  .mline .nm{flex:1;min-width:0}
+  .mline .nums{flex:0 0 auto;font-variant-numeric:tabular-nums;text-align:right}
+  .others{color:var(--muted);font-size:.85rem;line-height:1.8}
+
+  table.matsubi{font-size:.85rem;font-variant-numeric:tabular-nums}
+  table.matsubi th,table.matsubi td{padding:6px 4px;text-align:right;border-bottom:1px solid var(--line)}
+  table.matsubi th:first-child,table.matsubi td:first-child{text-align:left}
+  table.matsubi th{color:var(--muted);font-weight:600;font-size:.78rem}
+  tr.zoro td{font-weight:700;background:var(--accent-soft)}
+
+  .consider li{margin-left:18px;margin-bottom:5px;font-size:.92rem}
+  .src{display:inline-block;margin-top:4px;color:var(--accent);font-size:.88rem}
+  .empty{color:var(--muted);text-align:center;padding:40px 0}
+  .loading{text-align:center;color:var(--muted);padding:50px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <!-- 一覧 -->
+  <section id="list">
+    <header class="top">
+      <div>
+        <h1>出玉ダイジェスト</h1>
+        <div class="sub" id="listSub">読み込み中…</div>
+      </div>
+    </header>
+    <div class="chips" id="areaChips"></div>
+    <div id="cards"><div class="loading">データを読み込んでいます…</div></div>
+  </section>
+
+  <!-- 詳細 -->
+  <section id="detail">
+    <button class="back" id="backBtn">← 一覧にもどる</button>
+    <div class="dhead" id="dStore"></div>
+    <div class="dsub" id="dDate"></div>
+
+    <div class="sec">
+      <h2>総合集計</h2>
+      <table class="kv" id="dSummary"></table>
+    </div>
+
+    <div class="sec">
+      <h2>機種別内訳</h2>
+      <div id="dKishu"></div>
+    </div>
+
+    <div class="sec">
+      <h2>末尾別</h2>
+      <table class="matsubi" id="dMatsubi"></table>
+    </div>
+
+    <div class="sec">
+      <h2>まとめ</h2>
+      <ul class="consider" id="dConsider"></ul>
+      <a class="src" id="dSrc" target="_blank" rel="noopener">元データ(min-repo)を見る →</a>
+    </div>
+  </section>
+</div>
+
+<script>
+(function(){
+  'use strict';
+  var REPORTS=[], AREA='すべて';
+  var $=function(id){return document.getElementById(id)};
+
+  function fmt(n){ if(n===null||n===undefined) return '-'; var s=(n>0?'+':'')+Math.round(n).toLocaleString(); return s; }
+  function cls(n){ return n>0?'plus':(n<0?'minus':''); }
+  function pct(n){ return n===null||n===undefined?'-':n+'%'; }
+
+  // 収集時に付与した iso_date(年つき)で並べる
+  function dkey(r){ return (r&&r.iso_date)?r.iso_date:''; }
+
+  fetch('./data/reports.json',{cache:'no-store'})
+    .then(function(r){ if(!r.ok) throw 0; return r.json(); })
+    .then(function(j){ REPORTS=j.reports||[]; init(); })
+    .catch(function(){ $('cards').innerHTML='<div class="empty">データがまだありません。<br>収集が回ると表示されます。</div>'; $('listSub').textContent=''; });
+
+  function init(){
+    REPORTS.sort(function(a,b){ return dkey(b)<dkey(a)?-1:(dkey(b)>dkey(a)?1:0); });
+    $('listSub').textContent=REPORTS.length+'レポート / '+new Set(REPORTS.map(function(r){return r.store})).size+'店舗';
+    var areas=['すべて'].concat(Array.from(new Set(REPORTS.map(function(r){return r.area}))));
+    var ch=$('areaChips'); ch.innerHTML='';
+    areas.forEach(function(a){
+      var b=document.createElement('button'); b.className='chip'+(a===AREA?' on':''); b.textContent=a;
+      b.onclick=function(){ AREA=a; Array.from(ch.children).forEach(function(c){c.classList.toggle('on',c.textContent===a)}); renderList(); };
+      ch.appendChild(b);
+    });
+    renderList();
+  }
+
+  function renderList(){
+    var list=REPORTS.filter(function(r){return AREA==='すべて'||r.area===AREA});
+    var box=$('cards');
+    if(!list.length){ box.innerHTML='<div class="empty">該当なし</div>'; return; }
+    box.innerHTML='';
+    list.forEach(function(r,i){
+      var s=r.summary||{};
+      var c=document.createElement('div'); c.className='card';
+      c.innerHTML =
+        '<div class="row1"><div class="store"><span class="area-tag">'+r.area+'</span>'+r.store+'</div>'+
+        '<div class="date">'+(r.stale?'<span class="stale">旧</span> ':'')+(r.date||'-')+'</div></div>'+
+        '<div class="row2"><div class="big '+cls(s.total_diff)+'">'+fmt(s.total_diff)+'枚</div>'+
+        '<div class="meta">勝率 '+(s.win_plus!=null?s.win_plus+'/'+s.total_units:'-')+(s.win_pct!=null?'('+s.win_pct+'%)':'')+'</div>'+
+        (s.estimated?'<div class="meta est">※推定</div>':'')+'</div>';
+      c.onclick=function(){ showDetail(REPORTS.indexOf(r)); };
+      box.appendChild(c);
+    });
+  }
+
+  function showDetail(idx){
+    var r=REPORTS[idx], s=r.summary||{};
+    $('list').style.display='none'; $('detail').style.display='block'; window.scrollTo(0,0);
+    $('dStore').textContent=r.store;
+    var dlabel=(r.title&&r.title.match(/\d+\/\d+\([月火水木金土日]\)/)||[r.date||''])[0];
+    $('dDate').textContent=r.area+' ・ '+dlabel+(r.stale?' (旧データ)':'');
+
+    // 総合集計
+    var rows=[
+      ['対象台数', (s.total_units!=null?s.total_units+'台':'-')],
+      ['合計差枚', fmt(s.total_diff)+'枚'],
+      ['平均差枚', fmt(s.avg_diff)+'枚'],
+      ['勝率(プラス台)', (s.win_plus!=null?s.win_plus+'/'+s.total_units+' → '+s.win_pct+'%':'-')]
+    ];
+    $('dSummary').innerHTML=rows.map(function(kv){
+      var v=kv[1], colored=/^[+-]/.test(v)?'<span class="'+cls(parseFloat(v.replace(/,/g,'')))+'">'+v+'</span>':v;
+      return '<tr><td>'+kv[0]+(kv[0]==='合計差枚'&&s.estimated?' <span class="est">※機種別から推定</span>':'')+'</td><td>'+colored+'</td></tr>';
+    }).join('');
+
+    // 機種別内訳
+    var k=r.kishu_class||{excellent:[],highwin:[],others:[]};
+    function mline(m){
+      return '<div class="mline"><div class="nm">'+m.name+'</div><div class="nums '+cls(m.avg_diff)+'">'+
+        (m.win_plus!=null?m.win_plus+'/'+m.win_total:'')+'台 平均'+fmt(m.avg_diff)+'</div></div>';
+    }
+    var html='';
+    if(k.excellent.length){ html+='<div class="grp"><h3>■優秀機種候補</h3>'+k.excellent.map(mline).join('')+'</div>'; }
+    if(k.highwin.length){ html+='<div class="grp"><h3>■勝率高機種</h3>'+k.highwin.map(mline).join('')+'</div>'; }
+    if(k.others.length){ html+='<div class="grp"><h3>■気になる台</h3><div class="others">'+k.others.map(function(m){return m.name}).join('、')+'</div></div>'; }
+    if(!html){ html='<div class="others">プラスの機種は目立ちませんでした。</div>'; }
+    $('dKishu').innerHTML=html;
+
+    // 末尾別
+    var mt=r.matsubi||[];
+    var th='<tr><th>末尾</th><th>平均差枚</th><th>勝率</th><th>出率</th></tr>';
+    var trs=mt.map(function(m){
+      var zoro=/ゾロ/.test(m.matsubi);
+      return '<tr class="'+(zoro?'zoro':'')+'"><td>'+(zoro?'ゾロ目':'末尾'+m.matsubi)+'</td>'+
+        '<td class="'+cls(m.avg_diff)+'">'+fmt(m.avg_diff)+'</td>'+
+        '<td>'+(m.win_plus!=null?m.win_plus+'/'+m.win_total:'-')+'</td>'+
+        '<td>'+pct(m.rate)+'</td></tr>';
+    }).join('');
+    $('dMatsubi').innerHTML=th+trs;
+
+    // まとめ
+    $('dConsider').innerHTML=(r.consider||[]).map(function(t){return '<li>'+t+'</li>'}).join('');
+    $('dSrc').href=r.url;
+  }
+
+  $('backBtn').onclick=function(){ $('detail').style.display='none'; $('list').style.display='block'; window.scrollTo(0,0); };
+})();
+</script>
+</body>
+</html>

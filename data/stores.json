@@ -1,0 +1,229 @@
+[
+  {
+    "area": "立川",
+    "name": "楽園立川店",
+    "aliases": [
+      "楽園立川",
+      "楽園 立川"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e6%a5%bd%e5%9c%92%e7%ab%8b%e5%b7%9d%e5%ba%97/",
+    "sample_report": "3182954",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "立川",
+    "name": "ハイパージアス立川",
+    "aliases": [
+      "ハイパージアス立川",
+      "ジアス立川"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%b8%e3%82%a2%e3%82%b9%e7%ab%8b%e5%b7%9d/",
+    "sample_report": "3183298",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "立川",
+    "name": "プレゴ立川店",
+    "aliases": [
+      "P-PORT PREGO立川",
+      "PREGO立川",
+      "プレゴ立川"
+    ],
+    "tag_url": "https://min-repo.com/tag/p-port-prego%e7%ab%8b%e5%b7%9d%e5%ba%97/",
+    "sample_report": "3183469",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "立川",
+    "name": "スーパーDステーション立川",
+    "aliases": [
+      "Dステ立川",
+      "スーパーDステーション立川",
+      "Dステーション立川"
+    ],
+    "tag_url": "https://min-repo.com/tag/superdstation%e7%ab%8b%e5%b7%9d%e5%ba%97/",
+    "sample_report": "693313",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "相模大野",
+    "name": "ピーアーク相模大野",
+    "aliases": [
+      "ピーアーク相模大野",
+      "Pアーク相模大野"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e3%83%94%e3%83%bc%e3%82%a2%e3%83%bc%e3%82%af%e7%9b%b8%e6%a8%a1%e5%a4%a7%e9%87%8e%e5%ba%97/",
+    "sample_report": "3182910",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "相模大野",
+    "name": "ザシティ相模大野",
+    "aliases": [
+      "ザシティ相模大野",
+      "ベルシティ相模大野",
+      "THE CITY相模大野"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e3%82%b6-%e3%82%b7%e3%83%86%e3%82%a3-%e3%83%99%e3%83%ab%e3%82%b7%e3%83%86%e3%82%a3%e7%9b%b8%e6%a8%a1%e5%a4%a7%e9%87%8e%e5%ba%97/",
+    "sample_report": "3148920",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "相模大野",
+    "name": "相模大野UNO",
+    "aliases": [
+      "相模大野UNO",
+      "UNO相模大野"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e7%9b%b8%e6%a8%a1%e5%a4%a7%e9%87%8euno/",
+    "sample_report": "3183004",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "戸塚",
+    "name": "キコーナ戸塚",
+    "aliases": [
+      "キコーナ戸塚",
+      "キコーナ 戸塚"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e3%82%ad%e3%82%b3%e3%83%bc%e3%83%8a%e6%88%b8%e5%a1%9a%e5%ba%97/",
+    "sample_report": "3183291",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "戸塚",
+    "name": "エランドール泉",
+    "aliases": [
+      "エランドール泉",
+      "エランドール 泉"
+    ],
+    "tag_url": null,
+    "sample_report": "3148920",
+    "resolved": false,
+    "manual_tag_url": null,
+    "skip": true
+  },
+  {
+    "area": "戸塚",
+    "name": "ブラジャン戸塚",
+    "aliases": [
+      "ブラジャン戸塚",
+      "ブラジャン 戸塚"
+    ],
+    "tag_url": null,
+    "sample_report": "3148920",
+    "resolved": false,
+    "manual_tag_url": null,
+    "skip": true
+  },
+  {
+    "area": "戸塚",
+    "name": "スクランブル田谷",
+    "aliases": [
+      "スクランブル田谷",
+      "スクランブル 田谷"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e3%82%b9%e3%82%af%e3%83%a9%e3%83%b3%e3%83%96%e3%83%ab%e7%94%b0%e8%b0%b7%e5%ba%97/",
+    "sample_report": "3182544",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "戸塚",
+    "name": "ガーデン戸塚",
+    "aliases": [
+      "ガーデン戸塚",
+      "新ガーデン戸塚",
+      "新！ガーデン戸塚"
+    ],
+    "tag_url": null,
+    "sample_report": "3148920",
+    "resolved": false,
+    "manual_tag_url": null,
+    "skip": true
+  },
+  {
+    "area": "湘南台",
+    "name": "アビバ湘南台",
+    "aliases": [
+      "アビバ湘南台",
+      "アビバ 湘南台"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e3%82%a2%e3%83%93%e3%83%90%e6%b9%98%e5%8d%97%e5%8f%b0%e5%ba%97/",
+    "sample_report": "2737497",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "湘南台",
+    "name": "クリエ湘南台",
+    "aliases": [
+      "クリエ湘南台",
+      "クリエ 湘南台"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e3%82%af%e3%83%aa%e3%82%a8%e6%b9%98%e5%8d%97%e5%8f%b0%e5%ba%97/",
+    "sample_report": "3174352",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "湘南台",
+    "name": "パラッツォ湘南台",
+    "aliases": [
+      "パラッツォ湘南台",
+      "パラッツォ 湘南台"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e3%83%91%e3%83%a9%e3%83%83%e3%83%84%e3%82%a9%e6%b9%98%e5%8d%97%e5%8f%b0%e5%ba%97/",
+    "sample_report": "3181885",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  },
+  {
+    "area": "湘南台",
+    "name": "マルハン綾瀬",
+    "aliases": [
+      "マルハン綾瀬上土棚店",
+      "マルハン綾瀬",
+      "綾瀬マルハン"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e3%83%9e%e3%83%ab%e3%83%8f%e3%83%b3%e7%b6%be%e7%80%ac%e4%b8%8a%e5%9c%9f%e6%a3%9a%e5%ba%97/",
+    "sample_report": "3182879",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false,
+    "note": "min-repo上は「マルハン綾瀬上土棚店」名。データ生存確認済(6/22)"
+  },
+  {
+    "area": "湘南台",
+    "name": "グランドホール長後",
+    "aliases": [
+      "グランドホール長後",
+      "グランドホール 長後"
+    ],
+    "tag_url": "https://min-repo.com/tag/%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%89%e3%83%9b%e3%83%bc%e3%83%ab%e9%95%b7%e5%be%8c%e5%ba%97/",
+    "sample_report": "3183642",
+    "resolved": true,
+    "manual_tag_url": null,
+    "skip": false
+  }
+]

@@ -1,0 +1,40 @@
+name: collect-minrepo
+
+# min-repo から全店舗の出玉データを定期収集し、data/reports.json を更新する。
+# 画面(GitHub Pages)はこの JSON を読んで表示する。
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # 毎日 07:00 JST(前日分が出揃った頃)
+  workflow_dispatch: {}     # 手動実行も可
+
+permissions:
+  contents: write           # data/reports.json をコミットするため
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: install deps
+        run: pip install beautifulsoup4
+
+      - name: run collector
+        run: python collector/run.py 3
+
+      - name: commit data
+        run: |
+          git config user.name  "dedama-bot"
+          git config user.email "dedama-bot@users.noreply.github.com"
+          git add data/reports.json
+          if git diff --staged --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "auto: update reports.json ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
