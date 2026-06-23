@@ -129,6 +129,8 @@ def main():
             print(f"▼ {store['name']}: {SINCE}以降 {before}件 (新規{len(reps)}件/取得済{before-len(reps)})")
         else:
             reps = minrepo.list_reports(store)[:RECENT_PER_STORE]
+            # 既に持っている日はフェッチしない(毎日のリクエストを最小化＝ブロック回避)
+            reps = [r for r in reps if (store["name"], to_iso(r["date"])) not in done]
         for r in reps:
             try:
                 data = minrepo.collect_report(r["url"])

@@ -242,5 +242,20 @@
     "resolved": false,
     "manual_tag_url": null,
     "skip": false
+  },
+  {
+    "area": "川崎",
+    "name": "プレイスポットドラゴン川崎店",
+    "aliases": [
+      "プレイスポットドラゴン川崎",
+      "ドラゴン川崎",
+      "play-spot-dragon"
+    ],
+    "tag_url": null,
+    "sample_report": null,
+    "resolved": false,
+    "manual_tag_url": null,
+    "skip": true,
+    "skip_reason": "min-repo未掲載。晒し屋予想の受け皿として店舗だけ登録。掲載されたらskip解除"
   }
 ]
