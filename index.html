@@ -186,7 +186,7 @@ function ResultModal({ report, preds, onClose }) {
                 <div key={i} className="mb-2 last:mb-0 pb-2 last:pb-0 border-b border-ink-700 last:border-0">
                   <div className="flex items-center gap-2 mb-1">
                     {p.url
-                      ? <a href={p.url} target="_blank" rel="noopener" className="text-sm font-bold text-tiffany-300 underline decoration-tiffany-500/40 underline-offset-2">{p.source} ↗</a>
+                      ? <a href={p.url} target="_blank" rel="noopener" className="text-sm font-bold text-tiffany-300 underline decoration-tiffany-500/40 underline-offset-2">{p.source} 🔍</a>
                       : <span className="text-sm font-bold text-white">{p.source}</span>}
                     <span className="text-[10px] text-gray-600">{p.posted_at?`(${p.posted_at.slice(5)}投稿)`:""}</span>
                   </div>
@@ -554,7 +554,7 @@ function PredictionView({ predictions, getResultByName, onShowResult }) {
             <div key={p.id} className={`rounded-xl border ${style.border} ${style.bg} p-3 mb-2`}>
               <div className="flex items-center gap-2 flex-wrap mb-1">
                 {p.url
-                  ? <a href={p.url} target="_blank" rel="noopener" className="font-bold text-tiffany-300 text-sm underline decoration-tiffany-500/40 underline-offset-2">{p.source} ↗</a>
+                  ? <a href={p.url} target="_blank" rel="noopener" className="font-bold text-tiffany-300 text-sm underline decoration-tiffany-500/40 underline-offset-2">{p.source} 🔍</a>
                   : <span className="font-bold text-white text-sm">{p.source}</span>}
                 <span className="text-gray-500 text-xs">→</span>
                 <span className="font-bold text-gray-100 text-sm">{p.store}</span>
