@@ -10,15 +10,28 @@
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
   tailwind.config = {
-    theme: { extend: { colors: { tiffany: {
-      50:"#E9F8F7",100:"#CDEFED",200:"#A6E3E0",300:"#7FD7D2",400:"#5FD0CB",
-      500:"#0ABAB5",600:"#09A6A1",700:"#0A8A86",800:"#0B6F6C",900:"#0A5957",
-      DEFAULT:"#0ABAB5" } } } }
+    theme: { extend: { colors: {
+      tiffany: {
+        50:"#E6FBF9",100:"#C2F4EF",200:"#9DEDE5",300:"#7AEEE3",400:"#4DD9CB",
+        500:"#4DD9CB",600:"#2BB5A8",700:"#22968B",800:"#1A746B",900:"#125049",
+        DEFAULT:"#4DD9CB" },
+      ink: { 950:"#030308", 900:"#06060d", 850:"#08080f", 800:"#0b0b14",
+        700:"#151525", 600:"#222240", 500:"#33334d" }
+    } } }
   };
 </script>
 <style>
-  body{margin:0;background:#F4F7F7}
+  *{ -webkit-tap-highlight-color:transparent }
+  body{ margin:0; color:#e8e8f2;
+    background:#030308;
+    background-image:radial-gradient(900px 500px at 70% -10%, rgba(77,217,203,.10), transparent 60%),
+                     radial-gradient(700px 500px at -10% 110%, rgba(77,217,203,.06), transparent 55%);
+    background-attachment:fixed; }
   .maxw{max-width:600px;margin:0 auto}
+  .nori-glow{ text-shadow:0 0 28px rgba(77,217,203,.45), 0 0 56px rgba(77,217,203,.18) }
+  .tf-btn-glow{ box-shadow:0 4px 22px rgba(77,217,203,.30) }
+  ::-webkit-scrollbar{width:8px;height:8px}
+  ::-webkit-scrollbar-thumb{background:#222240;border-radius:8px}
 </style>
 </head>
 <body>
@@ -37,10 +50,10 @@ const storage = {
 };
 
 const AREA_STYLES = {
-  "立川":   { bg:"bg-sky-50",     border:"border-sky-200",     badge:"bg-sky-100 text-sky-700" },
-  "戸塚":   { bg:"bg-emerald-50", border:"border-emerald-200", badge:"bg-emerald-100 text-emerald-700" },
-  "相模大野":{ bg:"bg-amber-50",   border:"border-amber-200",   badge:"bg-amber-100 text-amber-700" },
-  "湘南台・他":{ bg:"bg-purple-50", border:"border-purple-200", badge:"bg-purple-100 text-purple-700" },
+  "立川":   { bg:"bg-sky-500/10",     border:"border-sky-500/25",     badge:"bg-sky-500/20 text-sky-300" },
+  "戸塚":   { bg:"bg-emerald-500/10", border:"border-emerald-500/25", badge:"bg-emerald-500/20 text-emerald-300" },
+  "相模大野":{ bg:"bg-amber-500/10",   border:"border-amber-500/25",   badge:"bg-amber-500/20 text-amber-300" },
+  "湘南台・他":{ bg:"bg-purple-500/10", border:"border-purple-500/25", badge:"bg-purple-500/20 text-purple-300" },
 };
 const AREAS = Object.keys(AREA_STYLES);
 
@@ -93,7 +106,7 @@ const sameDay=(a,b)=>a.getFullYear()===b.getFullYear()&&a.getMonth()===b.getMont
 // ─── 出玉結果の照合 ───
 const normName = (s) => (s||"").replace(/[店！!\/／\s　新]/g,"");
 function fmtMai(n){ if(n===null||n===undefined) return "-"; return (n>0?"+":"")+Math.round(n).toLocaleString(); }
-function diffColor(n){ return n>0?"text-emerald-600":(n<0?"text-rose-500":"text-gray-500"); }
+function diffColor(n){ return n>0?"text-emerald-400":(n<0?"text-rose-400":"text-gray-500"); }
 
 // ─── 出玉結果モーダル ───
 function ResultModal({ report, onClose }) {
@@ -102,50 +115,50 @@ function ResultModal({ report, onClose }) {
   const kc = report.kishu_class||{excellent:[],highwin:[],others:[]};
   const mt = report.matsubi||[];
   const MLine = ({m}) => (
-    <div className="flex justify-between gap-2 py-1.5 border-b border-dashed border-gray-100 last:border-0 text-sm">
+    <div className="flex justify-between gap-2 py-1.5 border-b border-dashed border-ink-700 last:border-0 text-sm">
       <span className="flex-1 min-w-0">{m.name}</span>
       <span className={`shrink-0 tabular-nums ${diffColor(m.avg_diff)}`}>{m.win_plus!=null?`${m.win_plus}/${m.win_total}台 `:""}平均{fmtMai(m.avg_diff)}</span>
     </div>
   );
   return (
-    <div className="fixed inset-0 z-50 bg-black/40 flex items-end sm:items-center justify-center" onClick={onClose}>
-      <div className="bg-gray-50 w-full maxw max-h-[92vh] overflow-y-auto rounded-t-2xl sm:rounded-2xl" onClick={e=>e.stopPropagation()}>
-        <div className="sticky top-0 bg-tiffany-600 text-white px-4 py-3 flex items-center justify-between">
+    <div className="fixed inset-0 z-50 bg-black/70 flex items-end sm:items-center justify-center" onClick={onClose}>
+      <div className="bg-ink-850 w-full maxw max-h-[92vh] overflow-y-auto rounded-t-2xl sm:rounded-2xl" onClick={e=>e.stopPropagation()}>
+        <div className="sticky top-0 bg-tiffany-500/100 text-ink-900 px-4 py-3 flex items-center justify-between">
           <div>
             <div className="font-bold">{report.store}</div>
-            <div className="text-xs text-tiffany-50 opacity-90">{report.area} ・ {(report.title&&report.title.match(/\d+\/\d+\([月火水木金土日]\)/)||[report.date])[0]}{report.stale?"（旧データ）":""}</div>
+            <div className="text-xs text-ink-900 opacity-90">{report.area} ・ {(report.title&&report.title.match(/\d+\/\d+\([月火水木金土日]\)/)||[report.date])[0]}{report.stale?"（旧データ）":""}</div>
           </div>
-          <button onClick={onClose} className="w-9 h-9 rounded-lg bg-white/20 text-white text-lg">✕</button>
+          <button onClick={onClose} className="w-9 h-9 rounded-lg bg-ink-800/20 text-white text-lg">✕</button>
         </div>
         <div className="p-3 space-y-3">
           {/* 総合集計 */}
-          <div className="bg-white rounded-xl border border-gray-200 p-3">
-            <h3 className="text-xs font-bold tracking-wider text-gray-400 mb-2">総合集計</h3>
+          <div className="bg-ink-800 rounded-xl border border-ink-700 p-3">
+            <h3 className="text-xs font-bold tracking-wider text-gray-500 mb-2">総合集計</h3>
             <table className="w-full text-sm">
               <tbody>
-                <tr className="border-b border-gray-100"><td className="py-1.5">対象台数</td><td className="py-1.5 text-right font-bold">{s.total_units!=null?s.total_units+"台":"-"}</td></tr>
-                <tr className="border-b border-gray-100"><td className="py-1.5">合計差枚{s.estimated?<span className="text-xs text-gray-400 font-normal">（推定）</span>:""}</td><td className={`py-1.5 text-right font-bold tabular-nums ${diffColor(s.total_diff)}`}>{fmtMai(s.total_diff)}枚</td></tr>
-                <tr className="border-b border-gray-100"><td className="py-1.5">平均差枚</td><td className={`py-1.5 text-right font-bold tabular-nums ${diffColor(s.avg_diff)}`}>{fmtMai(s.avg_diff)}枚</td></tr>
+                <tr className="border-b border-ink-700"><td className="py-1.5">対象台数</td><td className="py-1.5 text-right font-bold">{s.total_units!=null?s.total_units+"台":"-"}</td></tr>
+                <tr className="border-b border-ink-700"><td className="py-1.5">合計差枚{s.estimated?<span className="text-xs text-gray-500 font-normal">（推定）</span>:""}</td><td className={`py-1.5 text-right font-bold tabular-nums ${diffColor(s.total_diff)}`}>{fmtMai(s.total_diff)}枚</td></tr>
+                <tr className="border-b border-ink-700"><td className="py-1.5">平均差枚</td><td className={`py-1.5 text-right font-bold tabular-nums ${diffColor(s.avg_diff)}`}>{fmtMai(s.avg_diff)}枚</td></tr>
                 <tr><td className="py-1.5">勝率（プラス台）</td><td className="py-1.5 text-right font-bold">{s.win_plus!=null?`${s.win_plus}/${s.total_units} → ${s.win_pct}%`:"-"}</td></tr>
               </tbody>
             </table>
           </div>
           {/* 機種別内訳 */}
-          <div className="bg-white rounded-xl border border-gray-200 p-3">
-            <h3 className="text-xs font-bold tracking-wider text-gray-400 mb-2">機種別内訳</h3>
-            {kc.excellent.length>0 && <div className="mb-2"><p className="text-sm font-bold text-tiffany-700 mb-1">■優秀機種候補</p>{kc.excellent.map((m,i)=><MLine key={i} m={m}/>)}</div>}
-            {kc.highwin.length>0 && <div className="mb-2"><p className="text-sm font-bold text-tiffany-700 mb-1">■勝率高機種</p>{kc.highwin.map((m,i)=><MLine key={i} m={m}/>)}</div>}
-            {kc.others.length>0 && <div><p className="text-sm font-bold text-tiffany-700 mb-1">■気になる台</p><p className="text-sm text-gray-500 leading-relaxed">{kc.others.map(m=>m.name).join("、")}</p></div>}
-            {kc.excellent.length===0&&kc.highwin.length===0&&kc.others.length===0 && <p className="text-sm text-gray-400">プラスの機種は目立ちませんでした。</p>}
+          <div className="bg-ink-800 rounded-xl border border-ink-700 p-3">
+            <h3 className="text-xs font-bold tracking-wider text-gray-500 mb-2">機種別内訳</h3>
+            {kc.excellent.length>0 && <div className="mb-2"><p className="text-sm font-bold text-tiffany-300 mb-1">■優秀機種候補</p>{kc.excellent.map((m,i)=><MLine key={i} m={m}/>)}</div>}
+            {kc.highwin.length>0 && <div className="mb-2"><p className="text-sm font-bold text-tiffany-300 mb-1">■勝率高機種</p>{kc.highwin.map((m,i)=><MLine key={i} m={m}/>)}</div>}
+            {kc.others.length>0 && <div><p className="text-sm font-bold text-tiffany-300 mb-1">■気になる台</p><p className="text-sm text-gray-400 leading-relaxed">{kc.others.map(m=>m.name).join("、")}</p></div>}
+            {kc.excellent.length===0&&kc.highwin.length===0&&kc.others.length===0 && <p className="text-sm text-gray-500">プラスの機種は目立ちませんでした。</p>}
           </div>
           {/* 末尾別 */}
-          <div className="bg-white rounded-xl border border-gray-200 p-3">
-            <h3 className="text-xs font-bold tracking-wider text-gray-400 mb-2">末尾別</h3>
+          <div className="bg-ink-800 rounded-xl border border-ink-700 p-3">
+            <h3 className="text-xs font-bold tracking-wider text-gray-500 mb-2">末尾別</h3>
             <table className="w-full text-sm tabular-nums">
-              <thead><tr className="text-xs text-gray-400"><th className="text-left font-semibold py-1">末尾</th><th className="text-right font-semibold py-1">平均差枚</th><th className="text-right font-semibold py-1">勝率</th><th className="text-right font-semibold py-1">出率</th></tr></thead>
+              <thead><tr className="text-xs text-gray-500"><th className="text-left font-semibold py-1">末尾</th><th className="text-right font-semibold py-1">平均差枚</th><th className="text-right font-semibold py-1">勝率</th><th className="text-right font-semibold py-1">出率</th></tr></thead>
               <tbody>
                 {mt.map((m,i)=>{const zoro=/ゾロ/.test(m.matsubi); return (
-                  <tr key={i} className={`border-t border-gray-100 ${zoro?"bg-tiffany-50 font-bold":""}`}>
+                  <tr key={i} className={`border-t border-ink-700 ${zoro?"bg-tiffany-500/10 font-bold":""}`}>
                     <td className="text-left py-1.5">{zoro?"ゾロ目":"末尾"+m.matsubi}</td>
                     <td className={`text-right py-1.5 ${diffColor(m.avg_diff)}`}>{fmtMai(m.avg_diff)}</td>
                     <td className="text-right py-1.5">{m.win_plus!=null?`${m.win_plus}/${m.win_total}`:"-"}</td>
@@ -156,10 +169,10 @@ function ResultModal({ report, onClose }) {
             </table>
           </div>
           {/* まとめ */}
-          <div className="bg-white rounded-xl border border-gray-200 p-3">
-            <h3 className="text-xs font-bold tracking-wider text-gray-400 mb-2">まとめ</h3>
-            <ul className="list-disc list-inside space-y-1 text-sm text-gray-700">{(report.consider||[]).map((t,i)=><li key={i}>{t}</li>)}</ul>
-            <a href={report.url} target="_blank" rel="noopener" className="inline-block mt-2 text-sm text-tiffany-700">元データ(min-repo)を見る →</a>
+          <div className="bg-ink-800 rounded-xl border border-ink-700 p-3">
+            <h3 className="text-xs font-bold tracking-wider text-gray-500 mb-2">まとめ</h3>
+            <ul className="list-disc list-inside space-y-1 text-sm text-gray-200">{(report.consider||[]).map((t,i)=><li key={i}>{t}</li>)}</ul>
+            <a href={report.url} target="_blank" rel="noopener" className="inline-block mt-2 text-sm text-tiffany-300">元データ(min-repo)を見る →</a>
           </div>
         </div>
       </div>
@@ -183,44 +196,44 @@ function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMem
       <div className="flex items-start justify-between gap-2">
         <div className="min-w-0 flex-1">
           <div className="flex items-center gap-2 flex-wrap">
-            <span className="font-bold text-gray-900 text-sm">{shop.name}</span>
+            <span className="font-bold text-white text-sm">{shop.name}</span>
             <span className={`text-xs px-1.5 py-0.5 rounded-full ${style.badge}`}>{shop.area}</span>
           </div>
           {!compact && reasons.length>0 && (
             <div className="flex flex-wrap gap-1 mt-1.5">
-              {reasons.map((r,i) => <span key={i} className={`text-xs px-2 py-0.5 rounded-full ${r.includes("周年")?"bg-amber-200 text-amber-800 font-bold":"bg-white text-gray-600 border border-gray-200"}`}>{r}</span>)}
+              {reasons.map((r,i) => <span key={i} className={`text-xs px-2 py-0.5 rounded-full ${r.includes("周年")?"bg-amber-500/25 text-amber-200 font-bold":"bg-ink-800 text-gray-300 border border-ink-700"}`}>{r}</span>)}
             </div>
           )}
-          {compact && <p className="text-xs text-gray-500 mt-0.5">{patternText(shop)}</p>}
-          {compact && shopMemoCount>0 && <p className="text-xs text-gray-400 mt-0.5">メモ {shopMemoCount}件</p>}
+          {compact && <p className="text-xs text-gray-400 mt-0.5">{patternText(shop)}</p>}
+          {compact && shopMemoCount>0 && <p className="text-xs text-gray-500 mt-0.5">メモ {shopMemoCount}件</p>}
           {result && (
-            <button onClick={()=>onShowResult(result)} className="mt-2 inline-flex items-center gap-1.5 text-xs font-bold px-2.5 py-1.5 rounded-lg bg-tiffany-600 text-white">
-              📊 出玉結果 {result.summary&&result.summary.total_diff!=null?<span className={result.summary.total_diff>0?"text-white":"text-rose-100"}>{fmtMai(result.summary.total_diff)}枚</span>:""}
+            <button onClick={()=>onShowResult(result)} className="mt-2 inline-flex items-center gap-1.5 text-xs font-bold px-2.5 py-1.5 rounded-lg bg-tiffany-500/100 text-ink-900">
+              📊 出玉結果 {result.summary&&result.summary.total_diff!=null?<span className={result.summary.total_diff>0?"text-white":"text-ink-900"}>{fmtMai(result.summary.total_diff)}枚</span>:""}
             </button>
           )}
         </div>
         <div className="flex gap-1 items-center shrink-0">
           {date && onAddMemo && (
-            <button onClick={()=>setExpanded(!expanded)} className={`w-8 h-8 flex items-center justify-center rounded-lg border text-sm transition-colors ${expanded?"bg-tiffany-600 text-white border-tiffany-600":dayMemos.length>0?"bg-amber-100 text-amber-600 border-amber-300":"bg-white text-gray-400 border-gray-200"}`}>
+            <button onClick={()=>setExpanded(!expanded)} className={`w-8 h-8 flex items-center justify-center rounded-lg border text-sm transition-colors ${expanded?"bg-tiffany-500/100 text-ink-900 border-tiffany-500":dayMemos.length>0?"bg-amber-500/20 text-amber-300 border-amber-500/40":"bg-ink-800 text-gray-500 border-ink-700"}`}>
               {dayMemos.length>0?dayMemos.length:"✎"}
             </button>
           )}
-          {shop.url && <a href={shop.url} target="_blank" rel="noopener noreferrer" className="w-8 h-8 flex items-center justify-center rounded-lg bg-white border border-gray-200 text-gray-500 hover:text-tiffany-600 text-sm">↗</a>}
-          {onDelete && <button onClick={()=>onDelete(shop.id)} className="w-8 h-8 flex items-center justify-center rounded-lg bg-white border border-gray-200 text-gray-400 hover:text-rose-500 text-sm">✕</button>}
+          {shop.url && <a href={shop.url} target="_blank" rel="noopener noreferrer" className="w-8 h-8 flex items-center justify-center rounded-lg bg-ink-800 border border-ink-700 text-gray-400 hover:text-tiffany-300 text-sm">↗</a>}
+          {onDelete && <button onClick={()=>onDelete(shop.id)} className="w-8 h-8 flex items-center justify-center rounded-lg bg-ink-800 border border-ink-700 text-gray-500 hover:text-rose-500 text-sm">✕</button>}
         </div>
       </div>
       {expanded && date && (
-        <div className="mt-2 pt-2 border-t border-gray-200 border-opacity-50">
+        <div className="mt-2 pt-2 border-t border-ink-700 border-opacity-50">
           {dayMemos.map(memo => (
             <div key={memo.id} className="flex items-start gap-2 mb-1.5">
-              <p className="flex-1 text-xs text-gray-700 bg-white rounded-lg px-2.5 py-1.5 border border-gray-100">{memo.text}</p>
-              <button onClick={()=>onDeleteMemo(memo.id)} className="text-gray-300 hover:text-rose-400 text-xs mt-1 shrink-0">✕</button>
+              <p className="flex-1 text-xs text-gray-200 bg-ink-800 rounded-lg px-2.5 py-1.5 border border-ink-700">{memo.text}</p>
+              <button onClick={()=>onDeleteMemo(memo.id)} className="text-gray-600 hover:text-rose-400 text-xs mt-1 shrink-0">✕</button>
             </div>
           ))}
           <div className="flex gap-1.5 mt-1">
             <input value={memoText} onChange={e=>setMemoText(e.target.value)} placeholder="メモを書く..." onKeyDown={e=>{if(e.key==="Enter")handleSave();}}
-              className="flex-1 px-2.5 py-1.5 rounded-lg border border-gray-300 text-xs bg-white focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
-            <button onClick={handleSave} disabled={!memoText.trim()} className="px-3 py-1.5 bg-tiffany-600 text-white text-xs font-bold rounded-lg disabled:opacity-30 shrink-0">保存</button>
+              className="flex-1 px-2.5 py-1.5 rounded-lg border border-ink-600 text-xs bg-ink-800 focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
+            <button onClick={handleSave} disabled={!memoText.trim()} className="px-3 py-1.5 bg-tiffany-500/100 text-ink-900 text-xs font-bold rounded-lg disabled:opacity-30 shrink-0">保存</button>
           </div>
         </div>
       )}
@@ -242,7 +255,7 @@ function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, on
 
   return (
     <div className="pb-4">
-      {days.length===0 && <p className="text-center text-gray-400 py-12">2週間以内にイベントなし</p>}
+      {days.length===0 && <p className="text-center text-gray-500 py-12">2週間以内にイベントなし</p>}
       {days.map(({date, shops:ds}, idx) => {
         const isToday=sameDay(date,today), isTom=sameDay(date,addDays(today,1));
         let label=formatDate(date); if(isToday) label=`今日  ${label}`; else if(isTom) label=`明日  ${label}`;
@@ -250,8 +263,8 @@ function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, on
         return (
           <div key={idx} className="mb-5">
             <div className="flex items-center gap-2 mb-2 px-1">
-              <h2 className={`text-lg font-black ${isToday?"text-tiffany-600":isSun?"text-rose-500":isSat?"text-sky-500":"text-gray-800"}`}>{label}</h2>
-              <span className="bg-gray-800 text-white text-xs font-bold px-2 py-0.5 rounded-full">{ds.length}件</span>
+              <h2 className={`text-lg font-black ${isToday?"text-tiffany-400":isSun?"text-rose-500":isSat?"text-sky-500":"text-gray-100"}`}>{label}</h2>
+              <span className="bg-tiffany-500/100 text-ink-900 text-xs font-bold px-2 py-0.5 rounded-full">{ds.length}件</span>
             </div>
             {ds.map(shop => <ShopCard key={shop.id} shop={shop} date={date} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,date)} onShowResult={onShowResult} />)}
           </div>
@@ -288,26 +301,26 @@ function CalendarView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult,
   return (
     <div className="pb-4">
       <div className="flex items-center justify-between mb-3 px-1">
-        <button onClick={prevMonth} className="w-10 h-10 flex items-center justify-center rounded-xl bg-gray-100 text-gray-600 font-bold text-lg">‹</button>
-        <h2 className="text-lg font-black text-gray-800">{viewYear}年{viewMonth+1}月</h2>
-        <button onClick={nextMonth} className="w-10 h-10 flex items-center justify-center rounded-xl bg-gray-100 text-gray-600 font-bold text-lg">›</button>
+        <button onClick={prevMonth} className="w-10 h-10 flex items-center justify-center rounded-xl bg-ink-700 text-gray-300 font-bold text-lg">‹</button>
+        <h2 className="text-lg font-black text-gray-100">{viewYear}年{viewMonth+1}月</h2>
+        <button onClick={nextMonth} className="w-10 h-10 flex items-center justify-center rounded-xl bg-ink-700 text-gray-300 font-bold text-lg">›</button>
       </div>
       <div className="grid grid-cols-7 mb-1">
-        {DAYS_JP.map((d,i) => <div key={d} className={`text-center text-xs font-bold py-1 ${i===0?"text-rose-400":i===6?"text-sky-400":"text-gray-400"}`}>{d}</div>)}
+        {DAYS_JP.map((d,i) => <div key={d} className={`text-center text-xs font-bold py-1 ${i===0?"text-rose-400":i===6?"text-sky-400":"text-gray-500"}`}>{d}</div>)}
       </div>
-      <div className="grid grid-cols-7 gap-px bg-gray-100 rounded-xl overflow-hidden border border-gray-200">
+      <div className="grid grid-cols-7 gap-px bg-ink-700 rounded-xl overflow-hidden border border-ink-700">
         {calendarDays.map((date,i) => {
-          if(!date) return <div key={`e${i}`} className="bg-white h-12" />;
+          if(!date) return <div key={`e${i}`} className="bg-ink-800 h-12" />;
           const d=date.getDate(), dd=dayData[d]||{events:0,memos:0};
           const isT=sameDay(date,today), isSel=selectedDate&&sameDay(date,selectedDate);
           const isSun=date.getDay()===0, isSat=date.getDay()===6;
           return (
             <button key={i} onClick={()=>setSelectedDate(date)}
-              className={`bg-white h-12 flex flex-col items-center justify-center relative transition-colors ${isSel?"ring-2 ring-tiffany-500 ring-inset bg-tiffany-50":isT?"bg-tiffany-50":""}`}>
-              <span className={`text-sm font-bold leading-none ${isT?"text-tiffany-600":isSun?"text-rose-500":isSat?"text-sky-500":"text-gray-700"}`}>{d}</span>
+              className={`bg-ink-800 h-12 flex flex-col items-center justify-center relative transition-colors ${isSel?"ring-2 ring-tiffany-500 ring-inset bg-tiffany-500/10":isT?"bg-tiffany-500/10":""}`}>
+              <span className={`text-sm font-bold leading-none ${isT?"text-tiffany-400":isSun?"text-rose-500":isSat?"text-sky-500":"text-gray-200"}`}>{d}</span>
               <div className="flex gap-0.5 mt-0.5 items-center">
-                {dd.events>0 && dd.events<=3 && Array.from({length:dd.events}).map((_,j)=><div key={j} className="w-1 h-1 rounded-full bg-tiffany-500" />)}
-                {dd.events>3 && <span className="text-tiffany-700 text-xs font-bold leading-none">{dd.events}</span>}
+                {dd.events>0 && dd.events<=3 && Array.from({length:dd.events}).map((_,j)=><div key={j} className="w-1 h-1 rounded-full bg-tiffany-500/100" />)}
+                {dd.events>3 && <span className="text-tiffany-300 text-xs font-bold leading-none">{dd.events}</span>}
                 {dd.memos>0 && <div className="w-1.5 h-1.5 rounded-full bg-amber-400" />}
               </div>
             </button>
@@ -316,10 +329,10 @@ function CalendarView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult,
       </div>
       {selectedDate && (
         <div className="mt-4">
-          <h3 className="text-base font-bold text-gray-800 mb-2 px-1">{formatDate(selectedDate)}
-            <span className="ml-2 text-sm font-normal text-gray-500">{selShops.length}件</span>
+          <h3 className="text-base font-bold text-gray-100 mb-2 px-1">{formatDate(selectedDate)}
+            <span className="ml-2 text-sm font-normal text-gray-400">{selShops.length}件</span>
           </h3>
-          {selShops.length===0 && <p className="text-sm text-gray-400 px-1">この日のイベントなし</p>}
+          {selShops.length===0 && <p className="text-sm text-gray-500 px-1">この日のイベントなし</p>}
           {selShops.map(shop => <ShopCard key={shop.id} shop={shop} date={selectedDate} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,selectedDate)} onShowResult={onShowResult} />)}
         </div>
       )}
@@ -335,27 +348,27 @@ function MemoView({ shops, memos, onDeleteMemo }) {
   const filtered = useMemo(()=>{let l=[...memos]; if(filterShop) l=l.filter(m=>m.shopId===filterShop); l.sort((a,b)=>b.date.localeCompare(a.date)||b.createdAt.localeCompare(a.createdAt)); return l;}, [memos,filterShop]);
   const grouped = useMemo(()=>{const g=[]; let cd=null; filtered.forEach(m=>{if(m.date!==cd){cd=m.date;g.push({date:m.date,memos:[]});}g[g.length-1].memos.push(m);}); return g;}, [filtered]);
 
-  if(memos.length===0) return <div className="py-16 text-center"><p className="text-3xl mb-3">✎</p><p className="text-gray-500 text-sm font-bold">メモなし</p><p className="text-gray-400 text-xs mt-1">店舗カードの ✎ からメモ追加</p></div>;
+  if(memos.length===0) return <div className="py-16 text-center"><p className="text-3xl mb-3">✎</p><p className="text-gray-400 text-sm font-bold">メモなし</p><p className="text-gray-500 text-xs mt-1">店舗カードの ✎ からメモ追加</p></div>;
 
   return (
     <div className="pb-4">
       {shopsWithMemos.length>1 && (
         <div className="flex flex-wrap gap-1.5 mb-3">
-          <button onClick={()=>setFilterShop(null)} className={`px-3 py-1 rounded-full text-xs font-bold border transition-colors ${!filterShop?"bg-gray-800 text-white border-gray-800":"bg-white text-gray-600 border-gray-300"}`}>すべて</button>
-          {shopsWithMemos.map(s=><button key={s.id} onClick={()=>setFilterShop(s.id)} className={`px-3 py-1 rounded-full text-xs font-bold border transition-colors ${filterShop===s.id?"bg-gray-800 text-white border-gray-800":"bg-white text-gray-600 border-gray-300"}`}>{s.name.length>8?s.name.slice(0,8)+"…":s.name}</button>)}
+          <button onClick={()=>setFilterShop(null)} className={`px-3 py-1 rounded-full text-xs font-bold border transition-colors ${!filterShop?"bg-tiffany-500/100 text-ink-900 border-tiffany-500":"bg-ink-800 text-gray-300 border-ink-600"}`}>すべて</button>
+          {shopsWithMemos.map(s=><button key={s.id} onClick={()=>setFilterShop(s.id)} className={`px-3 py-1 rounded-full text-xs font-bold border transition-colors ${filterShop===s.id?"bg-tiffany-500/100 text-ink-900 border-tiffany-500":"bg-ink-800 text-gray-300 border-ink-600"}`}>{s.name.length>8?s.name.slice(0,8)+"…":s.name}</button>)}
         </div>
       )}
       {grouped.map(g=>{const date=parseKey(g.date); return (
         <div key={g.date} className="mb-4">
-          <h3 className="text-sm font-bold text-gray-500 mb-1.5 px-1">{formatDate(date)}</h3>
-          {g.memos.map(memo=>{const shop=shopMap[memo.shopId]; const as=shop?(AREA_STYLES[shop.area]||AREA_STYLES["湘南台・他"]):{bg:"bg-gray-50",border:"border-gray-200",badge:"bg-gray-100 text-gray-600"}; return (
+          <h3 className="text-sm font-bold text-gray-400 mb-1.5 px-1">{formatDate(date)}</h3>
+          {g.memos.map(memo=>{const shop=shopMap[memo.shopId]; const as=shop?(AREA_STYLES[shop.area]||AREA_STYLES["湘南台・他"]):{bg:"bg-ink-850",border:"border-ink-700",badge:"bg-ink-700 text-gray-300"}; return (
             <div key={memo.id} className={`${as.bg} border ${as.border} rounded-xl p-3 mb-2`}>
               <div className="flex items-start justify-between gap-2">
                 <div className="min-w-0 flex-1">
-                  <div className="flex items-center gap-2 mb-1"><span className="font-bold text-gray-900 text-sm">{shop?shop.name:"削除済み"}</span>{shop&&<span className={`text-xs px-1.5 py-0.5 rounded-full ${as.badge}`}>{shop.area}</span>}</div>
-                  <p className="text-sm text-gray-700">{memo.text}</p>
+                  <div className="flex items-center gap-2 mb-1"><span className="font-bold text-white text-sm">{shop?shop.name:"削除済み"}</span>{shop&&<span className={`text-xs px-1.5 py-0.5 rounded-full ${as.badge}`}>{shop.area}</span>}</div>
+                  <p className="text-sm text-gray-200">{memo.text}</p>
                 </div>
-                <button onClick={()=>onDeleteMemo(memo.id)} className="text-gray-300 hover:text-rose-400 text-sm shrink-0 mt-0.5">✕</button>
+                <button onClick={()=>onDeleteMemo(memo.id)} className="text-gray-600 hover:text-rose-400 text-sm shrink-0 mt-0.5">✕</button>
               </div>
             </div>
           );})}
@@ -377,23 +390,23 @@ function ShopList({ shops, onDelete, onAdd, memos }) {
     <div className="pb-4">
       {grouped.map(({area,shops:as})=>(
         <div key={area} className="mb-4">
-          <h3 className="text-sm font-bold text-gray-500 mb-1.5 px-1">{area}（{as.length}）</h3>
+          <h3 className="text-sm font-bold text-gray-400 mb-1.5 px-1">{area}（{as.length}）</h3>
           {as.map(shop=><ShopCard key={shop.id} shop={shop} onDelete={onDelete} compact allShopMemos={memos} />)}
         </div>
       ))}
       {!showForm ? (
-        <button onClick={()=>setShowForm(true)} className="w-full py-3 rounded-xl border-2 border-dashed border-gray-300 text-gray-500 font-bold text-sm hover:border-tiffany-400 hover:text-tiffany-600 transition-colors">＋ 店舗を追加</button>
+        <button onClick={()=>setShowForm(true)} className="w-full py-3 rounded-xl border-2 border-dashed border-ink-600 text-gray-400 font-bold text-sm hover:border-tiffany-500 hover:text-tiffany-300 transition-colors">＋ 店舗を追加</button>
       ) : (
-        <div className="bg-white border border-gray-200 rounded-xl p-4 space-y-3">
-          <h3 className="font-bold text-gray-800 text-sm">店舗追加</h3>
-          <input value={form.name} onChange={e=>setForm(f=>({...f,name:e.target.value}))} placeholder="店舗名" className="w-full px-3 py-2 rounded-lg border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
-          <div><label className="text-xs font-bold text-gray-500 block mb-1">エリア</label><div className="flex flex-wrap gap-1.5">{AREAS.map(a=><button key={a} onClick={()=>setForm(f=>({...f,area:a}))} className={`px-3 py-1 rounded-full text-xs font-bold border transition-colors ${form.area===a?"bg-gray-800 text-white border-gray-800":"bg-white text-gray-600 border-gray-300"}`}>{a}</button>)}</div></div>
-          <div><label className="text-xs font-bold text-gray-500 block mb-1">Xの付く日</label><div className="flex gap-1.5">{[1,2,3,4,5,6,7,8,9].map(d=><button key={d} onClick={()=>toggleDigit(d)} className={`w-8 h-8 rounded-lg text-sm font-bold border transition-colors ${form.digitDays.includes(d)?"bg-tiffany-600 text-white border-tiffany-600":"bg-white text-gray-600 border-gray-300"}`}>{d}</button>)}</div></div>
-          <div className="flex flex-wrap gap-2">{[{key:"zorome",label:"ゾロ目日"},{key:"monthDayZorome",label:"月日ゾロ目"},{key:"saturday",label:"土曜日"}].map(({key,label})=><button key={key} onClick={()=>setForm(f=>({...f,[key]:!f[key]}))} className={`px-3 py-1.5 rounded-lg text-xs font-bold border transition-colors ${form[key]?"bg-tiffany-600 text-white border-tiffany-600":"bg-white text-gray-600 border-gray-300"}`}>{label}</button>)}</div>
-          <input value={form.specificDays} onChange={e=>setForm(f=>({...f,specificDays:e.target.value}))} placeholder="毎月X日（カンマ区切り）" className="w-full px-3 py-2 rounded-lg border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
-          <div className="flex gap-2 items-center"><span className="text-xs text-gray-500 shrink-0">周年</span><input value={form.annMonth} onChange={e=>setForm(f=>({...f,annMonth:e.target.value}))} placeholder="月" type="number" min="1" max="12" className="w-16 px-2 py-2 rounded-lg border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" /><span className="text-xs text-gray-400">/</span><input value={form.annDay} onChange={e=>setForm(f=>({...f,annDay:e.target.value}))} placeholder="日" type="number" min="1" max="31" className="w-16 px-2 py-2 rounded-lg border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" /></div>
-          <input value={form.url} onChange={e=>setForm(f=>({...f,url:e.target.value}))} placeholder="P-World URL（任意）" className="w-full px-3 py-2 rounded-lg border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
-          <div className="flex gap-2"><button onClick={handleSubmit} className="flex-1 py-2.5 bg-tiffany-600 text-white font-bold text-sm rounded-xl hover:bg-tiffany-700 transition-colors">追加</button><button onClick={()=>setShowForm(false)} className="px-4 py-2.5 bg-gray-100 text-gray-600 font-bold text-sm rounded-xl">閉じる</button></div>
+        <div className="bg-ink-800 border border-ink-700 rounded-xl p-4 space-y-3">
+          <h3 className="font-bold text-gray-100 text-sm">店舗追加</h3>
+          <input value={form.name} onChange={e=>setForm(f=>({...f,name:e.target.value}))} placeholder="店舗名" className="w-full px-3 py-2 rounded-lg border border-ink-600 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
+          <div><label className="text-xs font-bold text-gray-400 block mb-1">エリア</label><div className="flex flex-wrap gap-1.5">{AREAS.map(a=><button key={a} onClick={()=>setForm(f=>({...f,area:a}))} className={`px-3 py-1 rounded-full text-xs font-bold border transition-colors ${form.area===a?"bg-tiffany-500/100 text-ink-900 border-tiffany-500":"bg-ink-800 text-gray-300 border-ink-600"}`}>{a}</button>)}</div></div>
+          <div><label className="text-xs font-bold text-gray-400 block mb-1">Xの付く日</label><div className="flex gap-1.5">{[1,2,3,4,5,6,7,8,9].map(d=><button key={d} onClick={()=>toggleDigit(d)} className={`w-8 h-8 rounded-lg text-sm font-bold border transition-colors ${form.digitDays.includes(d)?"bg-tiffany-500/100 text-ink-900 border-tiffany-500":"bg-ink-800 text-gray-300 border-ink-600"}`}>{d}</button>)}</div></div>
+          <div className="flex flex-wrap gap-2">{[{key:"zorome",label:"ゾロ目日"},{key:"monthDayZorome",label:"月日ゾロ目"},{key:"saturday",label:"土曜日"}].map(({key,label})=><button key={key} onClick={()=>setForm(f=>({...f,[key]:!f[key]}))} className={`px-3 py-1.5 rounded-lg text-xs font-bold border transition-colors ${form[key]?"bg-tiffany-500/100 text-ink-900 border-tiffany-500":"bg-ink-800 text-gray-300 border-ink-600"}`}>{label}</button>)}</div>
+          <input value={form.specificDays} onChange={e=>setForm(f=>({...f,specificDays:e.target.value}))} placeholder="毎月X日（カンマ区切り）" className="w-full px-3 py-2 rounded-lg border border-ink-600 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
+          <div className="flex gap-2 items-center"><span className="text-xs text-gray-400 shrink-0">周年</span><input value={form.annMonth} onChange={e=>setForm(f=>({...f,annMonth:e.target.value}))} placeholder="月" type="number" min="1" max="12" className="w-16 px-2 py-2 rounded-lg border border-ink-600 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" /><span className="text-xs text-gray-500">/</span><input value={form.annDay} onChange={e=>setForm(f=>({...f,annDay:e.target.value}))} placeholder="日" type="number" min="1" max="31" className="w-16 px-2 py-2 rounded-lg border border-ink-600 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" /></div>
+          <input value={form.url} onChange={e=>setForm(f=>({...f,url:e.target.value}))} placeholder="P-World URL（任意）" className="w-full px-3 py-2 rounded-lg border border-ink-600 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
+          <div className="flex gap-2"><button onClick={handleSubmit} className="flex-1 py-2.5 bg-tiffany-500/100 text-ink-900 font-bold tf-btn-glow text-sm rounded-xl hover:bg-tiffany-400 transition-colors">追加</button><button onClick={()=>setShowForm(false)} className="px-4 py-2.5 bg-ink-700 text-gray-300 font-bold text-sm rounded-xl">閉じる</button></div>
         </div>
       )}
     </div>
@@ -447,7 +460,7 @@ function App() {
   const handleDeleteMemo = useCallback((id)=>{saveMemos(memos.filter(m=>m.id!==id));}, [memos,saveMemos]);
   const handleReset = useCallback(async()=>{saveShops(DEFAULT_SHOPS);}, [saveShops]);
 
-  if(loading||!shops) return <div className="min-h-screen flex items-center justify-center"><div className="text-gray-400 text-sm">読み込み中...</div></div>;
+  if(loading||!shops) return <div className="min-h-screen flex items-center justify-center"><div className="text-gray-500 text-sm">読み込み中...</div></div>;
 
   const todayEvents = shops.filter(s=>hasEvent(s,today));
   const tabs = [{id:"today",label:"今日"},{id:"calendar",label:"暦"},{id:"memos",label:"メモ"},{id:"shops",label:"店舗"}];
@@ -455,24 +468,24 @@ function App() {
   return (
     <div className="min-h-screen">
       <div className="maxw">
-        <div className="bg-white border-b border-gray-200 px-4 pt-3 pb-2" style={{boxShadow:"inset 0 3px 0 #0ABAB5"}}>
+        <div className="bg-ink-800 border-b border-ink-700 px-4 pt-3 pb-2" style={{boxShadow:"inset 0 3px 0 #4DD9CB"}}>
           <div className="flex items-center justify-between mb-2">
-            <h1 className="text-xl font-black text-gray-900 tracking-tight">のりレポ <span className="text-tiffany-600">神奈川・東京</span></h1>
+            <h1 className="text-xl font-black text-white tracking-tight nori-glow">のりレポ <span className="text-tiffany-400">神奈川・東京</span></h1>
             <div className="flex items-center gap-1.5">
-              <span className="text-xs text-gray-400">{formatDate(today)}</span>
-              {todayEvents.length>0 && <span className="bg-tiffany-500 text-white text-xs font-bold px-2 py-0.5 rounded-full">{todayEvents.length}</span>}
+              <span className="text-xs text-gray-500">{formatDate(today)}</span>
+              {todayEvents.length>0 && <span className="bg-tiffany-500/100 text-ink-900 text-xs font-bold px-2 py-0.5 rounded-full">{todayEvents.length}</span>}
             </div>
           </div>
-          <p className="text-xs text-gray-300 mb-1">💾 {storageStatus}{reportMeta?` ・ 出玉${reports.length}件(${reportMeta.slice(5,16).replace("T"," ")})`:" ・ 出玉データ読込中"}</p>
-          <div className="flex gap-0.5 bg-gray-100 rounded-xl p-1">
-            {tabs.map(t=><button key={t.id} onClick={()=>setTab(t.id)} className={`flex-1 py-1.5 text-xs font-bold rounded-lg transition-colors ${tab===t.id?"bg-white text-tiffany-700 shadow-sm":"text-gray-500"}`}>{t.label}</button>)}
+          <p className="text-xs text-gray-600 mb-1">💾 {storageStatus}{reportMeta?` ・ 出玉${reports.length}件(${reportMeta.slice(5,16).replace("T"," ")})`:" ・ 出玉データ読込中"}</p>
+          <div className="flex gap-0.5 bg-ink-700 rounded-xl p-1">
+            {tabs.map(t=><button key={t.id} onClick={()=>setTab(t.id)} className={`flex-1 py-1.5 text-xs font-bold rounded-lg transition-colors ${tab===t.id?"bg-tiffany-500/100 text-ink-900 shadow tf-btn-glow":"text-gray-400"}`}>{t.label}</button>)}
           </div>
         </div>
         <div className="px-4 pt-3">
           {tab==="today" && <TodayView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} onShowResult={setResultReport} />}
           {tab==="calendar" && <CalendarView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} onShowResult={setResultReport} />}
           {tab==="memos" && <MemoView shops={shops} memos={memos} onDeleteMemo={handleDeleteMemo} />}
-          {tab==="shops" && (<><ShopList shops={shops} onDelete={handleDeleteShop} onAdd={handleAddShop} memos={memos} /><button onClick={handleReset} className="w-full mt-2 mb-4 py-2 text-xs text-gray-400 hover:text-rose-500 transition-colors">初期データにリセット</button></>)}
+          {tab==="shops" && (<><ShopList shops={shops} onDelete={handleDeleteShop} onAdd={handleAddShop} memos={memos} /><button onClick={handleReset} className="w-full mt-2 mb-4 py-2 text-xs text-gray-500 hover:text-rose-500 transition-colors">初期データにリセット</button></>)}
         </div>
       </div>
       <ResultModal report={resultReport} onClose={()=>setResultReport(null)} />
