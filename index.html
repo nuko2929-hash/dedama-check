@@ -46,7 +46,15 @@
 const { useState, useEffect, useMemo, useCallback } = React;
 
 const DAYS_JP = ["日","月","火","水","木","金","土"];
-const SHOPS_KEY="nori-cal-shops-v2", MEMOS_KEY="nori-cal-memos-v1", ANALYSIS_KEY="nori-cal-analysis-v1";
+const SHOPS_KEY="nori-cal-shops-v2", MEMOS_KEY="nori-cal-memos-v1", ANALYSIS_KEY="nori-cal-analysis-v1", WATCH_KEY="nori-cal-watch-v1";
+
+// ⭐注目機種(ウォッチリスト)。keyは機種名のゆらぎ吸収用キーワード。
+const DEFAULT_WATCH = [
+  { key:"モンキーターン", label:"モンキーターン" },
+  { key:"北斗の拳",       label:"北斗の拳" },
+  { key:"無職転生",       label:"無職転生" },
+  { key:"東京喰種",       label:"東京喰種(グール)" },
+];
 
 // Claude artifact の window.storage を localStorage で代替
 const storage = {
@@ -240,7 +248,7 @@ function ResultModal({ report, preds, onClose }) {
 }
 
 // ─── 店舗カード ───
-function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMemo, allShopMemos, result, preds, hint, onShowResult }) {
+function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMemo, allShopMemos, result, preds, hint, watchlist, onShowResult }) {
   const [expanded, setExpanded] = useState(false);
   const [memoText, setMemoText] = useState("");
   const reasons = date ? getReasons(shop, date) : [];
@@ -249,6 +257,11 @@ function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMem
   const dayMemos = date ? (memos||[]).filter(m => m.shopId===shop.id && m.date===toKey(date)) : [];
   const shopMemoCount = allShopMemos ? allShopMemos.filter(m => m.shopId===shop.id).length : 0;
   const handleSave = () => { if(!memoText.trim()||!date) return; onAddMemo({id:`m${Date.now()}`,shopId:shop.id,date:toKey(date),text:memoText.trim(),createdAt:new Date().toISOString()}); setMemoText(""); };
+  // ⭐注目機種: この店・この日の結果から該当機種を拾う
+  const [watchOpen, setWatchOpen] = useState(false);
+  const watched = (watchlist||[]).map(w=>({ ...w, hit: result?matchMachine(result, w.key):null }));
+  const watchHits = watched.filter(w=>w.hit);
+  const watchAvg = watchHits.length ? Math.round(watchHits.reduce((a,w)=>a+(w.hit.avg_diff||0),0)/watchHits.length) : null;
 
   return (
     <div className={`rounded-xl border ${style.border} ${isAnniv?"ring-2 ring-amber-400":""} ${style.bg} p-3 mb-2`}>
@@ -270,9 +283,11 @@ function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMem
             <p className="text-xs mt-1">
               <span className="text-gray-500">📈 過去{hint.sameEvent?`「${hint.label}」`:"全期間"}{hint.n}回 </span>
               <span className={`font-bold ${diffColor(hint.avg)}`}>1台平均{fmtMai(hint.avg)}枚</span>
-              <span className="text-gray-500"> ・好調{hint.plusRate}%</span>
               {hint.bestMachine && <span className="text-gray-500"> ・狙い{hint.bestMachine.length>12?hint.bestMachine.slice(0,12)+"…":hint.bestMachine}</span>}
             </p>
+          )}
+          {!compact && watchAvg!=null && (
+            <p className="text-xs mt-1"><span className="text-gray-500">⭐ 注目{watchHits.length}機種 </span><span className={`font-bold ${diffColor(watchAvg)}`}>平均{fmtMai(watchAvg)}枚</span></p>
           )}
           {result && (
             <button onClick={()=>onShowResult(result)} className="mt-2 inline-flex items-center gap-1.5 text-xs font-bold px-2.5 py-1.5 rounded-lg bg-tiffany-500/100 text-ink-900">
@@ -285,6 +300,9 @@ function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMem
             <button onClick={()=>setExpanded(!expanded)} className={`w-8 h-8 flex items-center justify-center rounded-lg border text-sm transition-colors ${expanded?"bg-tiffany-500/100 text-ink-900 border-tiffany-500":dayMemos.length>0?"bg-amber-500/20 text-amber-300 border-amber-500/40":"bg-ink-800 text-gray-500 border-ink-700"}`}>
               {dayMemos.length>0?dayMemos.length:"✎"}
             </button>
+          )}
+          {date && watchlist && watchlist.length>0 && (
+            <button onClick={()=>setWatchOpen(!watchOpen)} className={`w-8 h-8 flex items-center justify-center rounded-lg border text-sm transition-colors ${watchOpen?"bg-tiffany-500/100 text-ink-900 border-tiffany-500":watchHits.length>0?"bg-tiffany-500/20 text-tiffany-300 border-tiffany-500/40":"bg-ink-800 text-gray-500 border-ink-700"}`}>★</button>
           )}
           {shop.url && <a href={shop.url} target="_blank" rel="noopener noreferrer" className="w-8 h-8 flex items-center justify-center rounded-lg bg-ink-800 border border-ink-700 text-gray-400 hover:text-tiffany-300 text-sm">↗</a>}
           {onDelete && <button onClick={()=>onDelete(shop.id)} className="w-8 h-8 flex items-center justify-center rounded-lg bg-ink-800 border border-ink-700 text-gray-500 hover:text-rose-500 text-sm">✕</button>}
@@ -305,12 +323,24 @@ function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMem
           </div>
         </div>
       )}
+      {watchOpen && date && (
+        <div className="mt-2 pt-2 border-t border-ink-700 border-opacity-50">
+          <p className="text-xs font-bold text-tiffany-300 mb-1">⭐ 注目機種{result?"（この日の結果）":""}</p>
+          {watched.map((w,i)=>(
+            <div key={i} className="flex justify-between gap-2 py-0.5 text-xs">
+              <span className="flex-1 min-w-0 text-gray-300">{w.label}</span>
+              {w.hit ? <span className={`shrink-0 tabular-nums ${diffColor(w.hit.avg_diff)}`}>{w.hit.win_plus!=null?`${w.hit.win_plus}/${w.hit.win_total}台 `:""}平均{fmtMai(w.hit.avg_diff)}</span>
+                     : <span className="shrink-0 text-gray-600">{result?"この日なし":"結果待ち"}</span>}
+            </div>
+          ))}
+        </div>
+      )}
     </div>
   );
 }
 
 // ─── 今日ビュー ───
-function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, getPredictions, getHint, onShowResult }) {
+function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, getPredictions, getHint, watchlist, onShowResult }) {
   // 今日行くべき店: 今日のイベント店を「過去の同種イベント実績＋晒し屋予想」でスコア化
   const recs = useMemo(() => {
     const ev=shops.filter(s=>hasEvent(s,today));
@@ -358,7 +388,7 @@ function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, ge
               <h2 className={`text-lg font-black ${isToday?"text-tiffany-400":isSun?"text-rose-500":isSat?"text-sky-500":"text-gray-100"}`}>{label}</h2>
               <span className="bg-tiffany-500/100 text-ink-900 text-xs font-bold px-2 py-0.5 rounded-full">{ds.length}件</span>
             </div>
-            {ds.map(shop => <ShopCard key={shop.id} shop={shop} date={date} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,date)} preds={getPredictions(shop,date)} hint={getHint(shop,date)} onShowResult={onShowResult} />)}
+            {ds.map(shop => <ShopCard key={shop.id} shop={shop} date={date} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,date)} preds={getPredictions(shop,date)} hint={getHint(shop,date)} watchlist={watchlist} onShowResult={onShowResult} />)}
           </div>
         );
       })}
@@ -367,7 +397,7 @@ function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, ge
 }
 
 // ─── 暦ビュー ───
-function CalendarView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, getPredictions, getHint, onShowResult }) {
+function CalendarView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, getPredictions, getHint, watchlist, onShowResult }) {
   const [viewMonth, setViewMonth] = useState(today.getMonth());
   const [viewYear, setViewYear] = useState(today.getFullYear());
   const [selectedDate, setSelectedDate] = useState(null);
@@ -425,7 +455,7 @@ function CalendarView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult,
             <span className="ml-2 text-sm font-normal text-gray-400">{selShops.length}件</span>
           </h3>
           {selShops.length===0 && <p className="text-sm text-gray-500 px-1">この日のイベントなし</p>}
-          {selShops.map(shop => <ShopCard key={shop.id} shop={shop} date={selectedDate} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,selectedDate)} preds={getPredictions(shop,selectedDate)} hint={getHint(shop,selectedDate)} onShowResult={onShowResult} />)}
+          {selShops.map(shop => <ShopCard key={shop.id} shop={shop} date={selectedDate} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,selectedDate)} preds={getPredictions(shop,selectedDate)} hint={getHint(shop,selectedDate)} watchlist={watchlist} onShowResult={onShowResult} />)}
         </div>
       )}
     </div>
@@ -556,12 +586,14 @@ function App() {
   const [reportMeta, setReportMeta] = useState(null);
   const [resultReport, setResultReport] = useState(null);
   const [predictions, setPredictions] = useState([]);
+  const [watchlist, setWatchlist] = useState(DEFAULT_WATCH);
 
   useEffect(() => {
     (async () => {
       let ls=null, lm=[]; let status=[];
       try { const r=await storage.get(SHOPS_KEY); if(r?.value){const p=JSON.parse(r.value); if(Array.isArray(p)&&p.length>0){ls=p;status.push("店舗"+p.length);}} } catch(e){}
       try { const r=await storage.get(MEMOS_KEY); if(r?.value){const p=JSON.parse(r.value); if(Array.isArray(p)){lm=p; if(p.length>0) status.push("メモ"+p.length);}} } catch(e){}
+      try { const r=await storage.get(WATCH_KEY); if(r?.value){const p=JSON.parse(r.value); if(Array.isArray(p)&&p.length>0) setWatchlist(p);} } catch(e){}
       if(!ls){ ls=DEFAULT_SHOPS; try{await storage.set(SHOPS_KEY,JSON.stringify(DEFAULT_SHOPS));}catch(e){} status.push("店舗:デフォルト"+DEFAULT_SHOPS.length); }
       setShops(ls); setMemos(lm); setLoading(false);
       setStorageStatus(status.join(" / ")||"データなし");
@@ -610,6 +642,9 @@ function App() {
 
   const saveShops = useCallback(async(s)=>{setShops(s);try{await storage.set(SHOPS_KEY,JSON.stringify(s));}catch(e){}}, []);
   const saveMemos = useCallback(async(m)=>{setMemos(m);try{await storage.set(MEMOS_KEY,JSON.stringify(m));}catch(e){}}, []);
+  const saveWatch = useCallback(async(w)=>{setWatchlist(w);try{await storage.set(WATCH_KEY,JSON.stringify(w));}catch(e){}}, []);
+  const handleAddWatch = useCallback((kw)=>{const k=kw.trim(); if(!k) return; if(watchlist.some(w=>w.key===k)) return; saveWatch([...watchlist,{key:k,label:k}]);}, [watchlist,saveWatch]);
+  const handleDeleteWatch = useCallback((k)=>{saveWatch(watchlist.filter(w=>w.key!==k));}, [watchlist,saveWatch]);
   const handleDeleteShop = useCallback((id)=>{if(shops) saveShops(shops.filter(s=>s.id!==id));}, [shops,saveShops]);
   const handleAddShop = useCallback((shop)=>{if(shops) saveShops([...shops,shop]);}, [shops,saveShops]);
   const handleAddMemo = useCallback((memo)=>{saveMemos([...memos,memo]);}, [memos,saveMemos]);
@@ -640,8 +675,8 @@ function App() {
           </div>
         </div>
         <div className="px-4 pt-3">
-          {tab==="today" && <TodayView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} getPredictions={getPredictions} getHint={getHint} onShowResult={setResultReport} />}
-          {tab==="calendar" && <CalendarView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} getPredictions={getPredictions} getHint={getHint} onShowResult={setResultReport} />}
+          {tab==="today" && <TodayView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} getPredictions={getPredictions} getHint={getHint} watchlist={watchlist} onShowResult={setResultReport} />}
+          {tab==="calendar" && <CalendarView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} getPredictions={getPredictions} getHint={getHint} watchlist={watchlist} onShowResult={setResultReport} />}
           {tab==="preds" && <PredictionView predictions={predictions} getResultByName={getResultByName} onShowResult={setResultReport} />}
           {tab==="memos" && <MemoView shops={shops} memos={memos} onDeleteMemo={handleDeleteMemo} />}
           {tab==="shops" && <ShopList shops={shops} onDelete={handleDeleteShop} onAdd={handleAddShop} memos={memos} />}
