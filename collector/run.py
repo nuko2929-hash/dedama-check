@@ -8,7 +8,18 @@ import minrepo
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
-RECENT_PER_STORE = int(sys.argv[1]) if len(sys.argv) > 1 else 3  # 各店の直近何レポート取るか
+
+# 引数解釈:
+#   python3 collector/run.py            … 各店 直近3レポート(日次運用)
+#   python3 collector/run.py 5          … 各店 直近5レポート
+#   python3 collector/run.py --since 2026-05-21  … その日まで遡って全部(バックフィル)
+SINCE = None
+RECENT_PER_STORE = 3
+_args = sys.argv[1:]
+if _args and _args[0] == "--since" and len(_args) > 1:
+    SINCE = _args[1]
+elif _args and _args[0].isdigit():
+    RECENT_PER_STORE = int(_args[0])
 
 
 def to_iso(md):
@@ -95,9 +106,29 @@ def classify_kishu(kishu):
 def main():
     stores = json.loads((DATA / "stores.json").read_text(encoding="utf-8"))
     active = [s for s in stores if not s.get("skip")]
+
+    # 既存データ(再開時のスキップ判定＆マージ用)
+    out_path = DATA / "reports.json"
+    existing = []
+    if out_path.exists():
+        try:
+            existing = json.loads(out_path.read_text(encoding="utf-8")).get("reports", [])
+        except Exception:
+            existing = []
+    done = {(r.get("store"), r.get("iso_date")) for r in existing}
+
     all_reports = []
     for store in active:
-        reps = minrepo.list_reports(store)[:RECENT_PER_STORE]
+        if SINCE:
+            # 指定日まで遡る: ページ送りで深掘りし、SINCE以降だけ残す
+            reps = minrepo.list_reports(store, max_pages=3)
+            reps = [r for r in reps if (to_iso(r["date"]) or "") >= SINCE]
+            # バックフィルでは既に取得済みの日はフェッチしない(再開を軽く・ブロック回避)
+            before = len(reps)
+            reps = [r for r in reps if (store["name"], to_iso(r["date"])) not in done]
+            print(f"▼ {store['name']}: {SINCE}以降 {before}件 (新規{len(reps)}件/取得済{before-len(reps)})")
+        else:
+            reps = minrepo.list_reports(store)[:RECENT_PER_STORE]
         for r in reps:
             try:
                 data = minrepo.collect_report(r["url"])
@@ -120,19 +151,13 @@ def main():
             })
             all_reports.append(data)
             print(f"  ✓ {store['name']} {r['date']} 機種{len(data['kishu'])} 末尾{len(data['matsubi'])} 台{data['summary'].get('total_units')}")
-            time.sleep(minrepo.SLEEP)
-    # 既存データの読み込み（マージ用・0件上書き防止）
-    out_path = DATA / "reports.json"
-    existing = []
-    if out_path.exists():
-        try:
-            existing = json.loads(out_path.read_text(encoding="utf-8")).get("reports", [])
-        except Exception:
-            existing = []
+            minrepo._sleep()
+        if SINCE and reps:
+            time.sleep(18)  # 店ごとに小休止(バースト検知を避ける)
 
-    # 今回0件なら既存を絶対に消さない（min-repo側のブロック・障害対策）
+    # 今回0件(=全部取得済み or ブロック)なら既存を絶対に消さない
     if not all_reports:
-        print(f"\n⚠ 今回の収集は0件。既存{len(existing)}件を保持し、上書きしません。")
+        print(f"\n⚠ 今回の新規収集は0件。既存{len(existing)}件を保持し、上書きしません。")
         return
 
     # store+iso_date をキーにマージ（新しい収集で既存を更新、既存のみの履歴は残す）

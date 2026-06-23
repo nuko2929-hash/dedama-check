@@ -1,0 +1,11 @@
+{
+  "_note": "追跡する晒し屋Xアカウント。追加・削除はこの配列を編集するだけ。active:false で一時停止。",
+  "sources": [
+    { "name": "荻吉@スロ",                 "handle": "slot_ogikiti",     "active": true },
+    { "name": "スロイベ調査隊Z@関東(2代目)", "handle": "slo1_tyousataiZ",  "active": true },
+    { "name": "【暁】AIナビ関東圏",          "handle": "grandcross777",    "active": true },
+    { "name": "Makotoパチスロ案内人",        "handle": "kachigumimax",     "active": true },
+    { "name": "カラスロ@神奈川",             "handle": "karasuro_7",       "active": true },
+    { "name": "Take6 ホール調査",            "handle": "1_take6",          "active": true }
+  ]
+}

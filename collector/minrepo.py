@@ -7,18 +7,34 @@
 
 礼儀正しく: User-Agent明示・リクエスト間に待機。
 """
-import json, re, time, html as htmllib, urllib.parse, urllib.request, pathlib
+import json, re, time, random, html as htmllib, urllib.parse, urllib.request, pathlib
 from bs4 import BeautifulSoup
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/148 Safari/537.36"
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-SLEEP = 1.2
+SLEEP = 3.5  # リクエスト間の基本待機(秒)。min-repoは連続アクセスでブロックするため余裕を持たせる
 
 
-def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=25) as r:
-        return r.read().decode("utf-8", "replace")
+def _sleep():
+    """基本待機＋ジッター(機械的な等間隔を避ける)。"""
+    time.sleep(SLEEP + random.uniform(0, 1.5))
+
+
+def fetch(url, _retries=2):
+    """取得。空応答(=一時ブロック)やエラー時は短いバックオフで再試行し、
+    深いブロック時は早めに諦める(=呼び出し側のドレインに任せる)。"""
+    for attempt in range(_retries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=25) as r:
+                body = r.read().decode("utf-8", "replace")
+            if len(body) >= 500:        # 正常応答
+                return body
+        except Exception:
+            if attempt == _retries - 1:
+                raise
+        time.sleep(20 * (attempt + 1))   # 20s, 40s
+    return ""  # 空のまま=ブロック継続(呼び出し側で0件扱い)
 
 
 def num(s):
@@ -29,30 +45,37 @@ def num(s):
 
 # --- レポート一覧(検索ページ) -------------------------------------------------
 
-def list_reports(store):
-    """店舗の直近レポート [{date, title, url}] を新しい順で返す。"""
+def list_reports(store, max_pages=1):
+    """店舗の直近レポート [{date, title, url}] を新しい順で返す。
+    max_pages>1 で検索結果の2ページ目以降(/page/N/?s=)も辿り、過去ぶんを深掘りする。"""
     names = [store["name"]] + store.get("aliases", [])
     seen, out = set(), []
     for q in names:
-        try:
-            raw = fetch("https://min-repo.com/?s=" + urllib.parse.quote(q))
-        except Exception:
-            continue
-        for url, title in re.findall(
-            r'<div class="ichiran_title"><a href="(https://min-repo\.com/\d+/)">([^<]+)</a>', raw
-        ):
-            title = htmllib.unescape(title)
-            dm = re.search(r"(\d{1,2}/\d{1,2})\([月火水木金土日]\)", title)
-            # 店名の語幹一致(エイリアス含む・大小無視)で絞る
-            tl = title.lower()
-            if not any(a.replace("店", "").replace(" ", "")[:4].lower() in tl.replace(" ", "")
-                       for a in names):
-                continue
-            if url in seen:
-                continue
-            seen.add(url)
-            out.append({"date": dm.group(1) if dm else None, "title": title, "url": url})
-        time.sleep(SLEEP)
+        for pg in range(1, max_pages + 1):
+            base = ("https://min-repo.com/?s=" if pg == 1
+                    else f"https://min-repo.com/page/{pg}/?s=")
+            try:
+                raw = fetch(base + urllib.parse.quote(q))
+            except Exception:
+                break
+            found = re.findall(
+                r'<div class="ichiran_title"><a href="(https://min-repo\.com/\d+/)">([^<]+)</a>', raw
+            )
+            if not found:
+                break  # これ以上ページが無い
+            for url, title in found:
+                title = htmllib.unescape(title)
+                dm = re.search(r"(\d{1,2}/\d{1,2})\([月火水木金土日]\)", title)
+                # 店名の語幹一致(エイリアス含む・大小無視)で絞る
+                tl = title.lower()
+                if not any(a.replace("店", "").replace(" ", "")[:4].lower() in tl.replace(" ", "")
+                           for a in names):
+                    continue
+                if url in seen:
+                    continue
+                seen.add(url)
+                out.append({"date": dm.group(1) if dm else None, "title": title, "url": url})
+            _sleep()
     return out
 
 
