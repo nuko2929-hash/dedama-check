@@ -121,11 +121,32 @@ def main():
             all_reports.append(data)
             print(f"  ✓ {store['name']} {r['date']} 機種{len(data['kishu'])} 末尾{len(data['matsubi'])} 台{data['summary'].get('total_units')}")
             time.sleep(minrepo.SLEEP)
-    all_reports.sort(key=lambda r: r.get("iso_date") or "", reverse=True)
+    # 既存データの読み込み（マージ用・0件上書き防止）
+    out_path = DATA / "reports.json"
+    existing = []
+    if out_path.exists():
+        try:
+            existing = json.loads(out_path.read_text(encoding="utf-8")).get("reports", [])
+        except Exception:
+            existing = []
+
+    # 今回0件なら既存を絶対に消さない（min-repo側のブロック・障害対策）
+    if not all_reports:
+        print(f"\n⚠ 今回の収集は0件。既存{len(existing)}件を保持し、上書きしません。")
+        return
+
+    # store+iso_date をキーにマージ（新しい収集で既存を更新、既存のみの履歴は残す）
+    def key(r):
+        return (r.get("store"), r.get("iso_date") or r.get("date"))
+    merged = {key(r): r for r in existing}
+    for r in all_reports:
+        merged[key(r)] = r
+    final = sorted(merged.values(), key=lambda r: r.get("iso_date") or "", reverse=True)
+
     out = {"generated_at": datetime.now().isoformat(timespec="minutes"),
-           "count": len(all_reports), "reports": all_reports}
-    (DATA / "reports.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"\n保存: {len(all_reports)}レポート → data/reports.json")
+           "count": len(final), "reports": final}
+    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"\n保存: 今回{len(all_reports)}件 + 既存マージ → 計{len(final)}レポート → data/reports.json")
 
 
 if __name__ == "__main__":
