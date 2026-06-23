@@ -46,13 +46,13 @@
 const { useState, useEffect, useMemo, useCallback } = React;
 
 const DAYS_JP = ["日","月","火","水","木","金","土"];
-const SHOPS_KEY="nori-cal-shops-v2", MEMOS_KEY="nori-cal-memos-v1", ANALYSIS_KEY="nori-cal-analysis-v1", WATCH_KEY="nori-cal-watch-v1";
+const SHOPS_KEY="nori-cal-shops-v2", MEMOS_KEY="nori-cal-memos-v1", ANALYSIS_KEY="nori-cal-analysis-v1", WATCH_KEY="nori-cal-watch-v2";
 
 // ⭐注目機種(ウォッチリスト)。keyは機種名のゆらぎ吸収用キーワード。
 const DEFAULT_WATCH = [
   { key:"モンキーターン", label:"モンキーターン" },
   { key:"北斗の拳",       label:"北斗の拳" },
-  { key:"無職転生",       label:"無職転生" },
+  { key:"転生の章",       label:"北斗転生(転生の章)" },
   { key:"東京喰種",       label:"東京喰種(グール)" },
 ];
 
@@ -574,6 +574,32 @@ function PredictionView({ predictions, getResultByName, onShowResult }) {
   );
 }
 
+// ─── 注目機種エディタ ───
+function WatchEditor({ watchlist, onAdd, onDelete }) {
+  const [text, setText] = useState("");
+  const add = () => { onAdd(text); setText(""); };
+  return (
+    <div className="bg-ink-800 border border-tiffany-500/30 rounded-xl p-3 mb-4">
+      <h3 className="text-xs font-bold tracking-wider text-tiffany-300 mb-2">⭐ 注目機種（ウォッチリスト）</h3>
+      <div className="flex flex-wrap gap-1.5 mb-2">
+        {(watchlist||[]).map(w=>(
+          <span key={w.key} className="inline-flex items-center gap-1.5 text-xs px-2 py-1 rounded-full bg-tiffany-500/15 text-tiffany-200 border border-tiffany-500/30">
+            {w.label}
+            <button onClick={()=>onDelete(w.key)} className="text-gray-500 hover:text-rose-400">✕</button>
+          </span>
+        ))}
+        {(!watchlist||watchlist.length===0) && <span className="text-xs text-gray-500">登録なし</span>}
+      </div>
+      <div className="flex gap-1.5">
+        <input value={text} onChange={e=>setText(e.target.value)} onKeyDown={e=>{if(e.key==="Enter")add();}} placeholder="機種名の一部（例：北斗転生）"
+          className="flex-1 px-2.5 py-1.5 rounded-lg border border-ink-600 text-xs bg-ink-800 focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
+        <button onClick={add} disabled={!text.trim()} className="px-3 py-1.5 bg-tiffany-500/100 text-ink-900 text-xs font-bold rounded-lg disabled:opacity-30 shrink-0">追加</button>
+      </div>
+      <p className="text-[10px] text-gray-500 mt-1.5">機種名の一部でOK（スマスロ/L等のゆらぎは自動吸収）。出玉結果のある日に各店カードへ反映。</p>
+    </div>
+  );
+}
+
 // ─── メイン ───
 function App() {
   const [shops, setShops] = useState(null);
@@ -679,7 +705,7 @@ function App() {
           {tab==="calendar" && <CalendarView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} getPredictions={getPredictions} getHint={getHint} watchlist={watchlist} onShowResult={setResultReport} />}
           {tab==="preds" && <PredictionView predictions={predictions} getResultByName={getResultByName} onShowResult={setResultReport} />}
           {tab==="memos" && <MemoView shops={shops} memos={memos} onDeleteMemo={handleDeleteMemo} />}
-          {tab==="shops" && <ShopList shops={shops} onDelete={handleDeleteShop} onAdd={handleAddShop} memos={memos} />}
+          {tab==="shops" && (<><WatchEditor watchlist={watchlist} onAdd={handleAddWatch} onDelete={handleDeleteWatch} /><ShopList shops={shops} onDelete={handleDeleteShop} onAdd={handleAddShop} memos={memos} /></>)}
         </div>
       </div>
       <ResultModal report={resultReport} preds={resultReport?predsByName(resultReport.store,resultReport.iso_date):[]} onClose={()=>setResultReport(null)} />
