@@ -132,14 +132,15 @@ function histStats(shop, date, reports){
   const todayReasons=getReasons(shop,date);
   const same=past.filter(r=>{ const rr=getReasons(shop,parseKey(r.iso_date)); return rr.some(x=>todayReasons.includes(x)); });
   const use=same.length>=2?same:past;
-  const diffs=use.map(r=>r.summary&&r.summary.total_diff).filter(v=>v!=null);
-  if(!diffs.length) return null;
-  const avg=Math.round(diffs.reduce((a,b)=>a+b,0)/diffs.length);
-  const plus=diffs.filter(v=>v>0).length;
+  // 1台あたりの平均差枚(各日のavg_diffを平均)。店規模に左右されず直感的。
+  const perUnit=use.map(r=>r.summary&&r.summary.avg_diff).filter(v=>v!=null);
+  if(!perUnit.length) return null;
+  const avg=Math.round(perUnit.reduce((a,b)=>a+b,0)/perUnit.length);
+  const plus=perUnit.filter(v=>v>0).length;
   // 過去で平均差枚トップだった機種(最頻の好調機種)
   let bestMachine=null, bestAvg=-1e9;
   use.forEach(r=>(r.kishu||[]).forEach(k=>{ if(k.avg_diff!=null && k.avg_diff>bestAvg){ bestAvg=k.avg_diff; bestMachine=k.name; }}));
-  return { n:diffs.length, avg, plusRate:Math.round(plus/diffs.length*100), sameEvent:same.length>=2,
+  return { n:perUnit.length, avg, plusRate:Math.round(plus/perUnit.length*100), sameEvent:same.length>=2,
            label:(todayReasons[0]||"イベント").replace("🎂",""), bestMachine: bestAvg>1500?bestMachine:null };
 }
 
@@ -267,8 +268,8 @@ function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMem
           {compact && shopMemoCount>0 && <p className="text-xs text-gray-500 mt-0.5">メモ {shopMemoCount}件</p>}
           {!compact && hint && (
             <p className="text-xs mt-1">
-              <span className="text-gray-500">📈 過去{hint.sameEvent?`「${hint.label}」`:""}{hint.n}回 </span>
-              <span className={`font-bold ${diffColor(hint.avg)}`}>平均{fmtMai(hint.avg)}枚</span>
+              <span className="text-gray-500">📈 過去{hint.sameEvent?`「${hint.label}」`:"全期間"}{hint.n}回 </span>
+              <span className={`font-bold ${diffColor(hint.avg)}`}>1台平均{fmtMai(hint.avg)}枚</span>
               <span className="text-gray-500"> ・好調{hint.plusRate}%</span>
               {hint.bestMachine && <span className="text-gray-500"> ・狙い{hint.bestMachine.length>12?hint.bestMachine.slice(0,12)+"…":hint.bestMachine}</span>}
             </p>
@@ -314,7 +315,7 @@ function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, ge
   const recs = useMemo(() => {
     const ev=shops.filter(s=>hasEvent(s,today));
     return ev.map(s=>{ const h=getHint(s,today); const preds=getPredictions(s,today);
-        const score=(h?h.avg:0)+(h?h.plusRate*60:0)+(preds.length?9000:0);
+        const score=(h?h.avg*40:0)+(h?h.plusRate*30:0)+(preds.length?5000:0);
         return {s,h,preds,score}; })
       .filter(x=>(x.h&&x.h.avg>0)||x.preds.length)  // プラス実績 or 晒し屋予想 がある店だけ推す
       .sort((a,b)=>b.score-a.score).slice(0,3);
@@ -339,7 +340,7 @@ function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, ge
               <span className="text-tiffany-400 font-black w-4 text-center shrink-0">{i+1}</span>
               <span className="font-bold text-white text-sm flex-1 min-w-0 truncate">{r.s.name}</span>
               {r.preds.length>0 && <span className="text-[10px] px-1.5 py-0.5 rounded-full bg-tiffany-500/20 text-tiffany-300 font-bold shrink-0">🎯予想</span>}
-              {r.h ? <span className={`text-xs font-bold tabular-nums shrink-0 ${diffColor(r.h.avg)}`}>平均{fmtMai(r.h.avg)}</span>
+              {r.h ? <span className={`text-xs font-bold tabular-nums shrink-0 ${diffColor(r.h.avg)}`}>1台平均{fmtMai(r.h.avg)}</span>
                    : <span className="text-[10px] text-gray-500 shrink-0">実績なし</span>}
             </div>
           ))}
