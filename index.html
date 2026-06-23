@@ -67,6 +67,7 @@ const AREA_STYLES = {
   "戸塚":   { bg:"bg-emerald-500/10", border:"border-emerald-500/25", badge:"bg-emerald-500/20 text-emerald-300" },
   "相模大野":{ bg:"bg-amber-500/10",   border:"border-amber-500/25",   badge:"bg-amber-500/20 text-amber-300" },
   "湘南台・他":{ bg:"bg-purple-500/10", border:"border-purple-500/25", badge:"bg-purple-500/20 text-purple-300" },
+  "川崎":   { bg:"bg-indigo-500/10", border:"border-indigo-500/25", badge:"bg-indigo-500/20 text-indigo-300" },
 };
 const AREAS = Object.keys(AREA_STYLES);
 
@@ -88,6 +89,7 @@ const DEFAULT_SHOPS = [
   { id:"s15", name:"パラッツォ湘南台", area:"湘南台・他", digitDays:[2,6,8], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:{month:4,day:27}, url:"https://www.p-world.co.jp/kanagawa/palazzo-shonandai.htm" },
   { id:"s16", name:"マルハン綾瀬", area:"湘南台・他", digitDays:[7], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:null, url:"https://www.p-world.co.jp/kanagawa/maruhan-ayase-k.htm" },
   { id:"s17", name:"グランドホール長後", area:"湘南台・他", digitDays:[3,6], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:{month:4,day:26}, url:null },
+  { id:"s18", name:"吉兆東名川崎店", area:"川崎", digitDays:[2,5], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:null, url:"https://www.p-world.co.jp/kanagawa/kiccho-tomeikawasaki.htm" },
 ];
 
 function getReasons(shop, date) {
@@ -618,6 +620,8 @@ function App() {
     (async () => {
       let ls=null, lm=[]; let status=[];
       try { const r=await storage.get(SHOPS_KEY); if(r?.value){const p=JSON.parse(r.value); if(Array.isArray(p)&&p.length>0){ls=p;status.push("店舗"+p.length);}} } catch(e){}
+      // 既存の保存リストに、新規追加したデフォルト店舗(未登録ぶん)を補完する
+      if(ls){ const ids=new Set(ls.map(s=>s.id)); const miss=DEFAULT_SHOPS.filter(s=>!ids.has(s.id)); if(miss.length){ ls=[...ls,...miss]; try{await storage.set(SHOPS_KEY,JSON.stringify(ls));}catch(e){} } }
       try { const r=await storage.get(MEMOS_KEY); if(r?.value){const p=JSON.parse(r.value); if(Array.isArray(p)){lm=p; if(p.length>0) status.push("メモ"+p.length);}} } catch(e){}
       try { const r=await storage.get(WATCH_KEY); if(r?.value){const p=JSON.parse(r.value); if(Array.isArray(p)&&p.length>0) setWatchlist(p);} } catch(e){}
       if(!ls){ ls=DEFAULT_SHOPS; try{await storage.set(SHOPS_KEY,JSON.stringify(DEFAULT_SHOPS));}catch(e){} status.push("店舗:デフォルト"+DEFAULT_SHOPS.length); }

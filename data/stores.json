@@ -227,5 +227,20 @@
     "resolved": true,
     "manual_tag_url": null,
     "skip": false
+  },
+  {
+    "area": "川崎",
+    "name": "吉兆東名川崎店",
+    "aliases": [
+      "吉兆 東名川崎店",
+      "吉兆東名川崎",
+      "東名川崎",
+      "吉兆東名川崎店"
+    ],
+    "tag_url": null,
+    "sample_report": null,
+    "resolved": false,
+    "manual_tag_url": null,
+    "skip": false
   }
 ]
