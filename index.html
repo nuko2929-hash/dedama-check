@@ -3,214 +3,500 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title>出玉ダイジェスト</title>
+<title>のりレポ 神奈川・東京</title>
+<script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: { extend: { colors: { tiffany: {
+      50:"#E9F8F7",100:"#CDEFED",200:"#A6E3E0",300:"#7FD7D2",400:"#5FD0CB",
+      500:"#0ABAB5",600:"#09A6A1",700:"#0A8A86",800:"#0B6F6C",900:"#0A5957",
+      DEFAULT:"#0ABAB5" } } } }
+  };
+</script>
 <style>
-  :root{
-    --bg:#F4F6F8; --card:#FFFFFF; --ink:#1A1F26; --muted:#5E6B78; --line:#E4E9EE;
-    --accent:#0E7C86; --accent-soft:#E2F2F3;
-    --plus:#0B7A3B; --plus-soft:#E7F5EC; --minus:#B23B3B; --minus-soft:#FBECEC;
-  }
-  *{box-sizing:border-box;margin:0;padding:0}
-  body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;line-height:1.6;-webkit-text-size-adjust:100%}
-  .wrap{max-width:600px;margin:0 auto;padding:16px 14px 60px}
-  h1{font-size:1.05rem;font-weight:700;letter-spacing:.04em}
-  .sub{color:var(--muted);font-size:.78rem;margin-top:2px}
-  header.top{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:14px}
-
-  .chips{display:flex;gap:8px;overflow-x:auto;padding-bottom:8px;margin-bottom:8px;-webkit-overflow-scrolling:touch}
-  .chip{flex:0 0 auto;border:1.5px solid var(--line);background:var(--card);color:var(--muted);border-radius:999px;padding:8px 14px;font-size:.85rem;cursor:pointer;min-height:38px}
-  .chip.on{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
-
-  /* 一覧カード */
-  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 15px;margin-bottom:10px;cursor:pointer;transition:transform .08s}
-  .card:active{transform:scale(.99)}
-  .card .row1{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
-  .card .store{font-weight:700;font-size:1rem}
-  .card .date{color:var(--muted);font-size:.8rem;flex:0 0 auto}
-  .card .row2{display:flex;gap:14px;align-items:baseline;margin-top:6px;font-size:.9rem}
-  .big{font-weight:700;font-size:1.05rem}
-  .plus{color:var(--plus)} .minus{color:var(--minus)}
-  .card .meta{color:var(--muted);font-size:.82rem}
-  .area-tag{display:inline-block;font-size:.7rem;color:var(--accent);background:var(--accent-soft);border-radius:6px;padding:1px 7px;margin-right:6px}
-  .stale{font-size:.7rem;color:#9A6B00;background:#FBF3DD;border-radius:6px;padding:1px 7px}
-
-  /* 詳細 */
-  #detail{display:none}
-  .back{display:inline-flex;align-items:center;gap:6px;color:var(--accent);background:none;border:none;font-size:.92rem;padding:8px 0;cursor:pointer;min-height:44px}
-  .dhead{font-size:1.2rem;font-weight:700}
-  .dsub{color:var(--muted);font-size:.85rem;margin-bottom:14px}
-  .sec{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 15px;margin-bottom:12px}
-  .sec h2{font-size:.82rem;letter-spacing:.08em;color:var(--muted);margin-bottom:10px}
-  table{width:100%;border-collapse:collapse;font-size:.9rem}
-  .kv td{padding:5px 0;border-bottom:1px solid var(--line)}
-  .kv td:last-child{text-align:right;font-weight:700;font-variant-numeric:tabular-nums}
-  .kv tr:last-child td{border-bottom:none}
-  .est{font-size:.7rem;color:var(--muted);font-weight:400}
-
-  .grp{margin-bottom:12px}
-  .grp h3{font-size:.85rem;font-weight:700;margin-bottom:6px;color:var(--accent)}
-  .mline{display:flex;justify-content:space-between;gap:10px;padding:5px 0;border-bottom:1px dashed var(--line);font-size:.9rem}
-  .mline:last-child{border-bottom:none}
-  .mline .nm{flex:1;min-width:0}
-  .mline .nums{flex:0 0 auto;font-variant-numeric:tabular-nums;text-align:right}
-  .others{color:var(--muted);font-size:.85rem;line-height:1.8}
-
-  table.matsubi{font-size:.85rem;font-variant-numeric:tabular-nums}
-  table.matsubi th,table.matsubi td{padding:6px 4px;text-align:right;border-bottom:1px solid var(--line)}
-  table.matsubi th:first-child,table.matsubi td:first-child{text-align:left}
-  table.matsubi th{color:var(--muted);font-weight:600;font-size:.78rem}
-  tr.zoro td{font-weight:700;background:var(--accent-soft)}
-
-  .consider li{margin-left:18px;margin-bottom:5px;font-size:.92rem}
-  .src{display:inline-block;margin-top:4px;color:var(--accent);font-size:.88rem}
-  .empty{color:var(--muted);text-align:center;padding:40px 0}
-  .loading{text-align:center;color:var(--muted);padding:50px 0}
+  body{margin:0;background:#F4F7F7}
+  .maxw{max-width:600px;margin:0 auto}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <!-- 一覧 -->
-  <section id="list">
-    <header class="top">
-      <div>
-        <h1>出玉ダイジェスト</h1>
-        <div class="sub" id="listSub">読み込み中…</div>
+<div id="root"></div>
+
+<script type="text/jsx-source" id="appsrc">
+const { useState, useEffect, useMemo, useCallback } = React;
+
+const DAYS_JP = ["日","月","火","水","木","金","土"];
+const SHOPS_KEY="nori-cal-shops-v2", MEMOS_KEY="nori-cal-memos-v1", ANALYSIS_KEY="nori-cal-analysis-v1";
+
+// Claude artifact の window.storage を localStorage で代替
+const storage = {
+  get: async (k) => ({ value: localStorage.getItem(k) }),
+  set: async (k, v) => { localStorage.setItem(k, v); },
+};
+
+const AREA_STYLES = {
+  "立川":   { bg:"bg-sky-50",     border:"border-sky-200",     badge:"bg-sky-100 text-sky-700" },
+  "戸塚":   { bg:"bg-emerald-50", border:"border-emerald-200", badge:"bg-emerald-100 text-emerald-700" },
+  "相模大野":{ bg:"bg-amber-50",   border:"border-amber-200",   badge:"bg-amber-100 text-amber-700" },
+  "湘南台・他":{ bg:"bg-purple-50", border:"border-purple-200", badge:"bg-purple-100 text-purple-700" },
+};
+const AREAS = Object.keys(AREA_STYLES);
+
+const DEFAULT_SHOPS = [
+  { id:"s1", name:"楽園立川店", area:"立川", digitDays:[5], zorome:true, monthDayZorome:true, specificDays:[], saturday:false, anniversary:{month:8,day:7}, url:"https://www.p-world.co.jp/sp/hall.cgi?dir=tokyo&file=rakuen-tachikawa" },
+  { id:"s2", name:"ハイパージアス立川", area:"立川", digitDays:[5], zorome:true, monthDayZorome:true, specificDays:[], saturday:false, anniversary:{month:4,day:8}, url:"https://www.p-world.co.jp/sp/hall.cgi?dir=tokyo&file=jias" },
+  { id:"s3", name:"プレゴ立川店", area:"立川", digitDays:[5], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:null, url:"https://www.p-world.co.jp/tokyo/p-port-tachikawa.htm" },
+  { id:"s4", name:"スーパーDステーション立川", area:"立川", digitDays:[3,9], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:null, url:null },
+  { id:"s5", name:"キコーナ戸塚", area:"戸塚", digitDays:[3,9], zorome:false, monthDayZorome:false, specificDays:[], saturday:true, anniversary:{month:7,day:10}, url:"https://www.p-world.co.jp/kanagawa/kicona-totsuka.htm" },
+  { id:"s6", name:"エランドール泉", area:"戸塚", digitDays:[6], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:null, url:"https://www.p-world.co.jp/kanagawa/elandor.htm" },
+  { id:"s7", name:"ブラジャン戸塚", area:"戸塚", digitDays:[], zorome:false, monthDayZorome:false, specificDays:[27], saturday:false, anniversary:{month:6,day:9}, url:"https://www.p-world.co.jp/kanagawa/brajan.htm" },
+  { id:"s8", name:"スクランブル田谷", area:"戸塚", digitDays:[6], zorome:false, monthDayZorome:false, specificDays:[25], saturday:false, anniversary:null, url:null },
+  { id:"s9", name:"新！ガーデン戸塚", area:"戸塚", digitDays:[2,8], zorome:false, monthDayZorome:false, specificDays:[26], saturday:false, anniversary:{month:12,day:26}, url:"https://www.p-world.co.jp/kanagawa/garden-totsuka.htm" },
+  { id:"s10", name:"ピーアーク相模大野", area:"相模大野", digitDays:[1,8], zorome:true, monthDayZorome:true, specificDays:[], saturday:false, anniversary:{month:4,day:28}, url:"https://www.p-world.co.jp/kanagawa/p-ark-sagamioono.htm" },
+  { id:"s11", name:"ザシティ/ベルシティ相模大野", area:"相模大野", digitDays:[8], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:{month:12,day:16}, url:"https://www.p-world.co.jp/kanagawa/city-sagamioono.htm" },
+  { id:"s12", name:"相模大野UNO", area:"相模大野", digitDays:[1], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:{month:9,day:13}, url:"https://www.p-world.co.jp/kanagawa/1060uno.htm" },
+  { id:"s13", name:"アビバ湘南台", area:"湘南台・他", digitDays:[1,7], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:{month:12,day:27}, url:"https://www.p-world.co.jp/kanagawa/aviva-shonandai.htm" },
+  { id:"s14", name:"クリエ湘南台", area:"湘南台・他", digitDays:[3,8], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:null, url:"https://www.p-world.co.jp/kanagawa/creer-shonandai.htm" },
+  { id:"s15", name:"パラッツォ湘南台", area:"湘南台・他", digitDays:[2,6,8], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:{month:4,day:27}, url:"https://www.p-world.co.jp/kanagawa/palazzo-shonandai.htm" },
+  { id:"s16", name:"マルハン綾瀬", area:"湘南台・他", digitDays:[7], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:null, url:"https://www.p-world.co.jp/kanagawa/maruhan-ayase-k.htm" },
+  { id:"s17", name:"グランドホール長後", area:"湘南台・他", digitDays:[3,6], zorome:false, monthDayZorome:false, specificDays:[], saturday:false, anniversary:{month:4,day:26}, url:null },
+];
+
+function getReasons(shop, date) {
+  const r=[], d=date.getDate(), m=date.getMonth()+1, dow=date.getDay();
+  shop.digitDays.forEach(dig => { if(String(d).includes(String(dig))) r.push(`${dig}の付く日`); });
+  if(shop.zorome && (d===11||d===22)) r.push("ゾロ目日");
+  if(shop.monthDayZorome && m===d && m<=12) r.push("月日ゾロ目");
+  shop.specificDays.forEach(sd => { if(d===sd) r.push(`毎月${sd}日`); });
+  if(shop.saturday && dow===6) r.push("土曜日");
+  if(shop.anniversary && shop.anniversary.month===m && shop.anniversary.day===d) r.push("🎂周年");
+  return r;
+}
+const hasEvent = (shop,date) => getReasons(shop,date).length>0;
+const formatDate = (d) => `${d.getMonth()+1}/${d.getDate()}（${DAYS_JP[d.getDay()]}）`;
+const toKey = (d) => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+const parseKey = (k) => { const [y,m,d]=k.split("-").map(Number); return new Date(y,m-1,d); };
+function patternText(s){
+  const p=[];
+  if(s.digitDays.length) p.push(s.digitDays.map(d=>`${d}の付く日`).join("・"));
+  if(s.zorome) p.push("ゾロ目日"); if(s.monthDayZorome) p.push("月日ゾロ目");
+  if(s.specificDays.length) p.push(s.specificDays.map(d=>`毎月${d}日`).join("・"));
+  if(s.saturday) p.push("土曜日");
+  if(s.anniversary) p.push(`周年${s.anniversary.month}/${s.anniversary.day}`);
+  return p.join(" / ")||"パターンなし";
+}
+const addDays=(d,n)=>{const r=new Date(d);r.setDate(r.getDate()+n);return r;};
+const sameDay=(a,b)=>a.getFullYear()===b.getFullYear()&&a.getMonth()===b.getMonth()&&a.getDate()===b.getDate();
+
+// ─── 出玉結果の照合 ───
+const normName = (s) => (s||"").replace(/[店！!\/／\s　新]/g,"");
+function fmtMai(n){ if(n===null||n===undefined) return "-"; return (n>0?"+":"")+Math.round(n).toLocaleString(); }
+function diffColor(n){ return n>0?"text-emerald-600":(n<0?"text-rose-500":"text-gray-500"); }
+
+// ─── 出玉結果モーダル ───
+function ResultModal({ report, onClose }) {
+  if(!report) return null;
+  const s = report.summary||{};
+  const kc = report.kishu_class||{excellent:[],highwin:[],others:[]};
+  const mt = report.matsubi||[];
+  const MLine = ({m}) => (
+    <div className="flex justify-between gap-2 py-1.5 border-b border-dashed border-gray-100 last:border-0 text-sm">
+      <span className="flex-1 min-w-0">{m.name}</span>
+      <span className={`shrink-0 tabular-nums ${diffColor(m.avg_diff)}`}>{m.win_plus!=null?`${m.win_plus}/${m.win_total}台 `:""}平均{fmtMai(m.avg_diff)}</span>
+    </div>
+  );
+  return (
+    <div className="fixed inset-0 z-50 bg-black/40 flex items-end sm:items-center justify-center" onClick={onClose}>
+      <div className="bg-gray-50 w-full maxw max-h-[92vh] overflow-y-auto rounded-t-2xl sm:rounded-2xl" onClick={e=>e.stopPropagation()}>
+        <div className="sticky top-0 bg-tiffany-600 text-white px-4 py-3 flex items-center justify-between">
+          <div>
+            <div className="font-bold">{report.store}</div>
+            <div className="text-xs text-tiffany-50 opacity-90">{report.area} ・ {(report.title&&report.title.match(/\d+\/\d+\([月火水木金土日]\)/)||[report.date])[0]}{report.stale?"（旧データ）":""}</div>
+          </div>
+          <button onClick={onClose} className="w-9 h-9 rounded-lg bg-white/20 text-white text-lg">✕</button>
+        </div>
+        <div className="p-3 space-y-3">
+          {/* 総合集計 */}
+          <div className="bg-white rounded-xl border border-gray-200 p-3">
+            <h3 className="text-xs font-bold tracking-wider text-gray-400 mb-2">総合集計</h3>
+            <table className="w-full text-sm">
+              <tbody>
+                <tr className="border-b border-gray-100"><td className="py-1.5">対象台数</td><td className="py-1.5 text-right font-bold">{s.total_units!=null?s.total_units+"台":"-"}</td></tr>
+                <tr className="border-b border-gray-100"><td className="py-1.5">合計差枚{s.estimated?<span className="text-xs text-gray-400 font-normal">（推定）</span>:""}</td><td className={`py-1.5 text-right font-bold tabular-nums ${diffColor(s.total_diff)}`}>{fmtMai(s.total_diff)}枚</td></tr>
+                <tr className="border-b border-gray-100"><td className="py-1.5">平均差枚</td><td className={`py-1.5 text-right font-bold tabular-nums ${diffColor(s.avg_diff)}`}>{fmtMai(s.avg_diff)}枚</td></tr>
+                <tr><td className="py-1.5">勝率（プラス台）</td><td className="py-1.5 text-right font-bold">{s.win_plus!=null?`${s.win_plus}/${s.total_units} → ${s.win_pct}%`:"-"}</td></tr>
+              </tbody>
+            </table>
+          </div>
+          {/* 機種別内訳 */}
+          <div className="bg-white rounded-xl border border-gray-200 p-3">
+            <h3 className="text-xs font-bold tracking-wider text-gray-400 mb-2">機種別内訳</h3>
+            {kc.excellent.length>0 && <div className="mb-2"><p className="text-sm font-bold text-tiffany-700 mb-1">■優秀機種候補</p>{kc.excellent.map((m,i)=><MLine key={i} m={m}/>)}</div>}
+            {kc.highwin.length>0 && <div className="mb-2"><p className="text-sm font-bold text-tiffany-700 mb-1">■勝率高機種</p>{kc.highwin.map((m,i)=><MLine key={i} m={m}/>)}</div>}
+            {kc.others.length>0 && <div><p className="text-sm font-bold text-tiffany-700 mb-1">■気になる台</p><p className="text-sm text-gray-500 leading-relaxed">{kc.others.map(m=>m.name).join("、")}</p></div>}
+            {kc.excellent.length===0&&kc.highwin.length===0&&kc.others.length===0 && <p className="text-sm text-gray-400">プラスの機種は目立ちませんでした。</p>}
+          </div>
+          {/* 末尾別 */}
+          <div className="bg-white rounded-xl border border-gray-200 p-3">
+            <h3 className="text-xs font-bold tracking-wider text-gray-400 mb-2">末尾別</h3>
+            <table className="w-full text-sm tabular-nums">
+              <thead><tr className="text-xs text-gray-400"><th className="text-left font-semibold py-1">末尾</th><th className="text-right font-semibold py-1">平均差枚</th><th className="text-right font-semibold py-1">勝率</th><th className="text-right font-semibold py-1">出率</th></tr></thead>
+              <tbody>
+                {mt.map((m,i)=>{const zoro=/ゾロ/.test(m.matsubi); return (
+                  <tr key={i} className={`border-t border-gray-100 ${zoro?"bg-tiffany-50 font-bold":""}`}>
+                    <td className="text-left py-1.5">{zoro?"ゾロ目":"末尾"+m.matsubi}</td>
+                    <td className={`text-right py-1.5 ${diffColor(m.avg_diff)}`}>{fmtMai(m.avg_diff)}</td>
+                    <td className="text-right py-1.5">{m.win_plus!=null?`${m.win_plus}/${m.win_total}`:"-"}</td>
+                    <td className="text-right py-1.5">{m.rate!=null?m.rate+"%":"-"}</td>
+                  </tr>
+                );})}
+              </tbody>
+            </table>
+          </div>
+          {/* まとめ */}
+          <div className="bg-white rounded-xl border border-gray-200 p-3">
+            <h3 className="text-xs font-bold tracking-wider text-gray-400 mb-2">まとめ</h3>
+            <ul className="list-disc list-inside space-y-1 text-sm text-gray-700">{(report.consider||[]).map((t,i)=><li key={i}>{t}</li>)}</ul>
+            <a href={report.url} target="_blank" rel="noopener" className="inline-block mt-2 text-sm text-tiffany-700">元データ(min-repo)を見る →</a>
+          </div>
+        </div>
       </div>
-    </header>
-    <div class="chips" id="areaChips"></div>
-    <div id="cards"><div class="loading">データを読み込んでいます…</div></div>
-  </section>
-
-  <!-- 詳細 -->
-  <section id="detail">
-    <button class="back" id="backBtn">← 一覧にもどる</button>
-    <div class="dhead" id="dStore"></div>
-    <div class="dsub" id="dDate"></div>
-
-    <div class="sec">
-      <h2>総合集計</h2>
-      <table class="kv" id="dSummary"></table>
     </div>
+  );
+}
 
-    <div class="sec">
-      <h2>機種別内訳</h2>
-      <div id="dKishu"></div>
+// ─── 店舗カード ───
+function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMemo, allShopMemos, result, onShowResult }) {
+  const [expanded, setExpanded] = useState(false);
+  const [memoText, setMemoText] = useState("");
+  const reasons = date ? getReasons(shop, date) : [];
+  const style = AREA_STYLES[shop.area] || AREA_STYLES["湘南台・他"];
+  const isAnniv = reasons.some(r => r.includes("周年"));
+  const dayMemos = date ? (memos||[]).filter(m => m.shopId===shop.id && m.date===toKey(date)) : [];
+  const shopMemoCount = allShopMemos ? allShopMemos.filter(m => m.shopId===shop.id).length : 0;
+  const handleSave = () => { if(!memoText.trim()||!date) return; onAddMemo({id:`m${Date.now()}`,shopId:shop.id,date:toKey(date),text:memoText.trim(),createdAt:new Date().toISOString()}); setMemoText(""); };
+
+  return (
+    <div className={`rounded-xl border ${style.border} ${isAnniv?"ring-2 ring-amber-400":""} ${style.bg} p-3 mb-2`}>
+      <div className="flex items-start justify-between gap-2">
+        <div className="min-w-0 flex-1">
+          <div className="flex items-center gap-2 flex-wrap">
+            <span className="font-bold text-gray-900 text-sm">{shop.name}</span>
+            <span className={`text-xs px-1.5 py-0.5 rounded-full ${style.badge}`}>{shop.area}</span>
+          </div>
+          {!compact && reasons.length>0 && (
+            <div className="flex flex-wrap gap-1 mt-1.5">
+              {reasons.map((r,i) => <span key={i} className={`text-xs px-2 py-0.5 rounded-full ${r.includes("周年")?"bg-amber-200 text-amber-800 font-bold":"bg-white text-gray-600 border border-gray-200"}`}>{r}</span>)}
+            </div>
+          )}
+          {compact && <p className="text-xs text-gray-500 mt-0.5">{patternText(shop)}</p>}
+          {compact && shopMemoCount>0 && <p className="text-xs text-gray-400 mt-0.5">メモ {shopMemoCount}件</p>}
+          {result && (
+            <button onClick={()=>onShowResult(result)} className="mt-2 inline-flex items-center gap-1.5 text-xs font-bold px-2.5 py-1.5 rounded-lg bg-tiffany-600 text-white">
+              📊 出玉結果 {result.summary&&result.summary.total_diff!=null?<span className={result.summary.total_diff>0?"text-white":"text-rose-100"}>{fmtMai(result.summary.total_diff)}枚</span>:""}
+            </button>
+          )}
+        </div>
+        <div className="flex gap-1 items-center shrink-0">
+          {date && onAddMemo && (
+            <button onClick={()=>setExpanded(!expanded)} className={`w-8 h-8 flex items-center justify-center rounded-lg border text-sm transition-colors ${expanded?"bg-tiffany-600 text-white border-tiffany-600":dayMemos.length>0?"bg-amber-100 text-amber-600 border-amber-300":"bg-white text-gray-400 border-gray-200"}`}>
+              {dayMemos.length>0?dayMemos.length:"✎"}
+            </button>
+          )}
+          {shop.url && <a href={shop.url} target="_blank" rel="noopener noreferrer" className="w-8 h-8 flex items-center justify-center rounded-lg bg-white border border-gray-200 text-gray-500 hover:text-tiffany-600 text-sm">↗</a>}
+          {onDelete && <button onClick={()=>onDelete(shop.id)} className="w-8 h-8 flex items-center justify-center rounded-lg bg-white border border-gray-200 text-gray-400 hover:text-rose-500 text-sm">✕</button>}
+        </div>
+      </div>
+      {expanded && date && (
+        <div className="mt-2 pt-2 border-t border-gray-200 border-opacity-50">
+          {dayMemos.map(memo => (
+            <div key={memo.id} className="flex items-start gap-2 mb-1.5">
+              <p className="flex-1 text-xs text-gray-700 bg-white rounded-lg px-2.5 py-1.5 border border-gray-100">{memo.text}</p>
+              <button onClick={()=>onDeleteMemo(memo.id)} className="text-gray-300 hover:text-rose-400 text-xs mt-1 shrink-0">✕</button>
+            </div>
+          ))}
+          <div className="flex gap-1.5 mt-1">
+            <input value={memoText} onChange={e=>setMemoText(e.target.value)} placeholder="メモを書く..." onKeyDown={e=>{if(e.key==="Enter")handleSave();}}
+              className="flex-1 px-2.5 py-1.5 rounded-lg border border-gray-300 text-xs bg-white focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
+            <button onClick={handleSave} disabled={!memoText.trim()} className="px-3 py-1.5 bg-tiffany-600 text-white text-xs font-bold rounded-lg disabled:opacity-30 shrink-0">保存</button>
+          </div>
+        </div>
+      )}
     </div>
+  );
+}
 
-    <div class="sec">
-      <h2>末尾別</h2>
-      <table class="matsubi" id="dMatsubi"></table>
-    </div>
-
-    <div class="sec">
-      <h2>まとめ</h2>
-      <ul class="consider" id="dConsider"></ul>
-      <a class="src" id="dSrc" target="_blank" rel="noopener">元データ(min-repo)を見る →</a>
-    </div>
-  </section>
-</div>
-
-<script>
-(function(){
-  'use strict';
-  var REPORTS=[], AREA='すべて';
-  var $=function(id){return document.getElementById(id)};
-
-  function fmt(n){ if(n===null||n===undefined) return '-'; var s=(n>0?'+':'')+Math.round(n).toLocaleString(); return s; }
-  function cls(n){ return n>0?'plus':(n<0?'minus':''); }
-  function pct(n){ return n===null||n===undefined?'-':n+'%'; }
-
-  // 収集時に付与した iso_date(年つき)で並べる
-  function dkey(r){ return (r&&r.iso_date)?r.iso_date:''; }
-
-  fetch('./data/reports.json',{cache:'no-store'})
-    .then(function(r){ if(!r.ok) throw 0; return r.json(); })
-    .then(function(j){ REPORTS=j.reports||[]; init(); })
-    .catch(function(){ $('cards').innerHTML='<div class="empty">データがまだありません。<br>収集が回ると表示されます。</div>'; $('listSub').textContent=''; });
-
-  function init(){
-    REPORTS.sort(function(a,b){ return dkey(b)<dkey(a)?-1:(dkey(b)>dkey(a)?1:0); });
-    $('listSub').textContent=REPORTS.length+'レポート / '+new Set(REPORTS.map(function(r){return r.store})).size+'店舗';
-    var areas=['すべて'].concat(Array.from(new Set(REPORTS.map(function(r){return r.area}))));
-    var ch=$('areaChips'); ch.innerHTML='';
-    areas.forEach(function(a){
-      var b=document.createElement('button'); b.className='chip'+(a===AREA?' on':''); b.textContent=a;
-      b.onclick=function(){ AREA=a; Array.from(ch.children).forEach(function(c){c.classList.toggle('on',c.textContent===a)}); renderList(); };
-      ch.appendChild(b);
-    });
-    renderList();
-  }
-
-  function renderList(){
-    var list=REPORTS.filter(function(r){return AREA==='すべて'||r.area===AREA});
-    var box=$('cards');
-    if(!list.length){ box.innerHTML='<div class="empty">該当なし</div>'; return; }
-    box.innerHTML='';
-    list.forEach(function(r,i){
-      var s=r.summary||{};
-      var c=document.createElement('div'); c.className='card';
-      c.innerHTML =
-        '<div class="row1"><div class="store"><span class="area-tag">'+r.area+'</span>'+r.store+'</div>'+
-        '<div class="date">'+(r.stale?'<span class="stale">旧</span> ':'')+(r.date||'-')+'</div></div>'+
-        '<div class="row2"><div class="big '+cls(s.total_diff)+'">'+fmt(s.total_diff)+'枚</div>'+
-        '<div class="meta">勝率 '+(s.win_plus!=null?s.win_plus+'/'+s.total_units:'-')+(s.win_pct!=null?'('+s.win_pct+'%)':'')+'</div>'+
-        (s.estimated?'<div class="meta est">※推定</div>':'')+'</div>';
-      c.onclick=function(){ showDetail(REPORTS.indexOf(r)); };
-      box.appendChild(c);
-    });
-  }
-
-  function showDetail(idx){
-    var r=REPORTS[idx], s=r.summary||{};
-    $('list').style.display='none'; $('detail').style.display='block'; window.scrollTo(0,0);
-    $('dStore').textContent=r.store;
-    var dlabel=(r.title&&r.title.match(/\d+\/\d+\([月火水木金土日]\)/)||[r.date||''])[0];
-    $('dDate').textContent=r.area+' ・ '+dlabel+(r.stale?' (旧データ)':'');
-
-    // 総合集計
-    var rows=[
-      ['対象台数', (s.total_units!=null?s.total_units+'台':'-')],
-      ['合計差枚', fmt(s.total_diff)+'枚'],
-      ['平均差枚', fmt(s.avg_diff)+'枚'],
-      ['勝率(プラス台)', (s.win_plus!=null?s.win_plus+'/'+s.total_units+' → '+s.win_pct+'%':'-')]
-    ];
-    $('dSummary').innerHTML=rows.map(function(kv){
-      var v=kv[1], colored=/^[+-]/.test(v)?'<span class="'+cls(parseFloat(v.replace(/,/g,'')))+'">'+v+'</span>':v;
-      return '<tr><td>'+kv[0]+(kv[0]==='合計差枚'&&s.estimated?' <span class="est">※機種別から推定</span>':'')+'</td><td>'+colored+'</td></tr>';
-    }).join('');
-
-    // 機種別内訳
-    var k=r.kishu_class||{excellent:[],highwin:[],others:[]};
-    function mline(m){
-      return '<div class="mline"><div class="nm">'+m.name+'</div><div class="nums '+cls(m.avg_diff)+'">'+
-        (m.win_plus!=null?m.win_plus+'/'+m.win_total:'')+'台 平均'+fmt(m.avg_diff)+'</div></div>';
+// ─── 今日ビュー ───
+function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, onShowResult }) {
+  const days = useMemo(() => {
+    const result=[];
+    for(let i=0;i<14;i++){
+      const date=addDays(today,i);
+      const matched=shops.filter(s=>hasEvent(s,date)).sort((a,b)=>AREAS.indexOf(a.area)-AREAS.indexOf(b.area));
+      if(matched.length>0) result.push({date, shops:matched});
     }
-    var html='';
-    if(k.excellent.length){ html+='<div class="grp"><h3>■優秀機種候補</h3>'+k.excellent.map(mline).join('')+'</div>'; }
-    if(k.highwin.length){ html+='<div class="grp"><h3>■勝率高機種</h3>'+k.highwin.map(mline).join('')+'</div>'; }
-    if(k.others.length){ html+='<div class="grp"><h3>■気になる台</h3><div class="others">'+k.others.map(function(m){return m.name}).join('、')+'</div></div>'; }
-    if(!html){ html='<div class="others">プラスの機種は目立ちませんでした。</div>'; }
-    $('dKishu').innerHTML=html;
+    return result;
+  }, [shops, today]);
 
-    // 末尾別
-    var mt=r.matsubi||[];
-    var th='<tr><th>末尾</th><th>平均差枚</th><th>勝率</th><th>出率</th></tr>';
-    var trs=mt.map(function(m){
-      var zoro=/ゾロ/.test(m.matsubi);
-      return '<tr class="'+(zoro?'zoro':'')+'"><td>'+(zoro?'ゾロ目':'末尾'+m.matsubi)+'</td>'+
-        '<td class="'+cls(m.avg_diff)+'">'+fmt(m.avg_diff)+'</td>'+
-        '<td>'+(m.win_plus!=null?m.win_plus+'/'+m.win_total:'-')+'</td>'+
-        '<td>'+pct(m.rate)+'</td></tr>';
-    }).join('');
-    $('dMatsubi').innerHTML=th+trs;
+  return (
+    <div className="pb-4">
+      {days.length===0 && <p className="text-center text-gray-400 py-12">2週間以内にイベントなし</p>}
+      {days.map(({date, shops:ds}, idx) => {
+        const isToday=sameDay(date,today), isTom=sameDay(date,addDays(today,1));
+        let label=formatDate(date); if(isToday) label=`今日  ${label}`; else if(isTom) label=`明日  ${label}`;
+        const isSun=date.getDay()===0, isSat=date.getDay()===6;
+        return (
+          <div key={idx} className="mb-5">
+            <div className="flex items-center gap-2 mb-2 px-1">
+              <h2 className={`text-lg font-black ${isToday?"text-tiffany-600":isSun?"text-rose-500":isSat?"text-sky-500":"text-gray-800"}`}>{label}</h2>
+              <span className="bg-gray-800 text-white text-xs font-bold px-2 py-0.5 rounded-full">{ds.length}件</span>
+            </div>
+            {ds.map(shop => <ShopCard key={shop.id} shop={shop} date={date} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,date)} onShowResult={onShowResult} />)}
+          </div>
+        );
+      })}
+    </div>
+  );
+}
 
-    // まとめ
-    $('dConsider').innerHTML=(r.consider||[]).map(function(t){return '<li>'+t+'</li>'}).join('');
-    $('dSrc').href=r.url;
-  }
+// ─── 暦ビュー ───
+function CalendarView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, onShowResult }) {
+  const [viewMonth, setViewMonth] = useState(today.getMonth());
+  const [viewYear, setViewYear] = useState(today.getFullYear());
+  const [selectedDate, setSelectedDate] = useState(null);
 
-  $('backBtn').onclick=function(){ $('detail').style.display='none'; $('list').style.display='block'; window.scrollTo(0,0); };
-})();
+  const calendarDays = useMemo(() => {
+    const first=new Date(viewYear,viewMonth,1), startDay=first.getDay(), dim=new Date(viewYear,viewMonth+1,0).getDate();
+    const cells=[]; for(let i=0;i<startDay;i++) cells.push(null); for(let d=1;d<=dim;d++) cells.push(new Date(viewYear,viewMonth,d));
+    return cells;
+  }, [viewYear, viewMonth]);
+
+  const dayData = useMemo(() => {
+    const map={};
+    calendarDays.forEach(date => { if(!date) return; const d=date.getDate(), dk=toKey(date);
+      map[d] = { events: shops.filter(s=>hasEvent(s,date)).length, memos: memos.filter(m=>m.date===dk).length }; });
+    return map;
+  }, [calendarDays, shops, memos]);
+
+  const prevMonth = () => { if(viewMonth===0){setViewMonth(11);setViewYear(y=>y-1);}else setViewMonth(m=>m-1); setSelectedDate(null); };
+  const nextMonth = () => { if(viewMonth===11){setViewMonth(0);setViewYear(y=>y+1);}else setViewMonth(m=>m+1); setSelectedDate(null); };
+
+  const selShops = useMemo(() => selectedDate ? shops.filter(s=>hasEvent(s,selectedDate)).sort((a,b)=>AREAS.indexOf(a.area)-AREAS.indexOf(b.area)) : [], [selectedDate, shops]);
+
+  return (
+    <div className="pb-4">
+      <div className="flex items-center justify-between mb-3 px-1">
+        <button onClick={prevMonth} className="w-10 h-10 flex items-center justify-center rounded-xl bg-gray-100 text-gray-600 font-bold text-lg">‹</button>
+        <h2 className="text-lg font-black text-gray-800">{viewYear}年{viewMonth+1}月</h2>
+        <button onClick={nextMonth} className="w-10 h-10 flex items-center justify-center rounded-xl bg-gray-100 text-gray-600 font-bold text-lg">›</button>
+      </div>
+      <div className="grid grid-cols-7 mb-1">
+        {DAYS_JP.map((d,i) => <div key={d} className={`text-center text-xs font-bold py-1 ${i===0?"text-rose-400":i===6?"text-sky-400":"text-gray-400"}`}>{d}</div>)}
+      </div>
+      <div className="grid grid-cols-7 gap-px bg-gray-100 rounded-xl overflow-hidden border border-gray-200">
+        {calendarDays.map((date,i) => {
+          if(!date) return <div key={`e${i}`} className="bg-white h-12" />;
+          const d=date.getDate(), dd=dayData[d]||{events:0,memos:0};
+          const isT=sameDay(date,today), isSel=selectedDate&&sameDay(date,selectedDate);
+          const isSun=date.getDay()===0, isSat=date.getDay()===6;
+          return (
+            <button key={i} onClick={()=>setSelectedDate(date)}
+              className={`bg-white h-12 flex flex-col items-center justify-center relative transition-colors ${isSel?"ring-2 ring-tiffany-500 ring-inset bg-tiffany-50":isT?"bg-tiffany-50":""}`}>
+              <span className={`text-sm font-bold leading-none ${isT?"text-tiffany-600":isSun?"text-rose-500":isSat?"text-sky-500":"text-gray-700"}`}>{d}</span>
+              <div className="flex gap-0.5 mt-0.5 items-center">
+                {dd.events>0 && dd.events<=3 && Array.from({length:dd.events}).map((_,j)=><div key={j} className="w-1 h-1 rounded-full bg-tiffany-500" />)}
+                {dd.events>3 && <span className="text-tiffany-700 text-xs font-bold leading-none">{dd.events}</span>}
+                {dd.memos>0 && <div className="w-1.5 h-1.5 rounded-full bg-amber-400" />}
+              </div>
+            </button>
+          );
+        })}
+      </div>
+      {selectedDate && (
+        <div className="mt-4">
+          <h3 className="text-base font-bold text-gray-800 mb-2 px-1">{formatDate(selectedDate)}
+            <span className="ml-2 text-sm font-normal text-gray-500">{selShops.length}件</span>
+          </h3>
+          {selShops.length===0 && <p className="text-sm text-gray-400 px-1">この日のイベントなし</p>}
+          {selShops.map(shop => <ShopCard key={shop.id} shop={shop} date={selectedDate} memos={memos} onAddMemo={onAddMemo} onDeleteMemo={onDeleteMemo} result={getResult(shop,selectedDate)} onShowResult={onShowResult} />)}
+        </div>
+      )}
+    </div>
+  );
+}
+
+// ─── メモビュー ───
+function MemoView({ shops, memos, onDeleteMemo }) {
+  const [filterShop, setFilterShop] = useState(null);
+  const shopMap = useMemo(()=>{ const m={}; shops.forEach(s=>{m[s.id]=s;}); return m; }, [shops]);
+  const shopsWithMemos = useMemo(()=>[...new Set(memos.map(m=>m.shopId))].map(id=>shopMap[id]).filter(Boolean), [memos,shopMap]);
+  const filtered = useMemo(()=>{let l=[...memos]; if(filterShop) l=l.filter(m=>m.shopId===filterShop); l.sort((a,b)=>b.date.localeCompare(a.date)||b.createdAt.localeCompare(a.createdAt)); return l;}, [memos,filterShop]);
+  const grouped = useMemo(()=>{const g=[]; let cd=null; filtered.forEach(m=>{if(m.date!==cd){cd=m.date;g.push({date:m.date,memos:[]});}g[g.length-1].memos.push(m);}); return g;}, [filtered]);
+
+  if(memos.length===0) return <div className="py-16 text-center"><p className="text-3xl mb-3">✎</p><p className="text-gray-500 text-sm font-bold">メモなし</p><p className="text-gray-400 text-xs mt-1">店舗カードの ✎ からメモ追加</p></div>;
+
+  return (
+    <div className="pb-4">
+      {shopsWithMemos.length>1 && (
+        <div className="flex flex-wrap gap-1.5 mb-3">
+          <button onClick={()=>setFilterShop(null)} className={`px-3 py-1 rounded-full text-xs font-bold border transition-colors ${!filterShop?"bg-gray-800 text-white border-gray-800":"bg-white text-gray-600 border-gray-300"}`}>すべて</button>
+          {shopsWithMemos.map(s=><button key={s.id} onClick={()=>setFilterShop(s.id)} className={`px-3 py-1 rounded-full text-xs font-bold border transition-colors ${filterShop===s.id?"bg-gray-800 text-white border-gray-800":"bg-white text-gray-600 border-gray-300"}`}>{s.name.length>8?s.name.slice(0,8)+"…":s.name}</button>)}
+        </div>
+      )}
+      {grouped.map(g=>{const date=parseKey(g.date); return (
+        <div key={g.date} className="mb-4">
+          <h3 className="text-sm font-bold text-gray-500 mb-1.5 px-1">{formatDate(date)}</h3>
+          {g.memos.map(memo=>{const shop=shopMap[memo.shopId]; const as=shop?(AREA_STYLES[shop.area]||AREA_STYLES["湘南台・他"]):{bg:"bg-gray-50",border:"border-gray-200",badge:"bg-gray-100 text-gray-600"}; return (
+            <div key={memo.id} className={`${as.bg} border ${as.border} rounded-xl p-3 mb-2`}>
+              <div className="flex items-start justify-between gap-2">
+                <div className="min-w-0 flex-1">
+                  <div className="flex items-center gap-2 mb-1"><span className="font-bold text-gray-900 text-sm">{shop?shop.name:"削除済み"}</span>{shop&&<span className={`text-xs px-1.5 py-0.5 rounded-full ${as.badge}`}>{shop.area}</span>}</div>
+                  <p className="text-sm text-gray-700">{memo.text}</p>
+                </div>
+                <button onClick={()=>onDeleteMemo(memo.id)} className="text-gray-300 hover:text-rose-400 text-sm shrink-0 mt-0.5">✕</button>
+              </div>
+            </div>
+          );})}
+        </div>
+      );})}
+    </div>
+  );
+}
+
+// ─── 店舗リスト ───
+function ShopList({ shops, onDelete, onAdd, memos }) {
+  const [showForm, setShowForm] = useState(false);
+  const [form, setForm] = useState({name:"",area:"立川",digitDays:[],zorome:false,monthDayZorome:false,specificDays:"",saturday:false,annMonth:"",annDay:"",url:""});
+  const toggleDigit=(d)=>setForm(f=>({...f,digitDays:f.digitDays.includes(d)?f.digitDays.filter(x=>x!==d):[...f.digitDays,d].sort()}));
+  const handleSubmit=()=>{if(!form.name.trim())return; const shop={id:`s${Date.now()}`,name:form.name.trim(),area:form.area,digitDays:form.digitDays,zorome:form.zorome,monthDayZorome:form.monthDayZorome,specificDays:form.specificDays?form.specificDays.split(",").map(Number).filter(n=>n>0&&n<=31):[],saturday:form.saturday,anniversary:form.annMonth&&form.annDay?{month:Number(form.annMonth),day:Number(form.annDay)}:null,url:form.url.trim()||null}; onAdd(shop); setForm({name:"",area:"立川",digitDays:[],zorome:false,monthDayZorome:false,specificDays:"",saturday:false,annMonth:"",annDay:"",url:""}); setShowForm(false);};
+  const grouped=AREAS.map(a=>({area:a,shops:shops.filter(s=>s.area===a)})).filter(g=>g.shops.length>0);
+
+  return (
+    <div className="pb-4">
+      {grouped.map(({area,shops:as})=>(
+        <div key={area} className="mb-4">
+          <h3 className="text-sm font-bold text-gray-500 mb-1.5 px-1">{area}（{as.length}）</h3>
+          {as.map(shop=><ShopCard key={shop.id} shop={shop} onDelete={onDelete} compact allShopMemos={memos} />)}
+        </div>
+      ))}
+      {!showForm ? (
+        <button onClick={()=>setShowForm(true)} className="w-full py-3 rounded-xl border-2 border-dashed border-gray-300 text-gray-500 font-bold text-sm hover:border-tiffany-400 hover:text-tiffany-600 transition-colors">＋ 店舗を追加</button>
+      ) : (
+        <div className="bg-white border border-gray-200 rounded-xl p-4 space-y-3">
+          <h3 className="font-bold text-gray-800 text-sm">店舗追加</h3>
+          <input value={form.name} onChange={e=>setForm(f=>({...f,name:e.target.value}))} placeholder="店舗名" className="w-full px-3 py-2 rounded-lg border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
+          <div><label className="text-xs font-bold text-gray-500 block mb-1">エリア</label><div className="flex flex-wrap gap-1.5">{AREAS.map(a=><button key={a} onClick={()=>setForm(f=>({...f,area:a}))} className={`px-3 py-1 rounded-full text-xs font-bold border transition-colors ${form.area===a?"bg-gray-800 text-white border-gray-800":"bg-white text-gray-600 border-gray-300"}`}>{a}</button>)}</div></div>
+          <div><label className="text-xs font-bold text-gray-500 block mb-1">Xの付く日</label><div className="flex gap-1.5">{[1,2,3,4,5,6,7,8,9].map(d=><button key={d} onClick={()=>toggleDigit(d)} className={`w-8 h-8 rounded-lg text-sm font-bold border transition-colors ${form.digitDays.includes(d)?"bg-tiffany-600 text-white border-tiffany-600":"bg-white text-gray-600 border-gray-300"}`}>{d}</button>)}</div></div>
+          <div className="flex flex-wrap gap-2">{[{key:"zorome",label:"ゾロ目日"},{key:"monthDayZorome",label:"月日ゾロ目"},{key:"saturday",label:"土曜日"}].map(({key,label})=><button key={key} onClick={()=>setForm(f=>({...f,[key]:!f[key]}))} className={`px-3 py-1.5 rounded-lg text-xs font-bold border transition-colors ${form[key]?"bg-tiffany-600 text-white border-tiffany-600":"bg-white text-gray-600 border-gray-300"}`}>{label}</button>)}</div>
+          <input value={form.specificDays} onChange={e=>setForm(f=>({...f,specificDays:e.target.value}))} placeholder="毎月X日（カンマ区切り）" className="w-full px-3 py-2 rounded-lg border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
+          <div className="flex gap-2 items-center"><span className="text-xs text-gray-500 shrink-0">周年</span><input value={form.annMonth} onChange={e=>setForm(f=>({...f,annMonth:e.target.value}))} placeholder="月" type="number" min="1" max="12" className="w-16 px-2 py-2 rounded-lg border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" /><span className="text-xs text-gray-400">/</span><input value={form.annDay} onChange={e=>setForm(f=>({...f,annDay:e.target.value}))} placeholder="日" type="number" min="1" max="31" className="w-16 px-2 py-2 rounded-lg border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" /></div>
+          <input value={form.url} onChange={e=>setForm(f=>({...f,url:e.target.value}))} placeholder="P-World URL（任意）" className="w-full px-3 py-2 rounded-lg border border-gray-300 text-sm focus:outline-none focus:ring-2 focus:ring-tiffany-500" />
+          <div className="flex gap-2"><button onClick={handleSubmit} className="flex-1 py-2.5 bg-tiffany-600 text-white font-bold text-sm rounded-xl hover:bg-tiffany-700 transition-colors">追加</button><button onClick={()=>setShowForm(false)} className="px-4 py-2.5 bg-gray-100 text-gray-600 font-bold text-sm rounded-xl">閉じる</button></div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+// ─── メイン ───
+function App() {
+  const [shops, setShops] = useState(null);
+  const [memos, setMemos] = useState([]);
+  const [tab, setTab] = useState("today");
+  const today = useMemo(() => new Date(), []);
+  const [loading, setLoading] = useState(true);
+  const [storageStatus, setStorageStatus] = useState("");
+  const [reports, setReports] = useState([]);
+  const [reportMeta, setReportMeta] = useState(null);
+  const [resultReport, setResultReport] = useState(null);
+
+  useEffect(() => {
+    (async () => {
+      let ls=null, lm=[]; let status=[];
+      try { const r=await storage.get(SHOPS_KEY); if(r?.value){const p=JSON.parse(r.value); if(Array.isArray(p)&&p.length>0){ls=p;status.push("店舗"+p.length);}} } catch(e){}
+      try { const r=await storage.get(MEMOS_KEY); if(r?.value){const p=JSON.parse(r.value); if(Array.isArray(p)){lm=p; if(p.length>0) status.push("メモ"+p.length);}} } catch(e){}
+      if(!ls){ ls=DEFAULT_SHOPS; try{await storage.set(SHOPS_KEY,JSON.stringify(DEFAULT_SHOPS));}catch(e){} status.push("店舗:デフォルト"+DEFAULT_SHOPS.length); }
+      setShops(ls); setMemos(lm); setLoading(false);
+      setStorageStatus(status.join(" / ")||"データなし");
+    })();
+    // 出玉結果を読み込み
+    fetch("./data/reports.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(j=>{
+      if(j){ setReports(j.reports||[]); setReportMeta(j.generated_at); }
+    }).catch(()=>{});
+  }, []);
+
+  const reportIndex = useMemo(() => {
+    const idx={}; reports.forEach(r=>{ if(r.iso_date) idx[normName(r.store)+"|"+r.iso_date]=r; }); return idx;
+  }, [reports]);
+
+  const getResult = useCallback((shop, date) => {
+    if(!date || !reports.length) return null;
+    const iso=toKey(date), sk=normName(shop.name);
+    if(reportIndex[sk+"|"+iso]) return reportIndex[sk+"|"+iso];
+    for(const r of reports){ if(r.iso_date===iso){ const rk=normName(r.store); if(rk.includes(sk.slice(0,3))||sk.includes(rk.slice(0,3))) return r; } }
+    return null;
+  }, [reports, reportIndex]);
+
+  const saveShops = useCallback(async(s)=>{setShops(s);try{await storage.set(SHOPS_KEY,JSON.stringify(s));}catch(e){}}, []);
+  const saveMemos = useCallback(async(m)=>{setMemos(m);try{await storage.set(MEMOS_KEY,JSON.stringify(m));}catch(e){}}, []);
+  const handleDeleteShop = useCallback((id)=>{if(shops) saveShops(shops.filter(s=>s.id!==id));}, [shops,saveShops]);
+  const handleAddShop = useCallback((shop)=>{if(shops) saveShops([...shops,shop]);}, [shops,saveShops]);
+  const handleAddMemo = useCallback((memo)=>{saveMemos([...memos,memo]);}, [memos,saveMemos]);
+  const handleDeleteMemo = useCallback((id)=>{saveMemos(memos.filter(m=>m.id!==id));}, [memos,saveMemos]);
+  const handleReset = useCallback(async()=>{saveShops(DEFAULT_SHOPS);}, [saveShops]);
+
+  if(loading||!shops) return <div className="min-h-screen flex items-center justify-center"><div className="text-gray-400 text-sm">読み込み中...</div></div>;
+
+  const todayEvents = shops.filter(s=>hasEvent(s,today));
+  const tabs = [{id:"today",label:"今日"},{id:"calendar",label:"暦"},{id:"memos",label:"メモ"},{id:"shops",label:"店舗"}];
+
+  return (
+    <div className="min-h-screen">
+      <div className="maxw">
+        <div className="bg-white border-b border-gray-200 px-4 pt-3 pb-2" style={{boxShadow:"inset 0 3px 0 #0ABAB5"}}>
+          <div className="flex items-center justify-between mb-2">
+            <h1 className="text-xl font-black text-gray-900 tracking-tight">のりレポ <span className="text-tiffany-600">神奈川・東京</span></h1>
+            <div className="flex items-center gap-1.5">
+              <span className="text-xs text-gray-400">{formatDate(today)}</span>
+              {todayEvents.length>0 && <span className="bg-tiffany-500 text-white text-xs font-bold px-2 py-0.5 rounded-full">{todayEvents.length}</span>}
+            </div>
+          </div>
+          <p className="text-xs text-gray-300 mb-1">💾 {storageStatus}{reportMeta?` ・ 出玉${reports.length}件(${reportMeta.slice(5,16).replace("T"," ")})`:" ・ 出玉データ読込中"}</p>
+          <div className="flex gap-0.5 bg-gray-100 rounded-xl p-1">
+            {tabs.map(t=><button key={t.id} onClick={()=>setTab(t.id)} className={`flex-1 py-1.5 text-xs font-bold rounded-lg transition-colors ${tab===t.id?"bg-white text-tiffany-700 shadow-sm":"text-gray-500"}`}>{t.label}</button>)}
+          </div>
+        </div>
+        <div className="px-4 pt-3">
+          {tab==="today" && <TodayView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} onShowResult={setResultReport} />}
+          {tab==="calendar" && <CalendarView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} onShowResult={setResultReport} />}
+          {tab==="memos" && <MemoView shops={shops} memos={memos} onDeleteMemo={handleDeleteMemo} />}
+          {tab==="shops" && (<><ShopList shops={shops} onDelete={handleDeleteShop} onAdd={handleAddShop} memos={memos} /><button onClick={handleReset} className="w-full mt-2 mb-4 py-2 text-xs text-gray-400 hover:text-rose-500 transition-colors">初期データにリセット</button></>)}
+        </div>
+      </div>
+      <ResultModal report={resultReport} onClose={()=>setResultReport(null)} />
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+<script>
+  // classic runtime(React.createElement)で変換。automatic だと import 文が出て動かないため。
+  (function(){
+    function boot(){
+      try{
+        var src=document.getElementById("appsrc").textContent;
+        var out=Babel.transform(src,{presets:[["react",{runtime:"classic"}]]}).code;
+        (0,eval)(out);
+      }catch(e){
+        document.getElementById("root").innerHTML='<div style="padding:24px;color:#b23b3b;font-family:sans-serif">読み込みエラー: '+e.message+'</div>';
+        console.error(e);
+      }
+    }
+    if(document.readyState!=="loading") boot(); else document.addEventListener("DOMContentLoaded",boot);
+  })();
 </script>
 </body>
 </html>
