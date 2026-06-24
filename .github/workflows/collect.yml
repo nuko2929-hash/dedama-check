@@ -5,7 +5,8 @@ name: collect-minrepo
 
 on:
   schedule:
-    - cron: "0 22 * * *"   # 毎日 07:00 JST(前日分が出揃った頃)
+    - cron: "0 2 * * *"    # 毎日 11:00 JST(前日分が出揃った頃)
+    - cron: "0 8 * * *"    # 毎日 17:00 JST(朝が一時ブロックでも夕方で拾う・取得済はスキップ)
   workflow_dispatch: {}     # 手動実行も可
 
 permissions:
