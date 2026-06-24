@@ -39,6 +39,36 @@ def tracked_stores():
     return [{"name": x["name"], "aliases": x.get("aliases", [])} for x in s]
 
 
+SEEN_PATH = DATA / "_seen_tweets.json"
+SEEN_CAP = 9000  # 保持するツイートID数の上限(ファイル肥大防止)
+
+
+def load_seen():
+    """Claudeに投げ済みのツイートID集合。初回は既存予想のIDから種を撒く。"""
+    if SEEN_PATH.exists():
+        try:
+            return set(json.loads(SEEN_PATH.read_text(encoding="utf-8")))
+        except Exception:
+            pass
+    seed = set()
+    p = DATA / "predictions.json"
+    if p.exists():
+        try:
+            for pr in json.loads(p.read_text(encoding="utf-8")).get("predictions", []):
+                # id 形式: "{handle}-{tweetid}-{store}" → tweetid を抽出
+                parts = (pr.get("id") or "").split("-")
+                if len(parts) >= 3:
+                    seed.add(parts[1])
+        except Exception:
+            pass
+    return seed
+
+
+def save_seen(seen):
+    ids = list(seen)[-SEEN_CAP:]
+    SEEN_PATH.write_text(json.dumps(ids, ensure_ascii=False), encoding="utf-8")
+
+
 def _get(url, key):
     req = urllib.request.Request(url, headers={"X-API-Key": key})
     with urllib.request.urlopen(req, timeout=30) as r:
@@ -135,14 +165,19 @@ def main():
     floor = (date.today() - timedelta(days=DAYS)).isoformat()
     print(f"収集範囲: {floor} 〜 {today}（{DAYS}日）")
 
+    seen = load_seen()
     new = []
     for src in sources:
         if not src.get("active", True):
             continue
         name, handle = src["name"], src["handle"]
-        tw = fetch_tweets(handle, keys["TWITTERAPI_KEY"], floor)
+        tw_all = fetch_tweets(handle, keys["TWITTERAPI_KEY"], floor)
+        # 処理済みは飛ばす(Claude代の節約)。取得したIDは全部 seen に入れる
+        tw = [t for t in tw_all if str(t.get("id")) not in seen]
+        for t in tw_all:
+            seen.add(str(t.get("id")))
         if not tw:
-            print(f"▼ {name}: 投稿なし")
+            print(f"▼ {name}: 新規投稿なし(取得{len(tw_all)}/処理済スキップ)")
             continue
         recs_all = []
         for i in range(0, len(tw), CHUNK):
@@ -168,8 +203,9 @@ def main():
                     "note": r.get("note") or "", "url": t.get("url", f"https://x.com/{handle}"),
                 })
             time.sleep(0.8)
-        print(f"▼ {name}: 投稿{len(tw)}件 → 予想{len(recs_all)}件")
+        print(f"▼ {name}: 新規投稿{len(tw)}件(全{len(tw_all)}) → 予想{len(recs_all)}件")
         new.extend(recs_all)
+    save_seen(seen)
 
     # 既存とマージ（id単位・過去ぶんは消えない）
     out_path = DATA / "predictions.json"
