@@ -8,7 +8,12 @@ on:
     - cron: "0 2 * * *"    # 毎日 11:00 JST(前日分の出玉が出揃った頃)
     - cron: "0 8 * * *"    # 毎日 17:00 JST(朝が一時ブロックでも夕方で拾う)
     - cron: "30 12 * * *"  # 毎日 21:30 JST(晒し屋の翌日お品書きが出揃う頃→明日のおすすめ更新)
-  workflow_dispatch: {}     # 手動実行も可
+  workflow_dispatch:        # 手動実行(予想の収集日数を指定可。バックフィルは 30 等)
+    inputs:
+      predict_days:
+        description: "晒し屋予想を何日さかのぼるか"
+        required: false
+        default: "4"
 
 permissions:
   contents: write           # data/reports.json をコミットするため
@@ -33,6 +38,7 @@ jobs:
         env:
           TWITTERAPI_KEY: ${{ secrets.TWITTERAPI_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PREDICT_DAYS: ${{ github.event.inputs.predict_days || '4' }}
         run: python collector/predict.py
 
       - name: commit data
