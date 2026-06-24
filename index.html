@@ -309,9 +309,12 @@ function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMem
             <p className="text-xs mt-1"><span className="text-gray-500">⭐ 注目{watchHits.length}機種 </span><span className={`font-bold ${diffColor(watchAvg)}`}>平均{fmtMai(watchAvg)}枚</span></p>
           )}
           {result && (
-            <button onClick={()=>onShowResult(result)} className="mt-2 inline-flex items-center gap-1.5 text-xs font-bold px-2.5 py-1.5 rounded-lg bg-tiffany-500/100 text-ink-900">
-              📊 出玉結果 {result.summary&&result.summary.total_diff!=null?<span className={result.summary.total_diff>0?"text-white":"text-ink-900"}>{fmtMai(result.summary.total_diff)}枚</span>:""}
-            </button>
+            <div className="flex items-center gap-2 mt-2 flex-wrap">
+              <button onClick={()=>onShowResult(result)} className="inline-flex items-center gap-1.5 text-xs font-bold px-2.5 py-1.5 rounded-lg bg-tiffany-500/100 text-ink-900">
+                📊 出玉結果 {result.summary&&result.summary.total_diff!=null?<span className={result.summary.total_diff>0?"text-white":"text-ink-900"}>{fmtMai(result.summary.total_diff)}枚</span>:""}
+              </button>
+              {result.url && <a href={result.url} target="_blank" rel="noopener" onClick={e=>e.stopPropagation()} className="text-xs font-bold text-tiffany-300 underline decoration-tiffany-500/40 underline-offset-2">min-repo🔍</a>}
+            </div>
           )}
         </div>
         <div className="flex gap-1 items-center shrink-0">
