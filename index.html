@@ -132,6 +132,17 @@ function matchMachine(report, predMachine){
   const p=normMachine(predMachine); if(!p) return null;
   return report.kishu.find(k=>{ const n=normMachine(k.name); return n&&(n.includes(p)||p.includes(n)); }) || null;
 }
+// 予想の的中判定: 結果がまだ無ければnull(=採点対象外)、機種指定があれば機種、無ければ店全体で判定
+function judgeHit(pred, report){
+  if(!report) return null;
+  const ms = pred.machines||[];
+  if(ms.length){
+    for(const mn of ms){ const h=matchMachine(report, mn); if(h && h.avg_diff>0) return true; }
+    return false;
+  }
+  const a = report.summary && report.summary.avg_diff;
+  return a!=null ? a>0 : null;
+}
 
 // ─── 過去データからの狙い目(参考) ───
 // その店の過去レポートのうち、今日と同種イベント日の実績を集計。
@@ -541,12 +552,36 @@ function ShopList({ shops, onDelete, onAdd, memos }) {
 }
 
 // ─── 予想ビュー(答え合わせ) ───
-function PredictionView({ predictions, getResultByName, onShowResult }) {
+function PredictionView({ predictions, getResultByName, accByHandle, tomorrowRecs, onShowResult }) {
   if(!predictions.length) return <div className="py-16 text-center"><p className="text-3xl mb-3">🎯</p><p className="text-gray-400 text-sm font-bold">晒し屋予想はまだありません</p><p className="text-gray-500 text-xs mt-1">X連携(Phase2)で自動で入ります</p></div>;
   const sorted=[...predictions].sort((a,b)=>(b.target_date||"").localeCompare(a.target_date||""));
   const groups=[]; let cd=null; sorted.forEach(p=>{ if(p.target_date!==cd){cd=p.target_date; groups.push({date:cd,items:[]});} groups[groups.length-1].items.push(p); });
+  const accBadge=(p)=>{ const a=accByHandle&&accByHandle[p.handle||p.source]; return (a&&a.total>0)?<span className="text-[10px] px-1.5 py-0.5 rounded-full bg-amber-500/15 text-amber-300 font-bold shrink-0">的中{a.rate}%({a.hits}/{a.total})</span>:null; };
   return (
     <div className="pb-4">
+      {tomorrowRecs && tomorrowRecs.areas.length>0 && (
+        <div className="bg-ink-800 border border-tiffany-500/30 rounded-xl p-3 mb-4">
+          <h3 className="text-xs font-bold tracking-wider text-tiffany-300 mb-2">🔮 {(()=>{const d=parseKey(tomorrowRecs.target);return formatDate(d);})()} 行くべき店（晒し屋まとめ・地域別）</h3>
+          {tomorrowRecs.areas.map(([area,stores])=>(
+            <div key={area} className="mb-2 last:mb-0">
+              <p className="text-[11px] font-bold text-gray-500 mb-0.5">{area}</p>
+              {stores.map(s=>(
+                <div key={s.store} className="py-1 border-b border-ink-700 last:border-0">
+                  <div className="flex items-center gap-2">
+                    <span className="font-bold text-white text-sm flex-1 min-w-0 truncate">{s.store}</span>
+                    <span className="text-[10px] text-tiffany-300 font-bold shrink-0">{s.sources.length}晒し屋推し</span>
+                  </div>
+                  <p className="text-[11px] text-gray-400 mt-0.5">
+                    {s.sources.map((x,i)=><span key={i}>{i>0?"・":""}{x.source}{x.rate!=null?`(的中${x.rate}%)`:""}</span>)}
+                  </p>
+                  {s.machines.length>0 && <p className="text-[11px] text-gray-500 mt-0.5">🎯 {s.machines.slice(0,5).join("・")}</p>}
+                </div>
+              ))}
+            </div>
+          ))}
+          <p className="text-[10px] text-gray-500 mt-1.5">複数晒し屋が推す店ほど上。的中率で重み付け（データが溜まるほど精度UP）</p>
+        </div>
+      )}
       {groups.map(g=>{ const d=g.date?parseKey(g.date):null; return (
         <div key={g.date} className="mb-4">
           <h3 className="text-sm font-bold text-gray-400 mb-1.5 px-1">{d?formatDate(d):g.date}</h3>
@@ -556,6 +591,7 @@ function PredictionView({ predictions, getResultByName, onShowResult }) {
                 {p.url
                   ? <a href={p.url} target="_blank" rel="noopener" className="font-bold text-tiffany-300 text-sm underline decoration-tiffany-500/40 underline-offset-2">{p.source} 🔍</a>
                   : <span className="font-bold text-white text-sm">{p.source}</span>}
+                {accBadge(p)}
                 <span className="text-gray-500 text-xs">→</span>
                 <span className="font-bold text-gray-100 text-sm">{p.store}</span>
                 <span className={`text-xs px-1.5 py-0.5 rounded-full ${style.badge}`}>{p.area}</span>
@@ -673,6 +709,44 @@ function App() {
     let out=[]; for(const k in predIndex){ const p=k.split("|"); if(p[1]===iso && (p[0].includes(sk.slice(0,3))||sk.includes(p[0].slice(0,3)))) out=out.concat(predIndex[k]); } return out;
   }, [predIndex]);
   const getPredictions = useCallback((shop, date) => date?predsByName(shop.name, toKey(date)):[], [predsByName]);
+
+  // ── 発信者ごとの的中率 ──
+  const accByHandle = useMemo(() => {
+    const acc={};
+    predictions.forEach(p=>{
+      const rep=getResultByName(p.store, p.target_date);
+      const h=judgeHit(p, rep);
+      if(h===null) return;
+      const k=p.handle||p.source;
+      acc[k]=acc[k]||{hits:0,total:0,source:p.source};
+      acc[k].total++; if(h) acc[k].hits++;
+    });
+    Object.values(acc).forEach(a=>a.rate=a.total?Math.round(a.hits/a.total*100):null);
+    return acc;
+  }, [predictions, getResultByName]);
+
+  // ── 晒し屋情報からの「明日(次の対象日)行くべき店」地域別 ──
+  const tomorrowRecs = useMemo(() => {
+    const todayK=toKey(today);
+    const future=[...new Set(predictions.map(p=>p.target_date).filter(d=>d&&d>=todayK))].sort();
+    if(!future.length) return null;
+    const target=future[0];
+    const ps=predictions.filter(p=>p.target_date===target);
+    const byStore={};
+    ps.forEach(p=>{
+      const k=p.store;
+      byStore[k]=byStore[k]||{store:p.store, area:p.area, sources:[], machines:new Set(), score:0};
+      const a=accByHandle[p.handle||p.source];
+      const w=(a&&a.rate!=null)? a.rate/100 : 0.5;
+      byStore[k].sources.push({source:p.source, rate:(a&&a.rate!=null)?a.rate:null});
+      (p.machines||[]).forEach(m=>byStore[k].machines.add(m));
+      byStore[k].score += w + 0.3;
+    });
+    const list=Object.values(byStore).map(s=>({...s, machines:[...s.machines]})).sort((a,b)=>b.score-a.score);
+    const byArea={};
+    list.forEach(s=>{ const ar=s.area||"その他"; (byArea[ar]=byArea[ar]||[]).push(s); });
+    return {target, areas:Object.entries(byArea)};
+  }, [predictions, accByHandle, today]);
   const getHint = useCallback((shop, date) => date?histStats(shop, date, reports):null, [reports]);
 
   const saveShops = useCallback(async(s)=>{setShops(s);try{await storage.set(SHOPS_KEY,JSON.stringify(s));}catch(e){}}, []);
@@ -712,7 +786,7 @@ function App() {
         <div className="px-4 pt-3">
           {tab==="today" && <TodayView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} getPredictions={getPredictions} getHint={getHint} watchlist={watchlist} onShowResult={setResultReport} />}
           {tab==="calendar" && <CalendarView shops={shops} today={today} memos={memos} onAddMemo={handleAddMemo} onDeleteMemo={handleDeleteMemo} getResult={getResult} getPredictions={getPredictions} getHint={getHint} watchlist={watchlist} onShowResult={setResultReport} />}
-          {tab==="preds" && <PredictionView predictions={predictions} getResultByName={getResultByName} onShowResult={setResultReport} />}
+          {tab==="preds" && <PredictionView predictions={predictions} getResultByName={getResultByName} accByHandle={accByHandle} tomorrowRecs={tomorrowRecs} onShowResult={setResultReport} />}
           {tab==="memos" && <MemoView shops={shops} memos={memos} onDeleteMemo={handleDeleteMemo} />}
           {tab==="shops" && (<><WatchEditor watchlist={watchlist} onAdd={handleAddWatch} onDelete={handleDeleteWatch} /><ShopList shops={shops} onDelete={handleDeleteShop} onAdd={handleAddShop} memos={memos} /></>)}
         </div>
