@@ -1,20 +1,7 @@
 {
   "generated_at": "2026-06-24T05:58",
-  "count": 341,
+  "count": 260,
   "predictions": [
-    {
-      "id": "kachigumimax-2069333324561256828-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-23",
-      "target_date": "2026-06-27",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "6/27注目ホールとして掲載",
-      "url": "https://x.com/kachigumimax/status/2069333324561256828"
-    },
     {
       "id": "slot_ogikiti-2069632948417290512-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -27,32 +14,6 @@
       "matsubi": [],
       "note": "明日25日のお品書きに掲載",
       "url": "https://x.com/slot_ogikiti/status/2069632948417290512"
-    },
-    {
-      "id": "kachigumimax-2069608521252151605-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-24",
-      "target_date": "2026-06-24",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "4の付く日・抽選222名",
-      "url": "https://x.com/kachigumimax/status/2069608521252151605"
-    },
-    {
-      "id": "kachigumimax-2069608521252151605-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-24",
-      "target_date": "2026-06-24",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "4の付く日・抽選83名",
-      "url": "https://x.com/kachigumimax/status/2069608521252151605"
     },
     {
       "id": "karasuro_7-2069362883868463496-ガーデン戸塚",
@@ -128,32 +89,6 @@
       "url": "https://x.com/slot_ogikiti/status/2069394588356493346"
     },
     {
-      "id": "kachigumimax-2069362028935049550-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-23",
-      "target_date": "2026-06-24",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "4の付く日×注目ホールとして挙げられている",
-      "url": "https://x.com/kachigumimax/status/2069362028935049550"
-    },
-    {
-      "id": "kachigumimax-2069361296655671637-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-23",
-      "target_date": "2026-06-24",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "4の付く日×注目ホールとして挙げられている",
-      "url": "https://x.com/kachigumimax/status/2069361296655671637"
-    },
-    {
       "id": "1_take6-2069364406627275194-マルハン綾瀬",
       "source": "Take6 ホール調査",
       "handle": "1_take6",
@@ -197,32 +132,6 @@
       ],
       "note": "③の日はサミー機種強化、配分系・並び狙い",
       "url": "https://x.com/slo1_tyousataiZ/status/2069030155490918807"
-    },
-    {
-      "id": "kachigumimax-2068998031698219281-スーパーDステーション立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-22",
-      "target_date": "2026-06-23",
-      "store": "スーパーDステーション立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "3の付く日×穴場ホールとして注目",
-      "url": "https://x.com/kachigumimax/status/2068998031698219281"
-    },
-    {
-      "id": "kachigumimax-2068998031698219281-グランドホール長後",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-22",
-      "target_date": "2026-06-23",
-      "store": "グランドホール長後",
-      "area": "湘南台",
-      "machines": [],
-      "matsubi": [],
-      "note": "3の付く日×穴場ホールとして注目",
-      "url": "https://x.com/kachigumimax/status/2068998031698219281"
     },
     {
       "id": "karasuro_7-2068989351707779461-ガーデン戸塚",
@@ -495,110 +404,6 @@
       "url": "https://x.com/slo1_tyousataiZ/status/2068647666834415662"
     },
     {
-      "id": "kachigumimax-2068894154399379821-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-22",
-      "target_date": "2026-06-22",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "2の付く日×新装開店、抽選100名",
-      "url": "https://x.com/kachigumimax/status/2068894154399379821"
-    },
-    {
-      "id": "kachigumimax-2068894154399379821-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-22",
-      "target_date": "2026-06-22",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "2の付く日×抽選397名の大行列",
-      "url": "https://x.com/kachigumimax/status/2068894154399379821"
-    },
-    {
-      "id": "kachigumimax-2068894154399379821-アビバ湘南台",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-22",
-      "target_date": "2026-06-22",
-      "store": "アビバ湘南台",
-      "area": "湘南台",
-      "machines": [],
-      "matsubi": [],
-      "note": "2の付く日×抽選39名",
-      "url": "https://x.com/kachigumimax/status/2068894154399379821"
-    },
-    {
-      "id": "kachigumimax-2068894154399379821-パラッツォ湘南台",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-22",
-      "target_date": "2026-06-22",
-      "store": "パラッツォ湘南台",
-      "area": "湘南台",
-      "machines": [],
-      "matsubi": [],
-      "note": "2の付く日×抽選30名",
-      "url": "https://x.com/kachigumimax/status/2068894154399379821"
-    },
-    {
-      "id": "kachigumimax-2068636896205676835-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-21",
-      "target_date": "2026-06-22",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "2の付く日×毎月22日×ゾロ目注目",
-      "url": "https://x.com/kachigumimax/status/2068636896205676835"
-    },
-    {
-      "id": "kachigumimax-2068636896205676835-パラッツォ湘南台",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-21",
-      "target_date": "2026-06-22",
-      "store": "パラッツォ湘南台",
-      "area": "湘南台",
-      "machines": [],
-      "matsubi": [],
-      "note": "2の付く日×毎月22日×ゾロ目注目",
-      "url": "https://x.com/kachigumimax/status/2068636896205676835"
-    },
-    {
-      "id": "kachigumimax-2068636765947363457-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-21",
-      "target_date": "2026-06-22",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "2の付く日×毎月22日×ゾロ目×新装開店注目",
-      "url": "https://x.com/kachigumimax/status/2068636765947363457"
-    },
-    {
-      "id": "kachigumimax-2068636765947363457-パラッツォ湘南台",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-21",
-      "target_date": "2026-06-22",
-      "store": "パラッツォ湘南台",
-      "area": "湘南台",
-      "machines": [],
-      "matsubi": [],
-      "note": "2の付く日×毎月22日×ゾロ目×新装開店注目",
-      "url": "https://x.com/kachigumimax/status/2068636765947363457"
-    },
-    {
       "id": "karasuro_7-2068660914061250943-ガーデン戸塚",
       "source": "カラスロ@神奈川",
       "handle": "karasuro_7",
@@ -863,32 +668,6 @@
       "matsubi": [],
       "note": "①の日、列・3台並び複数、高配分",
       "url": "https://x.com/slo1_tyousataiZ/status/2068308148067430407"
-    },
-    {
-      "id": "kachigumimax-2068532048936182102-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-21",
-      "target_date": "2026-06-21",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "1の付く日×毎月21日抽選60名",
-      "url": "https://x.com/kachigumimax/status/2068532048936182102"
-    },
-    {
-      "id": "kachigumimax-2068532048936182102-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-21",
-      "target_date": "2026-06-21",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "1の付く日×毎月21日抽選161名",
-      "url": "https://x.com/kachigumimax/status/2068532048936182102"
     },
     {
       "id": "karasuro_7-2068515326405607459-ピーアーク相模大野",
@@ -1352,71 +1131,6 @@
       "url": "https://x.com/slo1_tyousataiZ/status/2067954920842506473"
     },
     {
-      "id": "kachigumimax-2068190204582920393-スーパーDステーション立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-20",
-      "target_date": "2026-06-20",
-      "store": "スーパーDステーション立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "0の付く日×毎月20日×第3土曜日で87名抽選",
-      "url": "https://x.com/kachigumimax/status/2068190204582920393"
-    },
-    {
-      "id": "kachigumimax-2068190204582920393-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-20",
-      "target_date": "2026-06-20",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "0の付く日×毎月20日×第3土曜日で451名抽選",
-      "url": "https://x.com/kachigumimax/status/2068190204582920393"
-    },
-    {
-      "id": "kachigumimax-2068190204582920393-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-20",
-      "target_date": "2026-06-20",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "新！ガーデン戸塚として150名抽選参加",
-      "url": "https://x.com/kachigumimax/status/2068190204582920393"
-    },
-    {
-      "id": "kachigumimax-2068190204582920393-キコーナ戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-20",
-      "target_date": "2026-06-20",
-      "store": "キコーナ戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "0の付く日×毎月20日×第3土曜日で70名抽選",
-      "url": "https://x.com/kachigumimax/status/2068190204582920393"
-    },
-    {
-      "id": "kachigumimax-2067911634119721271-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-19",
-      "target_date": "2026-06-20",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "0の付く日×毎月20日×第3土曜日の注視ホール",
-      "url": "https://x.com/kachigumimax/status/2067911634119721271"
-    },
-    {
       "id": "karasuro_7-2067866166652186990-ガーデン戸塚",
       "source": "カラスロ@神奈川",
       "handle": "karasuro_7",
@@ -1743,45 +1457,6 @@
       "url": "https://x.com/slo1_tyousataiZ/status/2067576615023083756"
     },
     {
-      "id": "kachigumimax-2067797188982562917-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-19",
-      "target_date": "2026-06-19",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "9の付く日×金曜日の抽選人数50名",
-      "url": "https://x.com/kachigumimax/status/2067797188982562917"
-    },
-    {
-      "id": "kachigumimax-2067797188982562917-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-19",
-      "target_date": "2026-06-19",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "9の付く日×金曜日の抽選人数118名",
-      "url": "https://x.com/kachigumimax/status/2067797188982562917"
-    },
-    {
-      "id": "kachigumimax-2067797188982562917-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-19",
-      "target_date": "2026-06-19",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "9の付く日×金曜日の抽選人数47名",
-      "url": "https://x.com/kachigumimax/status/2067797188982562917"
-    },
-    {
       "id": "karasuro_7-2067832144022667588-ピーアーク相模大野",
       "source": "カラスロ@神奈川",
       "handle": "karasuro_7",
@@ -1937,66 +1612,6 @@
       ],
       "note": "⑧の日・熱烈歓迎。ゴージャグ列全候補、沖スロ優先",
       "url": "https://x.com/slo1_tyousataiZ/status/2067222872985362692"
-    },
-    {
-      "id": "kachigumimax-2067446974195056823-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-18",
-      "target_date": "2026-06-18",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [
-        8
-      ],
-      "note": "8の付く日、抽選20名",
-      "url": "https://x.com/kachigumimax/status/2067446974195056823"
-    },
-    {
-      "id": "kachigumimax-2067446974195056823-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-18",
-      "target_date": "2026-06-18",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [
-        8
-      ],
-      "note": "8の付く日、抽選451名で神奈川聖地級",
-      "url": "https://x.com/kachigumimax/status/2067446974195056823"
-    },
-    {
-      "id": "kachigumimax-2067446974195056823-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-18",
-      "target_date": "2026-06-18",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [
-        8
-      ],
-      "note": "8の付く日、抽選103名",
-      "url": "https://x.com/kachigumimax/status/2067446974195056823"
-    },
-    {
-      "id": "kachigumimax-2067188380128199087-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-17",
-      "target_date": "2026-06-18",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [
-        "8"
-      ],
-      "note": "8の付く日×穴場ホールとして注目",
-      "url": "https://x.com/kachigumimax/status/2067188380128199087"
     },
     {
       "id": "karasuro_7-2067206996336787562-ピーアーク相模大野",
@@ -2171,51 +1786,6 @@
       "url": "https://x.com/slo1_tyousataiZ/status/2066839601336201360"
     },
     {
-      "id": "kachigumimax-2067081324171784248-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-17",
-      "target_date": "2026-06-17",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [
-        "7"
-      ],
-      "note": "7の付く日、抽選40名",
-      "url": "https://x.com/kachigumimax/status/2067081324171784248"
-    },
-    {
-      "id": "kachigumimax-2067081324171784248-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-17",
-      "target_date": "2026-06-17",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [
-        "7"
-      ],
-      "note": "7の付く日、抽選132名",
-      "url": "https://x.com/kachigumimax/status/2067081324171784248"
-    },
-    {
-      "id": "kachigumimax-2067081324171784248-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-17",
-      "target_date": "2026-06-17",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [
-        "7"
-      ],
-      "note": "新！ガーデン戸塚、抽選68名",
-      "url": "https://x.com/kachigumimax/status/2067081324171784248"
-    },
-    {
       "id": "karasuro_7-2067349547387584891-ガーデン戸塚",
       "source": "カラスロ@神奈川",
       "handle": "karasuro_7",
@@ -2330,45 +1900,6 @@
       "url": "https://x.com/1_take6/status/2066790351558566045"
     },
     {
-      "id": "kachigumimax-2066721221333651817-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-16",
-      "target_date": "2026-06-16",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "6の付く日・抽選40名集結",
-      "url": "https://x.com/kachigumimax/status/2066721221333651817"
-    },
-    {
-      "id": "kachigumimax-2066721221333651817-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-16",
-      "target_date": "2026-06-16",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "6の付く日・抽選60名集結",
-      "url": "https://x.com/kachigumimax/status/2066721221333651817"
-    },
-    {
-      "id": "kachigumimax-2065708407081054269-キコーナ戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-13",
-      "target_date": "2026-06-16",
-      "store": "キコーナ戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "6/16注目ホールとして掲載",
-      "url": "https://x.com/kachigumimax/status/2065708407081054269"
-    },
-    {
       "id": "karasuro_7-2066413861151146449-エランドール泉",
       "source": "カラスロ@神奈川",
       "handle": "karasuro_7",
@@ -2448,64 +1979,6 @@
       "url": "https://x.com/slo1_tyousataiZ/status/2066128394132295869"
     },
     {
-      "id": "kachigumimax-2066355135132193180-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-15",
-      "target_date": "2026-06-15",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [
-        "5"
-      ],
-      "note": "5の付く日、抽選240名",
-      "url": "https://x.com/kachigumimax/status/2066355135132193180"
-    },
-    {
-      "id": "kachigumimax-2066355135132193180-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-15",
-      "target_date": "2026-06-15",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [
-        "5"
-      ],
-      "note": "5の付く日、抽選148名",
-      "url": "https://x.com/kachigumimax/status/2066355135132193180"
-    },
-    {
-      "id": "kachigumimax-2066355135132193180-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-15",
-      "target_date": "2026-06-15",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [
-        "5"
-      ],
-      "note": "5の付く日、抽選160名",
-      "url": "https://x.com/kachigumimax/status/2066355135132193180"
-    },
-    {
-      "id": "kachigumimax-2065708407081054269-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-13",
-      "target_date": "2026-06-15",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "6/15注目ホールとして掲載",
-      "url": "https://x.com/kachigumimax/status/2065708407081054269"
-    },
-    {
       "id": "karasuro_7-2066082357749461191-ガーデン戸塚",
       "source": "カラスロ@神奈川",
       "handle": "karasuro_7",
@@ -2565,71 +2038,6 @@
       ],
       "note": "スロパチガール来店。抽選8時30分",
       "url": "https://x.com/1_take6/status/2066074830479474809"
-    },
-    {
-      "id": "kachigumimax-2066000535304679761-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-14",
-      "target_date": "2026-06-14",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "4の付く日、抽選60名",
-      "url": "https://x.com/kachigumimax/status/2066000535304679761"
-    },
-    {
-      "id": "kachigumimax-2066000535304679761-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-14",
-      "target_date": "2026-06-14",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "4の付く日×週末日曜、抽選498名",
-      "url": "https://x.com/kachigumimax/status/2066000535304679761"
-    },
-    {
-      "id": "kachigumimax-2066000535304679761-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-14",
-      "target_date": "2026-06-14",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "4の付く日×週末日曜、抽選234名",
-      "url": "https://x.com/kachigumimax/status/2066000535304679761"
-    },
-    {
-      "id": "kachigumimax-2066000535304679761-アビバ湘南台",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-14",
-      "target_date": "2026-06-14",
-      "store": "アビバ湘南台",
-      "area": "湘南台",
-      "machines": [],
-      "matsubi": [],
-      "note": "4の付く日×週末日曜、抽選100名",
-      "url": "https://x.com/kachigumimax/status/2066000535304679761"
-    },
-    {
-      "id": "kachigumimax-2065736898795159678-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-13",
-      "target_date": "2026-06-14",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "4の付く日×週末日曜日の注目ホール",
-      "url": "https://x.com/kachigumimax/status/2065736898795159678"
     },
     {
       "id": "karasuro_7-2065715496184619283-ガーデン戸塚",
@@ -2838,110 +2246,6 @@
       "matsubi": [],
       "note": "スロパチステーション来店取材。週末。抽選未記載",
       "url": "https://x.com/1_take6/status/2065694587956412649"
-    },
-    {
-      "id": "kachigumimax-2065629851558756718-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-13",
-      "target_date": "2026-06-13",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "3の付く日、抽選80名",
-      "url": "https://x.com/kachigumimax/status/2065629851558756718"
-    },
-    {
-      "id": "kachigumimax-2065629851558756718-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-13",
-      "target_date": "2026-06-13",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "3の付く日、抽選401名の大動員",
-      "url": "https://x.com/kachigumimax/status/2065629851558756718"
-    },
-    {
-      "id": "kachigumimax-2065629851558756718-アビバ湘南台",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-13",
-      "target_date": "2026-06-13",
-      "store": "アビバ湘南台",
-      "area": "湘南台",
-      "machines": [],
-      "matsubi": [],
-      "note": "3の付く日、抽選210名",
-      "url": "https://x.com/kachigumimax/status/2065629851558756718"
-    },
-    {
-      "id": "kachigumimax-2065629851558756718-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-13",
-      "target_date": "2026-06-13",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "3の付く日、抽選141名",
-      "url": "https://x.com/kachigumimax/status/2065629851558756718"
-    },
-    {
-      "id": "kachigumimax-2065374074378076573-アビバ湘南台",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-12",
-      "target_date": "2026-06-13",
-      "store": "アビバ湘南台",
-      "area": "湘南台",
-      "machines": [],
-      "matsubi": [],
-      "note": "3の付く日×第2土曜×週末、注視＆穴場ホール",
-      "url": "https://x.com/kachigumimax/status/2065374074378076573"
-    },
-    {
-      "id": "kachigumimax-2064588225235366363-キコーナ戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-10",
-      "target_date": "2026-06-13",
-      "store": "キコーナ戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "土曜日の注目ホールとして掲載",
-      "url": "https://x.com/kachigumimax/status/2064588225235366363"
-    },
-    {
-      "id": "kachigumimax-2064588225235366363-アビバ湘南台",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-10",
-      "target_date": "2026-06-13",
-      "store": "アビバ湘南台",
-      "area": "湘南台",
-      "machines": [],
-      "matsubi": [],
-      "note": "土曜日の注目ホールとして掲載",
-      "url": "https://x.com/kachigumimax/status/2064588225235366363"
-    },
-    {
-      "id": "kachigumimax-2064588225235366363-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-10",
-      "target_date": "2026-06-13",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "土曜日の注目ホールとして掲載",
-      "url": "https://x.com/kachigumimax/status/2064588225235366363"
     },
     {
       "id": "karasuro_7-2068867015553810872-スクランブル田谷",
@@ -3366,58 +2670,6 @@
       "url": "https://x.com/1_take6/status/2065359259903414716"
     },
     {
-      "id": "kachigumimax-2065264326651564200-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-12",
-      "target_date": "2026-06-12",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "2の付く日、抽選25名",
-      "url": "https://x.com/kachigumimax/status/2065264326651564200"
-    },
-    {
-      "id": "kachigumimax-2065264326651564200-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-12",
-      "target_date": "2026-06-12",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "2の付く日、抽選145名",
-      "url": "https://x.com/kachigumimax/status/2065264326651564200"
-    },
-    {
-      "id": "kachigumimax-2065264326651564200-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-12",
-      "target_date": "2026-06-12",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "2の付く日、抽選104名",
-      "url": "https://x.com/kachigumimax/status/2065264326651564200"
-    },
-    {
-      "id": "kachigumimax-2065010919126839485-アビバ湘南台",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-11",
-      "target_date": "2026-06-12",
-      "store": "アビバ湘南台",
-      "area": "湘南台",
-      "machines": [],
-      "matsubi": [],
-      "note": "12日注視＆穴場ホールとして名指し",
-      "url": "https://x.com/kachigumimax/status/2065010919126839485"
-    },
-    {
       "id": "karasuro_7-2064985491171397638-ガーデン戸塚",
       "source": "カラスロ@神奈川",
       "handle": "karasuro_7",
@@ -3493,60 +2745,6 @@
       "matsubi": [],
       "note": "平常日サキドリ来店取材、抽選8時30分",
       "url": "https://x.com/1_take6/status/2065001385335353785"
-    },
-    {
-      "id": "kachigumimax-2064894758435405986-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-11",
-      "target_date": "2026-06-11",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "1の付く日×ゾロ目、225名動員で注目",
-      "url": "https://x.com/kachigumimax/status/2064894758435405986"
-    },
-    {
-      "id": "kachigumimax-2064894758435405986-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-11",
-      "target_date": "2026-06-11",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "1の付く日×ゾロ目、337名動員で注目",
-      "url": "https://x.com/kachigumimax/status/2064894758435405986"
-    },
-    {
-      "id": "kachigumimax-2064894758435405986-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-11",
-      "target_date": "2026-06-11",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "新ガーデン戸塚、51名動員で参加",
-      "url": "https://x.com/kachigumimax/status/2064894758435405986"
-    },
-    {
-      "id": "kachigumimax-2064649639450878235-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-10",
-      "target_date": "2026-06-11",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [
-        1
-      ],
-      "note": "11の付く日の注視・穴場ホール候補",
-      "url": "https://x.com/kachigumimax/status/2064649639450878235"
     },
     {
       "id": "karasuro_7-2064625603924607137-ピーアーク相模大野",
@@ -3673,66 +2871,6 @@
       "url": "https://x.com/1_take6/status/2064635133127168373"
     },
     {
-      "id": "kachigumimax-2064546055354802228-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-10",
-      "target_date": "2026-06-10",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [
-        0
-      ],
-      "note": "0の付く日、抽選30名集客",
-      "url": "https://x.com/kachigumimax/status/2064546055354802228"
-    },
-    {
-      "id": "kachigumimax-2064546055354802228-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-10",
-      "target_date": "2026-06-10",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [
-        0
-      ],
-      "note": "0の付く日、抽選215名と高集客",
-      "url": "https://x.com/kachigumimax/status/2064546055354802228"
-    },
-    {
-      "id": "kachigumimax-2064546055354802228-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-10",
-      "target_date": "2026-06-10",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [
-        0
-      ],
-      "note": "新！ガーデン戸塚、0の付く日72名",
-      "url": "https://x.com/kachigumimax/status/2064546055354802228"
-    },
-    {
-      "id": "kachigumimax-2064290881528910280-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-09",
-      "target_date": "2026-06-10",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [
-        0
-      ],
-      "note": "0の付く日×注視＆穴場ホールとして言及",
-      "url": "https://x.com/kachigumimax/status/2064290881528910280"
-    },
-    {
       "id": "slo1_tyousataiZ-2063952579055288783-楽園立川店",
       "source": "スロイベ調査隊Z@関東(2代目)",
       "handle": "slo1_tyousataiZ",
@@ -3744,36 +2882,6 @@
       "matsubi": [],
       "note": "明日の関東リスト掲載店",
       "url": "https://x.com/slo1_tyousataiZ/status/2063952579055288783"
-    },
-    {
-      "id": "kachigumimax-2064208902011678732-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-09",
-      "target_date": "2026-06-09",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [
-        9
-      ],
-      "note": "9の付く日抽選170名集結",
-      "url": "https://x.com/kachigumimax/status/2064208902011678732"
-    },
-    {
-      "id": "kachigumimax-2064208902011678732-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-09",
-      "target_date": "2026-06-09",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [
-        9
-      ],
-      "note": "9の付く日抽選30名集結",
-      "url": "https://x.com/kachigumimax/status/2064208902011678732"
     },
     {
       "id": "karasuro_7-2063849455204589727-ガーデン戸塚",
@@ -3809,71 +2917,6 @@
       "matsubi": [],
       "note": "明日の神奈川お品書きに掲載",
       "url": "https://x.com/karasuro_7/status/2063849455204589727"
-    },
-    {
-      "id": "kachigumimax-2063819594431938967-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-08",
-      "target_date": "2026-06-08",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "8の付く日×毎月8日、抽選435名",
-      "url": "https://x.com/kachigumimax/status/2063819594431938967"
-    },
-    {
-      "id": "kachigumimax-2063819594431938967-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-08",
-      "target_date": "2026-06-08",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "8の付く日、抽選409名の大集結",
-      "url": "https://x.com/kachigumimax/status/2063819594431938967"
-    },
-    {
-      "id": "kachigumimax-2063819594431938967-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-08",
-      "target_date": "2026-06-08",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "新！ガーデン戸塚、8の付く日103名",
-      "url": "https://x.com/kachigumimax/status/2063819594431938967"
-    },
-    {
-      "id": "kachigumimax-2063501872674275760-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-07",
-      "target_date": "2026-06-08",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "8の付く日×新装開店×来店取材の注目ホール",
-      "url": "https://x.com/kachigumimax/status/2063501872674275760"
-    },
-    {
-      "id": "kachigumimax-2063563644722671690-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-07",
-      "target_date": "2026-06-08",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "旧イベ＆実績強ホール。メイン機種寄せ＋並び構成",
-      "url": "https://x.com/kachigumimax/status/2063563644722671690"
     },
     {
       "id": "karasuro_7-2066717621609959532-ガーデン戸塚",
@@ -4024,58 +3067,6 @@
       "url": "https://x.com/slo1_tyousataiZ/status/2063202839149871413"
     },
     {
-      "id": "kachigumimax-2063500834869256637-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-07",
-      "target_date": "2026-06-07",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "7の付く日、抽選200名の注目ホール",
-      "url": "https://x.com/kachigumimax/status/2063500834869256637"
-    },
-    {
-      "id": "kachigumimax-2063500834869256637-スクランブル田谷",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-07",
-      "target_date": "2026-06-07",
-      "store": "スクランブル田谷",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "7の付く日、抽選31名",
-      "url": "https://x.com/kachigumimax/status/2063500834869256637"
-    },
-    {
-      "id": "kachigumimax-2063500834869256637-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-07",
-      "target_date": "2026-06-07",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "7の付く日、抽選371名の高動員",
-      "url": "https://x.com/kachigumimax/status/2063500834869256637"
-    },
-    {
-      "id": "kachigumimax-2062762540237795536-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-05",
-      "target_date": "2026-06-07",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "6月7日日曜注目ホールとして列挙",
-      "url": "https://x.com/kachigumimax/status/2062762540237795536"
-    },
-    {
       "id": "karasuro_7-2063204002725326994-ガーデン戸塚",
       "source": "カラスロ@神奈川",
       "handle": "karasuro_7",
@@ -4116,71 +3107,6 @@
       "matsubi": [],
       "note": "日曜まいったぁー⤴︎+スロ影RyoのSunday Jack狙い",
       "url": "https://x.com/1_take6/status/2063184531339776395"
-    },
-    {
-      "id": "kachigumimax-2063124808196342089-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-06",
-      "target_date": "2026-06-06",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "抽選600名。6の付く日の注目店",
-      "url": "https://x.com/kachigumimax/status/2063124808196342089"
-    },
-    {
-      "id": "kachigumimax-2063124808196342089-ピーアーク相模大野",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-06",
-      "target_date": "2026-06-06",
-      "store": "ピーアーク相模大野",
-      "area": "相模大野",
-      "machines": [],
-      "matsubi": [],
-      "note": "抽選930名。6の付く日の注目店",
-      "url": "https://x.com/kachigumimax/status/2063124808196342089"
-    },
-    {
-      "id": "kachigumimax-2063124808196342089-エランドール泉",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-06",
-      "target_date": "2026-06-06",
-      "store": "エランドール泉",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "抽選249名。6の付く日の注目店",
-      "url": "https://x.com/kachigumimax/status/2063124808196342089"
-    },
-    {
-      "id": "kachigumimax-2063124808196342089-ガーデン戸塚",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-06",
-      "target_date": "2026-06-06",
-      "store": "ガーデン戸塚",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "抽選227名。6の付く日の注目店",
-      "url": "https://x.com/kachigumimax/status/2063124808196342089"
-    },
-    {
-      "id": "kachigumimax-2062841673290584501-エランドール泉",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-05",
-      "target_date": "2026-06-06",
-      "store": "エランドール泉",
-      "area": "戸塚",
-      "machines": [],
-      "matsubi": [],
-      "note": "6の付く日×ゾロ目・注視穴場ホール",
-      "url": "https://x.com/kachigumimax/status/2062841673290584501"
     },
     {
       "id": "karasuro_7-2062810642869084490-ガーデン戸塚",
@@ -4262,19 +3188,6 @@
       "matsubi": [],
       "note": "月イチ系イベント対象店として列挙",
       "url": "https://x.com/slo1_tyousataiZ/status/2062508419580654011"
-    },
-    {
-      "id": "kachigumimax-2062720791155024056-ハイパージアス立川",
-      "source": "Makotoパチスロ案内人",
-      "handle": "kachigumimax",
-      "posted_at": "2026-06-05",
-      "target_date": "2026-06-05",
-      "store": "ハイパージアス立川",
-      "area": "立川",
-      "machines": [],
-      "matsubi": [],
-      "note": "5の付く日・抽選200名",
-      "url": "https://x.com/kachigumimax/status/2062720791155024056"
     },
     {
       "id": "karasuro_7-2062414312770347094-ガーデン戸塚",
