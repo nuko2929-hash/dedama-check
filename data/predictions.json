@@ -1,71 +1,100 @@
 {
-  "_note": "晒し屋X予想。本番ではcollectorがX(twitterapi.io)→Claude構造化で自動生成する。これは画面確認用のサンプル。",
-  "generated_at": "2026-06-24T04:00",
+  "generated_at": "2026-06-24T14:08",
+  "count": 6,
   "predictions": [
     {
-      "id": "demo1",
+      "id": "slot_ogikiti-2069632948417290512-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
-      "posted_at": "2026-06-21",
-      "target_date": "2026-06-22",
-      "store": "楽園立川店",
-      "area": "立川",
-      "machines": ["シャーマンキング", "とある科学の超電磁砲2"],
-      "matsubi": [],
-      "note": "ゾロ目の日は全台系の実績アリ。スマスロ新台中心に強気で見る。",
-      "url": "https://x.com/slot_ogikiti"
-    },
-    {
-      "id": "demo2",
-      "source": "カラスロ@神奈川",
-      "handle": "karasuro_7",
-      "posted_at": "2026-06-21",
-      "target_date": "2026-06-22",
+      "posted_at": "2026-06-24",
+      "target_date": "2026-06-25",
       "store": "ハイパージアス立川",
       "area": "立川",
-      "machines": ["無職転生", "東京リベンジャーズ"],
+      "machines": [],
       "matsubi": [],
-      "note": "5の付く日。無職転生の並びに注目。",
-      "url": "https://x.com/karasuro_7"
+      "note": "明日25日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2069632948417290512"
     },
     {
-      "id": "demo3",
-      "source": "スロイベ調査隊Z@関東",
-      "handle": "slo1_tyousataiZ",
-      "posted_at": "2026-06-20",
-      "target_date": "2026-06-21",
-      "store": "スクランブル田谷",
+      "id": "kachigumimax-2069608521252151605-ピーアーク相模大野",
+      "source": "Makotoパチスロ案内人",
+      "handle": "kachigumimax",
+      "posted_at": "2026-06-24",
+      "target_date": "2026-06-24",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "4の付く日・抽選222名で好環境示唆",
+      "url": "https://x.com/kachigumimax/status/2069608521252151605"
+    },
+    {
+      "id": "kachigumimax-2069608521252151605-ガーデン戸塚",
+      "source": "Makotoパチスロ案内人",
+      "handle": "kachigumimax",
+      "posted_at": "2026-06-24",
+      "target_date": "2026-06-24",
+      "store": "ガーデン戸塚",
       "area": "戸塚",
-      "machines": ["主役は銭形5", "炎炎ノ消防隊2"],
+      "machines": [],
       "matsubi": [],
-      "note": "毎月25日系の前哨。Aタイプ＋新台に配分ありそう。",
-      "url": "https://x.com/slo1_tyousataiZ"
+      "note": "4の付く日・抽選83名で狙い目示唆",
+      "url": "https://x.com/kachigumimax/status/2069608521252151605"
     },
     {
-      "id": "demo4",
+      "id": "karasuro_7-2069362883868463496-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-23",
+      "target_date": "2026-06-24",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "AI脳トレ取材。GOD/ジャグ連日虹あり推奨",
+      "url": "https://x.com/karasuro_7/status/2069362883868463496"
+    },
+    {
+      "id": "karasuro_7-2069346607422992641-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-23",
+      "target_date": "2026-06-24",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "マイV",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "スロパチ来店S。4台並び・毎日仕掛けあり",
+      "url": "https://x.com/karasuro_7/status/2069346607422992641"
+    },
+    {
+      "id": "1_take6-2069371952964497747-マルハン綾瀬",
       "source": "Take6 ホール調査",
       "handle": "1_take6",
-      "posted_at": "2026-06-21",
-      "target_date": "2026-06-22",
-      "store": "相模大野UNO",
-      "area": "相模大野",
-      "machines": ["スーパーリオエース2"],
-      "matsubi": [2],
-      "note": "末尾2に座れるなら狙い目。",
-      "url": "https://x.com/1_take6"
-    },
-    {
-      "id": "demo5",
-      "source": "【暁】AIナビ関東圏",
-      "handle": "grandcross777",
-      "posted_at": "2026-06-20",
-      "target_date": "2026-06-21",
+      "posted_at": "2026-06-23",
+      "target_date": "2026-06-24",
       "store": "マルハン綾瀬",
-      "area": "湘南台・他",
-      "machines": ["吉宗", "化物語"],
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "GOD",
+        "ヴヴヴ2",
+        "東リベ",
+        "エヴァ17",
+        "大海SP",
+        "リコリコ"
+      ],
       "matsubi": [],
-      "note": "7の付く日狙い。設定入る読み。",
-      "url": "https://x.com/grandcross777"
+      "note": "24日孤軍奮闘、1/2仕掛け中心、オススメ機種注目",
+      "url": "https://x.com/1_take6/status/2069371952964497747"
     }
   ]
 }
