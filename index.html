@@ -132,16 +132,19 @@ function matchMachine(report, predMachine){
   const p=normMachine(predMachine); if(!p) return null;
   return report.kishu.find(k=>{ const n=normMachine(k.name); return n&&(n.includes(p)||p.includes(n)); }) || null;
 }
-// 予想の的中判定: 結果がまだ無ければnull(=採点対象外)、機種指定があれば機種、無ければ店全体で判定
+// 予想の採点(0〜1)。結果が無ければnull(採点対象外)。
+// 機種指定あり→ 名指し機種のうち(結果データがある)機種で「プラスだった割合」。
+// 機種指定なし(お品書き)→ 店全体の1台平均がプラスなら1.0、マイナスなら0。
 function judgeHit(pred, report){
   if(!report) return null;
   const ms = pred.machines||[];
   if(ms.length){
-    for(const mn of ms){ const h=matchMachine(report, mn); if(h && h.avg_diff>0) return true; }
-    return false;
+    let have=0, plus=0;
+    for(const mn of ms){ const h=matchMachine(report, mn); if(h && h.avg_diff!=null){ have++; if(h.avg_diff>0) plus++; } }
+    return have>0 ? plus/have : null;   // 名指し機種の結果が1つも無ければ採点外
   }
   const a = report.summary && report.summary.avg_diff;
-  return a!=null ? a>0 : null;
+  return a!=null ? (a>0?1:0) : null;
 }
 
 // ─── 過去データからの狙い目(参考) ───
@@ -556,7 +559,7 @@ function PredictionView({ predictions, getResultByName, accByHandle, tomorrowRec
   if(!predictions.length) return <div className="py-16 text-center"><p className="text-3xl mb-3">🎯</p><p className="text-gray-400 text-sm font-bold">晒し屋予想はまだありません</p><p className="text-gray-500 text-xs mt-1">X連携(Phase2)で自動で入ります</p></div>;
   const sorted=[...predictions].sort((a,b)=>(b.target_date||"").localeCompare(a.target_date||""));
   const groups=[]; let cd=null; sorted.forEach(p=>{ if(p.target_date!==cd){cd=p.target_date; groups.push({date:cd,items:[]});} groups[groups.length-1].items.push(p); });
-  const accBadge=(p)=>{ const a=accByHandle&&accByHandle[p.handle||p.source]; return (a&&a.total>0)?<span className="text-[10px] px-1.5 py-0.5 rounded-full bg-amber-500/15 text-amber-300 font-bold shrink-0">的中{a.rate}%({a.hits}/{a.total})</span>:null; };
+  const accBadge=(p)=>{ const a=accByHandle&&accByHandle[p.handle||p.source]; return (a&&a.total>0)?<span className="text-[10px] px-1.5 py-0.5 rounded-full bg-amber-500/15 text-amber-300 font-bold shrink-0">的中{a.rate}%({a.total}件)</span>:null; };
   return (
     <div className="pb-4">
       {tomorrowRecs && tomorrowRecs.areas.length>0 && (
@@ -579,7 +582,7 @@ function PredictionView({ predictions, getResultByName, accByHandle, tomorrowRec
               ))}
             </div>
           ))}
-          <p className="text-[10px] text-gray-500 mt-1.5">複数晒し屋が推す店ほど上。的中率で重み付け（データが溜まるほど精度UP）</p>
+          <p className="text-[10px] text-gray-500 mt-1.5">的中率＝推し機種のうち実際プラスだった割合（機種なしの店推しは店全体で判定）。複数晒し屋・的中率で重み付け</p>
         </div>
       )}
       {groups.map(g=>{ const d=g.date?parseKey(g.date):null; return (
@@ -715,13 +718,13 @@ function App() {
     const acc={};
     predictions.forEach(p=>{
       const rep=getResultByName(p.store, p.target_date);
-      const h=judgeHit(p, rep);
-      if(h===null) return;
+      const s=judgeHit(p, rep);
+      if(s===null) return;
       const k=p.handle||p.source;
-      acc[k]=acc[k]||{hits:0,total:0,source:p.source};
-      acc[k].total++; if(h) acc[k].hits++;
+      acc[k]=acc[k]||{sum:0,total:0,source:p.source};
+      acc[k].sum+=s; acc[k].total++;
     });
-    Object.values(acc).forEach(a=>a.rate=a.total?Math.round(a.hits/a.total*100):null);
+    Object.values(acc).forEach(a=>a.rate=a.total?Math.round(a.sum/a.total*100):null);
     return acc;
   }, [predictions, getResultByName]);
 
