@@ -110,7 +110,7 @@ const DEFAULT_SHOPS = [
 
 function getReasons(shop, date) {
   const r=[], d=date.getDate(), m=date.getMonth()+1, dow=date.getDay();
-  shop.digitDays.forEach(dig => { if(String(d).includes(String(dig))) r.push(`${dig}の付く日`); });
+  shop.digitDays.forEach(dig => { if(d % 10 === dig) r.push(`${dig}の付く日`); });  // 一の位のみ(2→2/12/22。20〜29を巻き込まない)
   if(shop.zorome && (d===11||d===22)) r.push("ゾロ目日");
   if(shop.monthDayZorome && m===d && m<=12) r.push("月日ゾロ目");
   shop.specificDays.forEach(sd => { if(d===sd) r.push(`毎月${sd}日`); });
@@ -378,10 +378,12 @@ function ShopCard({ shop, date, onDelete, compact, memos, onAddMemo, onDeleteMem
 
 // ─── 今日ビュー ───
 function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, getPredictions, getHint, watchlist, onShowResult }) {
-  // 今日行くべき店: 今日のイベント店を「過去の同種イベント実績＋晒し屋予想」でスコア化
+  // 明日行くべき店: 明日のイベント店を「過去の同種イベント実績＋晒し屋予想」でスコア化
+  // (夜に見ても"今日"はもう動けないため、翌日を判定して出す)
+  const tomorrow = addDays(today,1);
   const recs = useMemo(() => {
-    const ev=shops.filter(s=>hasEvent(s,today));
-    return ev.map(s=>{ const h=getHint(s,today); const preds=getPredictions(s,today);
+    const ev=shops.filter(s=>hasEvent(s,tomorrow));
+    return ev.map(s=>{ const h=getHint(s,tomorrow); const preds=getPredictions(s,tomorrow);
         const score=(h?h.avg*40:0)+(h?h.plusRate*30:0)+(preds.length?5000:0);
         return {s,h,preds,score}; })
       .filter(x=>(x.h&&x.h.avg>0)||x.preds.length)  // プラス実績 or 晒し屋予想 がある店だけ推す
@@ -401,7 +403,7 @@ function TodayView({ shops, today, memos, onAddMemo, onDeleteMemo, getResult, ge
     <div className="pb-4">
       {recs.length>0 && (
         <div className="bg-ink-800 border border-tiffany-500/30 rounded-xl p-3 mb-4">
-          <h3 className="text-xs font-bold tracking-wider text-tiffany-300 mb-2">🔥 今日行くべき店</h3>
+          <h3 className="text-xs font-bold tracking-wider text-tiffany-300 mb-2">🔥 明日 {formatDate(tomorrow)} 行くべき店</h3>
           {recs.map((r,i)=>(
             <div key={r.s.id} className="flex items-center gap-2 py-1 border-b border-ink-700 last:border-0">
               <span className="text-tiffany-400 font-black w-4 text-center shrink-0">{i+1}</span>
