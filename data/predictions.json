@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T05:58",
-  "count": 260,
+  "generated_at": "2026-06-24T10:03",
+  "count": 276,
   "predictions": [
     {
       "id": "slot_ogikiti-2069632948417290512-ハイパージアス立川",
@@ -14,6 +14,104 @@
       "matsubi": [],
       "note": "明日25日のお品書きに掲載",
       "url": "https://x.com/slot_ogikiti/status/2069632948417290512"
+    },
+    {
+      "id": "karasuro_7-2069697212326838568-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-24",
+      "target_date": "2026-06-25",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "S GOD",
+        "カバネリシリーズ",
+        "東京喰種",
+        "GOD",
+        "ジャグラーシリーズ",
+        "マイV",
+        "ネオアイム",
+        "ゴージャグ",
+        "SAO2",
+        "Lカバネリ",
+        "ミリゴ",
+        "L炎炎2",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [],
+      "note": "5の日×スロパチガール×ピン王。並び・全系・少数狙い",
+      "url": "https://x.com/karasuro_7/status/2069697212326838568"
+    },
+    {
+      "id": "karasuro_7-2069679409838117078-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-24",
+      "target_date": "2026-06-25",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "カバネリシリーズ",
+        "東京喰種",
+        "GOD",
+        "マイV",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャ案内に掲載の注目店",
+      "url": "https://x.com/karasuro_7/status/2069679409838117078"
+    },
+    {
+      "id": "1_take6-2069707007687270809-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-24",
+      "target_date": "2026-06-25",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "月周年日・メガスロ極・万太郎来店",
+      "url": "https://x.com/1_take6/status/2069707007687270809"
+    },
+    {
+      "id": "1_take6-2069707007687270809-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-24",
+      "target_date": "2026-06-25",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "5の付く日・華閃蓮撃来店",
+      "url": "https://x.com/1_take6/status/2069707007687270809"
+    },
+    {
+      "id": "1_take6-2069707007687270809-吉兆東名川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-24",
+      "target_date": "2026-06-25",
+      "store": "吉兆東名川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "5の付く日・トクダネ来店取材・抽選9時",
+      "url": "https://x.com/1_take6/status/2069707007687270809"
+    },
+    {
+      "id": "1_take6-2069707007687270809-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-24",
+      "target_date": "2026-06-25",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "5の付く日・剛腕のリアル来店・抽選8時30分",
+      "url": "https://x.com/1_take6/status/2069707007687270809"
     },
     {
       "id": "karasuro_7-2069362883868463496-ガーデン戸塚",
@@ -294,6 +392,34 @@
       ],
       "note": "3の付く日・エラントリプルスター来店・3台並び軸",
       "url": "https://x.com/1_take6/status/2068990002982473729"
+    },
+    {
+      "id": "slot_ogikiti-2069029837680103767-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-22",
+      "target_date": "2026-06-23",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [
+        3
+      ],
+      "note": "❸の日×サミー景品入荷でユニバ&スパイキー推奨",
+      "url": "https://x.com/slot_ogikiti/status/2069029837680103767"
+    },
+    {
+      "id": "slo1_tyousataiZ-2069023531527270485-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-22",
+      "target_date": "2026-06-23",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きリストに楽園立川が記載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2069023531527270485"
     },
     {
       "id": "slot_ogikiti-2068672853952925784-ハイパージアス立川",
@@ -632,6 +758,54 @@
       "matsubi": [],
       "note": "皇帝のリアル開催。まるごと複数仕掛け狙い",
       "url": "https://x.com/1_take6/status/2068621394536190421"
+    },
+    {
+      "id": "slot_ogikiti-2069262528916660605-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-23",
+      "target_date": "2026-06-22",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "バーサス",
+        "モンハン",
+        "東リベ",
+        "Lカバネリ",
+        "乙女5",
+        "Lハナビ",
+        "喰種",
+        "転生",
+        "バイオRE3",
+        "マギレコ",
+        "北斗",
+        "ミリゴ",
+        "アズレン",
+        "天膳",
+        "ビッグドリーム",
+        "SBJ",
+        "攻殻"
+      ],
+      "matsubi": [
+        2
+      ],
+      "note": "新台入替×ゾロ目×CG調査隊。末尾②有力",
+      "url": "https://x.com/slot_ogikiti/status/2069262528916660605"
+    },
+    {
+      "id": "1_take6-2069710096670838825-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-24",
+      "target_date": "2026-06-22",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        6
+      ],
+      "note": "毎月22日4店舗共闘・末尾6が高配分で穴場",
+      "url": "https://x.com/1_take6/status/2069710096670838825"
     },
     {
       "id": "slot_ogikiti-2068306584825204976-ハイパージアス立川",
@@ -1052,6 +1226,50 @@
       "url": "https://x.com/1_take6/status/2068243342614475246"
     },
     {
+      "id": "slo1_tyousataiZ-2068314520725168476-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-20",
+      "target_date": "2026-06-21",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "①の日・全体強化、全台系/配分系に注目",
+      "url": "https://x.com/slo1_tyousataiZ/status/2068314520725168476"
+    },
+    {
+      "id": "karasuro_7-2068260157860307389-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-20",
+      "target_date": "2026-06-21",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "マイV",
+        "化物語",
+        "バイオ5"
+      ],
+      "matsubi": [],
+      "note": "週末・新！撃取材・キングウォッチッチ。全系・並び複数狙い",
+      "url": "https://x.com/karasuro_7/status/2068260157860307389"
+    },
+    {
+      "id": "karasuro_7-2068226675406713142-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-20",
+      "target_date": "2026-06-21",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川リスト掲載店",
+      "url": "https://x.com/karasuro_7/status/2068226675406713142"
+    },
+    {
       "id": "slot_ogikiti-2067953984451793271-キコーナ戸塚",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -1408,6 +1626,19 @@
       "matsubi": [],
       "note": "8の付く日、スロパチガール来店451人抽選",
       "url": "https://x.com/1_take6/status/2067770142545813799"
+    },
+    {
+      "id": "karasuro_7-2068153577349251087-キコーナ戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-20",
+      "target_date": "2026-06-20",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "オプチャ抽選人数70人の報告",
+      "url": "https://x.com/karasuro_7/status/2068153577349251087"
     },
     {
       "id": "slot_ogikiti-2067944500207726632-ハイパージアス立川",
@@ -1961,6 +2192,23 @@
       "url": "https://x.com/1_take6/status/2066470559421190488"
     },
     {
+      "id": "1_take6-2068611207322558923-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-21",
+      "target_date": "2026-06-16",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "アズールレーン THE ANIMATION"
+      ],
+      "matsubi": [
+        "6"
+      ],
+      "note": "5店舗合同いつつ巴、平均+550枚+1/2",
+      "url": "https://x.com/1_take6/status/2068611207322558923"
+    },
+    {
       "id": "slo1_tyousataiZ-2066128394132295869-楽園立川店",
       "source": "スロイベ調査隊Z@関東(2代目)",
       "handle": "slo1_tyousataiZ",
@@ -2038,6 +2286,38 @@
       ],
       "note": "スロパチガール来店。抽選8時30分",
       "url": "https://x.com/1_take6/status/2066074830479474809"
+    },
+    {
+      "id": "karasuro_7-2068175847501214167-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-20",
+      "target_date": "2026-06-15",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "SAO2",
+        "Sカバネリ",
+        "サンダーBT",
+        "ゴージャグ",
+        "ジャグガ",
+        "マイV",
+        "ミスジャグ",
+        "ネオアイム",
+        "GOD",
+        "バーディーウイング",
+        "乙女4",
+        "マンキン",
+        "東京喰種",
+        "Lカバネリ",
+        "炎炎2",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "6/15結果。5のつく日・キングウォッチッチ。抽選148人",
+      "url": "https://x.com/karasuro_7/status/2068175847501214167"
     },
     {
       "id": "karasuro_7-2065715496184619283-ガーデン戸塚",
