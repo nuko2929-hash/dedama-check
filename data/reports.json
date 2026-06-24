@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T02:35",
-  "count": 28,
+  "generated_at": "2026-06-24T04:31",
+  "count": 59,
   "reports": [
     {
       "url": "https://min-repo.com/3183298/",
@@ -15185,6 +15185,2027 @@
       }
     },
     {
+      "url": "https://min-repo.com/3178992/",
+      "summary": {
+        "total_units": 599,
+        "win_plus": 229,
+        "win_pct": 38.2,
+        "total_diff": -90112,
+        "avg_diff": -150,
+        "estimated": true
+      },
+      "kishu": [
+        {
+          "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+          "avg_diff": 2010.0,
+          "avg_games": 6531.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 110.3
+        },
+        {
+          "name": "スマスロ 攻殻機動隊",
+          "avg_diff": 1476.0,
+          "avg_games": 6567.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 107.5
+        },
+        {
+          "name": "チバリヨ2",
+          "avg_diff": 1427.0,
+          "avg_games": 2505.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 119.0
+        },
+        {
+          "name": "パチスロ　ディスクアップ２",
+          "avg_diff": 1420.0,
+          "avg_games": 6314.0,
+          "win_plus": 4,
+          "win_total": 6,
+          "rate": 107.5
+        },
+        {
+          "name": "スマスロとある科学の超電磁砲2",
+          "avg_diff": 1240.0,
+          "avg_games": 3826.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 110.8
+        },
+        {
+          "name": "スマスロヨルムンガンド",
+          "avg_diff": 1067.0,
+          "avg_games": 2538.0,
+          "win_plus": 2,
+          "win_total": 3,
+          "rate": 114.0
+        },
+        {
+          "name": "Lスマスロ北斗の拳",
+          "avg_diff": 841.0,
+          "avg_games": 3578.0,
+          "win_plus": 6,
+          "win_total": 8,
+          "rate": 107.8
+        },
+        {
+          "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+          "avg_diff": 810.0,
+          "avg_games": 2837.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 109.5
+        },
+        {
+          "name": "Lパチスロ炎炎ノ消防隊2",
+          "avg_diff": 766.0,
+          "avg_games": 4493.0,
+          "win_plus": 6,
+          "win_total": 14,
+          "rate": 105.7
+        },
+        {
+          "name": "L無職転生～異世界行ったら本気だす～",
+          "avg_diff": 640.0,
+          "avg_games": 1847.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 111.6
+        },
+        {
+          "name": "Lパチスロからくりサーカス",
+          "avg_diff": 599.0,
+          "avg_games": 2605.0,
+          "win_plus": 4,
+          "win_total": 7,
+          "rate": 107.7
+        },
+        {
+          "name": "パチスロ　マクロスデルタ",
+          "avg_diff": 575.0,
+          "avg_games": 3420.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 105.6
+        },
+        {
+          "name": "スロット ソードアート・オンラインⅡ",
+          "avg_diff": 526.0,
+          "avg_games": 8674.0,
+          "win_plus": 8,
+          "win_total": 15,
+          "rate": 102.0
+        },
+        {
+          "name": "スマスロモンキーターンV",
+          "avg_diff": 509.0,
+          "avg_games": 2762.0,
+          "win_plus": 8,
+          "win_total": 15,
+          "rate": 106.1
+        },
+        {
+          "name": "L不二子BT",
+          "avg_diff": 500.0,
+          "avg_games": 3515.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 104.7
+        },
+        {
+          "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+          "avg_diff": 470.0,
+          "avg_games": 7343.0,
+          "win_plus": 13,
+          "win_total": 20,
+          "rate": 102.1
+        },
+        {
+          "name": "スマスロ鉄拳6",
+          "avg_diff": 405.0,
+          "avg_games": 4212.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 103.2
+        },
+        {
+          "name": "バーサスリヴァイズ",
+          "avg_diff": 380.0,
+          "avg_games": 4331.0,
+          "win_plus": 2,
+          "win_total": 3,
+          "rate": 102.9
+        },
+        {
+          "name": "スマスロ ハナビ",
+          "avg_diff": 365.0,
+          "avg_games": 4180.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 102.9
+        },
+        {
+          "name": "ニューキングハナハナV‐30",
+          "avg_diff": 340.0,
+          "avg_games": 6883.0,
+          "win_plus": 10,
+          "win_total": 16,
+          "rate": 101.6
+        },
+        {
+          "name": "LBパチスロ ヱヴァンゲリヲン～約束の扉～",
+          "avg_diff": 335.0,
+          "avg_games": 3337.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 103.3
+        },
+        {
+          "name": "スマスロ秘宝伝",
+          "avg_diff": 335.0,
+          "avg_games": 1258.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 108.9
+        },
+        {
+          "name": "スマスロ ゴッドイーター リザレクション",
+          "avg_diff": 286.0,
+          "avg_games": 2080.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 104.6
+        },
+        {
+          "name": "コードギアス反逆のルルーシュ３ C.C.&Kallen ver.",
+          "avg_diff": 240.0,
+          "avg_games": 4562.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 101.8
+        },
+        {
+          "name": "ニューゲッターマウス",
+          "avg_diff": 210.0,
+          "avg_games": 5699.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 101.2
+        },
+        {
+          "name": "新ハナビ",
+          "avg_diff": 180.0,
+          "avg_games": 4682.0,
+          "win_plus": 4,
+          "win_total": 8,
+          "rate": 101.3
+        },
+        {
+          "name": "スマスロ新鬼武者3",
+          "avg_diff": 160.0,
+          "avg_games": 1643.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 103.2
+        },
+        {
+          "name": "SHAKE BONUS TRIGGER",
+          "avg_diff": 118.0,
+          "avg_games": 5468.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 100.7
+        },
+        {
+          "name": "キングハナハナ-30",
+          "avg_diff": 114.0,
+          "avg_games": 6705.0,
+          "win_plus": 7,
+          "win_total": 16,
+          "rate": 100.6
+        },
+        {
+          "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+          "avg_diff": 100.0,
+          "avg_games": 3697.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 100.9
+        },
+        {
+          "name": "パチスロひぐらしのなく頃に祭２",
+          "avg_diff": 95.0,
+          "avg_games": 4336.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 100.7
+        },
+        {
+          "name": "ニューパルサーSP4 with 太鼓の達人",
+          "avg_diff": 94.0,
+          "avg_games": 2971.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 101.1
+        },
+        {
+          "name": "スマスロ痛いのは嫌なので防御力に極振りしたいと思います。",
+          "avg_diff": 73.0,
+          "avg_games": 4212.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 100.6
+        },
+        {
+          "name": "クランキークレスト",
+          "avg_diff": 68.0,
+          "avg_games": 4045.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 100.6
+        },
+        {
+          "name": "クレアの秘宝伝～はじまりの扉と太陽の石～ボーナストリガーver.",
+          "avg_diff": 47.0,
+          "avg_games": 3177.0,
+          "win_plus": 2,
+          "win_total": 6,
+          "rate": 100.5
+        },
+        {
+          "name": "ジャグラーガールズSS",
+          "avg_diff": 33.0,
+          "avg_games": 3934.0,
+          "win_plus": 4,
+          "win_total": 10,
+          "rate": 100.3
+        },
+        {
+          "name": "LBスロットGALFY",
+          "avg_diff": 0.0,
+          "avg_games": 4702.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 100.0
+        },
+        {
+          "name": "ネオアイムジャグラーEX",
+          "avg_diff": -19.0,
+          "avg_games": 3299.0,
+          "win_plus": 25,
+          "win_total": 61,
+          "rate": 99.8
+        },
+        {
+          "name": "ハッピージャグラーＶＩＩＩ",
+          "avg_diff": -21.0,
+          "avg_games": 3760.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 99.8
+        },
+        {
+          "name": "ミスタージャグラー",
+          "avg_diff": -66.0,
+          "avg_games": 2633.0,
+          "win_plus": 6,
+          "win_total": 13,
+          "rate": 99.2
+        },
+        {
+          "name": "ファンキージャグラー２ＫＴ",
+          "avg_diff": -150.0,
+          "avg_games": 4377.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 98.9
+        },
+        {
+          "name": "スマスロBIRDIE WING-Golf Girls’ Story-",
+          "avg_diff": -150.0,
+          "avg_games": 4028.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 98.7
+        },
+        {
+          "name": "アレックス ブライト",
+          "avg_diff": -150.0,
+          "avg_games": 5377.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 98.9
+        },
+        {
+          "name": "沖ドキ!ゴージャス 25Φ",
+          "avg_diff": -200.0,
+          "avg_games": 4523.0,
+          "win_plus": 3,
+          "win_total": 7,
+          "rate": 98.3
+        },
+        {
+          "name": "交響詩篇エウレカセブン HI-EVOLUTION ZERO TYPE-ART",
+          "avg_diff": -250.0,
+          "avg_games": 3737.0,
+          "win_plus": 3,
+          "win_total": 7,
+          "rate": 97.1
+        },
+        {
+          "name": "アニマルスロット ドッチ",
+          "avg_diff": -250.0,
+          "avg_games": 3408.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 96.7
+        },
+        {
+          "name": "この素晴らしい世界に祝福を！",
+          "avg_diff": -250.0,
+          "avg_games": 2595.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 95.7
+        },
+        {
+          "name": "いざ！番長",
+          "avg_diff": -250.0,
+          "avg_games": 4545.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 97.4
+        },
+        {
+          "name": "マイジャグラーV",
+          "avg_diff": -250.0,
+          "avg_games": 5116.0,
+          "win_plus": 11,
+          "win_total": 39,
+          "rate": 97.7
+        },
+        {
+          "name": "ゴーゴージャグラー３",
+          "avg_diff": -250.0,
+          "avg_games": 3342.0,
+          "win_plus": 3,
+          "win_total": 13,
+          "rate": 95.9
+        },
+        {
+          "name": "Lパチスロ革命機ヴァルヴレイヴ2",
+          "avg_diff": -250.0,
+          "avg_games": 4670.0,
+          "win_plus": 6,
+          "win_total": 13,
+          "rate": 96.8
+        },
+        {
+          "name": "ファミスタ回胴版！！",
+          "avg_diff": -250.0,
+          "avg_games": 3611.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 95.5
+        },
+        {
+          "name": "Lパチスロ 機動戦士ガンダムユニコーン 覚醒DRIVE",
+          "avg_diff": -500.0,
+          "avg_games": 1650.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 89.6
+        },
+        {
+          "name": "スマスロ バイオハザード5",
+          "avg_diff": -500.0,
+          "avg_games": 899.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 79.8
+        },
+        {
+          "name": "Lパチスロ かぐや様は告らせたい",
+          "avg_diff": -500.0,
+          "avg_games": 5431.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 96.6
+        },
+        {
+          "name": "スマスロ スーパーリオエース2",
+          "avg_diff": -500.0,
+          "avg_games": 4837.0,
+          "win_plus": 1,
+          "win_total": 8,
+          "rate": 96.1
+        },
+        {
+          "name": "プリズムナナ",
+          "avg_diff": -500.0,
+          "avg_games": 2566.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 92.6
+        },
+        {
+          "name": "スマスロ 東京リベンジャーズ",
+          "avg_diff": -500.0,
+          "avg_games": 3540.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 94.4
+        },
+        {
+          "name": "スマスロ化物語",
+          "avg_diff": -500.0,
+          "avg_games": 4536.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 95.1
+        },
+        {
+          "name": "L東京喰種",
+          "avg_diff": -500.0,
+          "avg_games": 5704.0,
+          "win_plus": 9,
+          "win_total": 26,
+          "rate": 96.0
+        },
+        {
+          "name": "スマスロ ミリオンゴッド-神々の軌跡-",
+          "avg_diff": -750.0,
+          "avg_games": 6449.0,
+          "win_plus": 3,
+          "win_total": 14,
+          "rate": 96.0
+        },
+        {
+          "name": "スマスロ バイオハザードRE:3",
+          "avg_diff": -750.0,
+          "avg_games": 3341.0,
+          "win_plus": 1,
+          "win_total": 7,
+          "rate": 90.5
+        },
+        {
+          "name": "A-SLOT+異世界かるてっとBT",
+          "avg_diff": -1000.0,
+          "avg_games": 2838.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 88.3
+        },
+        {
+          "name": "スマスロ モンスターハンターライズ",
+          "avg_diff": -1000.0,
+          "avg_games": 4611.0,
+          "win_plus": 1,
+          "win_total": 6,
+          "rate": 92.1
+        },
+        {
+          "name": "スマスロ北斗の拳 転生の章2",
+          "avg_diff": -1000.0,
+          "avg_games": 3695.0,
+          "win_plus": 3,
+          "win_total": 24,
+          "rate": 89.5
+        },
+        {
+          "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+          "avg_diff": -1000.0,
+          "avg_games": 3910.0,
+          "win_plus": 2,
+          "win_total": 10,
+          "rate": 89.9
+        },
+        {
+          "name": "スマスロ サンダーV",
+          "avg_diff": -1000.0,
+          "avg_games": 4384.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 90.9
+        },
+        {
+          "name": "スマスロ 沖ドキ!DUO アンコール",
+          "avg_diff": -1000.0,
+          "avg_games": 3932.0,
+          "win_plus": 3,
+          "win_total": 10,
+          "rate": 89.4
+        },
+        {
+          "name": "沖ドキ！ＧＯＬＤ",
+          "avg_diff": -1250.0,
+          "avg_games": 3412.0,
+          "win_plus": 1,
+          "win_total": 6,
+          "rate": 87.8
+        },
+        {
+          "name": "L戦国乙女5 業火を穿つ宿焔の双刃",
+          "avg_diff": -1250.0,
+          "avg_games": 8012.0,
+          "win_plus": 6,
+          "win_total": 15,
+          "rate": 94.7
+        },
+        {
+          "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+          "avg_diff": -1250.0,
+          "avg_games": 5780.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 92.7
+        },
+        {
+          "name": "Lパチスロガールズ＆パンツァー 最終章",
+          "avg_diff": -1250.0,
+          "avg_games": 2976.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 85.3
+        },
+        {
+          "name": "スマスロバジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+          "avg_diff": -1250.0,
+          "avg_games": 1921.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 74.4
+        },
+        {
+          "name": "スマスロ スーパーブラックジャック",
+          "avg_diff": -1500.0,
+          "avg_games": 2285.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 76.4
+        },
+        {
+          "name": "Lアズールレーン THE ANIMATION",
+          "avg_diff": -1500.0,
+          "avg_games": 3270.0,
+          "win_plus": 0,
+          "win_total": 6,
+          "rate": 82.5
+        },
+        {
+          "name": "真打 吉宗",
+          "avg_diff": -1750.0,
+          "avg_games": 5590.0,
+          "win_plus": 2,
+          "win_total": 10,
+          "rate": 89.3
+        },
+        {
+          "name": "Lバンドリ！",
+          "avg_diff": -3000.0,
+          "avg_games": 5026.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 80.0
+        }
+      ],
+      "matsubi": [
+        {
+          "matsubi": "0",
+          "avg_diff": null,
+          "avg_games": 4508.0,
+          "win_plus": 20,
+          "win_total": 53,
+          "rate": null
+        },
+        {
+          "matsubi": "1",
+          "avg_diff": 345.0,
+          "avg_games": 4455.0,
+          "win_plus": 32,
+          "win_total": 64,
+          "rate": 102.6
+        },
+        {
+          "matsubi": "2",
+          "avg_diff": null,
+          "avg_games": 4902.0,
+          "win_plus": 29,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "3",
+          "avg_diff": null,
+          "avg_games": 4303.0,
+          "win_plus": 21,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "4",
+          "avg_diff": null,
+          "avg_games": 4397.0,
+          "win_plus": 24,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "5",
+          "avg_diff": null,
+          "avg_games": 4953.0,
+          "win_plus": 19,
+          "win_total": 60,
+          "rate": null
+        },
+        {
+          "matsubi": "6",
+          "avg_diff": null,
+          "avg_games": 4475.0,
+          "win_plus": 25,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "7",
+          "avg_diff": null,
+          "avg_games": 4337.0,
+          "win_plus": 20,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "8",
+          "avg_diff": null,
+          "avg_games": 4978.0,
+          "win_plus": 21,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "9",
+          "avg_diff": null,
+          "avg_games": 3901.0,
+          "win_plus": 19,
+          "win_total": 54,
+          "rate": null
+        },
+        {
+          "matsubi": "ゾロ目 (下二桁)",
+          "avg_diff": null,
+          "avg_games": 4338.0,
+          "win_plus": 19,
+          "win_total": 49,
+          "rate": null
+        }
+      ],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/20",
+      "iso_date": "2026-06-20",
+      "stale": false,
+      "title": "6/20(土) 楽園立川店",
+      "consider": [
+        "全体は重め(平均-150枚・勝率38%)。狙いを絞った方が良さそう。",
+        "L不二子BTは2台全勝(平均+500枚)で鉄板感。",
+        "L聖闘士星矢 海皇覚醒 CUSTOM EDITIONが平均+2010枚と特に好調。"
+      ],
+      "kishu_class": {
+        "excellent": [
+          {
+            "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+            "avg_diff": 2010.0,
+            "avg_games": 6531.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 110.3
+          }
+        ],
+        "highwin": [
+          {
+            "name": "スマスロ 攻殻機動隊",
+            "avg_diff": 1476.0,
+            "avg_games": 6567.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 107.5
+          },
+          {
+            "name": "パチスロ　ディスクアップ２",
+            "avg_diff": 1420.0,
+            "avg_games": 6314.0,
+            "win_plus": 4,
+            "win_total": 6,
+            "rate": 107.5
+          },
+          {
+            "name": "スマスロヨルムンガンド",
+            "avg_diff": 1067.0,
+            "avg_games": 2538.0,
+            "win_plus": 2,
+            "win_total": 3,
+            "rate": 114.0
+          },
+          {
+            "name": "Lスマスロ北斗の拳",
+            "avg_diff": 841.0,
+            "avg_games": 3578.0,
+            "win_plus": 6,
+            "win_total": 8,
+            "rate": 107.8
+          },
+          {
+            "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+            "avg_diff": 470.0,
+            "avg_games": 7343.0,
+            "win_plus": 13,
+            "win_total": 20,
+            "rate": 102.1
+          },
+          {
+            "name": "バーサスリヴァイズ",
+            "avg_diff": 380.0,
+            "avg_games": 4331.0,
+            "win_plus": 2,
+            "win_total": 3,
+            "rate": 102.9
+          },
+          {
+            "name": "ニューキングハナハナV‐30",
+            "avg_diff": 340.0,
+            "avg_games": 6883.0,
+            "win_plus": 10,
+            "win_total": 16,
+            "rate": 101.6
+          }
+        ],
+        "others": [
+          {
+            "name": "チバリヨ2",
+            "avg_diff": 1427.0,
+            "avg_games": 2505.0,
+            "win_plus": 1,
+            "win_total": 3,
+            "rate": 119.0
+          },
+          {
+            "name": "スマスロとある科学の超電磁砲2",
+            "avg_diff": 1240.0,
+            "avg_games": 3826.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 110.8
+          },
+          {
+            "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+            "avg_diff": 810.0,
+            "avg_games": 2837.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 109.5
+          },
+          {
+            "name": "Lパチスロ炎炎ノ消防隊2",
+            "avg_diff": 766.0,
+            "avg_games": 4493.0,
+            "win_plus": 6,
+            "win_total": 14,
+            "rate": 105.7
+          },
+          {
+            "name": "L無職転生～異世界行ったら本気だす～",
+            "avg_diff": 640.0,
+            "avg_games": 1847.0,
+            "win_plus": 1,
+            "win_total": 4,
+            "rate": 111.6
+          },
+          {
+            "name": "Lパチスロからくりサーカス",
+            "avg_diff": 599.0,
+            "avg_games": 2605.0,
+            "win_plus": 4,
+            "win_total": 7,
+            "rate": 107.7
+          },
+          {
+            "name": "パチスロ　マクロスデルタ",
+            "avg_diff": 575.0,
+            "avg_games": 3420.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 105.6
+          },
+          {
+            "name": "スロット ソードアート・オンラインⅡ",
+            "avg_diff": 526.0,
+            "avg_games": 8674.0,
+            "win_plus": 8,
+            "win_total": 15,
+            "rate": 102.0
+          },
+          {
+            "name": "スマスロモンキーターンV",
+            "avg_diff": 509.0,
+            "avg_games": 2762.0,
+            "win_plus": 8,
+            "win_total": 15,
+            "rate": 106.1
+          },
+          {
+            "name": "L不二子BT",
+            "avg_diff": 500.0,
+            "avg_games": 3515.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 104.7
+          },
+          {
+            "name": "スマスロ鉄拳6",
+            "avg_diff": 405.0,
+            "avg_games": 4212.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 103.2
+          },
+          {
+            "name": "スマスロ ハナビ",
+            "avg_diff": 365.0,
+            "avg_games": 4180.0,
+            "win_plus": 3,
+            "win_total": 6,
+            "rate": 102.9
+          },
+          {
+            "name": "LBパチスロ ヱヴァンゲリヲン～約束の扉～",
+            "avg_diff": 335.0,
+            "avg_games": 3337.0,
+            "win_plus": 2,
+            "win_total": 4,
+            "rate": 103.3
+          },
+          {
+            "name": "スマスロ秘宝伝",
+            "avg_diff": 335.0,
+            "avg_games": 1258.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 108.9
+          },
+          {
+            "name": "スマスロ ゴッドイーター リザレクション",
+            "avg_diff": 286.0,
+            "avg_games": 2080.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 104.6
+          },
+          {
+            "name": "コードギアス反逆のルルーシュ３ C.C.&Kallen ver.",
+            "avg_diff": 240.0,
+            "avg_games": 4562.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 101.8
+          },
+          {
+            "name": "ニューゲッターマウス",
+            "avg_diff": 210.0,
+            "avg_games": 5699.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 101.2
+          },
+          {
+            "name": "新ハナビ",
+            "avg_diff": 180.0,
+            "avg_games": 4682.0,
+            "win_plus": 4,
+            "win_total": 8,
+            "rate": 101.3
+          },
+          {
+            "name": "スマスロ新鬼武者3",
+            "avg_diff": 160.0,
+            "avg_games": 1643.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 103.2
+          },
+          {
+            "name": "SHAKE BONUS TRIGGER",
+            "avg_diff": 118.0,
+            "avg_games": 5468.0,
+            "win_plus": 1,
+            "win_total": 4,
+            "rate": 100.7
+          },
+          {
+            "name": "キングハナハナ-30",
+            "avg_diff": 114.0,
+            "avg_games": 6705.0,
+            "win_plus": 7,
+            "win_total": 16,
+            "rate": 100.6
+          },
+          {
+            "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+            "avg_diff": 100.0,
+            "avg_games": 3697.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 100.9
+          },
+          {
+            "name": "パチスロひぐらしのなく頃に祭２",
+            "avg_diff": 95.0,
+            "avg_games": 4336.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 100.7
+          },
+          {
+            "name": "ニューパルサーSP4 with 太鼓の達人",
+            "avg_diff": 94.0,
+            "avg_games": 2971.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 101.1
+          },
+          {
+            "name": "スマスロ痛いのは嫌なので防御力に極振りしたいと思います。",
+            "avg_diff": 73.0,
+            "avg_games": 4212.0,
+            "win_plus": 2,
+            "win_total": 4,
+            "rate": 100.6
+          },
+          {
+            "name": "クランキークレスト",
+            "avg_diff": 68.0,
+            "avg_games": 4045.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 100.6
+          },
+          {
+            "name": "クレアの秘宝伝～はじまりの扉と太陽の石～ボーナストリガーver.",
+            "avg_diff": 47.0,
+            "avg_games": 3177.0,
+            "win_plus": 2,
+            "win_total": 6,
+            "rate": 100.5
+          },
+          {
+            "name": "ジャグラーガールズSS",
+            "avg_diff": 33.0,
+            "avg_games": 3934.0,
+            "win_plus": 4,
+            "win_total": 10,
+            "rate": 100.3
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://min-repo.com/3176855/",
+      "summary": {
+        "total_units": 599,
+        "win_plus": 217,
+        "win_pct": 36.2,
+        "total_diff": -42344,
+        "avg_diff": -71,
+        "estimated": true
+      },
+      "kishu": [
+        {
+          "name": "スマスロ モンスターハンターライズ",
+          "avg_diff": 4307.0,
+          "avg_games": 3862.0,
+          "win_plus": 4,
+          "win_total": 6,
+          "rate": 137.2
+        },
+        {
+          "name": "プリズムナナ",
+          "avg_diff": 2760.0,
+          "avg_games": 2805.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 132.8
+        },
+        {
+          "name": "Lスマスロ北斗の拳",
+          "avg_diff": 2351.0,
+          "avg_games": 3590.0,
+          "win_plus": 5,
+          "win_total": 8,
+          "rate": 121.8
+        },
+        {
+          "name": "ニューゲッターマウス",
+          "avg_diff": 1315.0,
+          "avg_games": 2893.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 115.2
+        },
+        {
+          "name": "いざ！番長",
+          "avg_diff": 1310.0,
+          "avg_games": 1901.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 123.0
+        },
+        {
+          "name": "ファンキージャグラー２ＫＴ",
+          "avg_diff": 1080.0,
+          "avg_games": 5211.0,
+          "win_plus": 4,
+          "win_total": 5,
+          "rate": 106.9
+        },
+        {
+          "name": "LBスロットGALFY",
+          "avg_diff": 1015.0,
+          "avg_games": 4286.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 107.9
+        },
+        {
+          "name": "パチスロひぐらしのなく頃に祭２",
+          "avg_diff": 970.0,
+          "avg_games": 2705.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 112.0
+        },
+        {
+          "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+          "avg_diff": 920.0,
+          "avg_games": 2876.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 110.7
+        },
+        {
+          "name": "バーサスリヴァイズ",
+          "avg_diff": 823.0,
+          "avg_games": 2324.0,
+          "win_plus": 2,
+          "win_total": 3,
+          "rate": 111.8
+        },
+        {
+          "name": "パチスロ　ディスクアップ２",
+          "avg_diff": 785.0,
+          "avg_games": 3345.0,
+          "win_plus": 5,
+          "win_total": 6,
+          "rate": 107.8
+        },
+        {
+          "name": "この素晴らしい世界に祝福を！",
+          "avg_diff": 735.0,
+          "avg_games": 2810.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 108.7
+        },
+        {
+          "name": "スマスロ スーパーブラックジャック",
+          "avg_diff": 703.0,
+          "avg_games": 1401.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 116.7
+        },
+        {
+          "name": "スマスロ スーパーリオエース2",
+          "avg_diff": 676.0,
+          "avg_games": 3274.0,
+          "win_plus": 4,
+          "win_total": 8,
+          "rate": 106.9
+        },
+        {
+          "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+          "avg_diff": 660.0,
+          "avg_games": 3343.0,
+          "win_plus": 11,
+          "win_total": 20,
+          "rate": 106.6
+        },
+        {
+          "name": "スマスロ バイオハザードRE:3",
+          "avg_diff": 656.0,
+          "avg_games": 2644.0,
+          "win_plus": 3,
+          "win_total": 7,
+          "rate": 108.3
+        },
+        {
+          "name": "ニューパルサーSP4 with 太鼓の達人",
+          "avg_diff": 516.0,
+          "avg_games": 2963.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 105.8
+        },
+        {
+          "name": "スマスロ北斗の拳 転生の章2",
+          "avg_diff": 372.0,
+          "avg_games": 3278.0,
+          "win_plus": 9,
+          "win_total": 24,
+          "rate": 103.8
+        },
+        {
+          "name": "クランキークレスト",
+          "avg_diff": 362.0,
+          "avg_games": 2909.0,
+          "win_plus": 4,
+          "win_total": 5,
+          "rate": 104.1
+        },
+        {
+          "name": "Lパチスロ炎炎ノ消防隊2",
+          "avg_diff": 311.0,
+          "avg_games": 2128.0,
+          "win_plus": 9,
+          "win_total": 14,
+          "rate": 104.9
+        },
+        {
+          "name": "キングハナハナ-30",
+          "avg_diff": 254.0,
+          "avg_games": 2701.0,
+          "win_plus": 7,
+          "win_total": 16,
+          "rate": 103.1
+        },
+        {
+          "name": "クレアの秘宝伝～はじまりの扉と太陽の石～ボーナストリガーver.",
+          "avg_diff": 247.0,
+          "avg_games": 1370.0,
+          "win_plus": 4,
+          "win_total": 6,
+          "rate": 106.0
+        },
+        {
+          "name": "Lパチスロ かぐや様は告らせたい",
+          "avg_diff": 190.0,
+          "avg_games": 2803.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 102.3
+        },
+        {
+          "name": "スマスロとある科学の超電磁砲2",
+          "avg_diff": 180.0,
+          "avg_games": 937.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 106.4
+        },
+        {
+          "name": "スマスロ 沖ドキ!DUO アンコール",
+          "avg_diff": 81.0,
+          "avg_games": 1746.0,
+          "win_plus": 5,
+          "win_total": 10,
+          "rate": 101.5
+        },
+        {
+          "name": "スマスロ化物語",
+          "avg_diff": 66.0,
+          "avg_games": 2813.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 100.8
+        },
+        {
+          "name": "新ハナビ",
+          "avg_diff": 56.0,
+          "avg_games": 2396.0,
+          "win_plus": 3,
+          "win_total": 8,
+          "rate": 100.8
+        },
+        {
+          "name": "コードギアス反逆のルルーシュ３ C.C.&Kallen ver.",
+          "avg_diff": 35.0,
+          "avg_games": 2478.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 100.5
+        },
+        {
+          "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+          "avg_diff": 20.0,
+          "avg_games": 4793.0,
+          "win_plus": 3,
+          "win_total": 4,
+          "rate": 100.1
+        },
+        {
+          "name": "交響詩篇エウレカセブン HI-EVOLUTION ZERO TYPE-ART",
+          "avg_diff": 13.0,
+          "avg_games": 1520.0,
+          "win_plus": 3,
+          "win_total": 7,
+          "rate": 100.3
+        },
+        {
+          "name": "スマスロ ハナビ",
+          "avg_diff": -22.0,
+          "avg_games": 3194.0,
+          "win_plus": 2,
+          "win_total": 6,
+          "rate": 99.8
+        },
+        {
+          "name": "LBパチスロ ヱヴァンゲリヲン～約束の扉～",
+          "avg_diff": -35.0,
+          "avg_games": 717.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 98.4
+        },
+        {
+          "name": "ファミスタ回胴版！！",
+          "avg_diff": -53.0,
+          "avg_games": 1653.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 98.9
+        },
+        {
+          "name": "スマスロ バイオハザード5",
+          "avg_diff": -60.0,
+          "avg_games": 2328.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 99.1
+        },
+        {
+          "name": "スマスロ サンダーV",
+          "avg_diff": -62.0,
+          "avg_games": 3297.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 99.4
+        },
+        {
+          "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+          "avg_diff": -76.0,
+          "avg_games": 1887.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 98.7
+        },
+        {
+          "name": "ハッピージャグラーＶＩＩＩ",
+          "avg_diff": -100.0,
+          "avg_games": 3247.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 98.9
+        },
+        {
+          "name": "ゴーゴージャグラー３",
+          "avg_diff": -100.0,
+          "avg_games": 3887.0,
+          "win_plus": 5,
+          "win_total": 13,
+          "rate": 99.1
+        },
+        {
+          "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+          "avg_diff": -100.0,
+          "avg_games": 4989.0,
+          "win_plus": 6,
+          "win_total": 10,
+          "rate": 99.2
+        },
+        {
+          "name": "L不二子BT",
+          "avg_diff": -100.0,
+          "avg_games": 1609.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 97.4
+        },
+        {
+          "name": "ニューキングハナハナV‐30",
+          "avg_diff": -150.0,
+          "avg_games": 1939.0,
+          "win_plus": 5,
+          "win_total": 16,
+          "rate": 97.0
+        },
+        {
+          "name": "SHAKE BONUS TRIGGER",
+          "avg_diff": -150.0,
+          "avg_games": 3051.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 98.0
+        },
+        {
+          "name": "真打 吉宗",
+          "avg_diff": -200.0,
+          "avg_games": 4228.0,
+          "win_plus": 5,
+          "win_total": 10,
+          "rate": 98.3
+        },
+        {
+          "name": "スマスロヨルムンガンド",
+          "avg_diff": -200.0,
+          "avg_games": 895.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 90.9
+        },
+        {
+          "name": "沖ドキ！ＧＯＬＤ",
+          "avg_diff": -250.0,
+          "avg_games": 1415.0,
+          "win_plus": 2,
+          "win_total": 6,
+          "rate": 93.1
+        },
+        {
+          "name": "ミスタージャグラー",
+          "avg_diff": -250.0,
+          "avg_games": 1906.0,
+          "win_plus": 2,
+          "win_total": 13,
+          "rate": 94.5
+        },
+        {
+          "name": "スマスロBIRDIE WING-Golf Girls’ Story-",
+          "avg_diff": -250.0,
+          "avg_games": 1231.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 90.3
+        },
+        {
+          "name": "ネオアイムジャグラーEX",
+          "avg_diff": -250.0,
+          "avg_games": 2611.0,
+          "win_plus": 19,
+          "win_total": 61,
+          "rate": 95.2
+        },
+        {
+          "name": "Lアズールレーン THE ANIMATION",
+          "avg_diff": -250.0,
+          "avg_games": 1019.0,
+          "win_plus": 1,
+          "win_total": 6,
+          "rate": 87.4
+        },
+        {
+          "name": "L東京喰種",
+          "avg_diff": -250.0,
+          "avg_games": 2377.0,
+          "win_plus": 8,
+          "win_total": 26,
+          "rate": 94.6
+        },
+        {
+          "name": "ジャグラーガールズSS",
+          "avg_diff": -250.0,
+          "avg_games": 3216.0,
+          "win_plus": 3,
+          "win_total": 10,
+          "rate": 95.6
+        },
+        {
+          "name": "スマスロモンキーターンV",
+          "avg_diff": -250.0,
+          "avg_games": 2162.0,
+          "win_plus": 3,
+          "win_total": 15,
+          "rate": 93.4
+        },
+        {
+          "name": "スマスロ痛いのは嫌なので防御力に極振りしたいと思います。",
+          "avg_diff": -250.0,
+          "avg_games": 1177.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 87.2
+        },
+        {
+          "name": "Lパチスロガールズ＆パンツァー 最終章",
+          "avg_diff": -250.0,
+          "avg_games": 1925.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 91.9
+        },
+        {
+          "name": "マイジャグラーV",
+          "avg_diff": -250.0,
+          "avg_games": 5022.0,
+          "win_plus": 10,
+          "win_total": 39,
+          "rate": 96.9
+        },
+        {
+          "name": "L無職転生～異世界行ったら本気だす～",
+          "avg_diff": -500.0,
+          "avg_games": 1185.0,
+          "win_plus": 0,
+          "win_total": 4,
+          "rate": 85.5
+        },
+        {
+          "name": "アレックス ブライト",
+          "avg_diff": -500.0,
+          "avg_games": 4408.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 96.1
+        },
+        {
+          "name": "アニマルスロット ドッチ",
+          "avg_diff": -500.0,
+          "avg_games": 4636.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 95.7
+        },
+        {
+          "name": "スマスロ 攻殻機動隊",
+          "avg_diff": -500.0,
+          "avg_games": 4319.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 95.4
+        },
+        {
+          "name": "スマスロ ミリオンゴッド-神々の軌跡-",
+          "avg_diff": -500.0,
+          "avg_games": 6413.0,
+          "win_plus": 3,
+          "win_total": 14,
+          "rate": 96.8
+        },
+        {
+          "name": "Lパチスロ革命機ヴァルヴレイヴ2",
+          "avg_diff": -500.0,
+          "avg_games": 2787.0,
+          "win_plus": 3,
+          "win_total": 13,
+          "rate": 92.6
+        },
+        {
+          "name": "Lパチスロ 機動戦士ガンダムユニコーン 覚醒DRIVE",
+          "avg_diff": -500.0,
+          "avg_games": 1623.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 87.1
+        },
+        {
+          "name": "L戦国乙女5 業火を穿つ宿焔の双刃",
+          "avg_diff": -500.0,
+          "avg_games": 8788.0,
+          "win_plus": 7,
+          "win_total": 15,
+          "rate": 97.6
+        },
+        {
+          "name": "Lパチスロからくりサーカス",
+          "avg_diff": -500.0,
+          "avg_games": 1647.0,
+          "win_plus": 1,
+          "win_total": 7,
+          "rate": 85.8
+        },
+        {
+          "name": "A-SLOT+異世界かるてっとBT",
+          "avg_diff": -750.0,
+          "avg_games": 1042.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 75.4
+        },
+        {
+          "name": "沖ドキ!ゴージャス 25Φ",
+          "avg_diff": -750.0,
+          "avg_games": 2296.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 88.7
+        },
+        {
+          "name": "スマスロ 東京リベンジャーズ",
+          "avg_diff": -750.0,
+          "avg_games": 2038.0,
+          "win_plus": 0,
+          "win_total": 4,
+          "rate": 85.8
+        },
+        {
+          "name": "スマスロ鉄拳6",
+          "avg_diff": -750.0,
+          "avg_games": 1059.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 72.3
+        },
+        {
+          "name": "スマスロ秘宝伝",
+          "avg_diff": -750.0,
+          "avg_games": 2344.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 86.3
+        },
+        {
+          "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+          "avg_diff": -750.0,
+          "avg_games": 3027.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 89.4
+        },
+        {
+          "name": "スマスロ ゴッドイーター リザレクション",
+          "avg_diff": -1000.0,
+          "avg_games": 1756.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 81.0
+        },
+        {
+          "name": "パチスロ　マクロスデルタ",
+          "avg_diff": -1250.0,
+          "avg_games": 2666.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 84.3
+        },
+        {
+          "name": "Lバンドリ！",
+          "avg_diff": -1250.0,
+          "avg_games": 2995.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 85.9
+        },
+        {
+          "name": "スマスロ新鬼武者3",
+          "avg_diff": -1500.0,
+          "avg_games": 1760.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 70.4
+        },
+        {
+          "name": "スマスロバジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+          "avg_diff": -2000.0,
+          "avg_games": 3224.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 77.6
+        },
+        {
+          "name": "スロット ソードアート・オンラインⅡ",
+          "avg_diff": -2250.0,
+          "avg_games": 8860.0,
+          "win_plus": 4,
+          "win_total": 15,
+          "rate": 91.1
+        },
+        {
+          "name": "チバリヨ2",
+          "avg_diff": -3000.0,
+          "avg_games": 3900.0,
+          "win_plus": 0,
+          "win_total": 3,
+          "rate": 72.9
+        }
+      ],
+      "matsubi": [
+        {
+          "matsubi": "0",
+          "avg_diff": null,
+          "avg_games": 3247.0,
+          "win_plus": 18,
+          "win_total": 53,
+          "rate": null
+        },
+        {
+          "matsubi": "1",
+          "avg_diff": null,
+          "avg_games": 3061.0,
+          "win_plus": 15,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "2",
+          "avg_diff": null,
+          "avg_games": 3536.0,
+          "win_plus": 26,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "3",
+          "avg_diff": null,
+          "avg_games": 2997.0,
+          "win_plus": 17,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "4",
+          "avg_diff": null,
+          "avg_games": 3407.0,
+          "win_plus": 23,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "5",
+          "avg_diff": 189.0,
+          "avg_games": 3434.0,
+          "win_plus": 23,
+          "win_total": 60,
+          "rate": 101.8
+        },
+        {
+          "matsubi": "6",
+          "avg_diff": null,
+          "avg_games": 2682.0,
+          "win_plus": 22,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "7",
+          "avg_diff": null,
+          "avg_games": 3172.0,
+          "win_plus": 22,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "8",
+          "avg_diff": 293.0,
+          "avg_games": 3456.0,
+          "win_plus": 28,
+          "win_total": 59,
+          "rate": 102.8
+        },
+        {
+          "matsubi": "9",
+          "avg_diff": null,
+          "avg_games": 3146.0,
+          "win_plus": 23,
+          "win_total": 54,
+          "rate": null
+        },
+        {
+          "matsubi": "ゾロ目 (下二桁)",
+          "avg_diff": null,
+          "avg_games": 2679.0,
+          "win_plus": 11,
+          "win_total": 49,
+          "rate": null
+        }
+      ],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/19",
+      "iso_date": "2026-06-19",
+      "stale": false,
+      "title": "6/19(金) 楽園立川店",
+      "consider": [
+        "全体は重め(平均-71枚・勝率36%)。狙いを絞った方が良さそう。",
+        "プリズムナナは2台全勝(平均+2760枚)で鉄板感。",
+        "ニューゲッターマウスは2台全勝(平均+1315枚)で鉄板感。",
+        "スマスロ モンスターハンターライズが平均+4307枚と特に好調。"
+      ],
+      "kishu_class": {
+        "excellent": [
+          {
+            "name": "スマスロ モンスターハンターライズ",
+            "avg_diff": 4307.0,
+            "avg_games": 3862.0,
+            "win_plus": 4,
+            "win_total": 6,
+            "rate": 137.2
+          },
+          {
+            "name": "プリズムナナ",
+            "avg_diff": 2760.0,
+            "avg_games": 2805.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 132.8
+          },
+          {
+            "name": "Lスマスロ北斗の拳",
+            "avg_diff": 2351.0,
+            "avg_games": 3590.0,
+            "win_plus": 5,
+            "win_total": 8,
+            "rate": 121.8
+          }
+        ],
+        "highwin": [
+          {
+            "name": "ファンキージャグラー２ＫＴ",
+            "avg_diff": 1080.0,
+            "avg_games": 5211.0,
+            "win_plus": 4,
+            "win_total": 5,
+            "rate": 106.9
+          },
+          {
+            "name": "バーサスリヴァイズ",
+            "avg_diff": 823.0,
+            "avg_games": 2324.0,
+            "win_plus": 2,
+            "win_total": 3,
+            "rate": 111.8
+          },
+          {
+            "name": "パチスロ　ディスクアップ２",
+            "avg_diff": 785.0,
+            "avg_games": 3345.0,
+            "win_plus": 5,
+            "win_total": 6,
+            "rate": 107.8
+          },
+          {
+            "name": "ニューパルサーSP4 with 太鼓の達人",
+            "avg_diff": 516.0,
+            "avg_games": 2963.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 105.8
+          },
+          {
+            "name": "クランキークレスト",
+            "avg_diff": 362.0,
+            "avg_games": 2909.0,
+            "win_plus": 4,
+            "win_total": 5,
+            "rate": 104.1
+          },
+          {
+            "name": "Lパチスロ炎炎ノ消防隊2",
+            "avg_diff": 311.0,
+            "avg_games": 2128.0,
+            "win_plus": 9,
+            "win_total": 14,
+            "rate": 104.9
+          },
+          {
+            "name": "クレアの秘宝伝～はじまりの扉と太陽の石～ボーナストリガーver.",
+            "avg_diff": 247.0,
+            "avg_games": 1370.0,
+            "win_plus": 4,
+            "win_total": 6,
+            "rate": 106.0
+          },
+          {
+            "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+            "avg_diff": 20.0,
+            "avg_games": 4793.0,
+            "win_plus": 3,
+            "win_total": 4,
+            "rate": 100.1
+          },
+          {
+            "name": "スマスロ サンダーV",
+            "avg_diff": -62.0,
+            "avg_games": 3297.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 99.4
+          },
+          {
+            "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+            "avg_diff": -100.0,
+            "avg_games": 4989.0,
+            "win_plus": 6,
+            "win_total": 10,
+            "rate": 99.2
+          }
+        ],
+        "others": [
+          {
+            "name": "ニューゲッターマウス",
+            "avg_diff": 1315.0,
+            "avg_games": 2893.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 115.2
+          },
+          {
+            "name": "いざ！番長",
+            "avg_diff": 1310.0,
+            "avg_games": 1901.0,
+            "win_plus": 1,
+            "win_total": 4,
+            "rate": 123.0
+          },
+          {
+            "name": "LBスロットGALFY",
+            "avg_diff": 1015.0,
+            "avg_games": 4286.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 107.9
+          },
+          {
+            "name": "パチスロひぐらしのなく頃に祭２",
+            "avg_diff": 970.0,
+            "avg_games": 2705.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 112.0
+          },
+          {
+            "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+            "avg_diff": 920.0,
+            "avg_games": 2876.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 110.7
+          },
+          {
+            "name": "この素晴らしい世界に祝福を！",
+            "avg_diff": 735.0,
+            "avg_games": 2810.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 108.7
+          },
+          {
+            "name": "スマスロ スーパーブラックジャック",
+            "avg_diff": 703.0,
+            "avg_games": 1401.0,
+            "win_plus": 1,
+            "win_total": 3,
+            "rate": 116.7
+          },
+          {
+            "name": "スマスロ スーパーリオエース2",
+            "avg_diff": 676.0,
+            "avg_games": 3274.0,
+            "win_plus": 4,
+            "win_total": 8,
+            "rate": 106.9
+          },
+          {
+            "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+            "avg_diff": 660.0,
+            "avg_games": 3343.0,
+            "win_plus": 11,
+            "win_total": 20,
+            "rate": 106.6
+          },
+          {
+            "name": "スマスロ バイオハザードRE:3",
+            "avg_diff": 656.0,
+            "avg_games": 2644.0,
+            "win_plus": 3,
+            "win_total": 7,
+            "rate": 108.3
+          },
+          {
+            "name": "スマスロ北斗の拳 転生の章2",
+            "avg_diff": 372.0,
+            "avg_games": 3278.0,
+            "win_plus": 9,
+            "win_total": 24,
+            "rate": 103.8
+          },
+          {
+            "name": "キングハナハナ-30",
+            "avg_diff": 254.0,
+            "avg_games": 2701.0,
+            "win_plus": 7,
+            "win_total": 16,
+            "rate": 103.1
+          },
+          {
+            "name": "Lパチスロ かぐや様は告らせたい",
+            "avg_diff": 190.0,
+            "avg_games": 2803.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 102.3
+          },
+          {
+            "name": "スマスロとある科学の超電磁砲2",
+            "avg_diff": 180.0,
+            "avg_games": 937.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 106.4
+          },
+          {
+            "name": "スマスロ 沖ドキ!DUO アンコール",
+            "avg_diff": 81.0,
+            "avg_games": 1746.0,
+            "win_plus": 5,
+            "win_total": 10,
+            "rate": 101.5
+          },
+          {
+            "name": "スマスロ化物語",
+            "avg_diff": 66.0,
+            "avg_games": 2813.0,
+            "win_plus": 2,
+            "win_total": 7,
+            "rate": 100.8
+          },
+          {
+            "name": "新ハナビ",
+            "avg_diff": 56.0,
+            "avg_games": 2396.0,
+            "win_plus": 3,
+            "win_total": 8,
+            "rate": 100.8
+          },
+          {
+            "name": "コードギアス反逆のルルーシュ３ C.C.&Kallen ver.",
+            "avg_diff": 35.0,
+            "avg_games": 2478.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 100.5
+          },
+          {
+            "name": "交響詩篇エウレカセブン HI-EVOLUTION ZERO TYPE-ART",
+            "avg_diff": 13.0,
+            "avg_games": 1520.0,
+            "win_plus": 3,
+            "win_total": 7,
+            "rate": 100.3
+          }
+        ]
+      }
+    },
+    {
       "url": "https://min-repo.com/3174352/",
       "summary": {
         "total_units": 474,
@@ -15853,6 +17874,5002 @@
             "win_plus": 1,
             "win_total": 3,
             "rate": 100.2
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://min-repo.com/3174803/",
+      "summary": {
+        "total_units": 599,
+        "win_plus": 198,
+        "win_pct": 33.1,
+        "total_diff": -24481,
+        "avg_diff": -41,
+        "estimated": true
+      },
+      "kishu": [
+        {
+          "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+          "avg_diff": 1804.0,
+          "avg_games": 2463.0,
+          "win_plus": 4,
+          "win_total": 5,
+          "rate": 124.4
+        },
+        {
+          "name": "アニマルスロット ドッチ",
+          "avg_diff": 1745.0,
+          "avg_games": 2608.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 122.3
+        },
+        {
+          "name": "Lパチスロからくりサーカス",
+          "avg_diff": 1081.0,
+          "avg_games": 822.0,
+          "win_plus": 1,
+          "win_total": 7,
+          "rate": 143.9
+        },
+        {
+          "name": "スマスロヨルムンガンド",
+          "avg_diff": 1070.0,
+          "avg_games": 912.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 139.1
+        },
+        {
+          "name": "スマスロ バイオハザードRE:3",
+          "avg_diff": 1003.0,
+          "avg_games": 1253.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 126.7
+        },
+        {
+          "name": "ゴーゴージャグラー３",
+          "avg_diff": 987.0,
+          "avg_games": 8526.0,
+          "win_plus": 12,
+          "win_total": 13,
+          "rate": 103.9
+        },
+        {
+          "name": "スマスロ 攻殻機動隊",
+          "avg_diff": 980.0,
+          "avg_games": 1960.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 116.7
+        },
+        {
+          "name": "スロット ソードアート・オンラインⅡ",
+          "avg_diff": 864.0,
+          "avg_games": 8556.0,
+          "win_plus": 8,
+          "win_total": 15,
+          "rate": 103.4
+        },
+        {
+          "name": "スマスロBIRDIE WING-Golf Girls’ Story-",
+          "avg_diff": 706.0,
+          "avg_games": 2170.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 110.8
+        },
+        {
+          "name": "沖ドキ！ＧＯＬＤ",
+          "avg_diff": 635.0,
+          "avg_games": 2175.0,
+          "win_plus": 5,
+          "win_total": 6,
+          "rate": 109.7
+        },
+        {
+          "name": "A-SLOT+異世界かるてっとBT",
+          "avg_diff": 570.0,
+          "avg_games": 1941.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 109.8
+        },
+        {
+          "name": "Lスマスロ北斗の拳",
+          "avg_diff": 554.0,
+          "avg_games": 4384.0,
+          "win_plus": 4,
+          "win_total": 8,
+          "rate": 104.2
+        },
+        {
+          "name": "Lアズールレーン THE ANIMATION",
+          "avg_diff": 550.0,
+          "avg_games": 1749.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 110.5
+        },
+        {
+          "name": "ファミスタ回胴版！！",
+          "avg_diff": 507.0,
+          "avg_games": 1536.0,
+          "win_plus": 2,
+          "win_total": 3,
+          "rate": 111.0
+        },
+        {
+          "name": "スマスロ秘宝伝",
+          "avg_diff": 465.0,
+          "avg_games": 1803.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 108.6
+        },
+        {
+          "name": "Lパチスロ 機動戦士ガンダムユニコーン 覚醒DRIVE",
+          "avg_diff": 460.0,
+          "avg_games": 1357.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 111.3
+        },
+        {
+          "name": "ミスタージャグラー",
+          "avg_diff": 450.0,
+          "avg_games": 2822.0,
+          "win_plus": 8,
+          "win_total": 13,
+          "rate": 105.3
+        },
+        {
+          "name": "沖ドキ!ゴージャス 25Φ",
+          "avg_diff": 381.0,
+          "avg_games": 3300.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 103.9
+        },
+        {
+          "name": "パチスロ　ディスクアップ２",
+          "avg_diff": 380.0,
+          "avg_games": 1808.0,
+          "win_plus": 5,
+          "win_total": 6,
+          "rate": 107.0
+        },
+        {
+          "name": "Lパチスロ革命機ヴァルヴレイヴ2",
+          "avg_diff": 377.0,
+          "avg_games": 3405.0,
+          "win_plus": 7,
+          "win_total": 13,
+          "rate": 103.7
+        },
+        {
+          "name": "いざ！番長",
+          "avg_diff": 350.0,
+          "avg_games": 354.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 133.0
+        },
+        {
+          "name": "ニューゲッターマウス",
+          "avg_diff": 330.0,
+          "avg_games": 3584.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 103.1
+        },
+        {
+          "name": "Lバンドリ！",
+          "avg_diff": 300.0,
+          "avg_games": 2691.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 103.7
+        },
+        {
+          "name": "スマスロ ゴッドイーター リザレクション",
+          "avg_diff": 294.0,
+          "avg_games": 2310.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 104.2
+        },
+        {
+          "name": "ニューパルサーSP4 with 太鼓の達人",
+          "avg_diff": 248.0,
+          "avg_games": 1865.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 104.4
+        },
+        {
+          "name": "スマスロ 沖ドキ!DUO アンコール",
+          "avg_diff": 197.0,
+          "avg_games": 2801.0,
+          "win_plus": 2,
+          "win_total": 10,
+          "rate": 102.3
+        },
+        {
+          "name": "スマスロ サンダーV",
+          "avg_diff": 106.0,
+          "avg_games": 3927.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 100.9
+        },
+        {
+          "name": "バーサスリヴァイズ",
+          "avg_diff": 97.0,
+          "avg_games": 1618.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 102.0
+        },
+        {
+          "name": "プリズムナナ",
+          "avg_diff": 45.0,
+          "avg_games": 376.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 104.0
+        },
+        {
+          "name": "スマスロ スーパーリオエース2",
+          "avg_diff": 31.0,
+          "avg_games": 3476.0,
+          "win_plus": 2,
+          "win_total": 8,
+          "rate": 100.3
+        },
+        {
+          "name": "ジャグラーガールズSS",
+          "avg_diff": 26.0,
+          "avg_games": 2826.0,
+          "win_plus": 4,
+          "win_total": 10,
+          "rate": 100.3
+        },
+        {
+          "name": "スマスロ北斗の拳 転生の章2",
+          "avg_diff": 18.0,
+          "avg_games": 1882.0,
+          "win_plus": 10,
+          "win_total": 24,
+          "rate": 100.3
+        },
+        {
+          "name": "Lパチスロ炎炎ノ消防隊2",
+          "avg_diff": -43.0,
+          "avg_games": 1655.0,
+          "win_plus": 4,
+          "win_total": 14,
+          "rate": 99.1
+        },
+        {
+          "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+          "avg_diff": -69.0,
+          "avg_games": 3755.0,
+          "win_plus": 7,
+          "win_total": 20,
+          "rate": 99.4
+        },
+        {
+          "name": "交響詩篇エウレカセブン HI-EVOLUTION ZERO TYPE-ART",
+          "avg_diff": -70.0,
+          "avg_games": 2629.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 99.1
+        },
+        {
+          "name": "クレアの秘宝伝～はじまりの扉と太陽の石～ボーナストリガーver.",
+          "avg_diff": -85.0,
+          "avg_games": 1842.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 98.5
+        },
+        {
+          "name": "スマスロ ハナビ",
+          "avg_diff": -100.0,
+          "avg_games": 2976.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 98.7
+        },
+        {
+          "name": "スマスロ スーパーブラックジャック",
+          "avg_diff": -100.0,
+          "avg_games": 3592.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 98.8
+        },
+        {
+          "name": "L東京喰種",
+          "avg_diff": -150.0,
+          "avg_games": 3472.0,
+          "win_plus": 10,
+          "win_total": 26,
+          "rate": 98.5
+        },
+        {
+          "name": "スマスロモンキーターンV",
+          "avg_diff": -150.0,
+          "avg_games": 2039.0,
+          "win_plus": 7,
+          "win_total": 15,
+          "rate": 97.3
+        },
+        {
+          "name": "新ハナビ",
+          "avg_diff": -150.0,
+          "avg_games": 1481.0,
+          "win_plus": 1,
+          "win_total": 8,
+          "rate": 96.2
+        },
+        {
+          "name": "スマスロ 東京リベンジャーズ",
+          "avg_diff": -150.0,
+          "avg_games": 1115.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 94.5
+        },
+        {
+          "name": "クランキークレスト",
+          "avg_diff": -200.0,
+          "avg_games": 1004.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 93.3
+        },
+        {
+          "name": "ネオアイムジャグラーEX",
+          "avg_diff": -200.0,
+          "avg_games": 3095.0,
+          "win_plus": 17,
+          "win_total": 61,
+          "rate": 97.7
+        },
+        {
+          "name": "コードギアス反逆のルルーシュ３ C.C.&Kallen ver.",
+          "avg_diff": -200.0,
+          "avg_games": 1900.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 96.3
+        },
+        {
+          "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+          "avg_diff": -200.0,
+          "avg_games": 534.0,
+          "win_plus": 1,
+          "win_total": 10,
+          "rate": 85.8
+        },
+        {
+          "name": "スマスロ バイオハザード5",
+          "avg_diff": -200.0,
+          "avg_games": 154.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 49.1
+        },
+        {
+          "name": "チバリヨ2",
+          "avg_diff": -250.0,
+          "avg_games": 755.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 88.7
+        },
+        {
+          "name": "LBパチスロ ヱヴァンゲリヲン～約束の扉～",
+          "avg_diff": -250.0,
+          "avg_games": 1300.0,
+          "win_plus": 0,
+          "win_total": 4,
+          "rate": 93.4
+        },
+        {
+          "name": "キングハナハナ-30",
+          "avg_diff": -250.0,
+          "avg_games": 2117.0,
+          "win_plus": 3,
+          "win_total": 16,
+          "rate": 95.5
+        },
+        {
+          "name": "ニューキングハナハナV‐30",
+          "avg_diff": -250.0,
+          "avg_games": 2608.0,
+          "win_plus": 4,
+          "win_total": 16,
+          "rate": 96.3
+        },
+        {
+          "name": "スマスロとある科学の超電磁砲2",
+          "avg_diff": -250.0,
+          "avg_games": 656.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 83.5
+        },
+        {
+          "name": "パチスロ　マクロスデルタ",
+          "avg_diff": -250.0,
+          "avg_games": 403.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 71.8
+        },
+        {
+          "name": "真打 吉宗",
+          "avg_diff": -250.0,
+          "avg_games": 3805.0,
+          "win_plus": 3,
+          "win_total": 10,
+          "rate": 97.0
+        },
+        {
+          "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+          "avg_diff": -250.0,
+          "avg_games": 1787.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 93.5
+        },
+        {
+          "name": "この素晴らしい世界に祝福を！",
+          "avg_diff": -250.0,
+          "avg_games": 2264.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 94.8
+        },
+        {
+          "name": "スマスロ化物語",
+          "avg_diff": -250.0,
+          "avg_games": 1296.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 89.7
+        },
+        {
+          "name": "スマスロ ミリオンゴッド-神々の軌跡-",
+          "avg_diff": -250.0,
+          "avg_games": 4112.0,
+          "win_plus": 4,
+          "win_total": 14,
+          "rate": 96.5
+        },
+        {
+          "name": "スマスロ新鬼武者3",
+          "avg_diff": -250.0,
+          "avg_games": 1347.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 89.3
+        },
+        {
+          "name": "スマスロ痛いのは嫌なので防御力に極振りしたいと思います。",
+          "avg_diff": -500.0,
+          "avg_games": 850.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 79.9
+        },
+        {
+          "name": "ファンキージャグラー２ＫＴ",
+          "avg_diff": -500.0,
+          "avg_games": 3099.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 94.5
+        },
+        {
+          "name": "マイジャグラーV",
+          "avg_diff": -500.0,
+          "avg_games": 4601.0,
+          "win_plus": 4,
+          "win_total": 39,
+          "rate": 95.5
+        },
+        {
+          "name": "L無職転生～異世界行ったら本気だす～",
+          "avg_diff": -500.0,
+          "avg_games": 851.0,
+          "win_plus": 0,
+          "win_total": 4,
+          "rate": 74.0
+        },
+        {
+          "name": "Lパチスロガールズ＆パンツァー 最終章",
+          "avg_diff": -500.0,
+          "avg_games": 1786.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 86.4
+        },
+        {
+          "name": "ハッピージャグラーＶＩＩＩ",
+          "avg_diff": -500.0,
+          "avg_games": 2636.0,
+          "win_plus": 0,
+          "win_total": 7,
+          "rate": 90.6
+        },
+        {
+          "name": "LBスロットGALFY",
+          "avg_diff": -500.0,
+          "avg_games": 2308.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 89.2
+        },
+        {
+          "name": "スマスロバジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+          "avg_diff": -750.0,
+          "avg_games": 913.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 70.8
+        },
+        {
+          "name": "スマスロ鉄拳6",
+          "avg_diff": -750.0,
+          "avg_games": 910.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 70.3
+        },
+        {
+          "name": "スマスロ モンスターハンターライズ",
+          "avg_diff": -750.0,
+          "avg_games": 2168.0,
+          "win_plus": 1,
+          "win_total": 6,
+          "rate": 86.0
+        },
+        {
+          "name": "パチスロひぐらしのなく頃に祭２",
+          "avg_diff": -750.0,
+          "avg_games": 3852.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 91.8
+        },
+        {
+          "name": "SHAKE BONUS TRIGGER",
+          "avg_diff": -750.0,
+          "avg_games": 3138.0,
+          "win_plus": 0,
+          "win_total": 4,
+          "rate": 89.8
+        },
+        {
+          "name": "L不二子BT",
+          "avg_diff": -750.0,
+          "avg_games": 2486.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 87.1
+        },
+        {
+          "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+          "avg_diff": -1000.0,
+          "avg_games": 1152.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 69.7
+        },
+        {
+          "name": "Lパチスロ かぐや様は告らせたい",
+          "avg_diff": -1000.0,
+          "avg_games": 1394.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 74.4
+        },
+        {
+          "name": "アレックス ブライト",
+          "avg_diff": -1000.0,
+          "avg_games": 2155.0,
+          "win_plus": 0,
+          "win_total": 4,
+          "rate": 80.9
+        },
+        {
+          "name": "L戦国乙女5 業火を穿つ宿焔の双刃",
+          "avg_diff": -1250.0,
+          "avg_games": 8264.0,
+          "win_plus": 5,
+          "win_total": 15,
+          "rate": 94.3
+        },
+        {
+          "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+          "avg_diff": -1500.0,
+          "avg_games": 2867.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 81.8
+        }
+      ],
+      "matsubi": [
+        {
+          "matsubi": "0",
+          "avg_diff": null,
+          "avg_games": 2868.0,
+          "win_plus": 18,
+          "win_total": 53,
+          "rate": null
+        },
+        {
+          "matsubi": "1",
+          "avg_diff": null,
+          "avg_games": 3120.0,
+          "win_plus": 22,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "2",
+          "avg_diff": 238.0,
+          "avg_games": 3322.0,
+          "win_plus": 20,
+          "win_total": 64,
+          "rate": 102.4
+        },
+        {
+          "matsubi": "3",
+          "avg_diff": null,
+          "avg_games": 2855.0,
+          "win_plus": 23,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "4",
+          "avg_diff": null,
+          "avg_games": 3267.0,
+          "win_plus": 21,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "5",
+          "avg_diff": null,
+          "avg_games": 2953.0,
+          "win_plus": 17,
+          "win_total": 60,
+          "rate": null
+        },
+        {
+          "matsubi": "6",
+          "avg_diff": 45.0,
+          "avg_games": 3218.0,
+          "win_plus": 23,
+          "win_total": 59,
+          "rate": 100.5
+        },
+        {
+          "matsubi": "7",
+          "avg_diff": 81.0,
+          "avg_games": 2595.0,
+          "win_plus": 22,
+          "win_total": 59,
+          "rate": 101.0
+        },
+        {
+          "matsubi": "8",
+          "avg_diff": null,
+          "avg_games": 2998.0,
+          "win_plus": 12,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "9",
+          "avg_diff": null,
+          "avg_games": 2902.0,
+          "win_plus": 20,
+          "win_total": 54,
+          "rate": null
+        },
+        {
+          "matsubi": "ゾロ目 (下二桁)",
+          "avg_diff": 60.0,
+          "avg_games": 3188.0,
+          "win_plus": 13,
+          "win_total": 49,
+          "rate": 100.6
+        }
+      ],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/18",
+      "iso_date": "2026-06-18",
+      "stale": false,
+      "title": "6/18(木) 楽園立川店",
+      "consider": [
+        "全体は重め(平均-41枚・勝率33%)。狙いを絞った方が良さそう。",
+        "アニマルスロット ドッチは2台全勝(平均+1745枚)で鉄板感。",
+        "プリズムナナは2台全勝(平均+45枚)で鉄板感。",
+        "L聖闘士星矢 海皇覚醒 CUSTOM EDITIONが平均+1804枚と特に好調。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [
+          {
+            "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+            "avg_diff": 1804.0,
+            "avg_games": 2463.0,
+            "win_plus": 4,
+            "win_total": 5,
+            "rate": 124.4
+          },
+          {
+            "name": "ゴーゴージャグラー３",
+            "avg_diff": 987.0,
+            "avg_games": 8526.0,
+            "win_plus": 12,
+            "win_total": 13,
+            "rate": 103.9
+          },
+          {
+            "name": "スマスロ 攻殻機動隊",
+            "avg_diff": 980.0,
+            "avg_games": 1960.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 116.7
+          },
+          {
+            "name": "スマスロBIRDIE WING-Golf Girls’ Story-",
+            "avg_diff": 706.0,
+            "avg_games": 2170.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 110.8
+          },
+          {
+            "name": "沖ドキ！ＧＯＬＤ",
+            "avg_diff": 635.0,
+            "avg_games": 2175.0,
+            "win_plus": 5,
+            "win_total": 6,
+            "rate": 109.7
+          },
+          {
+            "name": "ファミスタ回胴版！！",
+            "avg_diff": 507.0,
+            "avg_games": 1536.0,
+            "win_plus": 2,
+            "win_total": 3,
+            "rate": 111.0
+          },
+          {
+            "name": "ミスタージャグラー",
+            "avg_diff": 450.0,
+            "avg_games": 2822.0,
+            "win_plus": 8,
+            "win_total": 13,
+            "rate": 105.3
+          },
+          {
+            "name": "パチスロ　ディスクアップ２",
+            "avg_diff": 380.0,
+            "avg_games": 1808.0,
+            "win_plus": 5,
+            "win_total": 6,
+            "rate": 107.0
+          }
+        ],
+        "others": [
+          {
+            "name": "アニマルスロット ドッチ",
+            "avg_diff": 1745.0,
+            "avg_games": 2608.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 122.3
+          },
+          {
+            "name": "Lパチスロからくりサーカス",
+            "avg_diff": 1081.0,
+            "avg_games": 822.0,
+            "win_plus": 1,
+            "win_total": 7,
+            "rate": 143.9
+          },
+          {
+            "name": "スマスロヨルムンガンド",
+            "avg_diff": 1070.0,
+            "avg_games": 912.0,
+            "win_plus": 1,
+            "win_total": 3,
+            "rate": 139.1
+          },
+          {
+            "name": "スマスロ バイオハザードRE:3",
+            "avg_diff": 1003.0,
+            "avg_games": 1253.0,
+            "win_plus": 2,
+            "win_total": 7,
+            "rate": 126.7
+          },
+          {
+            "name": "スロット ソードアート・オンラインⅡ",
+            "avg_diff": 864.0,
+            "avg_games": 8556.0,
+            "win_plus": 8,
+            "win_total": 15,
+            "rate": 103.4
+          },
+          {
+            "name": "A-SLOT+異世界かるてっとBT",
+            "avg_diff": 570.0,
+            "avg_games": 1941.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 109.8
+          },
+          {
+            "name": "Lスマスロ北斗の拳",
+            "avg_diff": 554.0,
+            "avg_games": 4384.0,
+            "win_plus": 4,
+            "win_total": 8,
+            "rate": 104.2
+          },
+          {
+            "name": "Lアズールレーン THE ANIMATION",
+            "avg_diff": 550.0,
+            "avg_games": 1749.0,
+            "win_plus": 3,
+            "win_total": 6,
+            "rate": 110.5
+          },
+          {
+            "name": "スマスロ秘宝伝",
+            "avg_diff": 465.0,
+            "avg_games": 1803.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 108.6
+          },
+          {
+            "name": "Lパチスロ 機動戦士ガンダムユニコーン 覚醒DRIVE",
+            "avg_diff": 460.0,
+            "avg_games": 1357.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 111.3
+          },
+          {
+            "name": "沖ドキ!ゴージャス 25Φ",
+            "avg_diff": 381.0,
+            "avg_games": 3300.0,
+            "win_plus": 2,
+            "win_total": 7,
+            "rate": 103.9
+          },
+          {
+            "name": "Lパチスロ革命機ヴァルヴレイヴ2",
+            "avg_diff": 377.0,
+            "avg_games": 3405.0,
+            "win_plus": 7,
+            "win_total": 13,
+            "rate": 103.7
+          },
+          {
+            "name": "いざ！番長",
+            "avg_diff": 350.0,
+            "avg_games": 354.0,
+            "win_plus": 2,
+            "win_total": 4,
+            "rate": 133.0
+          },
+          {
+            "name": "ニューゲッターマウス",
+            "avg_diff": 330.0,
+            "avg_games": 3584.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 103.1
+          },
+          {
+            "name": "Lバンドリ！",
+            "avg_diff": 300.0,
+            "avg_games": 2691.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 103.7
+          },
+          {
+            "name": "スマスロ ゴッドイーター リザレクション",
+            "avg_diff": 294.0,
+            "avg_games": 2310.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 104.2
+          },
+          {
+            "name": "ニューパルサーSP4 with 太鼓の達人",
+            "avg_diff": 248.0,
+            "avg_games": 1865.0,
+            "win_plus": 1,
+            "win_total": 5,
+            "rate": 104.4
+          },
+          {
+            "name": "スマスロ 沖ドキ!DUO アンコール",
+            "avg_diff": 197.0,
+            "avg_games": 2801.0,
+            "win_plus": 2,
+            "win_total": 10,
+            "rate": 102.3
+          },
+          {
+            "name": "スマスロ サンダーV",
+            "avg_diff": 106.0,
+            "avg_games": 3927.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 100.9
+          },
+          {
+            "name": "バーサスリヴァイズ",
+            "avg_diff": 97.0,
+            "avg_games": 1618.0,
+            "win_plus": 1,
+            "win_total": 3,
+            "rate": 102.0
+          },
+          {
+            "name": "プリズムナナ",
+            "avg_diff": 45.0,
+            "avg_games": 376.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 104.0
+          },
+          {
+            "name": "スマスロ スーパーリオエース2",
+            "avg_diff": 31.0,
+            "avg_games": 3476.0,
+            "win_plus": 2,
+            "win_total": 8,
+            "rate": 100.3
+          },
+          {
+            "name": "ジャグラーガールズSS",
+            "avg_diff": 26.0,
+            "avg_games": 2826.0,
+            "win_plus": 4,
+            "win_total": 10,
+            "rate": 100.3
+          },
+          {
+            "name": "スマスロ北斗の拳 転生の章2",
+            "avg_diff": 18.0,
+            "avg_games": 1882.0,
+            "win_plus": 10,
+            "win_total": 24,
+            "rate": 100.3
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://min-repo.com/3172929/",
+      "summary": {
+        "total_units": 599,
+        "win_plus": 196,
+        "win_pct": 32.7,
+        "total_diff": -40380,
+        "avg_diff": -67,
+        "estimated": true
+      },
+      "kishu": [
+        {
+          "name": "プリズムナナ",
+          "avg_diff": 2150.0,
+          "avg_games": 1686.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 142.5
+        },
+        {
+          "name": "チバリヨ2",
+          "avg_diff": 1800.0,
+          "avg_games": 3317.0,
+          "win_plus": 2,
+          "win_total": 3,
+          "rate": 118.1
+        },
+        {
+          "name": "SHAKE BONUS TRIGGER",
+          "avg_diff": 1290.0,
+          "avg_games": 4571.0,
+          "win_plus": 3,
+          "win_total": 4,
+          "rate": 109.4
+        },
+        {
+          "name": "スマスロ バイオハザードRE:3",
+          "avg_diff": 1193.0,
+          "avg_games": 4480.0,
+          "win_plus": 5,
+          "win_total": 7,
+          "rate": 108.9
+        },
+        {
+          "name": "いざ！番長",
+          "avg_diff": 1083.0,
+          "avg_games": 2041.0,
+          "win_plus": 3,
+          "win_total": 4,
+          "rate": 117.7
+        },
+        {
+          "name": "スマスロ スーパーリオエース2",
+          "avg_diff": 1070.0,
+          "avg_games": 3006.0,
+          "win_plus": 4,
+          "win_total": 8,
+          "rate": 111.9
+        },
+        {
+          "name": "スマスロヨルムンガンド",
+          "avg_diff": 923.0,
+          "avg_games": 2457.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 112.5
+        },
+        {
+          "name": "ハッピージャグラーＶＩＩＩ",
+          "avg_diff": 881.0,
+          "avg_games": 5371.0,
+          "win_plus": 5,
+          "win_total": 7,
+          "rate": 105.5
+        },
+        {
+          "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+          "avg_diff": 716.0,
+          "avg_games": 1771.0,
+          "win_plus": 6,
+          "win_total": 10,
+          "rate": 113.5
+        },
+        {
+          "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+          "avg_diff": 698.0,
+          "avg_games": 1949.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 111.9
+        },
+        {
+          "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+          "avg_diff": 692.0,
+          "avg_games": 3475.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 106.6
+        },
+        {
+          "name": "パチスロひぐらしのなく頃に祭２",
+          "avg_diff": 645.0,
+          "avg_games": 3986.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 105.4
+        },
+        {
+          "name": "キングハナハナ-30",
+          "avg_diff": 620.0,
+          "avg_games": 4312.0,
+          "win_plus": 7,
+          "win_total": 16,
+          "rate": 104.8
+        },
+        {
+          "name": "スマスロバジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+          "avg_diff": 555.0,
+          "avg_games": 2231.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 108.3
+        },
+        {
+          "name": "スマスロ 東京リベンジャーズ",
+          "avg_diff": 513.0,
+          "avg_games": 1912.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 108.9
+        },
+        {
+          "name": "L戦国乙女5 業火を穿つ宿焔の双刃",
+          "avg_diff": 453.0,
+          "avg_games": 8120.0,
+          "win_plus": 7,
+          "win_total": 15,
+          "rate": 101.9
+        },
+        {
+          "name": "ニューキングハナハナV‐30",
+          "avg_diff": 388.0,
+          "avg_games": 3991.0,
+          "win_plus": 9,
+          "win_total": 16,
+          "rate": 103.2
+        },
+        {
+          "name": "Lパチスロ炎炎ノ消防隊2",
+          "avg_diff": 364.0,
+          "avg_games": 1465.0,
+          "win_plus": 8,
+          "win_total": 14,
+          "rate": 108.3
+        },
+        {
+          "name": "スマスロBIRDIE WING-Golf Girls’ Story-",
+          "avg_diff": 352.0,
+          "avg_games": 4184.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 102.8
+        },
+        {
+          "name": "Lパチスロ革命機ヴァルヴレイヴ2",
+          "avg_diff": 333.0,
+          "avg_games": 3086.0,
+          "win_plus": 4,
+          "win_total": 13,
+          "rate": 103.6
+        },
+        {
+          "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+          "avg_diff": 330.0,
+          "avg_games": 602.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 118.3
+        },
+        {
+          "name": "スマスロ 攻殻機動隊",
+          "avg_diff": 232.0,
+          "avg_games": 2289.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 103.4
+        },
+        {
+          "name": "スマスロ北斗の拳 転生の章2",
+          "avg_diff": 222.0,
+          "avg_games": 3213.0,
+          "win_plus": 8,
+          "win_total": 24,
+          "rate": 102.3
+        },
+        {
+          "name": "クランキークレスト",
+          "avg_diff": 182.0,
+          "avg_games": 1784.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 103.4
+        },
+        {
+          "name": "スマスロ ゴッドイーター リザレクション",
+          "avg_diff": 182.0,
+          "avg_games": 1930.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 103.1
+        },
+        {
+          "name": "スマスロ 沖ドキ!DUO アンコール",
+          "avg_diff": 179.0,
+          "avg_games": 2677.0,
+          "win_plus": 4,
+          "win_total": 10,
+          "rate": 102.2
+        },
+        {
+          "name": "スマスロ新鬼武者3",
+          "avg_diff": 154.0,
+          "avg_games": 1934.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 102.7
+        },
+        {
+          "name": "スマスロモンキーターンV",
+          "avg_diff": 117.0,
+          "avg_games": 1651.0,
+          "win_plus": 1,
+          "win_total": 15,
+          "rate": 102.4
+        },
+        {
+          "name": "スマスロ バイオハザード5",
+          "avg_diff": 95.0,
+          "avg_games": 1061.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 103.0
+        },
+        {
+          "name": "LBパチスロ ヱヴァンゲリヲン～約束の扉～",
+          "avg_diff": 75.0,
+          "avg_games": 1951.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 101.3
+        },
+        {
+          "name": "ファンキージャグラー２ＫＴ",
+          "avg_diff": 74.0,
+          "avg_games": 2612.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 100.9
+        },
+        {
+          "name": "Lアズールレーン THE ANIMATION",
+          "avg_diff": 10.0,
+          "avg_games": 1678.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 100.2
+        },
+        {
+          "name": "スマスロ ハナビ",
+          "avg_diff": -13.0,
+          "avg_games": 2026.0,
+          "win_plus": 2,
+          "win_total": 6,
+          "rate": 99.8
+        },
+        {
+          "name": "Lスマスロ北斗の拳",
+          "avg_diff": -23.0,
+          "avg_games": 2710.0,
+          "win_plus": 4,
+          "win_total": 8,
+          "rate": 99.7
+        },
+        {
+          "name": "スマスロ モンスターハンターライズ",
+          "avg_diff": -57.0,
+          "avg_games": 1833.0,
+          "win_plus": 2,
+          "win_total": 6,
+          "rate": 99.0
+        },
+        {
+          "name": "L不二子BT",
+          "avg_diff": -70.0,
+          "avg_games": 1759.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 98.7
+        },
+        {
+          "name": "クレアの秘宝伝～はじまりの扉と太陽の石～ボーナストリガーver.",
+          "avg_diff": -100.0,
+          "avg_games": 2688.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 98.5
+        },
+        {
+          "name": "L東京喰種",
+          "avg_diff": -100.0,
+          "avg_games": 3218.0,
+          "win_plus": 9,
+          "win_total": 26,
+          "rate": 98.6
+        },
+        {
+          "name": "沖ドキ！ＧＯＬＤ",
+          "avg_diff": -150.0,
+          "avg_games": 1964.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 97.3
+        },
+        {
+          "name": "ジャグラーガールズSS",
+          "avg_diff": -150.0,
+          "avg_games": 3658.0,
+          "win_plus": 4,
+          "win_total": 10,
+          "rate": 98.5
+        },
+        {
+          "name": "スマスロとある科学の超電磁砲2",
+          "avg_diff": -150.0,
+          "avg_games": 630.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 89.9
+        },
+        {
+          "name": "バーサスリヴァイズ",
+          "avg_diff": -150.0,
+          "avg_games": 1515.0,
+          "win_plus": 2,
+          "win_total": 3,
+          "rate": 95.7
+        },
+        {
+          "name": "ネオアイムジャグラーEX",
+          "avg_diff": -200.0,
+          "avg_games": 3173.0,
+          "win_plus": 15,
+          "win_total": 61,
+          "rate": 97.8
+        },
+        {
+          "name": "スマスロ サンダーV",
+          "avg_diff": -200.0,
+          "avg_games": 3063.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 97.5
+        },
+        {
+          "name": "スマスロ痛いのは嫌なので防御力に極振りしたいと思います。",
+          "avg_diff": -200.0,
+          "avg_games": 1522.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 94.6
+        },
+        {
+          "name": "Lパチスロガールズ＆パンツァー 最終章",
+          "avg_diff": -250.0,
+          "avg_games": 1041.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 91.8
+        },
+        {
+          "name": "Lパチスロからくりサーカス",
+          "avg_diff": -250.0,
+          "avg_games": 2384.0,
+          "win_plus": 3,
+          "win_total": 7,
+          "rate": 96.4
+        },
+        {
+          "name": "スマスロ化物語",
+          "avg_diff": -250.0,
+          "avg_games": 2897.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 96.4
+        },
+        {
+          "name": "L無職転生～異世界行ったら本気だす～",
+          "avg_diff": -250.0,
+          "avg_games": 1885.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 94.5
+        },
+        {
+          "name": "新ハナビ",
+          "avg_diff": -250.0,
+          "avg_games": 2803.0,
+          "win_plus": 2,
+          "win_total": 8,
+          "rate": 96.2
+        },
+        {
+          "name": "アレックス ブライト",
+          "avg_diff": -250.0,
+          "avg_games": 1851.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 94.3
+        },
+        {
+          "name": "パチスロ　ディスクアップ２",
+          "avg_diff": -250.0,
+          "avg_games": 2623.0,
+          "win_plus": 1,
+          "win_total": 6,
+          "rate": 95.8
+        },
+        {
+          "name": "ゴーゴージャグラー３",
+          "avg_diff": -250.0,
+          "avg_games": 4030.0,
+          "win_plus": 5,
+          "win_total": 13,
+          "rate": 97.2
+        },
+        {
+          "name": "ミスタージャグラー",
+          "avg_diff": -250.0,
+          "avg_games": 2144.0,
+          "win_plus": 2,
+          "win_total": 13,
+          "rate": 94.3
+        },
+        {
+          "name": "スマスロ スーパーブラックジャック",
+          "avg_diff": -250.0,
+          "avg_games": 1550.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 91.5
+        },
+        {
+          "name": "Lパチスロ 機動戦士ガンダムユニコーン 覚醒DRIVE",
+          "avg_diff": -250.0,
+          "avg_games": 760.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 81.4
+        },
+        {
+          "name": "A-SLOT+異世界かるてっとBT",
+          "avg_diff": -250.0,
+          "avg_games": 1401.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 89.9
+        },
+        {
+          "name": "ニューパルサーSP4 with 太鼓の達人",
+          "avg_diff": -250.0,
+          "avg_games": 1132.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 87.1
+        },
+        {
+          "name": "ファミスタ回胴版！！",
+          "avg_diff": -250.0,
+          "avg_games": 1035.0,
+          "win_plus": 0,
+          "win_total": 3,
+          "rate": 85.8
+        },
+        {
+          "name": "Lパチスロ かぐや様は告らせたい",
+          "avg_diff": -250.0,
+          "avg_games": 1516.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 89.2
+        },
+        {
+          "name": "マイジャグラーV",
+          "avg_diff": -250.0,
+          "avg_games": 4391.0,
+          "win_plus": 6,
+          "win_total": 39,
+          "rate": 96.2
+        },
+        {
+          "name": "コードギアス反逆のルルーシュ３ C.C.&Kallen ver.",
+          "avg_diff": -250.0,
+          "avg_games": 2290.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 92.8
+        },
+        {
+          "name": "Lバンドリ！",
+          "avg_diff": -500.0,
+          "avg_games": 2351.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 92.1
+        },
+        {
+          "name": "LBスロットGALFY",
+          "avg_diff": -500.0,
+          "avg_games": 2758.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 93.1
+        },
+        {
+          "name": "この素晴らしい世界に祝福を！",
+          "avg_diff": -500.0,
+          "avg_games": 2779.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 93.0
+        },
+        {
+          "name": "沖ドキ!ゴージャス 25Φ",
+          "avg_diff": -500.0,
+          "avg_games": 1734.0,
+          "win_plus": 3,
+          "win_total": 7,
+          "rate": 88.0
+        },
+        {
+          "name": "スマスロ ミリオンゴッド-神々の軌跡-",
+          "avg_diff": -500.0,
+          "avg_games": 4714.0,
+          "win_plus": 4,
+          "win_total": 14,
+          "rate": 95.5
+        },
+        {
+          "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+          "avg_diff": -750.0,
+          "avg_games": 2304.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 88.6
+        },
+        {
+          "name": "スマスロ鉄拳6",
+          "avg_diff": -750.0,
+          "avg_games": 1085.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 75.1
+        },
+        {
+          "name": "ニューゲッターマウス",
+          "avg_diff": -750.0,
+          "avg_games": 2264.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 85.6
+        },
+        {
+          "name": "交響詩篇エウレカセブン HI-EVOLUTION ZERO TYPE-ART",
+          "avg_diff": -1000.0,
+          "avg_games": 2148.0,
+          "win_plus": 0,
+          "win_total": 7,
+          "rate": 82.9
+        },
+        {
+          "name": "スマスロ秘宝伝",
+          "avg_diff": -1000.0,
+          "avg_games": 2318.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 82.8
+        },
+        {
+          "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+          "avg_diff": -1250.0,
+          "avg_games": 4793.0,
+          "win_plus": 3,
+          "win_total": 20,
+          "rate": 91.0
+        },
+        {
+          "name": "スロット ソードアート・オンラインⅡ",
+          "avg_diff": -1250.0,
+          "avg_games": 9022.0,
+          "win_plus": 3,
+          "win_total": 15,
+          "rate": 94.9
+        },
+        {
+          "name": "パチスロ　マクロスデルタ",
+          "avg_diff": -1250.0,
+          "avg_games": 2335.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 79.4
+        },
+        {
+          "name": "アニマルスロット ドッチ",
+          "avg_diff": -1500.0,
+          "avg_games": 2366.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 77.0
+        },
+        {
+          "name": "真打 吉宗",
+          "avg_diff": -2000.0,
+          "avg_games": 4886.0,
+          "win_plus": 0,
+          "win_total": 10,
+          "rate": 84.9
+        }
+      ],
+      "matsubi": [
+        {
+          "matsubi": "0",
+          "avg_diff": null,
+          "avg_games": 3025.0,
+          "win_plus": 17,
+          "win_total": 53,
+          "rate": null
+        },
+        {
+          "matsubi": "1",
+          "avg_diff": null,
+          "avg_games": 3782.0,
+          "win_plus": 20,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "2",
+          "avg_diff": null,
+          "avg_games": 3341.0,
+          "win_plus": 15,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "3",
+          "avg_diff": null,
+          "avg_games": 3032.0,
+          "win_plus": 15,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "4",
+          "avg_diff": null,
+          "avg_games": 3610.0,
+          "win_plus": 22,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "5",
+          "avg_diff": null,
+          "avg_games": 3138.0,
+          "win_plus": 16,
+          "win_total": 60,
+          "rate": null
+        },
+        {
+          "matsubi": "6",
+          "avg_diff": null,
+          "avg_games": 2837.0,
+          "win_plus": 22,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "7",
+          "avg_diff": null,
+          "avg_games": 3231.0,
+          "win_plus": 24,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "8",
+          "avg_diff": 238.0,
+          "avg_games": 3336.0,
+          "win_plus": 24,
+          "win_total": 59,
+          "rate": 102.4
+        },
+        {
+          "matsubi": "9",
+          "avg_diff": 289.0,
+          "avg_games": 3233.0,
+          "win_plus": 22,
+          "win_total": 54,
+          "rate": 103.0
+        },
+        {
+          "matsubi": "ゾロ目 (下二桁)",
+          "avg_diff": null,
+          "avg_games": 2847.0,
+          "win_plus": 10,
+          "win_total": 49,
+          "rate": null
+        }
+      ],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/17",
+      "iso_date": "2026-06-17",
+      "stale": false,
+      "title": "6/17(水) 楽園立川店",
+      "consider": [
+        "全体は重め(平均-67枚・勝率33%)。狙いを絞った方が良さそう。",
+        "プリズムナナは2台全勝(平均+2150枚)で鉄板感。",
+        "パチスロひぐらしのなく頃に祭２は2台全勝(平均+645枚)で鉄板感。",
+        "末尾9が出率103.0%/勝率22/54と動いてる。"
+      ],
+      "kishu_class": {
+        "excellent": [
+          {
+            "name": "プリズムナナ",
+            "avg_diff": 2150.0,
+            "avg_games": 1686.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 142.5
+          }
+        ],
+        "highwin": [
+          {
+            "name": "チバリヨ2",
+            "avg_diff": 1800.0,
+            "avg_games": 3317.0,
+            "win_plus": 2,
+            "win_total": 3,
+            "rate": 118.1
+          },
+          {
+            "name": "SHAKE BONUS TRIGGER",
+            "avg_diff": 1290.0,
+            "avg_games": 4571.0,
+            "win_plus": 3,
+            "win_total": 4,
+            "rate": 109.4
+          },
+          {
+            "name": "スマスロ バイオハザードRE:3",
+            "avg_diff": 1193.0,
+            "avg_games": 4480.0,
+            "win_plus": 5,
+            "win_total": 7,
+            "rate": 108.9
+          },
+          {
+            "name": "いざ！番長",
+            "avg_diff": 1083.0,
+            "avg_games": 2041.0,
+            "win_plus": 3,
+            "win_total": 4,
+            "rate": 117.7
+          },
+          {
+            "name": "ハッピージャグラーＶＩＩＩ",
+            "avg_diff": 881.0,
+            "avg_games": 5371.0,
+            "win_plus": 5,
+            "win_total": 7,
+            "rate": 105.5
+          },
+          {
+            "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+            "avg_diff": 716.0,
+            "avg_games": 1771.0,
+            "win_plus": 6,
+            "win_total": 10,
+            "rate": 113.5
+          },
+          {
+            "name": "バーサスリヴァイズ",
+            "avg_diff": -150.0,
+            "avg_games": 1515.0,
+            "win_plus": 2,
+            "win_total": 3,
+            "rate": 95.7
+          }
+        ],
+        "others": [
+          {
+            "name": "スマスロ スーパーリオエース2",
+            "avg_diff": 1070.0,
+            "avg_games": 3006.0,
+            "win_plus": 4,
+            "win_total": 8,
+            "rate": 111.9
+          },
+          {
+            "name": "スマスロヨルムンガンド",
+            "avg_diff": 923.0,
+            "avg_games": 2457.0,
+            "win_plus": 1,
+            "win_total": 3,
+            "rate": 112.5
+          },
+          {
+            "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+            "avg_diff": 698.0,
+            "avg_games": 1949.0,
+            "win_plus": 1,
+            "win_total": 4,
+            "rate": 111.9
+          },
+          {
+            "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+            "avg_diff": 692.0,
+            "avg_games": 3475.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 106.6
+          },
+          {
+            "name": "パチスロひぐらしのなく頃に祭２",
+            "avg_diff": 645.0,
+            "avg_games": 3986.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 105.4
+          },
+          {
+            "name": "キングハナハナ-30",
+            "avg_diff": 620.0,
+            "avg_games": 4312.0,
+            "win_plus": 7,
+            "win_total": 16,
+            "rate": 104.8
+          },
+          {
+            "name": "スマスロバジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+            "avg_diff": 555.0,
+            "avg_games": 2231.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 108.3
+          },
+          {
+            "name": "スマスロ 東京リベンジャーズ",
+            "avg_diff": 513.0,
+            "avg_games": 1912.0,
+            "win_plus": 1,
+            "win_total": 4,
+            "rate": 108.9
+          },
+          {
+            "name": "L戦国乙女5 業火を穿つ宿焔の双刃",
+            "avg_diff": 453.0,
+            "avg_games": 8120.0,
+            "win_plus": 7,
+            "win_total": 15,
+            "rate": 101.9
+          },
+          {
+            "name": "ニューキングハナハナV‐30",
+            "avg_diff": 388.0,
+            "avg_games": 3991.0,
+            "win_plus": 9,
+            "win_total": 16,
+            "rate": 103.2
+          },
+          {
+            "name": "Lパチスロ炎炎ノ消防隊2",
+            "avg_diff": 364.0,
+            "avg_games": 1465.0,
+            "win_plus": 8,
+            "win_total": 14,
+            "rate": 108.3
+          },
+          {
+            "name": "スマスロBIRDIE WING-Golf Girls’ Story-",
+            "avg_diff": 352.0,
+            "avg_games": 4184.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 102.8
+          },
+          {
+            "name": "Lパチスロ革命機ヴァルヴレイヴ2",
+            "avg_diff": 333.0,
+            "avg_games": 3086.0,
+            "win_plus": 4,
+            "win_total": 13,
+            "rate": 103.6
+          },
+          {
+            "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+            "avg_diff": 330.0,
+            "avg_games": 602.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 118.3
+          },
+          {
+            "name": "スマスロ 攻殻機動隊",
+            "avg_diff": 232.0,
+            "avg_games": 2289.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 103.4
+          },
+          {
+            "name": "スマスロ北斗の拳 転生の章2",
+            "avg_diff": 222.0,
+            "avg_games": 3213.0,
+            "win_plus": 8,
+            "win_total": 24,
+            "rate": 102.3
+          },
+          {
+            "name": "クランキークレスト",
+            "avg_diff": 182.0,
+            "avg_games": 1784.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 103.4
+          },
+          {
+            "name": "スマスロ ゴッドイーター リザレクション",
+            "avg_diff": 182.0,
+            "avg_games": 1930.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 103.1
+          },
+          {
+            "name": "スマスロ 沖ドキ!DUO アンコール",
+            "avg_diff": 179.0,
+            "avg_games": 2677.0,
+            "win_plus": 4,
+            "win_total": 10,
+            "rate": 102.2
+          },
+          {
+            "name": "スマスロ新鬼武者3",
+            "avg_diff": 154.0,
+            "avg_games": 1934.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 102.7
+          },
+          {
+            "name": "スマスロモンキーターンV",
+            "avg_diff": 117.0,
+            "avg_games": 1651.0,
+            "win_plus": 1,
+            "win_total": 15,
+            "rate": 102.4
+          },
+          {
+            "name": "スマスロ バイオハザード5",
+            "avg_diff": 95.0,
+            "avg_games": 1061.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 103.0
+          },
+          {
+            "name": "LBパチスロ ヱヴァンゲリヲン～約束の扉～",
+            "avg_diff": 75.0,
+            "avg_games": 1951.0,
+            "win_plus": 1,
+            "win_total": 4,
+            "rate": 101.3
+          },
+          {
+            "name": "ファンキージャグラー２ＫＴ",
+            "avg_diff": 74.0,
+            "avg_games": 2612.0,
+            "win_plus": 1,
+            "win_total": 5,
+            "rate": 100.9
+          },
+          {
+            "name": "Lアズールレーン THE ANIMATION",
+            "avg_diff": 10.0,
+            "avg_games": 1678.0,
+            "win_plus": 3,
+            "win_total": 6,
+            "rate": 100.2
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://min-repo.com/3170658/",
+      "summary": {
+        "total_diff": 15000.0,
+        "avg_diff": 25.0,
+        "avg_games": 3167.0,
+        "win_plus": 213,
+        "total_units": 600,
+        "win_pct": 35.5
+      },
+      "kishu": [
+        {
+          "name": "Lパチスロガールズ＆パンツァー 最終章",
+          "avg_diff": 7580.0,
+          "avg_games": 2784.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 190.8
+        },
+        {
+          "name": "スマスロ秘宝伝",
+          "avg_diff": 1505.0,
+          "avg_games": 4233.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 111.9
+        },
+        {
+          "name": "Lスマスロ北斗の拳",
+          "avg_diff": 1199.0,
+          "avg_games": 2103.0,
+          "win_plus": 4,
+          "win_total": 8,
+          "rate": 119.0
+        },
+        {
+          "name": "スマスロ化物語",
+          "avg_diff": 1154.0,
+          "avg_games": 2710.0,
+          "win_plus": 4,
+          "win_total": 7,
+          "rate": 114.2
+        },
+        {
+          "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+          "avg_diff": 1112.0,
+          "avg_games": 3306.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 111.2
+        },
+        {
+          "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+          "avg_diff": 1025.0,
+          "avg_games": 7391.0,
+          "win_plus": 13,
+          "win_total": 20,
+          "rate": 104.6
+        },
+        {
+          "name": "真打 吉宗",
+          "avg_diff": 999.0,
+          "avg_games": 4324.0,
+          "win_plus": 6,
+          "win_total": 10,
+          "rate": 107.7
+        },
+        {
+          "name": "スマスロとある科学の超電磁砲2",
+          "avg_diff": 915.0,
+          "avg_games": 2083.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 114.6
+        },
+        {
+          "name": "SHAKE BONUS TRIGGER",
+          "avg_diff": 878.0,
+          "avg_games": 2884.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 110.1
+        },
+        {
+          "name": "沖ドキ！ＧＯＬＤ",
+          "avg_diff": 840.0,
+          "avg_games": 1373.0,
+          "win_plus": 5,
+          "win_total": 6,
+          "rate": 120.4
+        },
+        {
+          "name": "スマスロ ゴッドイーター リザレクション",
+          "avg_diff": 832.0,
+          "avg_games": 1586.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 117.5
+        },
+        {
+          "name": "スマスロ スーパーブラックジャック",
+          "avg_diff": 697.0,
+          "avg_games": 1246.0,
+          "win_plus": 2,
+          "win_total": 3,
+          "rate": 118.6
+        },
+        {
+          "name": "Lパチスロ革命機ヴァルヴレイヴ2",
+          "avg_diff": 664.0,
+          "avg_games": 1630.0,
+          "win_plus": 5,
+          "win_total": 13,
+          "rate": 113.6
+        },
+        {
+          "name": "この素晴らしい世界に祝福を！",
+          "avg_diff": 600.0,
+          "avg_games": 3860.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 105.2
+        },
+        {
+          "name": "スマスロ モンスターハンターライズ",
+          "avg_diff": 562.0,
+          "avg_games": 1864.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 110.0
+        },
+        {
+          "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+          "avg_diff": 450.0,
+          "avg_games": 1650.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 109.1
+        },
+        {
+          "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+          "avg_diff": 374.0,
+          "avg_games": 1438.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 108.7
+        },
+        {
+          "name": "ミスタージャグラー",
+          "avg_diff": 265.0,
+          "avg_games": 2829.0,
+          "win_plus": 6,
+          "win_total": 13,
+          "rate": 103.1
+        },
+        {
+          "name": "スマスロ 東京リベンジャーズ",
+          "avg_diff": 265.0,
+          "avg_games": 1499.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 105.9
+        },
+        {
+          "name": "アレックス ブライト",
+          "avg_diff": 238.0,
+          "avg_games": 3211.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 102.5
+        },
+        {
+          "name": "L無職転生～異世界行ったら本気だす～",
+          "avg_diff": 228.0,
+          "avg_games": 2123.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 103.6
+        },
+        {
+          "name": "バーサスリヴァイズ",
+          "avg_diff": 223.0,
+          "avg_games": 1987.0,
+          "win_plus": 2,
+          "win_total": 3,
+          "rate": 103.7
+        },
+        {
+          "name": "クランキークレスト",
+          "avg_diff": 220.0,
+          "avg_games": 1846.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 104.0
+        },
+        {
+          "name": "ファミスタ回胴版！！",
+          "avg_diff": 210.0,
+          "avg_games": 1556.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 104.5
+        },
+        {
+          "name": "クレアの秘宝伝～はじまりの扉と太陽の石～ボーナストリガーver.",
+          "avg_diff": 207.0,
+          "avg_games": 4060.0,
+          "win_plus": 2,
+          "win_total": 6,
+          "rate": 101.7
+        },
+        {
+          "name": "ニューキングハナハナV‐30",
+          "avg_diff": 163.0,
+          "avg_games": 2287.0,
+          "win_plus": 5,
+          "win_total": 16,
+          "rate": 102.4
+        },
+        {
+          "name": "スマスロ新鬼武者3",
+          "avg_diff": 162.0,
+          "avg_games": 616.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 108.8
+        },
+        {
+          "name": "スマスロ鉄拳6",
+          "avg_diff": 155.0,
+          "avg_games": 3822.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 101.4
+        },
+        {
+          "name": "L東京喰種",
+          "avg_diff": 132.0,
+          "avg_games": 3379.0,
+          "win_plus": 9,
+          "win_total": 26,
+          "rate": 101.3
+        },
+        {
+          "name": "L不二子BT",
+          "avg_diff": 110.0,
+          "avg_games": 1405.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 102.6
+        },
+        {
+          "name": "パチスロ　ディスクアップ２",
+          "avg_diff": 105.0,
+          "avg_games": 2871.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 101.2
+        },
+        {
+          "name": "ニューパルサーSP4 with 太鼓の達人",
+          "avg_diff": 100.0,
+          "avg_games": 1966.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 101.7
+        },
+        {
+          "name": "LBスロットGALFY",
+          "avg_diff": 40.0,
+          "avg_games": 1756.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 100.8
+        },
+        {
+          "name": "スマスロ 沖ドキ!DUO アンコール",
+          "avg_diff": 36.0,
+          "avg_games": 2544.0,
+          "win_plus": 5,
+          "win_total": 10,
+          "rate": 100.5
+        },
+        {
+          "name": "スマスロモンキーターンV",
+          "avg_diff": 11.0,
+          "avg_games": 2350.0,
+          "win_plus": 4,
+          "win_total": 15,
+          "rate": 100.2
+        },
+        {
+          "name": "スマスロ サンダーV",
+          "avg_diff": 4.0,
+          "avg_games": 3274.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 100.0
+        },
+        {
+          "name": "ゴーゴージャグラー３",
+          "avg_diff": -11.0,
+          "avg_games": 3686.0,
+          "win_plus": 5,
+          "win_total": 13,
+          "rate": 99.9
+        },
+        {
+          "name": "スマスロ バイオハザードRE:3",
+          "avg_diff": -24.0,
+          "avg_games": 2439.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 99.7
+        },
+        {
+          "name": "ネオアイムジャグラーEX",
+          "avg_diff": -32.0,
+          "avg_games": 3354.0,
+          "win_plus": 24,
+          "win_total": 61,
+          "rate": 99.7
+        },
+        {
+          "name": "スロット ソードアート・オンラインⅡ",
+          "avg_diff": -40.0,
+          "avg_games": 8621.0,
+          "win_plus": 7,
+          "win_total": 15,
+          "rate": 99.8
+        },
+        {
+          "name": "キングハナハナ-30",
+          "avg_diff": -41.0,
+          "avg_games": 1513.0,
+          "win_plus": 4,
+          "win_total": 16,
+          "rate": 99.1
+        },
+        {
+          "name": "パチスロ　マクロスデルタ",
+          "avg_diff": -45.0,
+          "avg_games": 1197.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 98.7
+        },
+        {
+          "name": "スマスロヨルムンガンド",
+          "avg_diff": -67.0,
+          "avg_games": 708.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 96.9
+        },
+        {
+          "name": "スマスロ北斗の拳 転生の章2",
+          "avg_diff": -100.0,
+          "avg_games": 3369.0,
+          "win_plus": 6,
+          "win_total": 24,
+          "rate": 99.0
+        },
+        {
+          "name": "L戦国乙女5 業火を穿つ宿焔の双刃",
+          "avg_diff": -100.0,
+          "avg_games": 8537.0,
+          "win_plus": 5,
+          "win_total": 15,
+          "rate": 99.5
+        },
+        {
+          "name": "パチスロひぐらしのなく頃に祭２",
+          "avg_diff": -150.0,
+          "avg_games": 4346.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 98.5
+        },
+        {
+          "name": "Lパチスロからくりサーカス",
+          "avg_diff": -200.0,
+          "avg_games": 282.0,
+          "win_plus": 1,
+          "win_total": 7,
+          "rate": 74.2
+        },
+        {
+          "name": "Lパチスロ炎炎ノ消防隊2",
+          "avg_diff": -200.0,
+          "avg_games": 1116.0,
+          "win_plus": 4,
+          "win_total": 14,
+          "rate": 92.9
+        },
+        {
+          "name": "マイジャグラーV",
+          "avg_diff": -200.0,
+          "avg_games": 4956.0,
+          "win_plus": 12,
+          "win_total": 39,
+          "rate": 98.4
+        },
+        {
+          "name": "新ハナビ",
+          "avg_diff": -250.0,
+          "avg_games": 2350.0,
+          "win_plus": 1,
+          "win_total": 8,
+          "rate": 96.4
+        },
+        {
+          "name": "ジャグラーガールズSS",
+          "avg_diff": -250.0,
+          "avg_games": 2857.0,
+          "win_plus": 3,
+          "win_total": 10,
+          "rate": 96.9
+        },
+        {
+          "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+          "avg_diff": -250.0,
+          "avg_games": 1730.0,
+          "win_plus": 3,
+          "win_total": 10,
+          "rate": 94.6
+        },
+        {
+          "name": "Lパチスロ かぐや様は告らせたい",
+          "avg_diff": -250.0,
+          "avg_games": 1150.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 91.5
+        },
+        {
+          "name": "Lバンドリ！",
+          "avg_diff": -250.0,
+          "avg_games": 2388.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 95.8
+        },
+        {
+          "name": "コードギアス反逆のルルーシュ３ C.C.&Kallen ver.",
+          "avg_diff": -250.0,
+          "avg_games": 1553.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 93.3
+        },
+        {
+          "name": "ニューゲッターマウス",
+          "avg_diff": -250.0,
+          "avg_games": 921.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 88.4
+        },
+        {
+          "name": "スマスロ痛いのは嫌なので防御力に極振りしたいと思います。",
+          "avg_diff": -250.0,
+          "avg_games": 1709.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 93.7
+        },
+        {
+          "name": "交響詩篇エウレカセブン HI-EVOLUTION ZERO TYPE-ART",
+          "avg_diff": -250.0,
+          "avg_games": 1721.0,
+          "win_plus": 1,
+          "win_total": 7,
+          "rate": 93.2
+        },
+        {
+          "name": "ハッピージャグラーＶＩＩＩ",
+          "avg_diff": -250.0,
+          "avg_games": 2497.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 95.2
+        },
+        {
+          "name": "Lパチスロ 機動戦士ガンダムユニコーン 覚醒DRIVE",
+          "avg_diff": -250.0,
+          "avg_games": 354.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 65.3
+        },
+        {
+          "name": "スマスロバジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+          "avg_diff": -250.0,
+          "avg_games": 490.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 72.8
+        },
+        {
+          "name": "ファンキージャグラー２ＫＴ",
+          "avg_diff": -250.0,
+          "avg_games": 3383.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 95.6
+        },
+        {
+          "name": "LBパチスロ ヱヴァンゲリヲン～約束の扉～",
+          "avg_diff": -250.0,
+          "avg_games": 2225.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 93.1
+        },
+        {
+          "name": "A-SLOT+異世界かるてっとBT",
+          "avg_diff": -250.0,
+          "avg_games": 2606.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 93.9
+        },
+        {
+          "name": "Lアズールレーン THE ANIMATION",
+          "avg_diff": -500.0,
+          "avg_games": 1325.0,
+          "win_plus": 1,
+          "win_total": 6,
+          "rate": 87.0
+        },
+        {
+          "name": "スマスロ ハナビ",
+          "avg_diff": -500.0,
+          "avg_games": 2008.0,
+          "win_plus": 1,
+          "win_total": 6,
+          "rate": 91.2
+        },
+        {
+          "name": "スマスロ スーパーリオエース2",
+          "avg_diff": -500.0,
+          "avg_games": 2295.0,
+          "win_plus": 1,
+          "win_total": 8,
+          "rate": 91.0
+        },
+        {
+          "name": "スマスロ バイオハザード5",
+          "avg_diff": -750.0,
+          "avg_games": 795.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 64.8
+        },
+        {
+          "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+          "avg_diff": -750.0,
+          "avg_games": 1108.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 74.1
+        },
+        {
+          "name": "いざ！番長",
+          "avg_diff": -750.0,
+          "avg_games": 1351.0,
+          "win_plus": 0,
+          "win_total": 4,
+          "rate": 78.1
+        },
+        {
+          "name": "スマスロBIRDIE WING-Golf Girls’ Story-",
+          "avg_diff": -750.0,
+          "avg_games": 1329.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 75.8
+        },
+        {
+          "name": "プリズムナナ",
+          "avg_diff": -750.0,
+          "avg_games": 1463.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 77.8
+        },
+        {
+          "name": "スマスロ ミリオンゴッド-神々の軌跡-",
+          "avg_diff": -1000.0,
+          "avg_games": 5551.0,
+          "win_plus": 4,
+          "win_total": 14,
+          "rate": 93.9
+        },
+        {
+          "name": "スマスロ 攻殻機動隊",
+          "avg_diff": -1000.0,
+          "avg_games": 1862.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 81.4
+        },
+        {
+          "name": "アニマルスロット ドッチ",
+          "avg_diff": -1000.0,
+          "avg_games": 3548.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 89.2
+        },
+        {
+          "name": "チバリヨ2",
+          "avg_diff": -1000.0,
+          "avg_games": 3115.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 87.7
+        },
+        {
+          "name": "沖ドキ!ゴージャス 25Φ",
+          "avg_diff": -1500.0,
+          "avg_games": 4423.0,
+          "win_plus": 1,
+          "win_total": 7,
+          "rate": 88.2
+        }
+      ],
+      "matsubi": [
+        {
+          "matsubi": "0",
+          "avg_diff": 209.0,
+          "avg_games": 3154.0,
+          "win_plus": 22,
+          "win_total": 53,
+          "rate": 102.2
+        },
+        {
+          "matsubi": "1",
+          "avg_diff": 115.0,
+          "avg_games": 3380.0,
+          "win_plus": 25,
+          "win_total": 64,
+          "rate": 101.1
+        },
+        {
+          "matsubi": "2",
+          "avg_diff": null,
+          "avg_games": 3189.0,
+          "win_plus": 20,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "3",
+          "avg_diff": 174.0,
+          "avg_games": 3124.0,
+          "win_plus": 20,
+          "win_total": 64,
+          "rate": 101.9
+        },
+        {
+          "matsubi": "4",
+          "avg_diff": null,
+          "avg_games": 3093.0,
+          "win_plus": 19,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "5",
+          "avg_diff": 120.0,
+          "avg_games": 3195.0,
+          "win_plus": 23,
+          "win_total": 60,
+          "rate": 101.3
+        },
+        {
+          "matsubi": "6",
+          "avg_diff": 35.0,
+          "avg_games": 3314.0,
+          "win_plus": 25,
+          "win_total": 59,
+          "rate": 100.4
+        },
+        {
+          "matsubi": "7",
+          "avg_diff": 308.0,
+          "avg_games": 3009.0,
+          "win_plus": 22,
+          "win_total": 59,
+          "rate": 103.4
+        },
+        {
+          "matsubi": "8",
+          "avg_diff": 307.0,
+          "avg_games": 2956.0,
+          "win_plus": 22,
+          "win_total": 59,
+          "rate": 103.5
+        },
+        {
+          "matsubi": "9",
+          "avg_diff": null,
+          "avg_games": 3250.0,
+          "win_plus": 15,
+          "win_total": 54,
+          "rate": null
+        },
+        {
+          "matsubi": "ゾロ目 (下二桁)",
+          "avg_diff": null,
+          "avg_games": 2783.0,
+          "win_plus": 15,
+          "win_total": 49,
+          "rate": null
+        }
+      ],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/16",
+      "iso_date": "2026-06-16",
+      "stale": false,
+      "title": "6/16(火) 楽園立川店",
+      "consider": [
+        "Lパチスロガールズ＆パンツァー 最終章は2台全勝(平均+7580枚)で鉄板感。",
+        "スマスロとある科学の超電磁砲2は2台全勝(平均+915枚)で鉄板感。",
+        "末尾8が出率103.5%/勝率22/59と動いてる。"
+      ],
+      "kishu_class": {
+        "excellent": [
+          {
+            "name": "Lパチスロガールズ＆パンツァー 最終章",
+            "avg_diff": 7580.0,
+            "avg_games": 2784.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 190.8
+          }
+        ],
+        "highwin": [
+          {
+            "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+            "avg_diff": 1112.0,
+            "avg_games": 3306.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 111.2
+          },
+          {
+            "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+            "avg_diff": 1025.0,
+            "avg_games": 7391.0,
+            "win_plus": 13,
+            "win_total": 20,
+            "rate": 104.6
+          },
+          {
+            "name": "真打 吉宗",
+            "avg_diff": 999.0,
+            "avg_games": 4324.0,
+            "win_plus": 6,
+            "win_total": 10,
+            "rate": 107.7
+          },
+          {
+            "name": "沖ドキ！ＧＯＬＤ",
+            "avg_diff": 840.0,
+            "avg_games": 1373.0,
+            "win_plus": 5,
+            "win_total": 6,
+            "rate": 120.4
+          },
+          {
+            "name": "スマスロ スーパーブラックジャック",
+            "avg_diff": 697.0,
+            "avg_games": 1246.0,
+            "win_plus": 2,
+            "win_total": 3,
+            "rate": 118.6
+          },
+          {
+            "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+            "avg_diff": 374.0,
+            "avg_games": 1438.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 108.7
+          },
+          {
+            "name": "バーサスリヴァイズ",
+            "avg_diff": 223.0,
+            "avg_games": 1987.0,
+            "win_plus": 2,
+            "win_total": 3,
+            "rate": 103.7
+          },
+          {
+            "name": "クランキークレスト",
+            "avg_diff": 220.0,
+            "avg_games": 1846.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 104.0
+          }
+        ],
+        "others": [
+          {
+            "name": "スマスロ秘宝伝",
+            "avg_diff": 1505.0,
+            "avg_games": 4233.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 111.9
+          },
+          {
+            "name": "Lスマスロ北斗の拳",
+            "avg_diff": 1199.0,
+            "avg_games": 2103.0,
+            "win_plus": 4,
+            "win_total": 8,
+            "rate": 119.0
+          },
+          {
+            "name": "スマスロ化物語",
+            "avg_diff": 1154.0,
+            "avg_games": 2710.0,
+            "win_plus": 4,
+            "win_total": 7,
+            "rate": 114.2
+          },
+          {
+            "name": "スマスロとある科学の超電磁砲2",
+            "avg_diff": 915.0,
+            "avg_games": 2083.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 114.6
+          },
+          {
+            "name": "SHAKE BONUS TRIGGER",
+            "avg_diff": 878.0,
+            "avg_games": 2884.0,
+            "win_plus": 2,
+            "win_total": 4,
+            "rate": 110.1
+          },
+          {
+            "name": "スマスロ ゴッドイーター リザレクション",
+            "avg_diff": 832.0,
+            "avg_games": 1586.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 117.5
+          },
+          {
+            "name": "Lパチスロ革命機ヴァルヴレイヴ2",
+            "avg_diff": 664.0,
+            "avg_games": 1630.0,
+            "win_plus": 5,
+            "win_total": 13,
+            "rate": 113.6
+          },
+          {
+            "name": "この素晴らしい世界に祝福を！",
+            "avg_diff": 600.0,
+            "avg_games": 3860.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 105.2
+          },
+          {
+            "name": "スマスロ モンスターハンターライズ",
+            "avg_diff": 562.0,
+            "avg_games": 1864.0,
+            "win_plus": 3,
+            "win_total": 6,
+            "rate": 110.0
+          },
+          {
+            "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+            "avg_diff": 450.0,
+            "avg_games": 1650.0,
+            "win_plus": 2,
+            "win_total": 4,
+            "rate": 109.1
+          },
+          {
+            "name": "ミスタージャグラー",
+            "avg_diff": 265.0,
+            "avg_games": 2829.0,
+            "win_plus": 6,
+            "win_total": 13,
+            "rate": 103.1
+          },
+          {
+            "name": "スマスロ 東京リベンジャーズ",
+            "avg_diff": 265.0,
+            "avg_games": 1499.0,
+            "win_plus": 1,
+            "win_total": 4,
+            "rate": 105.9
+          },
+          {
+            "name": "アレックス ブライト",
+            "avg_diff": 238.0,
+            "avg_games": 3211.0,
+            "win_plus": 1,
+            "win_total": 4,
+            "rate": 102.5
+          },
+          {
+            "name": "L無職転生～異世界行ったら本気だす～",
+            "avg_diff": 228.0,
+            "avg_games": 2123.0,
+            "win_plus": 2,
+            "win_total": 4,
+            "rate": 103.6
+          },
+          {
+            "name": "ファミスタ回胴版！！",
+            "avg_diff": 210.0,
+            "avg_games": 1556.0,
+            "win_plus": 1,
+            "win_total": 3,
+            "rate": 104.5
+          },
+          {
+            "name": "クレアの秘宝伝～はじまりの扉と太陽の石～ボーナストリガーver.",
+            "avg_diff": 207.0,
+            "avg_games": 4060.0,
+            "win_plus": 2,
+            "win_total": 6,
+            "rate": 101.7
+          },
+          {
+            "name": "ニューキングハナハナV‐30",
+            "avg_diff": 163.0,
+            "avg_games": 2287.0,
+            "win_plus": 5,
+            "win_total": 16,
+            "rate": 102.4
+          },
+          {
+            "name": "スマスロ新鬼武者3",
+            "avg_diff": 162.0,
+            "avg_games": 616.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 108.8
+          },
+          {
+            "name": "スマスロ鉄拳6",
+            "avg_diff": 155.0,
+            "avg_games": 3822.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 101.4
+          },
+          {
+            "name": "L東京喰種",
+            "avg_diff": 132.0,
+            "avg_games": 3379.0,
+            "win_plus": 9,
+            "win_total": 26,
+            "rate": 101.3
+          },
+          {
+            "name": "L不二子BT",
+            "avg_diff": 110.0,
+            "avg_games": 1405.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 102.6
+          },
+          {
+            "name": "パチスロ　ディスクアップ２",
+            "avg_diff": 105.0,
+            "avg_games": 2871.0,
+            "win_plus": 3,
+            "win_total": 6,
+            "rate": 101.2
+          },
+          {
+            "name": "ニューパルサーSP4 with 太鼓の達人",
+            "avg_diff": 100.0,
+            "avg_games": 1966.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 101.7
+          },
+          {
+            "name": "LBスロットGALFY",
+            "avg_diff": 40.0,
+            "avg_games": 1756.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 100.8
+          },
+          {
+            "name": "スマスロ 沖ドキ!DUO アンコール",
+            "avg_diff": 36.0,
+            "avg_games": 2544.0,
+            "win_plus": 5,
+            "win_total": 10,
+            "rate": 100.5
+          },
+          {
+            "name": "スマスロモンキーターンV",
+            "avg_diff": 11.0,
+            "avg_games": 2350.0,
+            "win_plus": 4,
+            "win_total": 15,
+            "rate": 100.2
+          },
+          {
+            "name": "スマスロ サンダーV",
+            "avg_diff": 4.0,
+            "avg_games": 3274.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 100.0
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://min-repo.com/3168580/",
+      "summary": {
+        "total_diff": 1270.0,
+        "avg_diff": 2.0,
+        "avg_games": 4374.0,
+        "win_plus": 238,
+        "total_units": 600,
+        "win_pct": 39.7
+      },
+      "kishu": [
+        {
+          "name": "プリズムナナ",
+          "avg_diff": 2690.0,
+          "avg_games": 2946.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 130.4
+        },
+        {
+          "name": "チバリヨ2",
+          "avg_diff": 2587.0,
+          "avg_games": 4237.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 120.4
+        },
+        {
+          "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+          "avg_diff": 2336.0,
+          "avg_games": 8231.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 109.5
+        },
+        {
+          "name": "Lパチスロガールズ＆パンツァー 最終章",
+          "avg_diff": 2215.0,
+          "avg_games": 1339.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 155.2
+        },
+        {
+          "name": "ミスタージャグラー",
+          "avg_diff": 2122.0,
+          "avg_games": 7028.0,
+          "win_plus": 12,
+          "win_total": 13,
+          "rate": 110.1
+        },
+        {
+          "name": "スマスロ バイオハザードRE:3",
+          "avg_diff": 1687.0,
+          "avg_games": 4045.0,
+          "win_plus": 5,
+          "win_total": 7,
+          "rate": 113.9
+        },
+        {
+          "name": "スマスロ新鬼武者3",
+          "avg_diff": 1458.0,
+          "avg_games": 2245.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 121.6
+        },
+        {
+          "name": "スマスロ化物語",
+          "avg_diff": 1110.0,
+          "avg_games": 2348.0,
+          "win_plus": 5,
+          "win_total": 7,
+          "rate": 115.8
+        },
+        {
+          "name": "スロット ソードアート・オンラインⅡ",
+          "avg_diff": 823.0,
+          "avg_games": 8815.0,
+          "win_plus": 7,
+          "win_total": 15,
+          "rate": 103.1
+        },
+        {
+          "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+          "avg_diff": 757.0,
+          "avg_games": 3788.0,
+          "win_plus": 5,
+          "win_total": 10,
+          "rate": 106.7
+        },
+        {
+          "name": "スマスロ ゴッドイーター リザレクション",
+          "avg_diff": 716.0,
+          "avg_games": 4093.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 105.8
+        },
+        {
+          "name": "新ハナビ",
+          "avg_diff": 715.0,
+          "avg_games": 2737.0,
+          "win_plus": 4,
+          "win_total": 8,
+          "rate": 108.7
+        },
+        {
+          "name": "スマスロ スーパーブラックジャック",
+          "avg_diff": 700.0,
+          "avg_games": 2391.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 109.8
+        },
+        {
+          "name": "Lパチスロからくりサーカス",
+          "avg_diff": 573.0,
+          "avg_games": 1209.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 115.8
+        },
+        {
+          "name": "スマスロモンキーターンV",
+          "avg_diff": 559.0,
+          "avg_games": 2639.0,
+          "win_plus": 5,
+          "win_total": 15,
+          "rate": 107.1
+        },
+        {
+          "name": "スマスロ バイオハザード5",
+          "avg_diff": 525.0,
+          "avg_games": 3520.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 105.0
+        },
+        {
+          "name": "この素晴らしい世界に祝福を！",
+          "avg_diff": 425.0,
+          "avg_games": 1814.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 107.8
+        },
+        {
+          "name": "スマスロ スーパーリオエース2",
+          "avg_diff": 423.0,
+          "avg_games": 4131.0,
+          "win_plus": 5,
+          "win_total": 8,
+          "rate": 103.4
+        },
+        {
+          "name": "ネオアイムジャグラーEX",
+          "avg_diff": 305.0,
+          "avg_games": 6253.0,
+          "win_plus": 33,
+          "win_total": 61,
+          "rate": 101.6
+        },
+        {
+          "name": "L東京喰種",
+          "avg_diff": 242.0,
+          "avg_games": 5016.0,
+          "win_plus": 13,
+          "win_total": 26,
+          "rate": 101.6
+        },
+        {
+          "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+          "avg_diff": 202.0,
+          "avg_games": 7046.0,
+          "win_plus": 8,
+          "win_total": 20,
+          "rate": 101.0
+        },
+        {
+          "name": "LBパチスロ ヱヴァンゲリヲン～約束の扉～",
+          "avg_diff": 193.0,
+          "avg_games": 2584.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 102.5
+        },
+        {
+          "name": "ファミスタ回胴版！！",
+          "avg_diff": 190.0,
+          "avg_games": 1202.0,
+          "win_plus": 2,
+          "win_total": 3,
+          "rate": 105.3
+        },
+        {
+          "name": "ジャグラーガールズSS",
+          "avg_diff": 129.0,
+          "avg_games": 5490.0,
+          "win_plus": 6,
+          "win_total": 10,
+          "rate": 100.8
+        },
+        {
+          "name": "スマスロ ハナビ",
+          "avg_diff": 110.0,
+          "avg_games": 2769.0,
+          "win_plus": 2,
+          "win_total": 6,
+          "rate": 101.3
+        },
+        {
+          "name": "ニューゲッターマウス",
+          "avg_diff": 95.0,
+          "avg_games": 1077.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 102.9
+        },
+        {
+          "name": "クランキークレスト",
+          "avg_diff": 76.0,
+          "avg_games": 2214.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 101.1
+        },
+        {
+          "name": "マイジャグラーV",
+          "avg_diff": 55.0,
+          "avg_games": 6699.0,
+          "win_plus": 20,
+          "win_total": 39,
+          "rate": 100.3
+        },
+        {
+          "name": "ゴーゴージャグラー３",
+          "avg_diff": 19.0,
+          "avg_games": 5745.0,
+          "win_plus": 6,
+          "win_total": 13,
+          "rate": 100.1
+        },
+        {
+          "name": "交響詩篇エウレカセブン HI-EVOLUTION ZERO TYPE-ART",
+          "avg_diff": -20.0,
+          "avg_games": 3082.0,
+          "win_plus": 3,
+          "win_total": 7,
+          "rate": 99.8
+        },
+        {
+          "name": "パチスロ　ディスクアップ２",
+          "avg_diff": -40.0,
+          "avg_games": 2198.0,
+          "win_plus": 1,
+          "win_total": 6,
+          "rate": 99.4
+        },
+        {
+          "name": "Lパチスロ炎炎ノ消防隊2",
+          "avg_diff": -45.0,
+          "avg_games": 1770.0,
+          "win_plus": 4,
+          "win_total": 14,
+          "rate": 99.2
+        },
+        {
+          "name": "沖ドキ!ゴージャス 25Φ",
+          "avg_diff": -47.0,
+          "avg_games": 2714.0,
+          "win_plus": 5,
+          "win_total": 7,
+          "rate": 99.4
+        },
+        {
+          "name": "スマスロ北斗の拳 転生の章2",
+          "avg_diff": -100.0,
+          "avg_games": 2961.0,
+          "win_plus": 11,
+          "win_total": 24,
+          "rate": 98.7
+        },
+        {
+          "name": "キングハナハナ-30",
+          "avg_diff": -100.0,
+          "avg_games": 4219.0,
+          "win_plus": 4,
+          "win_total": 16,
+          "rate": 98.9
+        },
+        {
+          "name": "Lアズールレーン THE ANIMATION",
+          "avg_diff": -150.0,
+          "avg_games": 1625.0,
+          "win_plus": 2,
+          "win_total": 6,
+          "rate": 96.9
+        },
+        {
+          "name": "クレアの秘宝伝～はじまりの扉と太陽の石～ボーナストリガーver.",
+          "avg_diff": -150.0,
+          "avg_games": 2489.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 97.6
+        },
+        {
+          "name": "ファンキージャグラー２ＫＴ",
+          "avg_diff": -150.0,
+          "avg_games": 6800.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 99.1
+        },
+        {
+          "name": "スマスロ サンダーV",
+          "avg_diff": -200.0,
+          "avg_games": 3049.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 97.8
+        },
+        {
+          "name": "L戦国乙女5 業火を穿つ宿焔の双刃",
+          "avg_diff": -200.0,
+          "avg_games": 8202.0,
+          "win_plus": 6,
+          "win_total": 15,
+          "rate": 99.1
+        },
+        {
+          "name": "スマスロ鉄拳6",
+          "avg_diff": -200.0,
+          "avg_games": 1753.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 95.5
+        },
+        {
+          "name": "ニューキングハナハナV‐30",
+          "avg_diff": -250.0,
+          "avg_games": 3165.0,
+          "win_plus": 7,
+          "win_total": 16,
+          "rate": 97.1
+        },
+        {
+          "name": "Lスマスロ北斗の拳",
+          "avg_diff": -250.0,
+          "avg_games": 3457.0,
+          "win_plus": 3,
+          "win_total": 8,
+          "rate": 97.2
+        },
+        {
+          "name": "スマスロ 沖ドキ!DUO アンコール",
+          "avg_diff": -250.0,
+          "avg_games": 2513.0,
+          "win_plus": 5,
+          "win_total": 10,
+          "rate": 96.0
+        },
+        {
+          "name": "パチスロ　マクロスデルタ",
+          "avg_diff": -250.0,
+          "avg_games": 2072.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 95.1
+        },
+        {
+          "name": "LBスロットGALFY",
+          "avg_diff": -250.0,
+          "avg_games": 1808.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 94.3
+        },
+        {
+          "name": "スマスロ モンスターハンターライズ",
+          "avg_diff": -250.0,
+          "avg_games": 1058.0,
+          "win_plus": 1,
+          "win_total": 6,
+          "rate": 89.8
+        },
+        {
+          "name": "バーサスリヴァイズ",
+          "avg_diff": -250.0,
+          "avg_games": 2836.0,
+          "win_plus": 1,
+          "win_total": 3,
+          "rate": 95.5
+        },
+        {
+          "name": "真打 吉宗",
+          "avg_diff": -250.0,
+          "avg_games": 3881.0,
+          "win_plus": 3,
+          "win_total": 10,
+          "rate": 96.6
+        },
+        {
+          "name": "スマスロバジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+          "avg_diff": -250.0,
+          "avg_games": 3853.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 96.5
+        },
+        {
+          "name": "ハッピージャグラーＶＩＩＩ",
+          "avg_diff": -250.0,
+          "avg_games": 5272.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 97.3
+        },
+        {
+          "name": "スマスロ 東京リベンジャーズ",
+          "avg_diff": -250.0,
+          "avg_games": 3304.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 95.5
+        },
+        {
+          "name": "Lパチスロ 機動戦士ガンダムユニコーン 覚醒DRIVE",
+          "avg_diff": -500.0,
+          "avg_games": 956.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 81.0
+        },
+        {
+          "name": "いざ！番長",
+          "avg_diff": -500.0,
+          "avg_games": 794.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 75.0
+        },
+        {
+          "name": "Lパチスロ革命機ヴァルヴレイヴ2",
+          "avg_diff": -500.0,
+          "avg_games": 4317.0,
+          "win_plus": 1,
+          "win_total": 13,
+          "rate": 94.5
+        },
+        {
+          "name": "スマスロ痛いのは嫌なので防御力に極振りしたいと思います。",
+          "avg_diff": -500.0,
+          "avg_games": 1192.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 79.4
+        },
+        {
+          "name": "ニューパルサーSP4 with 太鼓の達人",
+          "avg_diff": -500.0,
+          "avg_games": 3772.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 93.4
+        },
+        {
+          "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+          "avg_diff": -750.0,
+          "avg_games": 2695.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 90.4
+        },
+        {
+          "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+          "avg_diff": -750.0,
+          "avg_games": 1118.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 75.8
+        },
+        {
+          "name": "SHAKE BONUS TRIGGER",
+          "avg_diff": -750.0,
+          "avg_games": 3264.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 91.6
+        },
+        {
+          "name": "沖ドキ！ＧＯＬＤ",
+          "avg_diff": -750.0,
+          "avg_games": 3472.0,
+          "win_plus": 1,
+          "win_total": 6,
+          "rate": 91.4
+        },
+        {
+          "name": "スマスロヨルムンガンド",
+          "avg_diff": -1000.0,
+          "avg_games": 2702.0,
+          "win_plus": 0,
+          "win_total": 3,
+          "rate": 87.3
+        },
+        {
+          "name": "スマスロ ミリオンゴッド-神々の軌跡-",
+          "avg_diff": -1000.0,
+          "avg_games": 6593.0,
+          "win_plus": 3,
+          "win_total": 14,
+          "rate": 94.4
+        },
+        {
+          "name": "コードギアス反逆のルルーシュ３ C.C.&Kallen ver.",
+          "avg_diff": -1000.0,
+          "avg_games": 1900.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 80.0
+        },
+        {
+          "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+          "avg_diff": -1000.0,
+          "avg_games": 3064.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 86.7
+        },
+        {
+          "name": "アレックス ブライト",
+          "avg_diff": -1000.0,
+          "avg_games": 2944.0,
+          "win_plus": 0,
+          "win_total": 4,
+          "rate": 86.1
+        },
+        {
+          "name": "Lバンドリ！",
+          "avg_diff": -1250.0,
+          "avg_games": 3742.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 88.7
+        },
+        {
+          "name": "アニマルスロット ドッチ",
+          "avg_diff": -1250.0,
+          "avg_games": 2200.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 80.5
+        },
+        {
+          "name": "A-SLOT+異世界かるてっとBT",
+          "avg_diff": -1250.0,
+          "avg_games": 1644.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 72.9
+        },
+        {
+          "name": "スマスロ秘宝伝",
+          "avg_diff": -1250.0,
+          "avg_games": 3049.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 85.2
+        },
+        {
+          "name": "スマスロとある科学の超電磁砲2",
+          "avg_diff": -1250.0,
+          "avg_games": 2682.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 82.5
+        },
+        {
+          "name": "L無職転生～異世界行ったら本気だす～",
+          "avg_diff": -1500.0,
+          "avg_games": 2538.0,
+          "win_plus": 0,
+          "win_total": 4,
+          "rate": 79.4
+        },
+        {
+          "name": "L不二子BT",
+          "avg_diff": -2000.0,
+          "avg_games": 2692.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 75.2
+        },
+        {
+          "name": "Lパチスロ かぐや様は告らせたい",
+          "avg_diff": -2000.0,
+          "avg_games": 2985.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 76.5
+        },
+        {
+          "name": "スマスロ 攻殻機動隊",
+          "avg_diff": -2000.0,
+          "avg_games": 3490.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 79.2
+        },
+        {
+          "name": "パチスロひぐらしのなく頃に祭２",
+          "avg_diff": -2250.0,
+          "avg_games": 3883.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 80.0
+        },
+        {
+          "name": "スマスロBIRDIE WING-Golf Girls’ Story-",
+          "avg_diff": -2500.0,
+          "avg_games": 5274.0,
+          "win_plus": 0,
+          "win_total": 5,
+          "rate": 83.6
+        }
+      ],
+      "matsubi": [
+        {
+          "matsubi": "0",
+          "avg_diff": null,
+          "avg_games": 4217.0,
+          "win_plus": 19,
+          "win_total": 53,
+          "rate": null
+        },
+        {
+          "matsubi": "1",
+          "avg_diff": null,
+          "avg_games": 4551.0,
+          "win_plus": 22,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "2",
+          "avg_diff": 42.0,
+          "avg_games": 4621.0,
+          "win_plus": 25,
+          "win_total": 64,
+          "rate": 100.3
+        },
+        {
+          "matsubi": "3",
+          "avg_diff": 168.0,
+          "avg_games": 4725.0,
+          "win_plus": 26,
+          "win_total": 64,
+          "rate": 101.2
+        },
+        {
+          "matsubi": "4",
+          "avg_diff": null,
+          "avg_games": 4302.0,
+          "win_plus": 25,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "5",
+          "avg_diff": null,
+          "avg_games": 4206.0,
+          "win_plus": 19,
+          "win_total": 60,
+          "rate": null
+        },
+        {
+          "matsubi": "6",
+          "avg_diff": 464.0,
+          "avg_games": 4590.0,
+          "win_plus": 27,
+          "win_total": 59,
+          "rate": 103.4
+        },
+        {
+          "matsubi": "7",
+          "avg_diff": 632.0,
+          "avg_games": 4377.0,
+          "win_plus": 31,
+          "win_total": 59,
+          "rate": 104.8
+        },
+        {
+          "matsubi": "8",
+          "avg_diff": null,
+          "avg_games": 4084.0,
+          "win_plus": 21,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "9",
+          "avg_diff": 205.0,
+          "avg_games": 3955.0,
+          "win_plus": 23,
+          "win_total": 54,
+          "rate": 101.7
+        },
+        {
+          "matsubi": "ゾロ目 (下二桁)",
+          "avg_diff": null,
+          "avg_games": 3989.0,
+          "win_plus": 19,
+          "win_total": 49,
+          "rate": null
+        }
+      ],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/15",
+      "iso_date": "2026-06-15",
+      "stale": false,
+      "title": "6/15(月) 楽園立川店",
+      "consider": [
+        "この素晴らしい世界に祝福を！は2台全勝(平均+425枚)で鉄板感。",
+        "プリズムナナが平均+2690枚と特に好調。",
+        "末尾7が出率104.8%/勝率31/59と動いてる。"
+      ],
+      "kishu_class": {
+        "excellent": [
+          {
+            "name": "プリズムナナ",
+            "avg_diff": 2690.0,
+            "avg_games": 2946.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 130.4
+          },
+          {
+            "name": "チバリヨ2",
+            "avg_diff": 2587.0,
+            "avg_games": 4237.0,
+            "win_plus": 1,
+            "win_total": 3,
+            "rate": 120.4
+          },
+          {
+            "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+            "avg_diff": 2336.0,
+            "avg_games": 8231.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 109.5
+          },
+          {
+            "name": "Lパチスロガールズ＆パンツァー 最終章",
+            "avg_diff": 2215.0,
+            "avg_games": 1339.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 155.2
+          },
+          {
+            "name": "ミスタージャグラー",
+            "avg_diff": 2122.0,
+            "avg_games": 7028.0,
+            "win_plus": 12,
+            "win_total": 13,
+            "rate": 110.1
+          }
+        ],
+        "highwin": [
+          {
+            "name": "スマスロ バイオハザードRE:3",
+            "avg_diff": 1687.0,
+            "avg_games": 4045.0,
+            "win_plus": 5,
+            "win_total": 7,
+            "rate": 113.9
+          },
+          {
+            "name": "スマスロ新鬼武者3",
+            "avg_diff": 1458.0,
+            "avg_games": 2245.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 121.6
+          },
+          {
+            "name": "スマスロ化物語",
+            "avg_diff": 1110.0,
+            "avg_games": 2348.0,
+            "win_plus": 5,
+            "win_total": 7,
+            "rate": 115.8
+          },
+          {
+            "name": "スマスロ ゴッドイーター リザレクション",
+            "avg_diff": 716.0,
+            "avg_games": 4093.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 105.8
+          },
+          {
+            "name": "スマスロ スーパーリオエース2",
+            "avg_diff": 423.0,
+            "avg_games": 4131.0,
+            "win_plus": 5,
+            "win_total": 8,
+            "rate": 103.4
+          },
+          {
+            "name": "ファミスタ回胴版！！",
+            "avg_diff": 190.0,
+            "avg_games": 1202.0,
+            "win_plus": 2,
+            "win_total": 3,
+            "rate": 105.3
+          },
+          {
+            "name": "ジャグラーガールズSS",
+            "avg_diff": 129.0,
+            "avg_games": 5490.0,
+            "win_plus": 6,
+            "win_total": 10,
+            "rate": 100.8
+          },
+          {
+            "name": "沖ドキ!ゴージャス 25Φ",
+            "avg_diff": -47.0,
+            "avg_games": 2714.0,
+            "win_plus": 5,
+            "win_total": 7,
+            "rate": 99.4
+          }
+        ],
+        "others": [
+          {
+            "name": "スロット ソードアート・オンラインⅡ",
+            "avg_diff": 823.0,
+            "avg_games": 8815.0,
+            "win_plus": 7,
+            "win_total": 15,
+            "rate": 103.1
+          },
+          {
+            "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+            "avg_diff": 757.0,
+            "avg_games": 3788.0,
+            "win_plus": 5,
+            "win_total": 10,
+            "rate": 106.7
+          },
+          {
+            "name": "新ハナビ",
+            "avg_diff": 715.0,
+            "avg_games": 2737.0,
+            "win_plus": 4,
+            "win_total": 8,
+            "rate": 108.7
+          },
+          {
+            "name": "スマスロ スーパーブラックジャック",
+            "avg_diff": 700.0,
+            "avg_games": 2391.0,
+            "win_plus": 1,
+            "win_total": 3,
+            "rate": 109.8
+          },
+          {
+            "name": "Lパチスロからくりサーカス",
+            "avg_diff": 573.0,
+            "avg_games": 1209.0,
+            "win_plus": 2,
+            "win_total": 7,
+            "rate": 115.8
+          },
+          {
+            "name": "スマスロモンキーターンV",
+            "avg_diff": 559.0,
+            "avg_games": 2639.0,
+            "win_plus": 5,
+            "win_total": 15,
+            "rate": 107.1
+          },
+          {
+            "name": "スマスロ バイオハザード5",
+            "avg_diff": 525.0,
+            "avg_games": 3520.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 105.0
+          },
+          {
+            "name": "この素晴らしい世界に祝福を！",
+            "avg_diff": 425.0,
+            "avg_games": 1814.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 107.8
+          },
+          {
+            "name": "ネオアイムジャグラーEX",
+            "avg_diff": 305.0,
+            "avg_games": 6253.0,
+            "win_plus": 33,
+            "win_total": 61,
+            "rate": 101.6
+          },
+          {
+            "name": "L東京喰種",
+            "avg_diff": 242.0,
+            "avg_games": 5016.0,
+            "win_plus": 13,
+            "win_total": 26,
+            "rate": 101.6
+          },
+          {
+            "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+            "avg_diff": 202.0,
+            "avg_games": 7046.0,
+            "win_plus": 8,
+            "win_total": 20,
+            "rate": 101.0
+          },
+          {
+            "name": "LBパチスロ ヱヴァンゲリヲン～約束の扉～",
+            "avg_diff": 193.0,
+            "avg_games": 2584.0,
+            "win_plus": 2,
+            "win_total": 4,
+            "rate": 102.5
+          },
+          {
+            "name": "スマスロ ハナビ",
+            "avg_diff": 110.0,
+            "avg_games": 2769.0,
+            "win_plus": 2,
+            "win_total": 6,
+            "rate": 101.3
+          },
+          {
+            "name": "ニューゲッターマウス",
+            "avg_diff": 95.0,
+            "avg_games": 1077.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 102.9
+          },
+          {
+            "name": "クランキークレスト",
+            "avg_diff": 76.0,
+            "avg_games": 2214.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 101.1
+          },
+          {
+            "name": "マイジャグラーV",
+            "avg_diff": 55.0,
+            "avg_games": 6699.0,
+            "win_plus": 20,
+            "win_total": 39,
+            "rate": 100.3
+          },
+          {
+            "name": "ゴーゴージャグラー３",
+            "avg_diff": 19.0,
+            "avg_games": 5745.0,
+            "win_plus": 6,
+            "win_total": 13,
+            "rate": 100.1
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://min-repo.com/3166438/",
+      "summary": {
+        "total_units": 599,
+        "win_plus": 221,
+        "win_pct": 36.9,
+        "total_diff": -39139,
+        "avg_diff": -65,
+        "estimated": true
+      },
+      "kishu": [
+        {
+          "name": "チバリヨ2",
+          "avg_diff": 2600.0,
+          "avg_games": 3800.0,
+          "win_plus": 2,
+          "win_total": 3,
+          "rate": 122.8
+        },
+        {
+          "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+          "avg_diff": 1865.0,
+          "avg_games": 3894.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 116.0
+        },
+        {
+          "name": "スマスロ スーパーリオエース2",
+          "avg_diff": 1515.0,
+          "avg_games": 5055.0,
+          "win_plus": 3,
+          "win_total": 8,
+          "rate": 110.0
+        },
+        {
+          "name": "スマスロ鉄拳6",
+          "avg_diff": 1220.0,
+          "avg_games": 2853.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 114.3
+        },
+        {
+          "name": "Lアズールレーン THE ANIMATION",
+          "avg_diff": 1053.0,
+          "avg_games": 3401.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 110.3
+        },
+        {
+          "name": "スマスロ化物語",
+          "avg_diff": 1033.0,
+          "avg_games": 3921.0,
+          "win_plus": 3,
+          "win_total": 7,
+          "rate": 108.8
+        },
+        {
+          "name": "真打 吉宗",
+          "avg_diff": 1006.0,
+          "avg_games": 6150.0,
+          "win_plus": 6,
+          "win_total": 10,
+          "rate": 105.5
+        },
+        {
+          "name": "パチスロひぐらしのなく頃に祭２",
+          "avg_diff": 920.0,
+          "avg_games": 6770.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 104.5
+        },
+        {
+          "name": "L不二子BT",
+          "avg_diff": 890.0,
+          "avg_games": 4083.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 107.3
+        },
+        {
+          "name": "ファミスタ回胴版！！",
+          "avg_diff": 880.0,
+          "avg_games": 3315.0,
+          "win_plus": 2,
+          "win_total": 3,
+          "rate": 108.8
+        },
+        {
+          "name": "この素晴らしい世界に祝福を！",
+          "avg_diff": 850.0,
+          "avg_games": 5837.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 104.9
+        },
+        {
+          "name": "スマスロ新鬼武者3",
+          "avg_diff": 756.0,
+          "avg_games": 1353.0,
+          "win_plus": 3,
+          "win_total": 5,
+          "rate": 118.6
+        },
+        {
+          "name": "クレアの秘宝伝～はじまりの扉と太陽の石～ボーナストリガーver.",
+          "avg_diff": 740.0,
+          "avg_games": 3032.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 108.1
+        },
+        {
+          "name": "いざ！番長",
+          "avg_diff": 728.0,
+          "avg_games": 2190.0,
+          "win_plus": 3,
+          "win_total": 4,
+          "rate": 111.1
+        },
+        {
+          "name": "沖ドキ!ゴージャス 25Φ",
+          "avg_diff": 654.0,
+          "avg_games": 2637.0,
+          "win_plus": 6,
+          "win_total": 7,
+          "rate": 108.3
+        },
+        {
+          "name": "Lパチスロ 機動戦士ガンダムユニコーン 覚醒DRIVE",
+          "avg_diff": 606.0,
+          "avg_games": 912.0,
+          "win_plus": 4,
+          "win_total": 5,
+          "rate": 122.1
+        },
+        {
+          "name": "スロット ソードアート・オンラインⅡ",
+          "avg_diff": 563.0,
+          "avg_games": 7569.0,
+          "win_plus": 7,
+          "win_total": 15,
+          "rate": 102.5
+        },
+        {
+          "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+          "avg_diff": 560.0,
+          "avg_games": 3755.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 105.0
+        },
+        {
+          "name": "Lパチスロガールズ＆パンツァー 最終章",
+          "avg_diff": 510.0,
+          "avg_games": 3049.0,
+          "win_plus": 2,
+          "win_total": 2,
+          "rate": 105.6
+        },
+        {
+          "name": "スマスロ ゴッドイーター リザレクション",
+          "avg_diff": 362.0,
+          "avg_games": 1951.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 106.2
+        },
+        {
+          "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+          "avg_diff": 334.0,
+          "avg_games": 3434.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 103.2
+        },
+        {
+          "name": "交響詩篇エウレカセブン HI-EVOLUTION ZERO TYPE-ART",
+          "avg_diff": 314.0,
+          "avg_games": 4139.0,
+          "win_plus": 4,
+          "win_total": 7,
+          "rate": 102.5
+        },
+        {
+          "name": "Lパチスロ革命機ヴァルヴレイヴ2",
+          "avg_diff": 312.0,
+          "avg_games": 4223.0,
+          "win_plus": 7,
+          "win_total": 13,
+          "rate": 102.5
+        },
+        {
+          "name": "SHAKE BONUS TRIGGER",
+          "avg_diff": 305.0,
+          "avg_games": 4147.0,
+          "win_plus": 2,
+          "win_total": 4,
+          "rate": 102.5
+        },
+        {
+          "name": "A-SLOT+異世界かるてっとBT",
+          "avg_diff": 265.0,
+          "avg_games": 2768.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 103.2
+        },
+        {
+          "name": "新ハナビ",
+          "avg_diff": 256.0,
+          "avg_games": 2581.0,
+          "win_plus": 4,
+          "win_total": 8,
+          "rate": 103.3
+        },
+        {
+          "name": "スマスロ 東京リベンジャーズ",
+          "avg_diff": 123.0,
+          "avg_games": 2193.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 101.9
+        },
+        {
+          "name": "Lパチスロ炎炎ノ消防隊2",
+          "avg_diff": 91.0,
+          "avg_games": 3669.0,
+          "win_plus": 5,
+          "win_total": 14,
+          "rate": 100.8
+        },
+        {
+          "name": "スマスロバジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+          "avg_diff": 60.0,
+          "avg_games": 1725.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 101.2
+        },
+        {
+          "name": "スマスロモンキーターンV",
+          "avg_diff": 49.0,
+          "avg_games": 2139.0,
+          "win_plus": 6,
+          "win_total": 15,
+          "rate": 100.8
+        },
+        {
+          "name": "ジャグラーガールズSS",
+          "avg_diff": 28.0,
+          "avg_games": 3761.0,
+          "win_plus": 5,
+          "win_total": 10,
+          "rate": 100.2
+        },
+        {
+          "name": "ミスタージャグラー",
+          "avg_diff": 5.0,
+          "avg_games": 2712.0,
+          "win_plus": 5,
+          "win_total": 13,
+          "rate": 100.1
+        },
+        {
+          "name": "ニューキングハナハナV‐30",
+          "avg_diff": -9.0,
+          "avg_games": 3474.0,
+          "win_plus": 7,
+          "win_total": 16,
+          "rate": 99.9
+        },
+        {
+          "name": "クランキークレスト",
+          "avg_diff": -32.0,
+          "avg_games": 3172.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 99.7
+        },
+        {
+          "name": "スマスロ 沖ドキ!DUO アンコール",
+          "avg_diff": -57.0,
+          "avg_games": 2315.0,
+          "win_plus": 5,
+          "win_total": 10,
+          "rate": 99.2
+        },
+        {
+          "name": "スマスロ スーパーブラックジャック",
+          "avg_diff": -94.0,
+          "avg_games": 1645.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 98.1
+        },
+        {
+          "name": "ネオアイムジャグラーEX",
+          "avg_diff": -100.0,
+          "avg_games": 3661.0,
+          "win_plus": 21,
+          "win_total": 61,
+          "rate": 98.7
+        },
+        {
+          "name": "ファンキージャグラー２ＫＴ",
+          "avg_diff": -100.0,
+          "avg_games": 3632.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 98.7
+        },
+        {
+          "name": "パチスロ　ディスクアップ２",
+          "avg_diff": -100.0,
+          "avg_games": 4733.0,
+          "win_plus": 2,
+          "win_total": 6,
+          "rate": 99.0
+        },
+        {
+          "name": "スマスロBIRDIE WING-Golf Girls’ Story-",
+          "avg_diff": -100.0,
+          "avg_games": 3505.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 98.6
+        },
+        {
+          "name": "スマスロ北斗の拳 転生の章2",
+          "avg_diff": -150.0,
+          "avg_games": 4129.0,
+          "win_plus": 11,
+          "win_total": 24,
+          "rate": 98.8
+        },
+        {
+          "name": "キングハナハナ-30",
+          "avg_diff": -150.0,
+          "avg_games": 2575.0,
+          "win_plus": 6,
+          "win_total": 16,
+          "rate": 97.9
+        },
+        {
+          "name": "スマスロとある科学の超電磁砲2",
+          "avg_diff": -250.0,
+          "avg_games": 3114.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 97.1
+        },
+        {
+          "name": "スマスロ痛いのは嫌なので防御力に極振りしたいと思います。",
+          "avg_diff": -250.0,
+          "avg_games": 1620.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 93.8
+        },
+        {
+          "name": "Lパチスロからくりサーカス",
+          "avg_diff": -250.0,
+          "avg_games": 2647.0,
+          "win_plus": 2,
+          "win_total": 7,
+          "rate": 96.2
+        },
+        {
+          "name": "L東京喰種",
+          "avg_diff": -250.0,
+          "avg_games": 4522.0,
+          "win_plus": 9,
+          "win_total": 26,
+          "rate": 97.7
+        },
+        {
+          "name": "ゴーゴージャグラー３",
+          "avg_diff": -250.0,
+          "avg_games": 4479.0,
+          "win_plus": 2,
+          "win_total": 13,
+          "rate": 97.4
+        },
+        {
+          "name": "パチスロ　マクロスデルタ",
+          "avg_diff": -250.0,
+          "avg_games": 2329.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 94.8
+        },
+        {
+          "name": "沖ドキ！ＧＯＬＤ",
+          "avg_diff": -250.0,
+          "avg_games": 3138.0,
+          "win_plus": 3,
+          "win_total": 6,
+          "rate": 95.9
+        },
+        {
+          "name": "ニューパルサーSP4 with 太鼓の達人",
+          "avg_diff": -250.0,
+          "avg_games": 3709.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 96.5
+        },
+        {
+          "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+          "avg_diff": -250.0,
+          "avg_games": 7305.0,
+          "win_plus": 5,
+          "win_total": 15,
+          "rate": 98.1
+        },
+        {
+          "name": "スマスロ サンダーV",
+          "avg_diff": -250.0,
+          "avg_games": 4110.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 96.6
+        },
+        {
+          "name": "バーサスリヴァイズ",
+          "avg_diff": -250.0,
+          "avg_games": 2681.0,
+          "win_plus": 0,
+          "win_total": 3,
+          "rate": 94.6
+        },
+        {
+          "name": "マイジャグラーV",
+          "avg_diff": -250.0,
+          "avg_games": 5124.0,
+          "win_plus": 11,
+          "win_total": 39,
+          "rate": 97.0
+        },
+        {
+          "name": "コードギアス反逆のルルーシュ３ C.C.&Kallen ver.",
+          "avg_diff": -250.0,
+          "avg_games": 4052.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 96.2
+        },
+        {
+          "name": "Lソードアート・オンライン",
+          "avg_diff": -500.0,
+          "avg_games": 1130.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 85.1
+        },
+        {
+          "name": "スマスロ 攻殻機動隊",
+          "avg_diff": -500.0,
+          "avg_games": 5953.0,
+          "win_plus": 2,
+          "win_total": 5,
+          "rate": 97.1
+        },
+        {
+          "name": "L無職転生～異世界行ったら本気だす～",
+          "avg_diff": -500.0,
+          "avg_games": 3078.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 93.8
+        },
+        {
+          "name": "アレックス ブライト",
+          "avg_diff": -500.0,
+          "avg_games": 4093.0,
+          "win_plus": 1,
+          "win_total": 4,
+          "rate": 95.3
+        },
+        {
+          "name": "L戦国乙女5 業火を穿つ宿焔の双刃",
+          "avg_diff": -500.0,
+          "avg_games": 8317.0,
+          "win_plus": 7,
+          "win_total": 15,
+          "rate": 97.7
+        },
+        {
+          "name": "スマスロ バイオハザード5",
+          "avg_diff": -500.0,
+          "avg_games": 1748.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 88.8
+        },
+        {
+          "name": "LBパチスロ ヱヴァンゲリヲン～約束の扉～",
+          "avg_diff": -500.0,
+          "avg_games": 1338.0,
+          "win_plus": 0,
+          "win_total": 4,
+          "rate": 84.6
+        },
+        {
+          "name": "スマスロ ハナビ",
+          "avg_diff": -500.0,
+          "avg_games": 2941.0,
+          "win_plus": 0,
+          "win_total": 6,
+          "rate": 92.3
+        },
+        {
+          "name": "ハッピージャグラーＶＩＩＩ",
+          "avg_diff": -500.0,
+          "avg_games": 3263.0,
+          "win_plus": 1,
+          "win_total": 7,
+          "rate": 93.0
+        },
+        {
+          "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+          "avg_diff": -750.0,
+          "avg_games": 3364.0,
+          "win_plus": 1,
+          "win_total": 5,
+          "rate": 92.1
+        },
+        {
+          "name": "LBスロットGALFY",
+          "avg_diff": -750.0,
+          "avg_games": 1931.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 85.9
+        },
+        {
+          "name": "スマスロ ミリオンゴッド-神々の軌跡-",
+          "avg_diff": -750.0,
+          "avg_games": 7990.0,
+          "win_plus": 5,
+          "win_total": 14,
+          "rate": 96.6
+        },
+        {
+          "name": "アニマルスロット ドッチ",
+          "avg_diff": -750.0,
+          "avg_games": 4751.0,
+          "win_plus": 1,
+          "win_total": 2,
+          "rate": 93.7
+        },
+        {
+          "name": "ニューゲッターマウス",
+          "avg_diff": -750.0,
+          "avg_games": 1873.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 83.9
+        },
+        {
+          "name": "Lスマスロ北斗の拳",
+          "avg_diff": -750.0,
+          "avg_games": 4247.0,
+          "win_plus": 2,
+          "win_total": 8,
+          "rate": 92.8
+        },
+        {
+          "name": "スマスロ バイオハザードRE:3",
+          "avg_diff": -1000.0,
+          "avg_games": 3125.0,
+          "win_plus": 0,
+          "win_total": 7,
+          "rate": 87.7
+        },
+        {
+          "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+          "avg_diff": -1000.0,
+          "avg_games": 2865.0,
+          "win_plus": 2,
+          "win_total": 10,
+          "rate": 86.2
+        },
+        {
+          "name": "スマスロ モンスターハンターライズ",
+          "avg_diff": -1250.0,
+          "avg_games": 3412.0,
+          "win_plus": 0,
+          "win_total": 6,
+          "rate": 86.6
+        },
+        {
+          "name": "Lパチスロ かぐや様は告らせたい",
+          "avg_diff": -1250.0,
+          "avg_games": 2042.0,
+          "win_plus": 1,
+          "win_total": 7,
+          "rate": 76.3
+        },
+        {
+          "name": "スマスロ秘宝伝",
+          "avg_diff": -2000.0,
+          "avg_games": 2133.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 68.1
+        },
+        {
+          "name": "スマスロヨルムンガンド",
+          "avg_diff": -2000.0,
+          "avg_games": 3141.0,
+          "win_plus": 0,
+          "win_total": 3,
+          "rate": 78.2
+        },
+        {
+          "name": "プリズムナナ",
+          "avg_diff": -2500.0,
+          "avg_games": 3481.0,
+          "win_plus": 0,
+          "win_total": 2,
+          "rate": 73.8
+        }
+      ],
+      "matsubi": [
+        {
+          "matsubi": "0",
+          "avg_diff": null,
+          "avg_games": 3632.0,
+          "win_plus": 19,
+          "win_total": 53,
+          "rate": null
+        },
+        {
+          "matsubi": "1",
+          "avg_diff": null,
+          "avg_games": 4293.0,
+          "win_plus": 20,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "2",
+          "avg_diff": null,
+          "avg_games": 3851.0,
+          "win_plus": 24,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "3",
+          "avg_diff": null,
+          "avg_games": 3967.0,
+          "win_plus": 24,
+          "win_total": 64,
+          "rate": null
+        },
+        {
+          "matsubi": "4",
+          "avg_diff": 93.0,
+          "avg_games": 4010.0,
+          "win_plus": 26,
+          "win_total": 64,
+          "rate": 100.8
+        },
+        {
+          "matsubi": "5",
+          "avg_diff": 130.0,
+          "avg_games": 4193.0,
+          "win_plus": 23,
+          "win_total": 60,
+          "rate": 101.0
+        },
+        {
+          "matsubi": "6",
+          "avg_diff": null,
+          "avg_games": 3947.0,
+          "win_plus": 21,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "7",
+          "avg_diff": null,
+          "avg_games": 3786.0,
+          "win_plus": 23,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "8",
+          "avg_diff": null,
+          "avg_games": 3818.0,
+          "win_plus": 23,
+          "win_total": 59,
+          "rate": null
+        },
+        {
+          "matsubi": "9",
+          "avg_diff": null,
+          "avg_games": 4164.0,
+          "win_plus": 18,
+          "win_total": 54,
+          "rate": null
+        },
+        {
+          "matsubi": "ゾロ目 (下二桁)",
+          "avg_diff": 482.0,
+          "avg_games": 3804.0,
+          "win_plus": 19,
+          "win_total": 49,
+          "rate": 104.2
+        }
+      ],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/14",
+      "iso_date": "2026-06-14",
+      "stale": false,
+      "title": "6/14(日) 楽園立川店",
+      "consider": [
+        "全体は重め(平均-65枚・勝率37%)。狙いを絞った方が良さそう。",
+        "スマスロ鉄拳6は2台全勝(平均+1220枚)で鉄板感。",
+        "パチスロひぐらしのなく頃に祭２は2台全勝(平均+920枚)で鉄板感。",
+        "チバリヨ2が平均+2600枚と特に好調。"
+      ],
+      "kishu_class": {
+        "excellent": [
+          {
+            "name": "チバリヨ2",
+            "avg_diff": 2600.0,
+            "avg_games": 3800.0,
+            "win_plus": 2,
+            "win_total": 3,
+            "rate": 122.8
+          }
+        ],
+        "highwin": [
+          {
+            "name": "真打 吉宗",
+            "avg_diff": 1006.0,
+            "avg_games": 6150.0,
+            "win_plus": 6,
+            "win_total": 10,
+            "rate": 105.5
+          },
+          {
+            "name": "ファミスタ回胴版！！",
+            "avg_diff": 880.0,
+            "avg_games": 3315.0,
+            "win_plus": 2,
+            "win_total": 3,
+            "rate": 108.8
+          },
+          {
+            "name": "スマスロ新鬼武者3",
+            "avg_diff": 756.0,
+            "avg_games": 1353.0,
+            "win_plus": 3,
+            "win_total": 5,
+            "rate": 118.6
+          },
+          {
+            "name": "いざ！番長",
+            "avg_diff": 728.0,
+            "avg_games": 2190.0,
+            "win_plus": 3,
+            "win_total": 4,
+            "rate": 111.1
+          },
+          {
+            "name": "沖ドキ!ゴージャス 25Φ",
+            "avg_diff": 654.0,
+            "avg_games": 2637.0,
+            "win_plus": 6,
+            "win_total": 7,
+            "rate": 108.3
+          },
+          {
+            "name": "Lパチスロ 機動戦士ガンダムユニコーン 覚醒DRIVE",
+            "avg_diff": 606.0,
+            "avg_games": 912.0,
+            "win_plus": 4,
+            "win_total": 5,
+            "rate": 122.1
+          }
+        ],
+        "others": [
+          {
+            "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+            "avg_diff": 1865.0,
+            "avg_games": 3894.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 116.0
+          },
+          {
+            "name": "スマスロ スーパーリオエース2",
+            "avg_diff": 1515.0,
+            "avg_games": 5055.0,
+            "win_plus": 3,
+            "win_total": 8,
+            "rate": 110.0
+          },
+          {
+            "name": "スマスロ鉄拳6",
+            "avg_diff": 1220.0,
+            "avg_games": 2853.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 114.3
+          },
+          {
+            "name": "Lアズールレーン THE ANIMATION",
+            "avg_diff": 1053.0,
+            "avg_games": 3401.0,
+            "win_plus": 2,
+            "win_total": 7,
+            "rate": 110.3
+          },
+          {
+            "name": "スマスロ化物語",
+            "avg_diff": 1033.0,
+            "avg_games": 3921.0,
+            "win_plus": 3,
+            "win_total": 7,
+            "rate": 108.8
+          },
+          {
+            "name": "パチスロひぐらしのなく頃に祭２",
+            "avg_diff": 920.0,
+            "avg_games": 6770.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 104.5
+          },
+          {
+            "name": "L不二子BT",
+            "avg_diff": 890.0,
+            "avg_games": 4083.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 107.3
+          },
+          {
+            "name": "この素晴らしい世界に祝福を！",
+            "avg_diff": 850.0,
+            "avg_games": 5837.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 104.9
+          },
+          {
+            "name": "クレアの秘宝伝～はじまりの扉と太陽の石～ボーナストリガーver.",
+            "avg_diff": 740.0,
+            "avg_games": 3032.0,
+            "win_plus": 3,
+            "win_total": 6,
+            "rate": 108.1
+          },
+          {
+            "name": "スロット ソードアート・オンラインⅡ",
+            "avg_diff": 563.0,
+            "avg_games": 7569.0,
+            "win_plus": 7,
+            "win_total": 15,
+            "rate": 102.5
+          },
+          {
+            "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+            "avg_diff": 560.0,
+            "avg_games": 3755.0,
+            "win_plus": 2,
+            "win_total": 4,
+            "rate": 105.0
+          },
+          {
+            "name": "Lパチスロガールズ＆パンツァー 最終章",
+            "avg_diff": 510.0,
+            "avg_games": 3049.0,
+            "win_plus": 2,
+            "win_total": 2,
+            "rate": 105.6
+          },
+          {
+            "name": "スマスロ ゴッドイーター リザレクション",
+            "avg_diff": 362.0,
+            "avg_games": 1951.0,
+            "win_plus": 2,
+            "win_total": 5,
+            "rate": 106.2
+          },
+          {
+            "name": "L ToLOVEるダークネス TRANCE ver.8.7",
+            "avg_diff": 334.0,
+            "avg_games": 3434.0,
+            "win_plus": 1,
+            "win_total": 5,
+            "rate": 103.2
+          },
+          {
+            "name": "交響詩篇エウレカセブン HI-EVOLUTION ZERO TYPE-ART",
+            "avg_diff": 314.0,
+            "avg_games": 4139.0,
+            "win_plus": 4,
+            "win_total": 7,
+            "rate": 102.5
+          },
+          {
+            "name": "Lパチスロ革命機ヴァルヴレイヴ2",
+            "avg_diff": 312.0,
+            "avg_games": 4223.0,
+            "win_plus": 7,
+            "win_total": 13,
+            "rate": 102.5
+          },
+          {
+            "name": "SHAKE BONUS TRIGGER",
+            "avg_diff": 305.0,
+            "avg_games": 4147.0,
+            "win_plus": 2,
+            "win_total": 4,
+            "rate": 102.5
+          },
+          {
+            "name": "A-SLOT+異世界かるてっとBT",
+            "avg_diff": 265.0,
+            "avg_games": 2768.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 103.2
+          },
+          {
+            "name": "新ハナビ",
+            "avg_diff": 256.0,
+            "avg_games": 2581.0,
+            "win_plus": 4,
+            "win_total": 8,
+            "rate": 103.3
+          },
+          {
+            "name": "スマスロ 東京リベンジャーズ",
+            "avg_diff": 123.0,
+            "avg_games": 2193.0,
+            "win_plus": 1,
+            "win_total": 4,
+            "rate": 101.9
+          },
+          {
+            "name": "Lパチスロ炎炎ノ消防隊2",
+            "avg_diff": 91.0,
+            "avg_games": 3669.0,
+            "win_plus": 5,
+            "win_total": 14,
+            "rate": 100.8
+          },
+          {
+            "name": "スマスロバジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+            "avg_diff": 60.0,
+            "avg_games": 1725.0,
+            "win_plus": 1,
+            "win_total": 2,
+            "rate": 101.2
+          },
+          {
+            "name": "スマスロモンキーターンV",
+            "avg_diff": 49.0,
+            "avg_games": 2139.0,
+            "win_plus": 6,
+            "win_total": 15,
+            "rate": 100.8
+          },
+          {
+            "name": "ジャグラーガールズSS",
+            "avg_diff": 28.0,
+            "avg_games": 3761.0,
+            "win_plus": 5,
+            "win_total": 10,
+            "rate": 100.2
+          },
+          {
+            "name": "ミスタージャグラー",
+            "avg_diff": 5.0,
+            "avg_games": 2712.0,
+            "win_plus": 5,
+            "win_total": 13,
+            "rate": 100.1
           }
         ]
       }
@@ -16641,6 +23658,486 @@
             "rate": 100.7
           }
         ]
+      }
+    },
+    {
+      "url": "https://min-repo.com/3164547/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/13",
+      "iso_date": "2026-06-13",
+      "stale": false,
+      "title": "6/13(土) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3162133/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/12",
+      "iso_date": "2026-06-12",
+      "stale": false,
+      "title": "6/12(金) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3160023/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/11",
+      "iso_date": "2026-06-11",
+      "stale": false,
+      "title": "6/11(木) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3158582/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/10",
+      "iso_date": "2026-06-10",
+      "stale": false,
+      "title": "6/10(水) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3156640/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/9",
+      "iso_date": "2026-06-09",
+      "stale": false,
+      "title": "6/9(火) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3154195/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/8",
+      "iso_date": "2026-06-08",
+      "stale": false,
+      "title": "6/8(月) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3152326/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/7",
+      "iso_date": "2026-06-07",
+      "stale": false,
+      "title": "6/7(日) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3149661/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/6",
+      "iso_date": "2026-06-06",
+      "stale": false,
+      "title": "6/6(土) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3148298/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/5",
+      "iso_date": "2026-06-05",
+      "stale": false,
+      "title": "6/5(金) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3145949/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/4",
+      "iso_date": "2026-06-04",
+      "stale": false,
+      "title": "6/4(木) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3144095/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/3",
+      "iso_date": "2026-06-03",
+      "stale": false,
+      "title": "6/3(水) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3142139/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/2",
+      "iso_date": "2026-06-02",
+      "stale": false,
+      "title": "6/2(火) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3140309/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "6/1",
+      "iso_date": "2026-06-01",
+      "stale": false,
+      "title": "6/1(月) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3138089/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "5/31",
+      "iso_date": "2026-05-31",
+      "stale": false,
+      "title": "5/31(日) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3136239/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "5/30",
+      "iso_date": "2026-05-30",
+      "stale": false,
+      "title": "5/30(土) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3134177/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "5/29",
+      "iso_date": "2026-05-29",
+      "stale": false,
+      "title": "5/29(金) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3132180/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "5/28",
+      "iso_date": "2026-05-28",
+      "stale": false,
+      "title": "5/28(木) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3129831/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "5/27",
+      "iso_date": "2026-05-27",
+      "stale": false,
+      "title": "5/27(水) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3127821/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "5/26",
+      "iso_date": "2026-05-26",
+      "stale": false,
+      "title": "5/26(火) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3125559/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "5/25",
+      "iso_date": "2026-05-25",
+      "stale": false,
+      "title": "5/25(月) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3123791/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "5/24",
+      "iso_date": "2026-05-24",
+      "stale": true,
+      "title": "5/24(日) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3121773/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "5/23",
+      "iso_date": "2026-05-23",
+      "stale": true,
+      "title": "5/23(土) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3119048/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "5/22",
+      "iso_date": "2026-05-22",
+      "stale": true,
+      "title": "5/22(金) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
+      }
+    },
+    {
+      "url": "https://min-repo.com/3117912/",
+      "summary": {},
+      "kishu": [],
+      "matsubi": [],
+      "store": "楽園立川店",
+      "area": "立川",
+      "date": "5/21",
+      "iso_date": "2026-05-21",
+      "stale": true,
+      "title": "5/21(木) 楽園立川店",
+      "consider": [
+        "対象台数が少なめ。データ不足ぎみなので参考程度に。"
+      ],
+      "kishu_class": {
+        "excellent": [],
+        "highwin": [],
+        "others": []
       }
     },
     {
