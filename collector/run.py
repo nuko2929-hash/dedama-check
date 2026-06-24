@@ -2,7 +2,7 @@
 
 GitHub Actions から定期実行する想定。手元でも `python3 collector/run.py` で動く。
 """
-import json, time, pathlib, sys, re
+import json, os, time, pathlib, sys, re
 from datetime import date, datetime
 import minrepo
 
@@ -117,20 +117,39 @@ def main():
             existing = []
     done = {(r.get("store"), r.get("iso_date")) for r in existing}
 
+    # store+iso_date をキーに既存をマージ土台に。店ごとに逐次セーブ(チェックポイント)するので
+    # 途中でブロック/中断されても進捗が残り、再実行で続きから埋まる。
+    def key(r):
+        return (r.get("store"), r.get("iso_date") or r.get("date"))
+    merged = {key(r): r for r in existing}
+
+    def checkpoint():
+        final = sorted(merged.values(), key=lambda r: r.get("iso_date") or "", reverse=True)
+        out = {"generated_at": datetime.now().isoformat(timespec="minutes"),
+               "count": len(final), "reports": final}
+        # アトミック書き込み: 一旦tmpに書いてから os.replace で差し替える。
+        # こうしないと、収集中にアプリ(ローカル)が読みにいった瞬間に
+        # 「書き途中=途中までしか無いJSON」を掴んで他店が一瞬消えて見える。
+        tmp = out_path.parent / (out_path.name + ".tmp")
+        tmp.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+        os.replace(tmp, out_path)   # 同一FS上ならアトミック(読み手は旧か新の完全版しか見ない)
+        return len(final)
+
     all_reports = []
     for store in active:
         if SINCE:
-            # 指定日まで遡る: ページ送りで深掘りし、SINCE以降だけ残す
-            reps = minrepo.list_reports(store, max_pages=3)
+            # 指定日まで遡る: タグページを深掘りし(検索フォールバック)、SINCE以降だけ残す
+            reps = minrepo.list_any(store, max_pages=4, since_iso=SINCE)
             reps = [r for r in reps if (to_iso(r["date"]) or "") >= SINCE]
             # バックフィルでは既に取得済みの日はフェッチしない(再開を軽く・ブロック回避)
             before = len(reps)
             reps = [r for r in reps if (store["name"], to_iso(r["date"])) not in done]
             print(f"▼ {store['name']}: {SINCE}以降 {before}件 (新規{len(reps)}件/取得済{before-len(reps)})")
         else:
-            reps = minrepo.list_reports(store)[:RECENT_PER_STORE]
+            reps = minrepo.list_any(store)[:RECENT_PER_STORE]
             # 既に持っている日はフェッチしない(毎日のリクエストを最小化＝ブロック回避)
             reps = [r for r in reps if (store["name"], to_iso(r["date"])) not in done]
+        store_new = 0
         for r in reps:
             try:
                 data = minrepo.collect_report(r["url"])
@@ -151,29 +170,24 @@ def main():
                 "consider": consider(data),
                 "kishu_class": classify_kishu(data["kishu"]),
             })
+            merged[key(data)] = data          # 即マージ(チェックポイント対象に)
             all_reports.append(data)
+            store_new += 1
             print(f"  ✓ {store['name']} {r['date']} 機種{len(data['kishu'])} 末尾{len(data['matsubi'])} 台{data['summary'].get('total_units')}")
             minrepo._sleep()
+        # 店ごとにディスクへ保存(中断耐性)。新規が出た店だけ書く。
+        if store_new:
+            total = checkpoint()
+            print(f"  💾 {store['name']} 完了: +{store_new}件 → 計{total}レポート保存")
         if SINCE and reps:
             time.sleep(18)  # 店ごとに小休止(バースト検知を避ける)
 
-    # 今回0件(=全部取得済み or ブロック)なら既存を絶対に消さない
+    # 今回0件(=全部取得済み or ブロック)なら既存を絶対に消さない(checkpointも走っていない)
     if not all_reports:
         print(f"\n⚠ 今回の新規収集は0件。既存{len(existing)}件を保持し、上書きしません。")
         return
 
-    # store+iso_date をキーにマージ（新しい収集で既存を更新、既存のみの履歴は残す）
-    def key(r):
-        return (r.get("store"), r.get("iso_date") or r.get("date"))
-    merged = {key(r): r for r in existing}
-    for r in all_reports:
-        merged[key(r)] = r
-    final = sorted(merged.values(), key=lambda r: r.get("iso_date") or "", reverse=True)
-
-    out = {"generated_at": datetime.now().isoformat(timespec="minutes"),
-           "count": len(final), "reports": final}
-    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"\n保存: 今回{len(all_reports)}件 + 既存マージ → 計{len(final)}レポート → data/reports.json")
+    print(f"\n保存完了: 今回{len(all_reports)}件 + 既存マージ → 計{len(merged)}レポート → data/reports.json")
 
 
 if __name__ == "__main__":

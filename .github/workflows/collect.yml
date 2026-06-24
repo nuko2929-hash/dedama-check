@@ -8,12 +8,16 @@ on:
     - cron: "0 2 * * *"    # 毎日 11:00 JST(前日分の出玉が出揃った頃)
     - cron: "0 8 * * *"    # 毎日 17:00 JST(朝が一時ブロックでも夕方で拾う)
     - cron: "30 12 * * *"  # 毎日 21:30 JST(晒し屋の翌日お品書きが出揃う頃→明日のおすすめ更新)
-  workflow_dispatch:        # 手動実行(予想の収集日数を指定可。バックフィルは 30 等)
+  workflow_dispatch:        # 手動実行
     inputs:
       predict_days:
         description: "晒し屋予想を何日さかのぼるか"
         required: false
         default: "4"
+      minrepo_since:
+        description: "min-repo出玉を遡るバックフィル開始日(例 2026-05-01)。空なら通常の直近3件のみ"
+        required: false
+        default: ""
 
 permissions:
   contents: write           # data/reports.json をコミットするため
@@ -32,7 +36,17 @@ jobs:
         run: pip install beautifulsoup4
 
       - name: run collector (min-repo 出玉)
-        run: python collector/run.py 3
+        # since 指定時はその日まで遡ってバックフィル、未指定なら直近3件のみ(日次)
+        run: |
+          if [ -n "${{ github.event.inputs.minrepo_since }}" ]; then
+            python collector/run.py --since "${{ github.event.inputs.minrepo_since }}"
+          else
+            python collector/run.py 3
+          fi
+
+      - name: health check (データ健全性・情報表示)
+        if: always()
+        run: python collector/health.py || true
 
       - name: run predictor (晒し屋X予想)
         env:
