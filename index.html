@@ -736,11 +736,14 @@ function App() {
     ps.forEach(p=>{
       const k=p.store;
       byStore[k]=byStore[k]||{store:p.store, area:p.area, sources:[], machines:new Set(), score:0};
-      const a=accByHandle[p.handle||p.source];
-      const w=(a&&a.rate!=null)? a.rate/100 : 0.5;
-      byStore[k].sources.push({source:p.source, rate:(a&&a.rate!=null)?a.rate:null});
       (p.machines||[]).forEach(m=>byStore[k].machines.add(m));
-      byStore[k].score += w + 0.3;
+      // 同じ晒し屋は1回だけ(ユニークな晒し屋数で集計)
+      if(!byStore[k].sources.some(x=>x.source===p.source)){
+        const a=accByHandle[p.handle||p.source];
+        const w=(a&&a.rate!=null)? a.rate/100 : 0.5;
+        byStore[k].sources.push({source:p.source, rate:(a&&a.rate!=null)?a.rate:null});
+        byStore[k].score += w + 0.3;
+      }
     });
     const list=Object.values(byStore).map(s=>({...s, machines:[...s.machines]})).sort((a,b)=>b.score-a.score);
     const byArea={};
