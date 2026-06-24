@@ -1,0 +1,16 @@
+{
+  "name": "のりレポ 東京・神奈川",
+  "short_name": "のりレポ",
+  "description": "パチスロの来店日カレンダー×出玉結果×晒し屋予想の的中率を1画面に。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030308",
+  "theme_color": "#030308",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
