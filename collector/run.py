@@ -3,11 +3,15 @@
 GitHub Actions から定期実行する想定。手元でも `python3 collector/run.py` で動く。
 """
 import json, os, time, pathlib, sys, re
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 import minrepo
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
+
+# reports.json の保持期間(日)。これより古い出玉は書き出し時に捨ててファイル肥大を止める。
+# 0 なら全保持。env REPORTS_RETAIN_DAYS で上書き可(軽くしたいなら 45 等)。
+RETAIN_DAYS = int(os.environ.get("REPORTS_RETAIN_DAYS", "60"))
 
 # 引数解釈:
 #   python3 collector/run.py            … 各店 直近3レポート(日次運用)
@@ -124,18 +128,27 @@ def main():
     merged = {key(r): r for r in existing}
 
     def checkpoint():
-        final = sorted(merged.values(), key=lambda r: r.get("iso_date") or "", reverse=True)
+        # 保持期間より古いレポートは捨てる(ファイル肥大→GitHub Pages 503 対策)。
+        # 古い出玉は「過去実績」表示の価値が薄く、予想の答え合わせ窓も十分カバーできる。
+        kept = list(merged.values())
+        if RETAIN_DAYS > 0:
+            cutoff = (date.today() - timedelta(days=RETAIN_DAYS)).isoformat()
+            kept = [r for r in kept if not r.get("iso_date") or r["iso_date"] >= cutoff]
+        final = sorted(kept, key=lambda r: r.get("iso_date") or "", reverse=True)
         out = {"generated_at": datetime.now().isoformat(timespec="minutes"),
                "count": len(final), "reports": final}
         # アトミック書き込み: 一旦tmpに書いてから os.replace で差し替える。
         # こうしないと、収集中にアプリ(ローカル)が読みにいった瞬間に
         # 「書き途中=途中までしか無いJSON」を掴んで他店が一瞬消えて見える。
+        # indent無し(コンパクト)で書く: 整形の空白だけで従来ファイルの約4割を食っていた。
         tmp = out_path.parent / (out_path.name + ".tmp")
-        tmp.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+        tmp.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         os.replace(tmp, out_path)   # 同一FS上ならアトミック(読み手は旧か新の完全版しか見ない)
         return len(final)
 
     all_reports = []
+    attempted = 0   # フェッチを試みたレポート数(=新しい日付ぶん)
+    failures = 0    # うち例外で取れなかった数
     for store in active:
         if SINCE:
             # 指定日まで遡る: タグページを深掘りし(検索フォールバック)、SINCE以降だけ残す
@@ -151,9 +164,11 @@ def main():
             reps = [r for r in reps if (store["name"], to_iso(r["date"])) not in done]
         store_new = 0
         for r in reps:
+            attempted += 1
             try:
                 data = minrepo.collect_report(r["url"])
             except Exception as e:
+                failures += 1
                 print(f"  ! {store['name']} {r['date']} 失敗: {e}")
                 continue
             iso = to_iso(r["date"])
@@ -181,6 +196,14 @@ def main():
             print(f"  💾 {store['name']} 完了: +{store_new}件 → 計{total}レポート保存")
         if SINCE and reps:
             time.sleep(18)  # 店ごとに小休止(バースト検知を避ける)
+
+    # 取得を試みた全件が例外で落ちた＝min-repo にブロック/障害された疑い。
+    # 「新しい日付が無くて0件(=正常)」とは別物なので、ここで CI を赤くして気づけるようにする。
+    if attempted and failures == attempted:
+        print(f"::error::min-repo 取得が全{attempted}件で失敗（ブロック/障害の疑い）。出玉は更新されません。")
+        sys.exit(1)
+    if failures:
+        print(f"::warning::min-repo 取得に一部失敗: {failures}/{attempted}件")
 
     # 今回0件(=全部取得済み or ブロック)なら既存を絶対に消さない(checkpointも走っていない)
     if not all_reports:

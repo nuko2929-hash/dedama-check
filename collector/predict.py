@@ -8,7 +8,7 @@
 
 収集する日数: 環境変数 PREDICT_DAYS（既定4）。バックフィル時は 30 等を指定。
 """
-import os, json, re, time, pathlib, urllib.request, urllib.parse
+import os, sys, json, re, time, pathlib, urllib.request, urllib.parse
 from datetime import date, datetime, timedelta
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -86,9 +86,11 @@ def parse_tweet_time(t):
 
 
 def fetch_tweets(handle, key, floor_iso):
-    """floor_iso 以降の投稿を、ページ送りしながら集める。"""
+    """floor_iso 以降の投稿を、ページ送りしながら集める。
+    返り値 (tweets, ok)。ok=False は1ページ目すら取得できなかった＝
+    twitterapi.io のキー切れ/レート制限/障害の疑い（取得成功で0件とは区別する）。"""
     base = "https://api.twitterapi.io/twitter/user/last_tweets?userName=" + urllib.parse.quote(handle)
-    out, cursor = [], None
+    out, cursor, ok = [], None, False
     for _ in range(MAX_PAGES):
         url = base + (f"&cursor={urllib.parse.quote(cursor)}" if cursor else "")
         try:
@@ -96,6 +98,7 @@ def fetch_tweets(handle, key, floor_iso):
         except Exception as e:
             print(f"    (fetch err {handle}: {e})")
             break
+        ok = True
         data = resp.get("data") or {}
         page = data.get("tweets") or (resp.get("tweets") if isinstance(resp.get("tweets"), list) else []) or []
         if not page:
@@ -112,7 +115,7 @@ def fetch_tweets(handle, key, floor_iso):
         if oldest < floor_iso or not has or not cursor:
             break
         time.sleep(0.6)
-    return out
+    return out, ok
 
 
 def claude_extract(account, tweets, stores, anthropic_key, today):
@@ -157,8 +160,13 @@ def main():
     keys = load_keys()
     if not keys.get("TWITTERAPI_KEY") or not keys.get("ANTHROPIC_API_KEY"):
         print("⚠ 鍵が無い。中断。")
+        # CI上で鍵が空＝Secrets未設定/失効。サイレントに緑で終わらせず落とす。
+        if os.environ.get("GITHUB_ACTIONS") == "true":
+            print("::error::TWITTERAPI_KEY / ANTHROPIC_API_KEY が空。GitHub Secrets 未設定/失効の疑い。")
+            sys.exit(1)
         return
     sources = json.loads((COLL / "sources.json").read_text(encoding="utf-8"))["sources"]
+    active_sources = [s for s in sources if s.get("active", True)]
     stores = tracked_stores()
     smap = {s["name"]: s.get("area") for s in json.loads((DATA / "stores.json").read_text(encoding="utf-8"))}
     today = date.today().isoformat()
@@ -167,11 +175,12 @@ def main():
 
     seen = load_seen()
     new = []
-    for src in sources:
-        if not src.get("active", True):
-            continue
+    fetch_failed = []
+    for src in active_sources:
         name, handle = src["name"], src["handle"]
-        tw_all = fetch_tweets(handle, keys["TWITTERAPI_KEY"], floor)
+        tw_all, ok = fetch_tweets(handle, keys["TWITTERAPI_KEY"], floor)
+        if not ok:
+            fetch_failed.append(name)
         # 処理済みは飛ばす(Claude代の節約)。取得したIDは全部 seen に入れる
         tw = [t for t in tw_all if str(t.get("id")) not in seen]
         for t in tw_all:
@@ -206,6 +215,14 @@ def main():
         print(f"▼ {name}: 新規投稿{len(tw)}件(全{len(tw_all)}) → 予想{len(recs_all)}件")
         new.extend(recs_all)
     save_seen(seen)
+
+    # X取得の健全性: 稼働アカが全滅＝twitterapi.io のキー切れ/レート制限/障害。
+    # 「取得成功で新規0件(=ネタ無し)」とは別物なので、ここで CI を赤くして気づけるようにする。
+    if active_sources and len(fetch_failed) == len(active_sources):
+        print(f"::error::X取得が全{len(active_sources)}アカで失敗（twitterapi.io キー切れ/レート制限/障害の疑い）。予想は更新されません。")
+        sys.exit(1)
+    if fetch_failed:
+        print(f"::warning::X取得に一部失敗: {', '.join(fetch_failed)}（残アカは継続）")
 
     # 既存とマージ（id単位・過去ぶんは消えない）
     out_path = DATA / "predictions.json"
