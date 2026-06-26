@@ -85,8 +85,12 @@ def parse_tweet_time(t):
     return None
 
 
-def fetch_tweets(handle, key, floor_iso):
-    """floor_iso 以降の投稿を、ページ送りしながら集める。
+def fetch_tweets(handle, key, floor_iso, seen):
+    """floor_iso 以降の「未処理」投稿だけを、ページ送りしながら集める。
+    last_tweets は新着順なので、既読(seen)/枠外しか無いページに到達した時点で
+    以降は全部古い＝そこでページ送りを打ち切る。これで毎回同じツイートを
+    再取得して twitterapi.io 代を無駄に払うのを防ぐ(ピン留め古ツイートが
+    先頭に来ても、ページ単位で新規有無を見るので取りこぼさない)。
     返り値 (tweets, ok)。ok=False は1ページ目すら取得できなかった＝
     twitterapi.io のキー切れ/レート制限/障害の疑い（取得成功で0件とは区別する）。"""
     base = "https://api.twitterapi.io/twitter/user/last_tweets?userName=" + urllib.parse.quote(handle)
@@ -104,15 +108,21 @@ def fetch_tweets(handle, key, floor_iso):
         if not page:
             break
         oldest = "9999"
+        page_had_new = False
         for t in page:
             pt = parse_tweet_time(t) or date.today().isoformat()
             t["_posted"] = pt
             oldest = min(oldest, pt)
-            if pt >= floor_iso:
-                out.append(t)
+            if pt < floor_iso:
+                continue                       # 枠外(古すぎ)
+            if str(t.get("id")) in seen:
+                continue                       # 既読(処理済) — 再フェッチしない
+            out.append(t)
+            page_had_new = True
         cursor = resp.get("next_cursor") or data.get("next_cursor")
         has = resp.get("has_next_page", data.get("has_next_page", bool(cursor)))
-        if oldest < floor_iso or not has or not cursor:
+        # 新規ゼロのページに到達＝以降は全部既読/枠外 → 打ち切り(深いページを叩かない)
+        if not page_had_new or oldest < floor_iso or not has or not cursor:
             break
         time.sleep(0.6)
     return out, ok
@@ -178,15 +188,15 @@ def main():
     fetch_failed = []
     for src in active_sources:
         name, handle = src["name"], src["handle"]
-        tw_all, ok = fetch_tweets(handle, keys["TWITTERAPI_KEY"], floor)
+        # fetch_tweets が seen を見て既読まで来たらページ送りを打ち切る＝
+        # 戻り値 tw は「未処理の新規」だけ。処理したIDを seen に積む。
+        tw, ok = fetch_tweets(handle, keys["TWITTERAPI_KEY"], floor, seen)
         if not ok:
             fetch_failed.append(name)
-        # 処理済みは飛ばす(Claude代の節約)。取得したIDは全部 seen に入れる
-        tw = [t for t in tw_all if str(t.get("id")) not in seen]
-        for t in tw_all:
+        for t in tw:
             seen.add(str(t.get("id")))
         if not tw:
-            print(f"▼ {name}: 新規投稿なし(取得{len(tw_all)}/処理済スキップ)")
+            print(f"▼ {name}: 新規なし(既読まで取得して打ち切り)")
             continue
         recs_all = []
         for i in range(0, len(tw), CHUNK):
@@ -212,7 +222,7 @@ def main():
                     "note": r.get("note") or "", "url": t.get("url", f"https://x.com/{handle}"),
                 })
             time.sleep(0.8)
-        print(f"▼ {name}: 新規投稿{len(tw)}件(全{len(tw_all)}) → 予想{len(recs_all)}件")
+        print(f"▼ {name}: 新規{len(tw)}件 → 予想{len(recs_all)}件")
         new.extend(recs_all)
     save_seen(seen)
 
