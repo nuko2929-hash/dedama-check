@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T12:02",
-  "count": 293,
+  "generated_at": "2026-06-26T16:32",
+  "count": 302,
   "predictions": [
     {
       "id": "slot_ogikiti-2070419577813823878-アビバ湘南台",
@@ -253,6 +253,184 @@
       "matsubi": [],
       "note": "土曜日まいったぁー＆スロ影Ryo来店、まるごと仕掛け期待",
       "url": "https://x.com/1_take6/status/2070433422724460649"
+    },
+    {
+      "id": "slot_ogikiti-2070514089097674963-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "スパイキー",
+        "ユニバーサル"
+      ],
+      "matsubi": [],
+      "note": "スロトレ調査団取材。週末×スロトレコラボ開催で優秀機種に注目。",
+      "url": "https://x.com/slot_ogikiti/status/2070514089097674963"
+    },
+    {
+      "id": "slo1_tyousataiZ-2070485191559455230-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "北斗転生",
+        "キンハナ",
+        "Lカバネリ",
+        "ハッピー",
+        "プリズムナナ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "⑦の付く日。北斗/ハナ系配分高め。まつわり機種に注目。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2070485191559455230"
+    },
+    {
+      "id": "slo1_tyousataiZ-2070483485173944443-ガーデン戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "喰種",
+        "GOD",
+        "Lカバネリ",
+        "ジャグ"
+      ],
+      "matsubi": [],
+      "note": "スロパチ来店。喰種35台増台。4台並び複数で仕掛け。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2070483485173944443"
+    },
+    {
+      "id": "slo1_tyousataiZ-2070478925286023612-パラッツォ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "転生2",
+        "喰種",
+        "モンキー",
+        "Sカバ",
+        "ハイパラ",
+        "エヴァBT",
+        "ジャグ",
+        "カフェテラス"
+      ],
+      "matsubi": [],
+      "note": "週末全体強化。期間推し機種中心に配分アップ見込み。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2070478925286023612"
+    },
+    {
+      "id": "karasuro_7-2070482560883568957-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "乙女4",
+        "ジャグラーシリーズ",
+        "ウルミラ",
+        "ミスジャグ",
+        "ジャグガ",
+        "ハッピー"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "月周年日・嵐撃イベント。推し機種強化と少数ジャグ全連続中。",
+      "url": "https://x.com/karasuro_7/status/2070482560883568957"
+    },
+    {
+      "id": "karasuro_7-2070480411583770780-キコーナ戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "北斗シリーズ",
+        "マイV",
+        "東京喰種",
+        "SAO2"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び複数狙い。北斗等メイン機種配分期待。",
+      "url": "https://x.com/karasuro_7/status/2070480411583770780"
+    },
+    {
+      "id": "karasuro_7-2070478727356826049-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "ジャグラーシリーズ",
+        "東京喰種",
+        "Lカバネリ",
+        "転生",
+        "Lユニコーン"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店・時差解放あり。4台並び・GOD毎日🌈あり。",
+      "url": "https://x.com/karasuro_7/status/2070478727356826049"
+    },
+    {
+      "id": "1_take6-2070490636986495197-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "ネオアイム",
+        "Lカバネリ",
+        "マイジャグ",
+        "GOD",
+        "東京喰種",
+        "転生",
+        "モンキー",
+        "ファンキー",
+        "ハッピー"
+      ],
+      "matsubi": [],
+      "note": "創業月間×月末最終土曜日。1/2仕掛けからのまるごと昇格期待。",
+      "url": "https://x.com/1_take6/status/2070490636986495197"
+    },
+    {
+      "id": "1_take6-2070490451631808776-アビバ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ネオアイム",
+        "沖ドキGOLD",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "御三家来店取材初。取材機種3台からまずは攻める。質の面でも期待。",
+      "url": "https://x.com/1_take6/status/2070490451631808776"
     },
     {
       "id": "slot_ogikiti-2069632948417290512-ハイパージアス立川",
