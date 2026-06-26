@@ -17,7 +17,8 @@ COLL = ROOT / "collector"
 DAYS = int(os.environ.get("PREDICT_DAYS", "4"))
 MAX_PAGES = 25            # 1アカウントあたり最大ページ数(暴走防止)
 CHUNK = 22               # Claudeに一度に渡す投稿数
-CLAUDE_MODEL = "claude-sonnet-4-6"
+# 抽出モデル。既定 Haiku(安い)。質が落ちたら env PREDICT_MODEL=claude-sonnet-4-6 で即戻せる。
+CLAUDE_MODEL = os.environ.get("PREDICT_MODEL", "claude-haiku-4-5-20251001")
 
 
 def load_keys():
@@ -186,6 +187,7 @@ def main():
     seen = load_seen()
     new = []
     fetch_failed = []
+    claude_calls = claude_errs = 0
     for src in active_sources:
         name, handle = src["name"], src["handle"]
         # fetch_tweets が seen を見て既読まで来たらページ送りを打ち切る＝
@@ -201,9 +203,11 @@ def main():
         recs_all = []
         for i in range(0, len(tw), CHUNK):
             chunk = tw[i:i + CHUNK]
+            claude_calls += 1
             try:
                 recs = claude_extract(name, chunk, stores, keys["ANTHROPIC_API_KEY"], today)
             except Exception as e:
+                claude_errs += 1
                 print(f"    (claude err {name}: {e})")
                 recs = []
             for r in recs:
@@ -233,6 +237,14 @@ def main():
         sys.exit(1)
     if fetch_failed:
         print(f"::warning::X取得に一部失敗: {', '.join(fetch_failed)}（残アカは継続）")
+
+    # Claude抽出の健全性: 投げた全コールが例外＝モデルID不正/キー失効/障害。
+    # 握り潰すと「予想が静かにゼロ」になるので、全滅なら CI を赤くする。
+    if claude_calls and claude_errs == claude_calls:
+        print(f"::error::Claude抽出が全{claude_calls}コールで失敗（モデルID不正/キー失効/障害の疑い）。予想は更新されません。")
+        sys.exit(1)
+    if claude_errs:
+        print(f"::warning::Claude抽出に一部失敗: {claude_errs}/{claude_calls}コール")
 
     # 既存とマージ（id単位・過去ぶんは消えない）
     out_path = DATA / "predictions.json"
