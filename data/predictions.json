@@ -1,7 +1,259 @@
 {
-  "generated_at": "2026-06-24T10:03",
-  "count": 276,
+  "generated_at": "2026-06-26T12:02",
+  "count": 293,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2070419577813823878-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロトレCLIMAX全17店合同、月末週末2日連続1日目",
+      "url": "https://x.com/slot_ogikiti/status/2070419577813823878"
+    },
+    {
+      "id": "slo1_tyousataiZ-2070474955310186888-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日で全体強化、楽園立川が対象店舗に列挙",
+      "url": "https://x.com/slo1_tyousataiZ/status/2070474955310186888"
+    },
+    {
+      "id": "karasuro_7-2070414068314431708-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川リストに記載",
+      "url": "https://x.com/karasuro_7/status/2070414068314431708"
+    },
+    {
+      "id": "karasuro_7-2070464658910363859-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "GOD",
+        "マイV",
+        "SAO2",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "スロパチ来店・合同・4台並び複数・毎日仕掛けあり",
+      "url": "https://x.com/karasuro_7/status/2070464658910363859"
+    },
+    {
+      "id": "karasuro_7-2070461227252474289-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "神奈川ピーアーク合同・喰種/マイ単品🌈以上",
+      "url": "https://x.com/karasuro_7/status/2070461227252474289"
+    },
+    {
+      "id": "karasuro_7-2070414068314431708-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "明日の神奈川リストに記載",
+      "url": "https://x.com/karasuro_7/status/2070414068314431708"
+    },
+    {
+      "id": "1_take6-2070475697727184916-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "炎炎2",
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "土曜×7付き、スロ王来店。並び/列/まるごと/末尾狙い",
+      "url": "https://x.com/1_take6/status/2070475697727184916"
+    },
+    {
+      "id": "1_take6-2070471303606526346-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川ピーアーク3店合同。合同機種・Sammy・ジャグ並び注目",
+      "url": "https://x.com/1_take6/status/2070471303606526346"
+    },
+    {
+      "id": "1_take6-2070456245199470796-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "ヴヴヴ2",
+        "リコリコ",
+        "東京喰種",
+        "大海",
+        "エヴァ17",
+        "東リべ"
+      ],
+      "matsubi": [
+        "7"
+      ],
+      "note": "❼付く日・まるごと15台以上仕掛け恒例",
+      "url": "https://x.com/1_take6/status/2070456245199470796"
+    },
+    {
+      "id": "1_take6-2070449894708625706-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "週末・スロ影RYO取材＋まいったぁー取材参戦",
+      "url": "https://x.com/1_take6/status/2070449894708625706"
+    },
+    {
+      "id": "1_take6-2070449894708625706-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "土曜日・神奈川ピーアーク合同・スロパチガール来店",
+      "url": "https://x.com/1_take6/status/2070449894708625706"
+    },
+    {
+      "id": "1_take6-2070449894708625706-ガーデン戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "週末・スロパチガール来店",
+      "url": "https://x.com/1_take6/status/2070449894708625706"
+    },
+    {
+      "id": "1_take6-2070449894708625706-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "ヴヴヴ2",
+        "リコリコ",
+        "東京喰種",
+        "大海",
+        "エヴァ17",
+        "東リべ"
+      ],
+      "matsubi": [
+        "7"
+      ],
+      "note": "❼付く日・直近まるごと仕掛け要注目",
+      "url": "https://x.com/1_take6/status/2070449894708625706"
+    },
+    {
+      "id": "1_take6-2070444422899155321-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "ドリルパチンコ＋ドラドラ来店・並び/まるごと狙い",
+      "url": "https://x.com/1_take6/status/2070444422899155321"
+    },
+    {
+      "id": "1_take6-2070442430898569482-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "イイナ！マルハン取材来店",
+      "url": "https://x.com/1_take6/status/2070442430898569482"
+    },
+    {
+      "id": "1_take6-2070433422724460649-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-27",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [
+        "L攻殻機動隊",
+        "L炎炎ノ消防隊2",
+        "L東京喰種"
+      ],
+      "matsubi": [],
+      "note": "土曜日まいったぁー＆スロ影Ryo来店、まるごと仕掛け期待",
+      "url": "https://x.com/1_take6/status/2070433422724460649"
+    },
     {
       "id": "slot_ogikiti-2069632948417290512-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -112,6 +364,34 @@
       "matsubi": [],
       "note": "5の付く日・剛腕のリアル来店・抽選8時30分",
       "url": "https://x.com/1_take6/status/2069707007687270809"
+    },
+    {
+      "id": "slot_ogikiti-2070312662253343030-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-26",
+      "target_date": "2026-06-25",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "L炎炎2",
+        "銭形5",
+        "Lサンダー",
+        "喰種",
+        "Lハナビ",
+        "転生",
+        "モンハン",
+        "マギレコ",
+        "化物語",
+        "アズレン",
+        "SBJ",
+        "リオエース2"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "❺の日スパイキー&ユニバ強化、喰種高配分",
+      "url": "https://x.com/slot_ogikiti/status/2070312662253343030"
     },
     {
       "id": "karasuro_7-2069362883868463496-ガーデン戸塚",
