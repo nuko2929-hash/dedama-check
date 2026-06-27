@@ -1,7 +1,173 @@
 {
-  "generated_at": "2026-06-26T16:32",
-  "count": 302,
+  "generated_at": "2026-06-27T09:56",
+  "count": 318,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2070774826319720693-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "モンハン",
+        "喰種",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "スロトレ調査団『エニグマ』来店。8の日で赤字営業。モンハン優先狙い。",
+      "url": "https://x.com/slot_ogikiti/status/2070774826319720693"
+    },
+    {
+      "id": "slot_ogikiti-2070710330263732466-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日28日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2070710330263732466"
+    },
+    {
+      "id": "slot_ogikiti-2070710330263732466-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日28日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2070710330263732466"
+    },
+    {
+      "id": "slot_ogikiti-2070710330263732466-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日28日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2070710330263732466"
+    },
+    {
+      "id": "karasuro_7-2070804470217515042-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "SAO2"
+      ],
+      "matsubi": [],
+      "note": "創業月間HIGH BOON。東京喰種1/2確定、3台以上設置機種から全・1/2複数狙い",
+      "url": "https://x.com/karasuro_7/status/2070804470217515042"
+    },
+    {
+      "id": "karasuro_7-2070768416177463705-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "Lカバネリ",
+        "バイオRE3",
+        "乙女5",
+        "からくり"
+      ],
+      "matsubi": [],
+      "note": "スロぱちガール来店。4台並び複数、相模前線機種狙い",
+      "url": "https://x.com/karasuro_7/status/2070768416177463705"
+    },
+    {
+      "id": "karasuro_7-2070791728869908573-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "マギレコ",
+        "GOD",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "8つく日キングウォッチッチ。マジか取材初開催。マギレコ最優先、全系複数狙い",
+      "url": "https://x.com/karasuro_7/status/2070791728869908573"
+    },
+    {
+      "id": "karasuro_7-2070791330180305073-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "8つく日キングウォッチッチ。抽選開始8:30",
+      "url": "https://x.com/karasuro_7/status/2070791330180305073"
+    },
+    {
+      "id": "karasuro_7-2070758060805505245-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川マルハン3店舗オリイベ。3台並び複数狙い",
+      "url": "https://x.com/karasuro_7/status/2070758060805505245"
+    },
+    {
+      "id": "1_take6-2070807873492247024-アビバ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        2
+      ],
+      "note": "スロトレ調査団CLIMAX。神奈川アビバ全店合同取材2日目。1/2仕掛けに期待",
+      "url": "https://x.com/1_take6/status/2070807873492247024"
+    },
+    {
+      "id": "1_take6-2070805955835752736-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "月周年日。サヤカさん来店。スロパチステーション来店取材。先月90,000枚超え実績",
+      "url": "https://x.com/1_take6/status/2070805955835752736"
+    },
     {
       "id": "slot_ogikiti-2070419577813823878-アビバ湘南台",
       "source": "荻吉@スロ",
@@ -431,6 +597,78 @@
       "matsubi": [],
       "note": "御三家来店取材初。取材機種3台からまずは攻める。質の面でも期待。",
       "url": "https://x.com/1_take6/status/2070490451631808776"
+    },
+    {
+      "id": "karasuro_7-2070672119055401196-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "抽選人数430人でオプチャ情報掲載",
+      "url": "https://x.com/karasuro_7/status/2070672119055401196"
+    },
+    {
+      "id": "karasuro_7-2070672119055401196-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-27",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "抽選人数150人でオプチャ情報掲載",
+      "url": "https://x.com/karasuro_7/status/2070672119055401196"
+    },
+    {
+      "id": "karasuro_7-2070672119055401196-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-27",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "抽選人数122人でオプチャ情報掲載",
+      "url": "https://x.com/karasuro_7/status/2070672119055401196"
+    },
+    {
+      "id": "1_take6-2070674921701912997-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-27",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ゴージャグ",
+        "ハッピー",
+        "ウルミラ",
+        "真打吉宗"
+      ],
+      "matsubi": [],
+      "note": "月周年日26日。列仕掛け、合同仕掛けあり。",
+      "url": "https://x.com/1_take6/status/2070674921701912997"
+    },
+    {
+      "id": "1_take6-2070673566438453355-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-27",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ウルトラミラクルジャグラー"
+      ],
+      "matsubi": [],
+      "note": "5店舗合同いつつ巴。平均+1,425枚。安定感あり。",
+      "url": "https://x.com/1_take6/status/2070673566438453355"
     },
     {
       "id": "slot_ogikiti-2069632948417290512-ハイパージアス立川",
