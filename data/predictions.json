@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T09:56",
-  "count": 318,
+  "generated_at": "2026-06-27T12:18",
+  "count": 326,
   "predictions": [
     {
       "id": "slot_ogikiti-2070774826319720693-ガーデン戸塚",
@@ -167,6 +167,153 @@
       "matsubi": [],
       "note": "月周年日。サヤカさん来店。スロパチステーション来店取材。先月90,000枚超え実績",
       "url": "https://x.com/1_take6/status/2070805955835752736"
+    },
+    {
+      "id": "slo1_tyousataiZ-2070833581392617536-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "転生",
+        "ゴージャグ",
+        "炎炎2"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "熱烈歓迎開催。列全/列ニブイチが軸。ゴージャグ最優先",
+      "url": "https://x.com/slo1_tyousataiZ/status/2070833581392617536"
+    },
+    {
+      "id": "slo1_tyousataiZ-2070841146813870372-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slo1_tyousataiZ/status/2070841146813870372"
+    },
+    {
+      "id": "karasuro_7-2070829955483914720-ハイパージアス立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "スロット天下無双",
+        "GOD",
+        "海シリーズ"
+      ],
+      "matsubi": [],
+      "note": "週末対抗。GODローテ。全台系/高配分。20スロ赤字営業マスト",
+      "url": "https://x.com/karasuro_7/status/2070829955483914720"
+    },
+    {
+      "id": "karasuro_7-2070819056916287721-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "カバネリシリーズ",
+        "東京喰種",
+        "GOD",
+        "真打吉宗",
+        "秘宝伝",
+        "炎炎",
+        "マンキン",
+        "マギレコ",
+        "シェイクBT",
+        "無職転生",
+        "アズレン"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "月周年日。スロパチ取材。全体強化。過去28日は+9万枚超。8つ仕掛け",
+      "url": "https://x.com/karasuro_7/status/2070819056916287721"
+    },
+    {
+      "id": "1_take6-2070844035825340518-アビバ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "モンキー"
+      ],
+      "matsubi": [],
+      "note": "近隣対抗。まるごと/並び仕掛けが狙える。",
+      "url": "https://x.com/1_take6/status/2070844035825340518"
+    },
+    {
+      "id": "1_take6-2070827972605645294-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ゴッド",
+        "チバリヨ",
+        "戦国乙女5",
+        "炎炎ノ消防隊2",
+        "SAO2",
+        "Lカバネリ"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "8の付く日。メイン機種から狙う。過去仕掛け高頻度。",
+      "url": "https://x.com/1_take6/status/2070827972605645294"
+    },
+    {
+      "id": "1_take6-2070822595579265257-スーパーDステーション立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "Dステ上永谷の記事。登録店舗に該当しない。",
+      "url": "https://x.com/1_take6/status/2070822595579265257"
+    },
+    {
+      "id": "1_take6-2070817259296276976-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "モンスターハンターライズ",
+        "東京リベンジャーズ",
+        "アズールレーン"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "❽の付く日。まいったぁー⤴︎機種最優先。3台並び×5箇所以上に注目",
+      "url": "https://x.com/1_take6/status/2070817259296276976"
     },
     {
       "id": "slot_ogikiti-2070419577813823878-アビバ湘南台",
