@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T12:18",
-  "count": 326,
+  "generated_at": "2026-06-27T16:43",
+  "count": 331,
   "predictions": [
     {
       "id": "slot_ogikiti-2070774826319720693-ガーデン戸塚",
@@ -314,6 +314,61 @@
       ],
       "note": "❽の付く日。まいったぁー⤴︎機種最優先。3台並び×5箇所以上に注目",
       "url": "https://x.com/1_take6/status/2070817259296276976"
+    },
+    {
+      "id": "slot_ogikiti-2070844633010389347-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "スパイキー",
+        "ユニバーサル"
+      ],
+      "matsubi": [],
+      "note": "サンスポホール取材。週末強化で派手さなくのんびり立ち回り向け",
+      "url": "https://x.com/slot_ogikiti/status/2070844633010389347"
+    },
+    {
+      "id": "slo1_tyousataiZ-2070848320164245627-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の関東推奨店リストに掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2070848320164245627"
+    },
+    {
+      "id": "slo1_tyousataiZ-2070848320164245627-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "月イチ周年開催",
+      "url": "https://x.com/slo1_tyousataiZ/status/2070848320164245627"
+    },
+    {
+      "id": "slo1_tyousataiZ-2070848320164245627-パラッツォ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-28",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の関東推奨店リストに掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2070848320164245627"
     },
     {
       "id": "slot_ogikiti-2070419577813823878-アビバ湘南台",
@@ -816,6 +871,29 @@
       "matsubi": [],
       "note": "5店舗合同いつつ巴。平均+1,425枚。安定感あり。",
       "url": "https://x.com/1_take6/status/2070673566438453355"
+    },
+    {
+      "id": "karasuro_7-2070887587934535999-ザシティ相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-27",
+      "target_date": "2026-06-27",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "虚構推理",
+        "マイV",
+        "ファンキー",
+        "転生",
+        "化物語",
+        "乙女4",
+        "ミスジャグ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "ラスサタ閉店間際速報。総差+89,464枚、平均+420枚。優秀機種多数。",
+      "url": "https://x.com/karasuro_7/status/2070887587934535999"
     },
     {
       "id": "slot_ogikiti-2069632948417290512-ハイパージアス立川",
