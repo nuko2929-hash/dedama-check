@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T12:22",
-  "count": 366,
+  "generated_at": "2026-06-28T16:47",
+  "count": 371,
   "predictions": [
     {
       "id": "slot_ogikiti-2071177219582595132-スーパーDステーション立川",
@@ -551,6 +551,100 @@
       ],
       "note": "❾付く日。仕掛け濃厚の東京喰種/北斗合計26台が最優先",
       "url": "https://x.com/1_take6/status/2071206098372288574"
+    },
+    {
+      "id": "slot_ogikiti-2071213856148611451-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-28",
+      "target_date": "2026-06-29",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "サミー",
+        "スパイキー"
+      ],
+      "matsubi": [],
+      "note": "新台入替・肉の日。1/2機種複数台が狙い目",
+      "url": "https://x.com/slot_ogikiti/status/2071213856148611451"
+    },
+    {
+      "id": "slo1_tyousataiZ-2071220037587779588-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-28",
+      "target_date": "2026-06-29",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "北斗",
+        "モンハン",
+        "マギレコ",
+        "SANKYO機種",
+        "ヴヴヴ",
+        "炎炎",
+        "喰種",
+        "GOD",
+        "真打吉宗"
+      ],
+      "matsubi": [],
+      "note": "肉の日×四星取材「太陽神」。全台系/配分系/3台並びが軸。日付絡みの機種が優先度高。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2071220037587779588"
+    },
+    {
+      "id": "1_take6-2071218936709005807-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-28",
+      "target_date": "2026-06-29",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "真打吉宗"
+      ],
+      "matsubi": [
+        9
+      ],
+      "note": "破天荒来店取材。仕掛け濃厚2機種が最優先。",
+      "url": "https://x.com/1_take6/status/2071218936709005807"
+    },
+    {
+      "id": "1_take6-2071212343259005315-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-28",
+      "target_date": "2026-06-29",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "Sammy機種",
+        "東リベ"
+      ],
+      "matsubi": [
+        29
+      ],
+      "note": "湘南台Wタッグ取材PS。Sammy機種から攻めるのが安定。",
+      "url": "https://x.com/1_take6/status/2071212343259005315"
+    },
+    {
+      "id": "1_take6-2071211668043080190-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-28",
+      "target_date": "2026-06-29",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "Lモンスターハンターライズ",
+        "L東京リベンジャーズ",
+        "Sグランベルム"
+      ],
+      "matsubi": [
+        9
+      ],
+      "note": "まいったぁー⤴︎機種が最優先。ラリーゴポスト考察が重要。",
+      "url": "https://x.com/1_take6/status/2071211668043080190"
     },
     {
       "id": "slot_ogikiti-2070774826319720693-ガーデン戸塚",
