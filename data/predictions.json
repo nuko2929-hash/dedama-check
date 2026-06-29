@@ -1,7 +1,228 @@
 {
-  "generated_at": "2026-06-28T16:47",
-  "count": 371,
+  "generated_at": "2026-06-29T15:07",
+  "count": 386,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2071504429602554342-ザシティ相模大野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "天草取材開催。月末強化で仕掛けのバリエーション豊富。",
+      "url": "https://x.com/slot_ogikiti/status/2071504429602554342"
+    },
+    {
+      "id": "slo1_tyousataiZ-2071551214362530232-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "4台並び×両館合計14本以上。末尾⓪④絡み意識。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2071551214362530232"
+    },
+    {
+      "id": "slo1_tyousataiZ-2071551214362530232-プレゴ立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "4台並び×両館合計14本以上。末尾⓪④絡み意識。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2071551214362530232"
+    },
+    {
+      "id": "slo1_tyousataiZ-2071540993627988365-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "GOD",
+        "真打吉宗",
+        "L喰種"
+      ],
+      "matsubi": [
+        0
+      ],
+      "note": "⓪の日で沖スロ強化。ニューキンとキンハナの仕掛け多め。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2071540993627988365"
+    },
+    {
+      "id": "karasuro_7-2071536339380543958-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "AI脳トレ取材。毎日🌈がいる環境。過去傾向から全系/1/2/1/3/並び/単品を狙う",
+      "url": "https://x.com/karasuro_7/status/2071536339380543958"
+    },
+    {
+      "id": "karasuro_7-2071527154538713242-ハイパージアス立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "近隣徹底対抗。GOD🌈ローテ。週間で全台投入パターン",
+      "url": "https://x.com/karasuro_7/status/2071527154538713242"
+    },
+    {
+      "id": "karasuro_7-2071473779558261070-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャ掲載店舗。詳細は画像参照",
+      "url": "https://x.com/karasuro_7/status/2071473779558261070"
+    },
+    {
+      "id": "1_take6-2071570891407069580-小田急相模原UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "小田急相模原UNO",
+      "area": null,
+      "machines": [
+        "モンハンライズ",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "HIGHBOON。まるごと仕掛けあり。",
+      "url": "https://x.com/1_take6/status/2071570891407069580"
+    },
+    {
+      "id": "1_take6-2071566417800130923-マルハンメガシティ横浜町田",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "マルハンメガシティ横浜町田",
+      "area": null,
+      "machines": [
+        "グランベルム",
+        "天膳",
+        "頭文字D",
+        "化物語",
+        "モンハンライズ",
+        "番長ゼロ",
+        "ファンキー",
+        "乙女"
+      ],
+      "matsubi": [],
+      "note": "月末GETSUMATSU。まるごと仕掛け期待。",
+      "url": "https://x.com/1_take6/status/2071566417800130923"
+    },
+    {
+      "id": "1_take6-2071565879448670651-マルハン平塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "マルハン平塚",
+      "area": null,
+      "machines": [
+        "ファンキー",
+        "かぐや様",
+        "天膳",
+        "GOD",
+        "ウルミラ",
+        "SBJ",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "月末トリプルタッグ。3機種まるごと仕掛け期待。",
+      "url": "https://x.com/1_take6/status/2071565879448670651"
+    },
+    {
+      "id": "1_take6-2071520783327981974-マルハン茅ヶ崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "マルハン茅ヶ崎",
+      "area": null,
+      "machines": [
+        "東京喰種",
+        "大海5",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "月末トリプルタッグ。還元機種期待。",
+      "url": "https://x.com/1_take6/status/2071520783327981974"
+    },
+    {
+      "id": "1_take6-2071519800191517095-マルハンメガシティ横浜町田",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "マルハンメガシティ横浜町田",
+      "area": null,
+      "machines": [],
+      "matsubi": [
+        "0"
+      ],
+      "note": "月末GETSUMATSU。沖スロ推し。",
+      "url": "https://x.com/1_take6/status/2071519800191517095"
+    },
+    {
+      "id": "1_take6-2071519800191517095-スーパーDステーション立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "吉兆川崎野川と同日付の情報。⓪の付く日。",
+      "url": "https://x.com/1_take6/status/2071519800191517095"
+    },
+    {
+      "id": "1_take6-2071519800191517095-プレゴ立川店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-30",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [
+        "0"
+      ],
+      "note": "PIA川崎銀柳同日付。⓪の付く日。",
+      "url": "https://x.com/1_take6/status/2071519800191517095"
+    },
     {
       "id": "slot_ogikiti-2071177219582595132-スーパーDステーション立川",
       "source": "荻吉@スロ",
@@ -645,6 +866,19 @@
       ],
       "note": "まいったぁー⤴︎機種が最優先。ラリーゴポスト考察が重要。",
       "url": "https://x.com/1_take6/status/2071211668043080190"
+    },
+    {
+      "id": "1_take6-2071601141947990465-マルハンメガシティ横浜町田",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-29",
+      "target_date": "2026-06-29",
+      "store": "マルハンメガシティ横浜町田",
+      "area": null,
+      "machines": [],
+      "matsubi": [],
+      "note": "ラリーゴ仕掛け。まるごと2機種あり。",
+      "url": "https://x.com/1_take6/status/2071601141947990465"
     },
     {
       "id": "slot_ogikiti-2070774826319720693-ガーデン戸塚",
