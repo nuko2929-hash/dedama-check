@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T11:59",
-  "count": 408,
+  "generated_at": "2026-06-30T16:36",
+  "count": 418,
   "predictions": [
     {
       "id": "slot_ogikiti-2071869991675469972-ハイパージアス立川",
@@ -311,6 +311,160 @@
       "url": "https://x.com/1_take6/status/2071864411883737195"
     },
     {
+      "id": "slot_ogikiti-2071939062794223739-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-30",
+      "target_date": "2026-07-01",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "プロジェクトZ"
+      ],
+      "matsubi": [],
+      "note": "ジアス系列7店舗合同『プロジェクトZ』月初強化",
+      "url": "https://x.com/slot_ogikiti/status/2071939062794223739"
+    },
+    {
+      "id": "slot_ogikiti-2071931411318374513-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-30",
+      "target_date": "2026-07-01",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "プロジェクトZ"
+      ],
+      "matsubi": [],
+      "note": "月初恒例合同取材。6/1実績+44078枚。スパイキー&Sammy推奨",
+      "url": "https://x.com/slot_ogikiti/status/2071931411318374513"
+    },
+    {
+      "id": "slot_ogikiti-2071931610929483787-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-06-30",
+      "target_date": "2026-07-01",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "プロジェクトZ"
+      ],
+      "matsubi": [],
+      "note": "『プロジェクトZ』基本立ち回りは【4台並び】注目",
+      "url": "https://x.com/slot_ogikiti/status/2071931610929483787"
+    },
+    {
+      "id": "slo1_tyousataiZ-2071944552915841195-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-30",
+      "target_date": "2026-07-01",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "月初①の日、新店長始動、月イチ取材「真骨超」開催",
+      "url": "https://x.com/slo1_tyousataiZ/status/2071944552915841195"
+    },
+    {
+      "id": "slo1_tyousataiZ-2071929207412941109-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-06-30",
+      "target_date": "2026-07-01",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "吉宗",
+        "GOD",
+        "東リベ",
+        "ハナハナ"
+      ],
+      "matsubi": [],
+      "note": "月初①の日で全台系/ハーフ/並び仕掛け、新店長始動で出玉期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2071929207412941109"
+    },
+    {
+      "id": "karasuro_7-2071934401114677377-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-06-30",
+      "target_date": "2026-07-01",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "マイV",
+        "GOD",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び複数、毎日仕掛け。",
+      "url": "https://x.com/karasuro_7/status/2071934401114677377"
+    },
+    {
+      "id": "1_take6-2071943499289870710-ガーデン戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-30",
+      "target_date": "2026-07-01",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "Sゴーゴージャグラー3",
+        "L主役は銭形5",
+        "L七つの魔剣が支配する"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "1の付く日で近隣対抗。ジャグ強化。GOD/マイジャグ推奨",
+      "url": "https://x.com/1_take6/status/2071943499289870710"
+    },
+    {
+      "id": "1_take6-2071937401656840577-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-30",
+      "target_date": "2026-07-01",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "モンキー",
+        "Lカバネリ",
+        "GOD",
+        "マギレコ"
+      ],
+      "matsubi": [],
+      "note": "月周年日。裏破天荒来店取材。1/2仕掛け・まるごと狙い",
+      "url": "https://x.com/1_take6/status/2071937401656840577"
+    },
+    {
+      "id": "1_take6-2071936501706059855-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-30",
+      "target_date": "2026-07-01",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "SAO2",
+        "乙女5",
+        "バードウィング",
+        "ダークハイビ",
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "月初。スロ王来店取材。並び/列/1/2/まるごと/末尾狙い",
+      "url": "https://x.com/1_take6/status/2071936501706059855"
+    },
+    {
       "id": "slot_ogikiti-2071504429602554342-ザシティ相模大野",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -530,6 +684,19 @@
       ],
       "note": "PIA川崎銀柳同日付。⓪の付く日。",
       "url": "https://x.com/1_take6/status/2071519800191517095"
+    },
+    {
+      "id": "1_take6-2071967395338739980-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-06-30",
+      "target_date": "2026-06-30",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "新装開店。抽選人数130人。フラゲ・サキドリ取材",
+      "url": "https://x.com/1_take6/status/2071967395338739980"
     },
     {
       "id": "slot_ogikiti-2071177219582595132-スーパーDステーション立川",
