@@ -1,7 +1,179 @@
 {
-  "generated_at": "2026-06-30T16:36",
-  "count": 418,
+  "generated_at": "2026-07-01T12:24",
+  "count": 429,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2072229079949222247-新ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-01",
+      "target_date": "2026-07-02",
+      "store": "新ガーデン戸塚",
+      "area": null,
+      "machines": [
+        "ヴヴヴ2"
+      ],
+      "matsubi": [
+        2
+      ],
+      "note": "❷の日スロトレ取材。ヴヴヴ2が1/2以上で早番最優先。",
+      "url": "https://x.com/slot_ogikiti/status/2072229079949222247"
+    },
+    {
+      "id": "slot_ogikiti-2072163686199046246-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-01",
+      "target_date": "2026-07-02",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きに掲載。天草取材開催予定の店舗",
+      "url": "https://x.com/slot_ogikiti/status/2072163686199046246"
+    },
+    {
+      "id": "karasuro_7-2072291428999254164-ハイパージアス立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-01",
+      "target_date": "2026-07-02",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "GOD",
+        "東京喰種シリーズ"
+      ],
+      "matsubi": [],
+      "note": "近隣徹底対抗。GOD虹ローテ。毎日pick10%以上狙える",
+      "url": "https://x.com/karasuro_7/status/2072291428999254164"
+    },
+    {
+      "id": "karasuro_7-2072251278030500290-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-01",
+      "target_date": "2026-07-02",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "2のつく日。毎日虹あり。ヴヴヴ2は1/2確定虹",
+      "url": "https://x.com/karasuro_7/status/2072251278030500290"
+    },
+    {
+      "id": "karasuro_7-2072247829188448400-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-01",
+      "target_date": "2026-07-02",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "2のつく日。紅の龍。並び駆使したロング/全狙い",
+      "url": "https://x.com/karasuro_7/status/2072247829188448400"
+    },
+    {
+      "id": "karasuro_7-2072242840839836060-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-01",
+      "target_date": "2026-07-02",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "リコリコ"
+      ],
+      "matsubi": [],
+      "note": "2のつく日。ガチ分析虹。全系/並び/末尾/単品期待",
+      "url": "https://x.com/karasuro_7/status/2072242840839836060"
+    },
+    {
+      "id": "karasuro_7-2072238629376897473-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-01",
+      "target_date": "2026-07-02",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "2のつく日。クロロS/P調査隊ZZ。全系3台並び狙い",
+      "url": "https://x.com/karasuro_7/status/2072238629376897473"
+    },
+    {
+      "id": "karasuro_7-2072236817588609299-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-01",
+      "target_date": "2026-07-02",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "神マルS青。全系1機種以上。AT機優先",
+      "url": "https://x.com/karasuro_7/status/2072236817588609299"
+    },
+    {
+      "id": "karasuro_7-2072233396290699702-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-01",
+      "target_date": "2026-07-02",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "転生",
+        "Lカバネリ",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "2のつく日。ドリルスロット。3台並び複数期待",
+      "url": "https://x.com/karasuro_7/status/2072233396290699702"
+    },
+    {
+      "id": "1_take6-2072286343481479312-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-01",
+      "target_date": "2026-07-02",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "❷の付く日。東京喰種/GODから優先攻め。双龍取材初。",
+      "url": "https://x.com/1_take6/status/2072286343481479312"
+    },
+    {
+      "id": "1_take6-2072231581436322006-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-01",
+      "target_date": "2026-07-02",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "乙女5",
+        "Lカバネリ",
+        "リオエース",
+        "バイオRE3"
+      ],
+      "matsubi": [],
+      "note": "連続取材。まるごと複数仕掛けに注目。皇帝のリアル。",
+      "url": "https://x.com/1_take6/status/2072231581436322006"
+    },
     {
       "id": "slot_ogikiti-2071869991675469972-ハイパージアス立川",
       "source": "荻吉@スロ",
