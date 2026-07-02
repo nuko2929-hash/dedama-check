@@ -1,7 +1,131 @@
 {
-  "generated_at": "2026-07-01T12:24",
-  "count": 429,
+  "generated_at": "2026-07-02T11:46",
+  "count": 437,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2072525833928097963-スーパーDステーション八王子北野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "スーパーDステーション八王子北野",
+      "area": null,
+      "machines": [],
+      "matsubi": [],
+      "note": "明日3日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2072525833928097963"
+    },
+    {
+      "id": "karasuro_7-2072619556275986934-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "マギレコ",
+        "炎炎2",
+        "化物語",
+        "いざ番長",
+        "マンキン",
+        "真打吉宗",
+        "ファンキー"
+      ],
+      "matsubi": [],
+      "note": "四賢者🤹‍♂️来店取材。東京喰種/マギレコ/炎炎2/化物語最優先。3台以上機種の全系複数に期待。",
+      "url": "https://x.com/karasuro_7/status/2072619556275986934"
+    },
+    {
+      "id": "karasuro_7-2072613717003718918-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "ジャグラーシリーズ",
+        "東リベ",
+        "転生"
+      ],
+      "matsubi": [],
+      "note": "3のつく日。毎日来たい店。GOD/ジャグラーシリーズ最優先。東リベは特に注目。",
+      "url": "https://x.com/karasuro_7/status/2072613717003718918"
+    },
+    {
+      "id": "karasuro_7-2072611662780039504-エランドール泉",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "3のつく日。エラントリプルスター来店取材。pick10%~/3台並び複数狙える。",
+      "url": "https://x.com/karasuro_7/status/2072611662780039504"
+    },
+    {
+      "id": "karasuro_7-2072619556275986934-キコーナ戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "ピーアーク相模大野の近隣対抗イベント参照。徹底対抗の影響を受ける。",
+      "url": "https://x.com/karasuro_7/status/2072619556275986934"
+    },
+    {
+      "id": "1_take6-2072620193273274528-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "マギレコ",
+        "東京喰種",
+        "化物語",
+        "L炎炎2",
+        "Lカバネリ"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "四賢者来店。4機種の質の良い単品・1/2以上仕掛け複数",
+      "url": "https://x.com/1_take6/status/2072620193273274528"
+    },
+    {
+      "id": "1_take6-2072620069042229668-エランドール泉",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [
+        "沖ドキGOLD",
+        "沖ドキゴージャス",
+        "Lカバネリ",
+        "東京喰種",
+        "転生"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "エラントリプルスター来店。3並び複数仕掛け。抽選10名以下の激穴場",
+      "url": "https://x.com/1_take6/status/2072620069042229668"
+    },
     {
       "id": "slot_ogikiti-2072229079949222247-新ガーデン戸塚",
       "source": "荻吉@スロ",
@@ -173,6 +297,19 @@
       "matsubi": [],
       "note": "連続取材。まるごと複数仕掛けに注目。皇帝のリアル。",
       "url": "https://x.com/1_take6/status/2072231581436322006"
+    },
+    {
+      "id": "slot_ogikiti-2072525833928097963-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-02",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日3日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2072525833928097963"
     },
     {
       "id": "slot_ogikiti-2071869991675469972-ハイパージアス立川",
