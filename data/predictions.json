@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T11:46",
-  "count": 437,
+  "generated_at": "2026-07-02T15:59",
+  "count": 444,
   "predictions": [
     {
       "id": "slot_ogikiti-2072525833928097963-スーパーDステーション八王子北野",
@@ -125,6 +125,115 @@
       ],
       "note": "エラントリプルスター来店。3並び複数仕掛け。抽選10名以下の激穴場",
       "url": "https://x.com/1_take6/status/2072620069042229668"
+    },
+    {
+      "id": "slot_ogikiti-2072656020623769808-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ファンキー",
+        "Lカバネリ",
+        "ゴージャグ",
+        "喰種",
+        "新鬼3",
+        "東リベ",
+        "北斗",
+        "化物語",
+        "ToLOVEる TR",
+        "ToLOVEる"
+      ],
+      "matsubi": [],
+      "note": "3の日。燦撃取材。4台並び複数。Sammy&スパイキー推奨",
+      "url": "https://x.com/slot_ogikiti/status/2072656020623769808"
+    },
+    {
+      "id": "slot_ogikiti-2072660521803817399-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "マイV",
+        "喰種",
+        "Lカバネリ",
+        "乙女5"
+      ],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "③⑨感謝の日。創業月間。優秀機種&3台並び複数有",
+      "url": "https://x.com/slot_ogikiti/status/2072660521803817399"
+    },
+    {
+      "id": "slot_ogikiti-2072686027316293793-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [
+        3
+      ],
+      "note": "3の日。Sammy景品入荷。燦撃取材初コラボ",
+      "url": "https://x.com/slot_ogikiti/status/2072686027316293793"
+    },
+    {
+      "id": "slo1_tyousataiZ-2072658320784232582-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "③の日、新店長始動③日目。③の日傾向+店内配分に期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2072658320784232582"
+    },
+    {
+      "id": "slo1_tyousataiZ-2072653103070118395-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "吉宗",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "③の日。サミー機種注目。全台系/3台並び期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2072653103070118395"
+    },
+    {
+      "id": "1_take6-2072652018683142399-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-03",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "ダークハイビ",
+        "リコリコ",
+        "暴凶星",
+        "GOD",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "週末ドラドラドラ来店取材。新台・メイン機種・並び列に注目",
+      "url": "https://x.com/1_take6/status/2072652018683142399"
     },
     {
       "id": "slot_ogikiti-2072229079949222247-新ガーデン戸塚",
@@ -310,6 +419,19 @@
       "matsubi": [],
       "note": "明日3日のお品書きに掲載",
       "url": "https://x.com/slot_ogikiti/status/2072525833928097963"
+    },
+    {
+      "id": "1_take6-2072651713513984488-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-02",
+      "target_date": "2026-07-02",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "RT投稿で大規模設備変更完了、スロット増台386台へ。7/6新台入替",
+      "url": "https://x.com/1_take6/status/2072651713513984488"
     },
     {
       "id": "slot_ogikiti-2071869991675469972-ハイパージアス立川",
