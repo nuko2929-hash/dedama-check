@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T11:44",
-  "count": 467,
+  "generated_at": "2026-07-03T15:38",
+  "count": 472,
   "predictions": [
     {
       "id": "slot_ogikiti-2072974537826996417-スーパーDステーション立川",
@@ -380,6 +380,80 @@
       "matsubi": [],
       "note": "土曜日。悪魔のリアル。3～6台塊を意識。",
       "url": "https://x.com/1_take6/status/2072956379032162759"
+    },
+    {
+      "id": "slot_ogikiti-2073018965862031605-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-03",
+      "target_date": "2026-07-04",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロトレ調査団取材。優秀機種・3台並び狙い。",
+      "url": "https://x.com/slot_ogikiti/status/2073018965862031605"
+    },
+    {
+      "id": "slot_ogikiti-2073019271094182153-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-03",
+      "target_date": "2026-07-04",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "オーソドックスな仕掛け。ニブイチ機種・3台並び推奨。",
+      "url": "https://x.com/slot_ogikiti/status/2073019271094182153"
+    },
+    {
+      "id": "slo1_tyousataiZ-2073010737145139477-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-03",
+      "target_date": "2026-07-04",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "喰種",
+        "吉宗",
+        "GOD"
+      ],
+      "matsubi": [
+        "4"
+      ],
+      "note": "④の付く日で大都機種強化。配分系/並び仕掛けに注目",
+      "url": "https://x.com/slo1_tyousataiZ/status/2073010737145139477"
+    },
+    {
+      "id": "slo1_tyousataiZ-2073016498747330568-スーパーDステーション立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-03",
+      "target_date": "2026-07-04",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "月イチ系。関東明日のポイント掲載店",
+      "url": "https://x.com/slo1_tyousataiZ/status/2073016498747330568"
+    },
+    {
+      "id": "1_take6-2073013554010357912-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-03",
+      "target_date": "2026-07-04",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "クロロ調査隊チームSP来店。まるごと・塊仕掛けに注目。",
+      "url": "https://x.com/1_take6/status/2073013554010357912"
     },
     {
       "id": "slot_ogikiti-2072525833928097963-スーパーDステーション八王子北野",
