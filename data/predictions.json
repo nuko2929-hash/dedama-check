@@ -1,7 +1,236 @@
 {
-  "generated_at": "2026-07-03T15:38",
-  "count": 472,
+  "generated_at": "2026-07-04T09:58",
+  "count": 487,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2073327826133004532-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "スパイキー",
+        "Sammy"
+      ],
+      "matsubi": [],
+      "note": "❺の日強化。直近実績+85,502枚。全台🌈機種や列でてっぺん箇所あり。",
+      "url": "https://x.com/slot_ogikiti/status/2073327826133004532"
+    },
+    {
+      "id": "slot_ogikiti-2073318101681311795-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "創業月間×❺の日。Lカバネリ1/2以上。10台以上に複数ニブイチ。",
+      "url": "https://x.com/slot_ogikiti/status/2073318101681311795"
+    },
+    {
+      "id": "slot_ogikiti-2073253506753200210-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きに記載。天草取材開催予定",
+      "url": "https://x.com/slot_ogikiti/status/2073253506753200210"
+    },
+    {
+      "id": "slot_ogikiti-2073253506753200210-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きに記載。天草取材開催予定",
+      "url": "https://x.com/slot_ogikiti/status/2073253506753200210"
+    },
+    {
+      "id": "slot_ogikiti-2073253506753200210-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きに記載。天草取材開催予定",
+      "url": "https://x.com/slot_ogikiti/status/2073253506753200210"
+    },
+    {
+      "id": "karasuro_7-2073341652673204426-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "中山UNOではなく相模大野UNO。雷鳴の極初開催",
+      "url": "https://x.com/karasuro_7/status/2073341652673204426"
+    },
+    {
+      "id": "karasuro_7-2073338788798173612-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "エヴァシリーズ"
+      ],
+      "matsubi": [],
+      "note": "スロパチ来店取材。過去全系実績多数",
+      "url": "https://x.com/karasuro_7/status/2073338788798173612"
+    },
+    {
+      "id": "karasuro_7-2073333441970733351-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "毎日来たい店。ダントツ初モノ取材。3のつく日",
+      "url": "https://x.com/karasuro_7/status/2073333441970733351"
+    },
+    {
+      "id": "karasuro_7-2073331396605817246-ザシティ相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "近隣徹底対抗。スロット天下無双。赤字営業傾向",
+      "url": "https://x.com/karasuro_7/status/2073331396605817246"
+    },
+    {
+      "id": "karasuro_7-2073329946253226211-グランドホール長後",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "グランドホール長後",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        3
+      ],
+      "note": "燦燦サンくん取材。3台纏わり仕掛け継続",
+      "url": "https://x.com/karasuro_7/status/2073329946253226211"
+    },
+    {
+      "id": "karasuro_7-2073324214547800393-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "カバネリ",
+        "GOD",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "5のつく日。嵐撃。少数機種全系狙い",
+      "url": "https://x.com/karasuro_7/status/2073324214547800393"
+    },
+    {
+      "id": "karasuro_7-2073321791783903689-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "スタハナ",
+        "ドラハナ閃光"
+      ],
+      "matsubi": [],
+      "note": "5のつく日。嵐撃。推し機種強化",
+      "url": "https://x.com/karasuro_7/status/2073321791783903689"
+    },
+    {
+      "id": "karasuro_7-2073319888643297485-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "相模前線3機種",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "5のつく日。スロパチ来店取材。全仕掛け期待",
+      "url": "https://x.com/karasuro_7/status/2073319888643297485"
+    },
+    {
+      "id": "karasuro_7-2073318245441077619-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "5のつく日。スロパチ来店取材。6台並び常連",
+      "url": "https://x.com/karasuro_7/status/2073318245441077619"
+    },
+    {
+      "id": "1_take6-2073343705562456510-吉兆東名川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-04",
+      "target_date": "2026-07-05",
+      "store": "吉兆東名川崎店",
+      "area": "川崎",
+      "machines": [
+        "Sウルトラミラクルジャグラー",
+        "Lヨルムンガンド",
+        "LBエヴァンゲリオン"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "末尾5の日。まいったぁー⤴︎3機種+定番機種で10台以上狙い目",
+      "url": "https://x.com/1_take6/status/2073343705562456510"
+    },
     {
       "id": "slot_ogikiti-2072974537826996417-スーパーDステーション立川",
       "source": "荻吉@スロ",
