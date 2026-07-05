@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T10:33",
-  "count": 529,
+  "generated_at": "2026-07-05T12:53",
+  "count": 535,
   "predictions": [
     {
       "id": "slot_ogikiti-2073604023589171255-ピーアーク相模大野",
@@ -238,6 +238,114 @@
       "matsubi": [],
       "note": "七珍万宝7Days開催1日目。新装開店。7日間毎日狙える。",
       "url": "https://x.com/1_take6/status/2073697760222843206"
+    },
+    {
+      "id": "slo1_tyousataiZ-2073743141765530065-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-05",
+      "target_date": "2026-07-06",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "推し機種",
+        "Lカバネリ",
+        "ジャグ",
+        "化物語"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "⑥の付く日×大型新台入替。6台並び複数出現予想",
+      "url": "https://x.com/slo1_tyousataiZ/status/2073743141765530065"
+    },
+    {
+      "id": "slo1_tyousataiZ-2073739439696949294-楽園渋谷駅前",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-05",
+      "target_date": "2026-07-06",
+      "store": "楽園渋谷駅前",
+      "area": null,
+      "machines": [
+        "ジャグ",
+        "VVV",
+        "モンキー",
+        "化物語"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "周年月間×大型新台入替×⑥の日。据え置き狙い",
+      "url": "https://x.com/slo1_tyousataiZ/status/2073739439696949294"
+    },
+    {
+      "id": "karasuro_7-2073716680824598686-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-05",
+      "target_date": "2026-07-06",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "スマスロGOD",
+        "ジャグラーシリーズ",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "毎日虹あり、6の付く日はカバネリ最優先、新装開店",
+      "url": "https://x.com/karasuro_7/status/2073716680824598686"
+    },
+    {
+      "id": "1_take6-2073743044718067772-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-05",
+      "target_date": "2026-07-06",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "からくり2"
+      ],
+      "matsubi": [],
+      "note": "新装日。からくり21台導入",
+      "url": "https://x.com/1_take6/status/2073743044718067772"
+    },
+    {
+      "id": "1_take6-2073731352651022466-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-05",
+      "target_date": "2026-07-06",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "東京喰種"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "いつつ巴。6付く日。合同機種仕掛け",
+      "url": "https://x.com/1_take6/status/2073731352651022466"
+    },
+    {
+      "id": "1_take6-2073721284744425847-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-05",
+      "target_date": "2026-07-06",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "東京喰種"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "新装57台導入。いつつ巴合同。6付く日",
+      "url": "https://x.com/1_take6/status/2073721284744425847"
     },
     {
       "id": "slot_ogikiti-2073327826133004532-ハイパージアス立川",
