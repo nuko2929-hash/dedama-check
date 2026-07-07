@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T12:20",
-  "count": 587,
+  "generated_at": "2026-07-07T17:00",
+  "count": 592,
   "predictions": [
     {
       "id": "slot_ogikiti-2074422848752697360-ハイパージアス立川",
@@ -310,6 +310,60 @@
       ],
       "note": "8の付く日。まいったぁー機種最優先。闘龍景品入荷で3台並び5箇所以上。",
       "url": "https://x.com/1_take6/status/2074440438560514114"
+    },
+    {
+      "id": "slot_ogikiti-2074527167325892820-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-07",
+      "target_date": "2026-07-08",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "月イチ8日、天草強取材開催。スパイキー＆三共推奨",
+      "url": "https://x.com/slot_ogikiti/status/2074527167325892820"
+    },
+    {
+      "id": "slot_ogikiti-2074527059943256346-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-07",
+      "target_date": "2026-07-08",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "8の日6台並び×7本以上。スロパチ賞品入荷2日目",
+      "url": "https://x.com/slot_ogikiti/status/2074527059943256346"
+    },
+    {
+      "id": "slo1_tyousataiZ-2074476093990752590-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-07",
+      "target_date": "2026-07-08",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "関東スロイベ調査隊が明日の狙い目として紹介",
+      "url": "https://x.com/slo1_tyousataiZ/status/2074476093990752590"
+    },
+    {
+      "id": "slo1_tyousataiZ-2074471757529100779-マルハン茅ヶ崎",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-07",
+      "target_date": "2026-07-08",
+      "store": "マルハン茅ヶ崎",
+      "area": null,
+      "machines": [
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "ネオマル🟪開催。3台並び×複数、全台系に注目",
+      "url": "https://x.com/slo1_tyousataiZ/status/2074471757529100779"
     },
     {
       "id": "slot_ogikiti-2074114583317590175-ハイパージアス立川",
@@ -788,6 +842,28 @@
       "matsubi": [],
       "note": "登録店舗対象外。投稿1はピーアーク相模原（登録外）。",
       "url": "https://x.com/1_take6/status/2074366145461940674"
+    },
+    {
+      "id": "1_take6-2074476687765672418-アビバ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-07",
+      "target_date": "2026-07-07",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "乙女5",
+        "東京喰種",
+        "モンキー",
+        "マギレコ",
+        "Lカバネリ",
+        "GOD"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "破天荒来店取材初。乙女5/東京喰種32台が最優先。",
+      "url": "https://x.com/1_take6/status/2074476687765672418"
     },
     {
       "id": "slot_ogikiti-2073604023589171255-ピーアーク相模大野",
