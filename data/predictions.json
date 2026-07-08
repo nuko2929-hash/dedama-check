@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T10:34",
-  "count": 600,
+  "generated_at": "2026-07-08T16:52",
+  "count": 613,
   "predictions": [
     {
       "id": "slot_ogikiti-2074654448497144019-スーパーDステーション立川",
@@ -103,6 +103,186 @@
       "matsubi": [],
       "note": "神奈川オプチャ推奨店リストに掲載",
       "url": "https://x.com/karasuro_7/status/2074735524326314223"
+    },
+    {
+      "id": "slot_ogikiti-2074842826983219500-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "③❾感謝の日、創業月間、ネオイム推奨",
+      "url": "https://x.com/slot_ogikiti/status/2074842826983219500"
+    },
+    {
+      "id": "slot_ogikiti-2074832944360046849-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "アルティメットCG調査隊、天草取材、スロトレコラボ",
+      "url": "https://x.com/slot_ogikiti/status/2074832944360046849"
+    },
+    {
+      "id": "slot_ogikiti-2074813420785033386-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "③❾感謝の日。創業月間で高期待。過去実績+91,887枚。",
+      "url": "https://x.com/slot_ogikiti/status/2074813420785033386"
+    },
+    {
+      "id": "slo1_tyousataiZ-2074825616810217577-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑨の日「感謝」。マギレコ/三共機種強化傾向。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2074825616810217577"
+    },
+    {
+      "id": "slo1_tyousataiZ-2074834768898949436-ハイパージアス立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "関東イベント情報掲載店。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2074834768898949436"
+    },
+    {
+      "id": "slo1_tyousataiZ-2074834768898949436-プレゴ立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "関東イベント情報掲載店。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2074834768898949436"
+    },
+    {
+      "id": "slo1_tyousataiZ-2074834768898949436-スーパーDステーション立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "関東イベント情報掲載店。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2074834768898949436"
+    },
+    {
+      "id": "slo1_tyousataiZ-2074834768898949436-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "関東イベント情報掲載店。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2074834768898949436"
+    },
+    {
+      "id": "slo1_tyousataiZ-2074834768898949436-キコーナ戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "関東イベント情報掲載店。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2074834768898949436"
+    },
+    {
+      "id": "1_take6-2074834400530018756-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "北斗",
+        "Lカバネリ",
+        "ヴヴヴ2",
+        "GOD",
+        "ビッグドリーム",
+        "SAO"
+      ],
+      "matsubi": [
+        9
+      ],
+      "note": "破天荒来店取材。仕掛け濃厚の東京喰種・北斗合計26台が最優先。",
+      "url": "https://x.com/1_take6/status/2074834400530018756"
+    },
+    {
+      "id": "1_take6-2074833849608278328-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "からくり2",
+        "北斗シリーズ",
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "新装3日目。ドラドラドラ来店取材。からくり2目玉21台導入。",
+      "url": "https://x.com/1_take6/status/2074833849608278328"
+    },
+    {
+      "id": "1_take6-2074806106254397518-アビバ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "Lカバネリ",
+        "GOD",
+        "東京喰種",
+        "マギレコ",
+        "スタハナ",
+        "ドラハナ"
+      ],
+      "matsubi": [
+        9
+      ],
+      "note": "近隣対抗。アルティメットCG調査隊等来店。1/2仕掛けでマイジャグ最優先。",
+      "url": "https://x.com/1_take6/status/2074806106254397518"
     },
     {
       "id": "slot_ogikiti-2074422848752697360-ハイパージアス立川",
@@ -2680,6 +2860,25 @@
       "matsubi": [],
       "note": "週末ドラドラドラ来店取材。新台・メイン機種・並び列に注目",
       "url": "https://x.com/1_take6/status/2072652018683142399"
+    },
+    {
+      "id": "karasuro_7-2074894734313783444-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-03",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "東リベ",
+        "Lカバネリ",
+        "GOD",
+        "転生",
+        "化物語"
+      ],
+      "matsubi": [],
+      "note": "3のつく日イベント。1/2機種多数。毎日来たい店。",
+      "url": "https://x.com/karasuro_7/status/2074894734313783444"
     },
     {
       "id": "slot_ogikiti-2072229079949222247-新ガーデン戸塚",
