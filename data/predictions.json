@@ -1,7 +1,109 @@
 {
-  "generated_at": "2026-07-07T17:00",
-  "count": 592,
+  "generated_at": "2026-07-08T10:34",
+  "count": 600,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2074654448497144019-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "7/9の注目店として掲載",
+      "url": "https://x.com/slot_ogikiti/status/2074654448497144019"
+    },
+    {
+      "id": "karasuro_7-2074780918188056646-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "東京喰種",
+        "GOD",
+        "ジャグラーシリーズ",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "9のつく日。東京喰種最優先。毎日🌈あり継続中",
+      "url": "https://x.com/karasuro_7/status/2074780918188056646"
+    },
+    {
+      "id": "karasuro_7-2074779958145347587-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "マイV",
+        "GOD",
+        "Lカバネリ",
+        "ジャグラー"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び意識。並び常連機種推奨",
+      "url": "https://x.com/karasuro_7/status/2074779958145347587"
+    },
+    {
+      "id": "karasuro_7-2074735524326314223-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ推奨店リストに掲載",
+      "url": "https://x.com/karasuro_7/status/2074735524326314223"
+    },
+    {
+      "id": "karasuro_7-2074735524326314223-ザシティ相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ推奨店リストに掲載",
+      "url": "https://x.com/karasuro_7/status/2074735524326314223"
+    },
+    {
+      "id": "karasuro_7-2074735524326314223-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ推奨店リストに掲載",
+      "url": "https://x.com/karasuro_7/status/2074735524326314223"
+    },
+    {
+      "id": "karasuro_7-2074735524326314223-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-09",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ推奨店リストに掲載",
+      "url": "https://x.com/karasuro_7/status/2074735524326314223"
+    },
     {
       "id": "slot_ogikiti-2074422848752697360-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -864,6 +966,37 @@
       ],
       "note": "破天荒来店取材初。乙女5/東京喰種32台が最優先。",
       "url": "https://x.com/1_take6/status/2074476687765672418"
+    },
+    {
+      "id": "slot_ogikiti-2074696576099135630-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-08",
+      "target_date": "2026-07-07",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ミリゴ",
+        "乙女5",
+        "かぐや様",
+        "喰種",
+        "Lカバネリ",
+        "からくり2",
+        "ヴヴヴ2",
+        "マギレコ",
+        "北斗",
+        "化物語",
+        "モンキーV",
+        "L炎炎2",
+        "新鬼3",
+        "乙女4"
+      ],
+      "matsubi": [
+        "0",
+        "7"
+      ],
+      "note": "月ゾロ×アッチーの軌跡。総差+125k枚。ゾロ目末尾が高配分。",
+      "url": "https://x.com/slot_ogikiti/status/2074696576099135630"
     },
     {
       "id": "slot_ogikiti-2073604023589171255-ピーアーク相模大野",
