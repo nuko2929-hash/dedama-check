@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T12:25",
-  "count": 658,
+  "generated_at": "2026-07-09T17:10",
+  "count": 662,
   "predictions": [
     {
       "id": "slot_ogikiti-2075174733038194946-マルハンメガシティ2000蒲田7",
@@ -767,6 +767,77 @@
       "matsubi": [],
       "note": "リニューアル期間。アルティメット3×3。Lカバネリ最優先。",
       "url": "https://x.com/1_take6/status/2075160510757208148"
+    },
+    {
+      "id": "slo1_tyousataiZ-2075206373336625633-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-09",
+      "target_date": "2026-07-10",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "喰種",
+        "からサー2",
+        "北斗",
+        "北斗転生",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [],
+      "note": "スロパチアワード賞品入荷、⓪のつく日。全台系×2機種以上",
+      "url": "https://x.com/slo1_tyousataiZ/status/2075206373336625633"
+    },
+    {
+      "id": "slo1_tyousataiZ-2075205812163878987-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-09",
+      "target_date": "2026-07-10",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "喰種",
+        "ゴッド",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "新設機種に優秀台出現期待。月イチ取材真骨超開催",
+      "url": "https://x.com/slo1_tyousataiZ/status/2075205812163878987"
+    },
+    {
+      "id": "slo1_tyousataiZ-2075202702670430348-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-09",
+      "target_date": "2026-07-10",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "4店舗合同なにもナイ開催。合同機種に期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2075202702670430348"
+    },
+    {
+      "id": "slo1_tyousataiZ-2075202172594389309-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-09",
+      "target_date": "2026-07-10",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ヴヴヴ",
+        "からくり",
+        "東京喰種",
+        "喰種",
+        "エヴァ15",
+        "エヴァ17"
+      ],
+      "matsubi": [],
+      "note": "7月は顔面おじが連日出現。月間推し機種に期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2075202172594389309"
     },
     {
       "id": "slot_ogikiti-2074654448497144019-スーパーDステーション立川",
