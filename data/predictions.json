@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T12:18",
-  "count": 688,
+  "generated_at": "2026-07-10T16:37",
+  "count": 692,
   "predictions": [
     {
       "id": "slot_ogikiti-2075528301804662928-ハイパージアス立川",
@@ -422,6 +422,74 @@
       ],
       "note": "❶の付く日、超キノコ狩り2nd。金キノコ出現必須、並び注目",
       "url": "https://x.com/1_take6/status/2075515942440747306"
+    },
+    {
+      "id": "slot_ogikiti-2075567151696777605-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-10",
+      "target_date": "2026-07-11",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "ゾロ目×週末強化でナマ調来店撮影。立川地区で有力候補",
+      "url": "https://x.com/slot_ogikiti/status/2075567151696777605"
+    },
+    {
+      "id": "slo1_tyousataiZ-2075557941328191727-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-10",
+      "target_date": "2026-07-11",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "化物語",
+        "喰種",
+        "ミスター",
+        "真打吉宗",
+        "ネオアイム",
+        "沖ゴージャス",
+        "Lカバネリ",
+        "沖金",
+        "東リベ"
+      ],
+      "matsubi": [
+        1,
+        11
+      ],
+      "note": "①の日×ゾロ目。ネクスタ来店取材初開催。全台系/ニブイチ複数出現期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2075557941328191727"
+    },
+    {
+      "id": "1_take6-2075565177962201424-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-10",
+      "target_date": "2026-07-11",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "ゾロ目。双龍取材。東京喰種/GOD合計22台の仕掛けに期待",
+      "url": "https://x.com/1_take6/status/2075565177962201424"
+    },
+    {
+      "id": "1_take6-2075559921719111839-スーパーDステーション立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-10",
+      "target_date": "2026-07-11",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "ゾロ目。悪魔のリアル。塊仕掛けと少数機種からのまるごと",
+      "url": "https://x.com/1_take6/status/2075559921719111839"
     },
     {
       "id": "slot_ogikiti-2075174733038194946-マルハンメガシティ2000蒲田7",
