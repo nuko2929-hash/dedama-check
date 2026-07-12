@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:31",
-  "count": 716,
+  "generated_at": "2026-07-12T09:57",
+  "count": 723,
   "predictions": [
     {
       "id": "slot_ogikiti-2076143037286392120-スーパーDステーション立川",
@@ -14,6 +14,129 @@
       "matsubi": [],
       "note": "明日13日のお品書きに掲載。",
       "url": "https://x.com/slot_ogikiti/status/2076143037286392120"
+    },
+    {
+      "id": "slot_ogikiti-2076236713895272473-相模大野UNO",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "推連の華初日。推し機種Lカバネリ・東京喰種で並び仕掛け",
+      "url": "https://x.com/slot_ogikiti/status/2076236713895272473"
+    },
+    {
+      "id": "slot_ogikiti-2076235238985064625-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "からくり2",
+        "Lカバネリ",
+        "転生"
+      ],
+      "matsubi": [],
+      "note": "オーシャン系列新台入替。SANKYO・Sammy25%以上仕掛け",
+      "url": "https://x.com/slot_ogikiti/status/2076235238985064625"
+    },
+    {
+      "id": "slot_ogikiti-2076232589120331898-プレゴ立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [
+        "モンキーV",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "推連の華初日。毎日推し機種に20%以上並び仕掛け",
+      "url": "https://x.com/slot_ogikiti/status/2076232589120331898"
+    },
+    {
+      "id": "slot_ogikiti-2076224216618406056-キコーナ戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "喰種",
+        "Lカバネリ",
+        "ジャグラー"
+      ],
+      "matsubi": [],
+      "note": "天草覇道ホール応援団3の日。超優秀機種・3台並び多数",
+      "url": "https://x.com/slot_ogikiti/status/2076224216618406056"
+    },
+    {
+      "id": "karasuro_7-2076219710803427665-エランドール泉",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [
+        "ミスジャグ",
+        "東京喰種",
+        "Lカバネリ",
+        "マイジャグ",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "エラントリプルスター来店取材。pick10%~/3台並び複数狙える",
+      "url": "https://x.com/karasuro_7/status/2076219710803427665"
+    },
+    {
+      "id": "karasuro_7-2076211406089883710-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "北斗",
+        "マイジャグ",
+        "ネオアイム",
+        "バラシリーズ"
+      ],
+      "matsubi": [],
+      "note": "3のつく日。全系2機種~/3台並び複数狙える。pick15%~継続中",
+      "url": "https://x.com/karasuro_7/status/2076211406089883710"
+    },
+    {
+      "id": "1_take6-2076240224175460757-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "化物語",
+        "ゴブスレ",
+        "バーサスリヴァイズ",
+        "東京喰種",
+        "新鬼武者2",
+        "バーディウイング",
+        "ファンキージャグラー2",
+        "北斗の拳 転生の章2",
+        "炎炎ノ消防隊2"
+      ],
+      "matsubi": [],
+      "note": "月周年日（毎月13日）。先月は店内総差枚数+58,900枚超。金枠/金キノコ配信に期待",
+      "url": "https://x.com/1_take6/status/2076240224175460757"
     },
     {
       "id": "slot_ogikiti-2075779588928753966-ガーデン戸塚",
