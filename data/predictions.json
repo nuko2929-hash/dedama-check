@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T09:57",
-  "count": 723,
+  "generated_at": "2026-07-12T15:00",
+  "count": 737,
   "predictions": [
     {
       "id": "slot_ogikiti-2076143037286392120-スーパーDステーション立川",
@@ -137,6 +137,205 @@
       "matsubi": [],
       "note": "月周年日（毎月13日）。先月は店内総差枚数+58,900枚超。金枠/金キノコ配信に期待",
       "url": "https://x.com/1_take6/status/2076240224175460757"
+    },
+    {
+      "id": "slot_ogikiti-2076293063270658546-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "③❾感謝の日、創業月間、ネオイム推奨",
+      "url": "https://x.com/slot_ogikiti/status/2076293063270658546"
+    },
+    {
+      "id": "slot_ogikiti-2076292949739212855-プレゴ立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "オーシャン系列新台入替、技術激突開催",
+      "url": "https://x.com/slot_ogikiti/status/2076292949739212855"
+    },
+    {
+      "id": "slot_ogikiti-2076282041642221989-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "Sammy機種"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "新台入替・燦撃取材開催。3台並び軸の立ち回り推奨。",
+      "url": "https://x.com/slot_ogikiti/status/2076282041642221989"
+    },
+    {
+      "id": "slot_ogikiti-2076269962680033578-相模大野UNO",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "7/13の注目店として言及。詳細な狙い目情報あり。",
+      "url": "https://x.com/slot_ogikiti/status/2076269962680033578"
+    },
+    {
+      "id": "slot_ogikiti-2076269962680033578-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "7/13の注目店として言及。スーパーDステーション東金と混同なし。",
+      "url": "https://x.com/slot_ogikiti/status/2076269962680033578"
+    },
+    {
+      "id": "slo1_tyousataiZ-2076288802684010666-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slo1_tyousataiZ/status/2076288802684010666"
+    },
+    {
+      "id": "slo1_tyousataiZ-2076288802684010666-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slo1_tyousataiZ/status/2076288802684010666"
+    },
+    {
+      "id": "slo1_tyousataiZ-2076269414455136494-キコーナ戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slo1_tyousataiZ/status/2076269414455136494"
+    },
+    {
+      "id": "slo1_tyousataiZ-2076262969550454948-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slo1_tyousataiZ/status/2076262969550454948"
+    },
+    {
+      "id": "slo1_tyousataiZ-2076256922941247908-プレイスポットドラゴン川崎店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slo1_tyousataiZ/status/2076256922941247908"
+    },
+    {
+      "id": "karasuro_7-2076251080904859987-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "マイV",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び複数狙い。毎日仕掛け継続中",
+      "url": "https://x.com/karasuro_7/status/2076251080904859987"
+    },
+    {
+      "id": "1_take6-2076289154229698628-エランドール泉",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [
+        3
+      ],
+      "note": "エラントリプルスター来店取材。❸の付く日の穴場。抽選10名以下",
+      "url": "https://x.com/1_take6/status/2076289154229698628"
+    },
+    {
+      "id": "1_take6-2076277552939933949-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [
+        3
+      ],
+      "note": "キコーナ海老名でいいじゃん来店取材。❸の付く日。まるごと・並び中心",
+      "url": "https://x.com/1_take6/status/2076277552939933949"
+    },
+    {
+      "id": "1_take6-2076259726619545769-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-12",
+      "target_date": "2026-07-13",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "Thank you VERY MUCH。❸❾の付く日は1/2仕掛け。Sammy機種優先",
+      "url": "https://x.com/1_take6/status/2076259726619545769"
     },
     {
       "id": "slot_ogikiti-2075779588928753966-ガーデン戸塚",
