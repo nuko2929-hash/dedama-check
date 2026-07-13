@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:35",
-  "count": 764,
+  "generated_at": "2026-07-13T11:21",
+  "count": 767,
   "predictions": [
     {
       "id": "slot_ogikiti-2076505505200242784-ザシティ相模大野",
@@ -40,6 +40,56 @@
       "matsubi": [],
       "note": "神奈川翌日の推奨店リスト掲載",
       "url": "https://x.com/karasuro_7/status/2076537680381595974"
+    },
+    {
+      "id": "karasuro_7-2076610513195467158-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-13",
+      "target_date": "2026-07-14",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "GOD",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "新台入替＆スロパチガール来店。4台並び複数狙い。毎日仕掛けあり。",
+      "url": "https://x.com/karasuro_7/status/2076610513195467158"
+    },
+    {
+      "id": "karasuro_7-2076610056133771688-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-13",
+      "target_date": "2026-07-14",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "AI脳トレ取材。毎日仕掛けあり。ジャグは毎日前日良さ台発表。",
+      "url": "https://x.com/karasuro_7/status/2076610056133771688"
+    },
+    {
+      "id": "karasuro_7-2076588549986734463-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-13",
+      "target_date": "2026-07-14",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "Lカバネリ",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び意識。メイン機種に仕掛けあり。",
+      "url": "https://x.com/karasuro_7/status/2076588549986734463"
     },
     {
       "id": "slot_ogikiti-2076143037286392120-スーパーDステーション立川",
