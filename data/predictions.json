@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T11:21",
-  "count": 767,
+  "generated_at": "2026-07-13T15:20",
+  "count": 769,
   "predictions": [
     {
       "id": "slot_ogikiti-2076505505200242784-ザシティ相模大野",
@@ -90,6 +90,42 @@
       "matsubi": [],
       "note": "スロパチガール来店。4台並び意識。メイン機種に仕掛けあり。",
       "url": "https://x.com/karasuro_7/status/2076588549986734463"
+    },
+    {
+      "id": "slo1_tyousataiZ-2076644477629030539-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-13",
+      "target_date": "2026-07-14",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "喰種",
+        "沖スロ",
+        "真打吉宗"
+      ],
+      "matsubi": [
+        4
+      ],
+      "note": "④の付く日は大都機種強化デー。全台系/ニブイチが仕掛けの軸。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2076644477629030539"
+    },
+    {
+      "id": "karasuro_7-2076639282295648309-ハイパージアス立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-13",
+      "target_date": "2026-07-14",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "パーフェクトクイーン",
+        "北斗",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "近隣徹底対抗。北斗/GODローテ。パーフェクトクイーン6/21振り",
+      "url": "https://x.com/karasuro_7/status/2076639282295648309"
     },
     {
       "id": "slot_ogikiti-2076143037286392120-スーパーDステーション立川",
