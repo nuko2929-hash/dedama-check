@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T04:54",
-  "count": 770,
+  "generated_at": "2026-07-14T10:04",
+  "count": 776,
   "predictions": [
     {
       "id": "slot_ogikiti-2076867580242100433-ハイパージアス立川",
@@ -14,6 +14,96 @@
       "matsubi": [],
       "note": "明日15日のお品書き掲載店",
       "url": "https://x.com/slot_ogikiti/status/2076867580242100433"
+    },
+    {
+      "id": "slot_ogikiti-2076953500949598491-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-14",
+      "target_date": "2026-07-15",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "Sammy機種",
+        "ドラハナ"
+      ],
+      "matsubi": [],
+      "note": "❺の日にスロパチ取材。6台並び探しで喰種推奨。",
+      "url": "https://x.com/slot_ogikiti/status/2076953500949598491"
+    },
+    {
+      "id": "karasuro_7-2076908112519573781-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-14",
+      "target_date": "2026-07-15",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "5のつく日。過去傾向から店長推し強化。",
+      "url": "https://x.com/karasuro_7/status/2076908112519573781"
+    },
+    {
+      "id": "karasuro_7-2076908112519573781-ザシティ相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-14",
+      "target_date": "2026-07-15",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "5のつく日。過去傾向から店長推し強化。",
+      "url": "https://x.com/karasuro_7/status/2076908112519573781"
+    },
+    {
+      "id": "karasuro_7-2076908112519573781-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-14",
+      "target_date": "2026-07-15",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "5のつく日。過去傾向から店長推し強化。",
+      "url": "https://x.com/karasuro_7/status/2076908112519573781"
+    },
+    {
+      "id": "karasuro_7-2076908112519573781-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-14",
+      "target_date": "2026-07-15",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "5のつく日。過去傾向から店長推し強化。",
+      "url": "https://x.com/karasuro_7/status/2076908112519573781"
+    },
+    {
+      "id": "1_take6-2076896965057757487-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-14",
+      "target_date": "2026-07-15",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "番長ゼロ",
+        "モンハンライズ",
+        "かぐや様",
+        "いざ番長",
+        "ネオアイム"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "❶の付く日。超キノコ狩り2nd。店内総差枚+14,400枚over",
+      "url": "https://x.com/1_take6/status/2076896965057757487"
     },
     {
       "id": "slot_ogikiti-2076505505200242784-ザシティ相模大野",
