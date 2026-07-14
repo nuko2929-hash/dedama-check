@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-07-13T15:20",
-  "count": 769,
+  "generated_at": "2026-07-14T04:54",
+  "count": 770,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2076867580242100433-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-14",
+      "target_date": "2026-07-15",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日15日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2076867580242100433"
+    },
     {
       "id": "slot_ogikiti-2076505505200242784-ザシティ相模大野",
       "source": "荻吉@スロ",
