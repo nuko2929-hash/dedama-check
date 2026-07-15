@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T10:09",
-  "count": 804,
+  "generated_at": "2026-07-15T14:19",
+  "count": 811,
   "predictions": [
     {
       "id": "slot_ogikiti-2077314662170067298-ハイパージアス立川",
@@ -150,6 +150,120 @@
       "matsubi": [],
       "note": "月周年日。まるごと・1/2仕掛けに期待。少数機種から攻める",
       "url": "https://x.com/1_take6/status/2077325721685692862"
+    },
+    {
+      "id": "slo1_tyousataiZ-2077370379983867914-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-15",
+      "target_date": "2026-07-16",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [],
+      "matsubi": [],
+      "note": "⑥の日で6台並びを軸。推し機種/ジャグラー/Lカバネリ中心",
+      "url": "https://x.com/slo1_tyousataiZ/status/2077370379983867914"
+    },
+    {
+      "id": "slo1_tyousataiZ-2077376748484952214-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-15",
+      "target_date": "2026-07-16",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "喰種",
+        "沖スロ"
+      ],
+      "matsubi": [],
+      "note": "⑥の日の明日の関東周年日リスト掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2077376748484952214"
+    },
+    {
+      "id": "slo1_tyousataiZ-2077376748484952214-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-15",
+      "target_date": "2026-07-16",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の関東周年日リスト掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2077376748484952214"
+    },
+    {
+      "id": "1_take6-2077358676990697662-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-15",
+      "target_date": "2026-07-16",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "からくり"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "いつつ巴合同機種。前回7/6からくり仕掛けあり",
+      "url": "https://x.com/1_take6/status/2077358676990697662"
+    },
+    {
+      "id": "1_take6-2077351927181119854-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-15",
+      "target_date": "2026-07-16",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "北斗",
+        "リコリコ"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "ドラドラドラ来店取材。6の付く日仕掛け",
+      "url": "https://x.com/1_take6/status/2077351927181119854"
+    },
+    {
+      "id": "1_take6-2077351648029294910-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-15",
+      "target_date": "2026-07-16",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "アニマルスロットドッチ",
+        "ミスタージャグラー",
+        "炎炎ノ消防隊2"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "いつつ巴。まいったぁー機種が最優先",
+      "url": "https://x.com/1_take6/status/2077351648029294910"
+    },
+    {
+      "id": "1_take6-2077351209602797912-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-15",
+      "target_date": "2026-07-16",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "いつつ巴。店長ポストから狙いを絞る",
+      "url": "https://x.com/1_take6/status/2077351209602797912"
     },
     {
       "id": "slot_ogikiti-2076867580242100433-ハイパージアス立川",
