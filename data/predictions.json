@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T05:24",
-  "count": 820,
+  "generated_at": "2026-07-16T10:17",
+  "count": 824,
   "predictions": [
     {
       "id": "karasuro_7-2077624993052332393-アビバ湘南台",
@@ -37,6 +37,70 @@
       "matsubi": [],
       "note": "明日の神奈川イベント情報リスト掲載店。詳細はオプチャ参照。",
       "url": "https://x.com/karasuro_7/status/2077622599291658562"
+    },
+    {
+      "id": "slot_ogikiti-2077632066750234660-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-16",
+      "target_date": "2026-07-17",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きリストに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2077632066750234660"
+    },
+    {
+      "id": "slot_ogikiti-2077632066750234660-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-16",
+      "target_date": "2026-07-17",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きリストに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2077632066750234660"
+    },
+    {
+      "id": "1_take6-2077697530633355637-マルハン相模原",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-16",
+      "target_date": "2026-07-17",
+      "store": "マルハン相模原",
+      "area": null,
+      "machines": [
+        "GOD",
+        "東京喰種",
+        "カバネリ",
+        "ジャグ"
+      ],
+      "matsubi": [],
+      "note": "7の付く日。店長就任日。まるごと仕掛け期待。リニューアル直後の本命日。",
+      "url": "https://x.com/1_take6/status/2077697530633355637"
+    },
+    {
+      "id": "1_take6-2077695287041339819-マルハン平沢",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-16",
+      "target_date": "2026-07-17",
+      "store": "マルハン平沢",
+      "area": null,
+      "machines": [
+        "東京喰種",
+        "ジャグ",
+        "エヴァ",
+        "牙狼日本一クイーン"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "7の付く日。にゃんまるPOP。まるごと仕掛け狙い目。末尾仕掛けに期待。",
+      "url": "https://x.com/1_take6/status/2077695287041339819"
     },
     {
       "id": "slot_ogikiti-2077314662170067298-ハイパージアス立川",
