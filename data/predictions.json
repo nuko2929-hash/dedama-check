@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T05:29",
-  "count": 841,
+  "generated_at": "2026-07-17T10:05",
+  "count": 855,
   "predictions": [
     {
       "id": "1_take6-2077733244620124527-クリエ湘南台",
@@ -77,6 +77,226 @@
       "matsubi": [],
       "note": "明日18日のお品書きに記載",
       "url": "https://x.com/slot_ogikiti/status/2077952983556595772"
+    },
+    {
+      "id": "slot_ogikiti-2078044609541029941-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "BUZZ来店取材。合同機種あり期待。朝イチから積極探索推奨。",
+      "url": "https://x.com/slot_ogikiti/status/2078044609541029941"
+    },
+    {
+      "id": "slot_ogikiti-2078029171541049354-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロトレ調査団ZEUS開催。複数1/2機種期待。幅広い立ち回り推奨。",
+      "url": "https://x.com/slot_ogikiti/status/2078029171541049354"
+    },
+    {
+      "id": "slot_ogikiti-2078028586045595932-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "モンキー"
+      ],
+      "matsubi": [],
+      "note": "8の日×ダントツ取材。モンキー1/2以上が早番特権。朝から狙い目。",
+      "url": "https://x.com/slot_ogikiti/status/2078028586045595932"
+    },
+    {
+      "id": "slot_ogikiti-2078024373576069323-キコーナ戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "喰種",
+        "モンキー",
+        "Lカバネリ",
+        "SBJ",
+        "L炎炎2"
+      ],
+      "matsubi": [],
+      "note": "天草取材開催。4台並び複数、4台以上機種イチ35台。朝イチ『まるごと』探し。",
+      "url": "https://x.com/slot_ogikiti/status/2078024373576069323"
+    },
+    {
+      "id": "slot_ogikiti-2078023595167748418-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "北斗",
+        "モンキー",
+        "喰種"
+      ],
+      "matsubi": [],
+      "note": "創業月間・天草王道。超優秀機種&4台並び起点。4台並び毎回10箇所以上。",
+      "url": "https://x.com/slot_ogikiti/status/2078023595167748418"
+    },
+    {
+      "id": "karasuro_7-2078051648627458141-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "e東京喰種"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "8のつく日BUZZ💘開催。3台並び意識。",
+      "url": "https://x.com/karasuro_7/status/2078051648627458141"
+    },
+    {
+      "id": "karasuro_7-2078048892063785209-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        8
+      ],
+      "note": "パラッツォグループ合同BUZZ💘。全店開催。",
+      "url": "https://x.com/karasuro_7/status/2078048892063785209"
+    },
+    {
+      "id": "karasuro_7-2078047455804096789-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "e東京喰種"
+      ],
+      "matsubi": [],
+      "note": "スロパチ来店取材。6台並び/1BOX意識。",
+      "url": "https://x.com/karasuro_7/status/2078047455804096789"
+    },
+    {
+      "id": "karasuro_7-2078040669457989772-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "e東京喰種"
+      ],
+      "matsubi": [],
+      "note": "スロパチ来店取材。じゃんじゃん実践来店。6台並び/2BOX意識。",
+      "url": "https://x.com/karasuro_7/status/2078040669457989772"
+    },
+    {
+      "id": "karasuro_7-2078035714873471391-スクランブル田谷",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [
+        "e東京喰種"
+      ],
+      "matsubi": [],
+      "note": "創業月間。スロパチガール開催。4台並び意識。",
+      "url": "https://x.com/karasuro_7/status/2078035714873471391"
+    },
+    {
+      "id": "karasuro_7-2078002166460281101-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "オプチャ確定情報リスト掲載店。詳細情報参照。",
+      "url": "https://x.com/karasuro_7/status/2078002166460281101"
+    },
+    {
+      "id": "1_take6-2078046448806134261-グランドホール長後",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "グランドホール長後",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "沖ドキシリーズ"
+      ],
+      "matsubi": [],
+      "note": "とある来店取材。3台並び5箇所以上に注目",
+      "url": "https://x.com/1_take6/status/2078046448806134261"
+    },
+    {
+      "id": "1_take6-2078045037821301188-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "暴凶星",
+        "エヴァシリーズ",
+        "eリゼロ2",
+        "ヴヴヴ2",
+        "東京喰種",
+        "Lカバネリ"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "スロパチガール来店。パチ3列に注目、スロメイン優先",
+      "url": "https://x.com/1_take6/status/2078045037821301188"
+    },
+    {
+      "id": "1_take6-2078044646559875377-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [
+        "ジャグ"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び×5箇所以上に期待",
+      "url": "https://x.com/1_take6/status/2078044646559875377"
     },
     {
       "id": "karasuro_7-2077624993052332393-アビバ湘南台",
