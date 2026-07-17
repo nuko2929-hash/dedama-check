@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T15:28",
-  "count": 835,
+  "generated_at": "2026-07-17T05:29",
+  "count": 841,
   "predictions": [
     {
       "id": "1_take6-2077733244620124527-クリエ湘南台",
@@ -38,6 +38,45 @@
       ],
       "note": "7付く。ドラドラドラ取材。新台・増台機種中心に狙う",
       "url": "https://x.com/1_take6/status/2077715764178788693"
+    },
+    {
+      "id": "slot_ogikiti-2077952983556595772-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日18日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2077952983556595772"
+    },
+    {
+      "id": "slot_ogikiti-2077952983556595772-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日18日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2077952983556595772"
+    },
+    {
+      "id": "slot_ogikiti-2077952983556595772-吉兆東名川崎店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "吉兆東名川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日18日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2077952983556595772"
     },
     {
       "id": "karasuro_7-2077624993052332393-アビバ湘南台",
@@ -553,6 +592,51 @@
       ],
       "note": "いつつ巴。店長ポストから狙いを絞る",
       "url": "https://x.com/1_take6/status/2077351209602797912"
+    },
+    {
+      "id": "slot_ogikiti-2077981633387376945-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-16",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "楽園蒲田の投稿。立川店は記載なし",
+      "url": "https://x.com/slot_ogikiti/status/2077981633387376945"
+    },
+    {
+      "id": "1_take6-2077916593670262978-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-16",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店イベント開催",
+      "url": "https://x.com/1_take6/status/2077916593670262978"
+    },
+    {
+      "id": "1_take6-2077903936703603176-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-16",
+      "target_date": "2026-07-16",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "攻殻機動隊",
+        "ハッピー",
+        "キンハナ"
+      ],
+      "matsubi": [
+        "6"
+      ],
+      "note": "合同機種3つ仕掛け、まるごと狙い目複数",
+      "url": "https://x.com/1_take6/status/2077903936703603176"
     },
     {
       "id": "slot_ogikiti-2076867580242100433-ハイパージアス立川",
