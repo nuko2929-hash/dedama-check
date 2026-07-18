@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T05:02",
-  "count": 898,
+  "generated_at": "2026-07-18T09:40",
+  "count": 907,
   "predictions": [
     {
       "id": "slot_ogikiti-2078314998095634561-エランドール泉",
@@ -14,6 +14,155 @@
       "matsubi": [],
       "note": "明日19日のお品書きに記載。",
       "url": "https://x.com/slot_ogikiti/status/2078314998095634561"
+    },
+    {
+      "id": "slot_ogikiti-2078411612386668787-キコーナ戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "❸⑨感謝の日と真骨超開催。全🌈探し、メイン機種に質良し単品。",
+      "url": "https://x.com/slot_ogikiti/status/2078411612386668787"
+    },
+    {
+      "id": "slot_ogikiti-2078408317320474674-相模大野UNO",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロ増台リニュ後初のライジング来店取材。まるごと🌈は質拘った機種から発動。",
+      "url": "https://x.com/slot_ogikiti/status/2078408317320474674"
+    },
+    {
+      "id": "slot_ogikiti-2078389170523771351-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ミリゴ",
+        "Lカバネリ",
+        "喰種"
+      ],
+      "matsubi": [],
+      "note": "週刊りみっとくん・天草ヤスヲさん来店。ミリゴが1/2以上、全体10%以上最低ライン。",
+      "url": "https://x.com/slot_ogikiti/status/2078389170523771351"
+    },
+    {
+      "id": "karasuro_7-2078414007271350700-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び/複数狙い。毎日仕掛け継続中。",
+      "url": "https://x.com/karasuro_7/status/2078414007271350700"
+    },
+    {
+      "id": "karasuro_7-2078411200099144186-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "相模前線3機種",
+        "GOD",
+        "乙女5",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "スロパチ来店取材。相模原共創MVP。れんじろう実践来店。",
+      "url": "https://x.com/karasuro_7/status/2078411200099144186"
+    },
+    {
+      "id": "karasuro_7-2078360156350664803-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        9
+      ],
+      "note": "明日の神奈川告知リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2078360156350664803"
+    },
+    {
+      "id": "karasuro_7-2078403222625206546-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "Lカバネリ",
+        "東京喰種",
+        "GOD",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "月1スロパチ来店取材。6台並び/3台並び複数。毎日🌈継続。",
+      "url": "https://x.com/karasuro_7/status/2078403222625206546"
+    },
+    {
+      "id": "karasuro_7-2078399325072417055-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "神マルPS開催。全系1機種+機種pick仕掛け。",
+      "url": "https://x.com/karasuro_7/status/2078399325072417055"
+    },
+    {
+      "id": "karasuro_7-2078407397970972755-キコーナ戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "マイV",
+        "沖ゴ",
+        "ネオアイム",
+        "ファンキー",
+        "東京喰種",
+        "モンキーV"
+      ],
+      "matsubi": [
+        9
+      ],
+      "note": "9のつく日。スロパチガール来店初開催。4台並び複数狙い。",
+      "url": "https://x.com/karasuro_7/status/2078407397970972755"
     },
     {
       "id": "1_take6-2077733244620124527-クリエ湘南台",
