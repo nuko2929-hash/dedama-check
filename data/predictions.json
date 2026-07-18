@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-07-17T14:13",
-  "count": 893,
+  "generated_at": "2026-07-18T05:02",
+  "count": 898,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2078314998095634561-エランドール泉",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日19日のお品書きに記載。",
+      "url": "https://x.com/slot_ogikiti/status/2078314998095634561"
+    },
     {
       "id": "1_take6-2077733244620124527-クリエ湘南台",
       "source": "Take6 ホール調査",
@@ -853,6 +866,49 @@
       "url": "https://x.com/1_take6/status/2078062377510330741"
     },
     {
+      "id": "slot_ogikiti-2078086282836877349-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "BUZZ来店取材(6回目)。合同機種の可能性あり",
+      "url": "https://x.com/slot_ogikiti/status/2078086282836877349"
+    },
+    {
+      "id": "slo1_tyousataiZ-2078099927474012638-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "北斗"
+      ],
+      "matsubi": [],
+      "note": "五國同盟合同。合同機種探し、バラ高配分が狙い目",
+      "url": "https://x.com/slo1_tyousataiZ/status/2078099927474012638"
+    },
+    {
+      "id": "slo1_tyousataiZ-2078089619837751418-キコーナ戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-17",
+      "target_date": "2026-07-18",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "月イチ周年日×⑧の日×ビンゴ発動。全台系・並び複数に期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2078089619837751418"
+    },
+    {
       "id": "karasuro_7-2077624993052332393-アビバ湘南台",
       "source": "カラスロ@神奈川",
       "handle": "karasuro_7",
@@ -1103,6 +1159,19 @@
       ],
       "note": "7付く。あいた店長就任日。合計15台以上のまるごと仕掛け",
       "url": "https://x.com/1_take6/status/2077703133044548058"
+    },
+    {
+      "id": "slot_ogikiti-2078339928786862340-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-17",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿対象は楽園蒲田。登録店舗に非該当。",
+      "url": "https://x.com/slot_ogikiti/status/2078339928786862340"
     },
     {
       "id": "slot_ogikiti-2077314662170067298-ハイパージアス立川",
