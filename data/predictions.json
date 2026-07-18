@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T09:40",
-  "count": 907,
+  "generated_at": "2026-07-18T13:57",
+  "count": 919,
   "predictions": [
     {
       "id": "slot_ogikiti-2078314998095634561-エランドール泉",
@@ -163,6 +163,216 @@
       ],
       "note": "9のつく日。スロパチガール来店初開催。4台並び複数狙い。",
       "url": "https://x.com/karasuro_7/status/2078407397970972755"
+    },
+    {
+      "id": "slot_ogikiti-2078451963843534901-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "Sammy機種"
+      ],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "HYPER 3DAYS 2日目。9の日で3台並び探し",
+      "url": "https://x.com/slot_ogikiti/status/2078451963843534901"
+    },
+    {
+      "id": "slot_ogikiti-2078448046992773626-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "Dステ立川のイベント情報が含まれている可能性があるが、投稿内容は蒲田店が主体",
+      "url": "https://x.com/slot_ogikiti/status/2078448046992773626"
+    },
+    {
+      "id": "slot_ogikiti-2078439043596251622-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "マイV",
+        "ネオアイム"
+      ],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "③❾感謝の日、創業月間。Dステ八王子北野だが立川に該当する可能性を検討",
+      "url": "https://x.com/slot_ogikiti/status/2078439043596251622"
+    },
+    {
+      "id": "slo1_tyousataiZ-2078468090065752512-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の関東オススメ店リストに掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2078468090065752512"
+    },
+    {
+      "id": "slo1_tyousataiZ-2078460269895012566-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "喰種",
+        "沖スロ"
+      ],
+      "matsubi": [],
+      "note": "⑨の日「感謝」。マギレコ/三共機種に注目",
+      "url": "https://x.com/slo1_tyousataiZ/status/2078460269895012566"
+    },
+    {
+      "id": "slo1_tyousataiZ-2078461457612890250-楽園渋谷駅前",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "楽園渋谷駅前",
+      "area": null,
+      "machines": [
+        "マギレコ",
+        "真打吉宗"
+      ],
+      "matsubi": [],
+      "note": "③⑨の日「感謝の神アザス」。3台並び×複数に注目",
+      "url": "https://x.com/slo1_tyousataiZ/status/2078461457612890250"
+    },
+    {
+      "id": "1_take6-2078472473096720581-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ジャグシリーズ",
+        "スマスロ"
+      ],
+      "matsubi": [],
+      "note": "初の悪魔のリアル取材。3～6台塊、スマスロ仕掛け期待",
+      "url": "https://x.com/1_take6/status/2078472473096720581"
+    },
+    {
+      "id": "1_take6-2078464862855061793-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "マイジャグ",
+        "ネオアイム",
+        "転生",
+        "北斗"
+      ],
+      "matsubi": [],
+      "note": "とある来店取材。3台並び5箇所、まるごと仕掛け期待",
+      "url": "https://x.com/1_take6/status/2078464862855061793"
+    },
+    {
+      "id": "1_take6-2078463667558023643-スーパーDステーション立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "リコリコ",
+        "無職",
+        "東リべ",
+        "りりかる",
+        "仕事人",
+        "カバネリ",
+        "ジャグ",
+        "GOD",
+        "東京喰種",
+        "牙狼"
+      ],
+      "matsubi": [],
+      "note": "創業月間✖️9の付く日。質高い仕掛け、全16新台導入",
+      "url": "https://x.com/1_take6/status/2078463667558023643"
+    },
+    {
+      "id": "1_take6-2078448236809924809-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "北斗",
+        "リコリコ",
+        "ゆゆゆ",
+        "無職転生",
+        "虚構推理",
+        "東リべ聖夜",
+        "仕事人"
+      ],
+      "matsubi": [],
+      "note": "ドラドラドラ来店取材。新台強化、北斗17台増、リコリコ15台",
+      "url": "https://x.com/1_take6/status/2078448236809924809"
+    },
+    {
+      "id": "1_take6-2078426173449884035-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "ヴヴヴ2",
+        "東京喰種",
+        "Lカバネリ",
+        "マイジャグ",
+        "ネオアイム",
+        "暴凶星",
+        "エヴァシリーズ",
+        "eリゼロ2"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び×13箇所。メインスマスロから狙う。",
+      "url": "https://x.com/1_take6/status/2078426173449884035"
+    },
+    {
+      "id": "1_take6-2078426303704035440-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店。メイン機種から攻める。少数機種からまるごとへ昇格期待。",
+      "url": "https://x.com/1_take6/status/2078426303704035440"
     },
     {
       "id": "1_take6-2077733244620124527-クリエ湘南台",
