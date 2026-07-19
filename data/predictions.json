@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T06:20",
-  "count": 927,
+  "generated_at": "2026-07-19T10:11",
+  "count": 935,
   "predictions": [
     {
       "id": "slot_ogikiti-2078684119870124377-ガーデン戸塚",
@@ -53,6 +53,143 @@
       "matsubi": [],
       "note": "明日の神奈川推奨店リスト掲載",
       "url": "https://x.com/karasuro_7/status/2078718838192169237"
+    },
+    {
+      "id": "slot_ogikiti-2078744771837972988-キコーナ戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "喰種",
+        "ミリゴ"
+      ],
+      "matsubi": [],
+      "note": "⓪の日。3台並び×10箇所。超優秀機種あり。",
+      "url": "https://x.com/slot_ogikiti/status/2078744771837972988"
+    },
+    {
+      "id": "slot_ogikiti-2078753156130103531-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "喰種",
+        "Lカバネリ",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "神奈川合同『新！撃』取材。全体10%以上。3-4台並び複数。",
+      "url": "https://x.com/slot_ogikiti/status/2078753156130103531"
+    },
+    {
+      "id": "slot_ogikiti-2078740172200681635-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "喰種",
+        "攻殻"
+      ],
+      "matsubi": [],
+      "note": "スロトレ『アルマゲドン』。1/2機種複数。3台並び多数。",
+      "url": "https://x.com/slot_ogikiti/status/2078740172200681635"
+    },
+    {
+      "id": "karasuro_7-2078784418651705590-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "GOD",
+        "Lカバネリ",
+        "SAO2",
+        "SBJ",
+        "炎炎2",
+        "攻殻機動隊",
+        "いせかる"
+      ],
+      "matsubi": [],
+      "note": "神奈川ピーアーク合同。1/2以上🌈🦒機種多数。相模大野UNO店と合同仕掛け。",
+      "url": "https://x.com/karasuro_7/status/2078784418651705590"
+    },
+    {
+      "id": "karasuro_7-2078768766910079301-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール＋キングウォッチッチ。四季の森との合同『新！撃』。4台並び意識。",
+      "url": "https://x.com/karasuro_7/status/2078768766910079301"
+    },
+    {
+      "id": "1_take6-2078758457742938249-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "周年月間×⓪の付く日。まるごと・3台並び複数に期待",
+      "url": "https://x.com/1_take6/status/2078758457742938249"
+    },
+    {
+      "id": "1_take6-2078757600607535233-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "ヴヴヴ2",
+        "東京喰種",
+        "Lカバネリ",
+        "マイジャグ",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "3連休。スロパチガール来店。4台並び×13箇所に期待",
+      "url": "https://x.com/1_take6/status/2078757600607535233"
+    },
+    {
+      "id": "1_take6-2078758119090618876-ザシティ相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        0
+      ],
+      "note": "3連休。3×3STAR『サザンスター』対象9機種でビンゴ狙い",
+      "url": "https://x.com/1_take6/status/2078758119090618876"
     },
     {
       "id": "slot_ogikiti-2078314998095634561-エランドール泉",
