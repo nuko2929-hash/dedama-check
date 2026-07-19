@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-07-18T13:57",
-  "count": 919,
+  "generated_at": "2026-07-19T06:20",
+  "count": 927,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2078684119870124377-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2078684119870124377"
+    },
+    {
+      "id": "slot_ogikiti-2078684119870124377-キコーナ戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2078684119870124377"
+    },
+    {
+      "id": "karasuro_7-2078718838192169237-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川推奨店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2078718838192169237"
+    },
+    {
+      "id": "karasuro_7-2078718838192169237-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-20",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川推奨店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2078718838192169237"
+    },
     {
       "id": "slot_ogikiti-2078314998095634561-エランドール泉",
       "source": "荻吉@スロ",
@@ -373,6 +425,19 @@
       "matsubi": [],
       "note": "スロパチガール来店。メイン機種から攻める。少数機種からまるごとへ昇格期待。",
       "url": "https://x.com/1_take6/status/2078426303704035440"
+    },
+    {
+      "id": "slot_ogikiti-2078609375489663266-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-19",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "❽の日。埼玉ガーデン17店舗が8月に向けて動き出す。",
+      "url": "https://x.com/slot_ogikiti/status/2078609375489663266"
     },
     {
       "id": "1_take6-2077733244620124527-クリエ湘南台",
@@ -1531,6 +1596,28 @@
       "matsubi": [],
       "note": "投稿対象は楽園蒲田。登録店舗に非該当。",
       "url": "https://x.com/slot_ogikiti/status/2078339928786862340"
+    },
+    {
+      "id": "slot_ogikiti-2078487395461423169-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-18",
+      "target_date": "2026-07-17",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "真打吉宗",
+        "ファンキー",
+        "喰種",
+        "ネオアイム",
+        "マイV",
+        "からくり2",
+        "SAO2",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "スロトレ調査団『アルマゲドン』。真打吉宗平均+5,668枚。",
+      "url": "https://x.com/slot_ogikiti/status/2078487395461423169"
     },
     {
       "id": "slot_ogikiti-2077314662170067298-ハイパージアス立川",
@@ -3345,6 +3432,35 @@
       "url": "https://x.com/karasuro_7/status/2077180962283327509"
     },
     {
+      "id": "karasuro_7-2078684924807360717-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-12",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "からくり",
+        "バイオRE3",
+        "ライズ",
+        "頭文字D2",
+        "東リベ",
+        "いざ番",
+        "モンキーV",
+        "ウルミラ",
+        "転生",
+        "Lカバネリ",
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [
+        1,
+        2
+      ],
+      "note": "2のつく日。抽選234人。ピン王pick。ダントツ取材",
+      "url": "https://x.com/karasuro_7/status/2078684924807360717"
+    },
+    {
       "id": "slot_ogikiti-2075528301804662928-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -3887,6 +4003,27 @@
       ],
       "note": "抽選105名。まるごと候補6機種、末尾ゾロ目平均+464枚",
       "url": "https://x.com/1_take6/status/2076126385626820966"
+    },
+    {
+      "id": "karasuro_7-2078686603682431381-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-19",
+      "target_date": "2026-07-11",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "番ゼロ",
+        "ネオアイム",
+        "ライズ~いざ番",
+        "エヴァBT",
+        "かぐや様",
+        "いざ番",
+        "L吉宗"
+      ],
+      "matsubi": [],
+      "note": "1のつく日。抽選39人。pick11.8%",
+      "url": "https://x.com/karasuro_7/status/2078686603682431381"
     },
     {
       "id": "slot_ogikiti-2075174733038194946-マルハンメガシティ2000蒲田7",
