@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T14:02",
-  "count": 979,
+  "generated_at": "2026-07-20T05:57",
+  "count": 983,
   "predictions": [
     {
       "id": "slot_ogikiti-2078684119870124377-ガーデン戸塚",
@@ -962,6 +962,45 @@
       "url": "https://x.com/1_take6/status/2078813173801787760"
     },
     {
+      "id": "slot_ogikiti-2079061759634366627-キコーナ戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-20",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗外のため対象外",
+      "url": "https://x.com/slot_ogikiti/status/2079061759634366627"
+    },
+    {
+      "id": "karasuro_7-2079014017490964823-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-20",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "7/20抽選人数255人。オプチャ情報より抽選規模が大きい店として列挙",
+      "url": "https://x.com/karasuro_7/status/2079014017490964823"
+    },
+    {
+      "id": "karasuro_7-2079014017490964823-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-20",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "7/20抽選人数567人。最大規模。オプチャ情報より",
+      "url": "https://x.com/karasuro_7/status/2079014017490964823"
+    },
+    {
       "id": "slot_ogikiti-2078314998095634561-エランドール泉",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -1345,6 +1384,19 @@
       "matsubi": [],
       "note": "❽の日。埼玉ガーデン17店舗が8月に向けて動き出す。",
       "url": "https://x.com/slot_ogikiti/status/2078609375489663266"
+    },
+    {
+      "id": "1_take6-2079023524505878957-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-19",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "共創MVP。スロぱちガール来店取材。抽選467人",
+      "url": "https://x.com/1_take6/status/2079023524505878957"
     },
     {
       "id": "1_take6-2077733244620124527-クリエ湘南台",
