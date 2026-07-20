@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T10:59",
-  "count": 990,
+  "generated_at": "2026-07-20T15:34",
+  "count": 1001,
   "predictions": [
     {
       "id": "karasuro_7-2079157926003200099-相模大野UNO",
@@ -102,6 +102,172 @@
       ],
       "note": "神奈川マルハン共通仕掛け。❶付く日。",
       "url": "https://x.com/1_take6/status/2079148251186614526"
+    },
+    {
+      "id": "slot_ogikiti-2079190869895414219-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "新台入替、四星『水星神』開催",
+      "url": "https://x.com/slot_ogikiti/status/2079190869895414219"
+    },
+    {
+      "id": "slo1_tyousataiZ-2079187307647922563-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "ヤバイラー希少種×①の日×新台入替。全台系探し",
+      "url": "https://x.com/slo1_tyousataiZ/status/2079187307647922563"
+    },
+    {
+      "id": "karasuro_7-2079182782388142174-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "1のつく日雷撃イベント。全系探しから。スロpick10%以上期待",
+      "url": "https://x.com/karasuro_7/status/2079182782388142174"
+    },
+    {
+      "id": "karasuro_7-2079163226676424865-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "沖ゴージャス",
+        "炎炎2",
+        "Lカバネリ",
+        "GOD",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "前回6/21実績。抽選282人。7台並びLカバネリ、4台並びGOD",
+      "url": "https://x.com/karasuro_7/status/2079163226676424865"
+    },
+    {
+      "id": "1_take6-2079173645885411358-ハイパージアス立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "❶の付く日。神奈川マルハン共通まるごと複数仕掛け。ニャンギラス登場。",
+      "url": "https://x.com/1_take6/status/2079173645885411358"
+    },
+    {
+      "id": "1_take6-2079173228405371137-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "北斗",
+        "ジャグラー",
+        "SAO2"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "❶の付く日。ニャンギラス＋熱烈歓迎。ジャグ列仕掛け、まるごと複数。",
+      "url": "https://x.com/1_take6/status/2079173228405371137"
+    },
+    {
+      "id": "1_take6-2079172004088103312-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "東京喰種",
+        "牙狼"
+      ],
+      "matsubi": [],
+      "note": "新装。スロ王来店取材。メイン機種・増台に期待。",
+      "url": "https://x.com/1_take6/status/2079172004088103312"
+    },
+    {
+      "id": "1_take6-2079171633047302390-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "東京喰種"
+      ],
+      "matsubi": [
+        1,
+        2
+      ],
+      "note": "月周年日。1/2仕掛け恒例。まるごと仕掛けに期待。",
+      "url": "https://x.com/1_take6/status/2079171633047302390"
+    },
+    {
+      "id": "1_take6-2079162620372984092-マルハン鶴見",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "マルハン鶴見",
+      "area": null,
+      "machines": [
+        "真打吉宗",
+        "ハナビ",
+        "ウルミラ",
+        "ハッピー",
+        "ガールズ"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "❶の付く日。ニャンギラス。回胴シリーズ。まるごと複数仕掛け。",
+      "url": "https://x.com/1_take6/status/2079162620372984092"
+    },
+    {
+      "id": "1_take6-2079160554388935057-アビバ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        "1"
+      ],
+      "note": "❶の付く日。まるごと・1/2複数仕掛けを意識。メインスマスロからの派手な仕掛けに期待",
+      "url": "https://x.com/1_take6/status/2079160554388935057"
     },
     {
       "id": "slot_ogikiti-2078684119870124377-ガーデン戸塚",
@@ -3841,6 +4007,25 @@
       "matsubi": [],
       "note": "新装取材。北斗増台、リコリコ増台で狙い目推奨",
       "url": "https://x.com/1_take6/status/2076341349457227791"
+    },
+    {
+      "id": "1_take6-2079225071068127682-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-13",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "東リべ",
+        "マギレコ",
+        "炎炎2",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "月周年日。金キノコ出現、金枠・赤枠仕掛け。11機種配信。",
+      "url": "https://x.com/1_take6/status/2079225071068127682"
     },
     {
       "id": "slot_ogikiti-2075779588928753966-ガーデン戸塚",
