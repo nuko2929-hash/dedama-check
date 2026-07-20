@@ -1,7 +1,108 @@
 {
-  "generated_at": "2026-07-20T05:57",
-  "count": 983,
+  "generated_at": "2026-07-20T10:59",
+  "count": 990,
   "predictions": [
+    {
+      "id": "karasuro_7-2079157926003200099-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "1のつく日超キノコ狩り2nd。スロpick10%⤴︎狙える日",
+      "url": "https://x.com/karasuro_7/status/2079157926003200099"
+    },
+    {
+      "id": "karasuro_7-2079157379879592098-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "1のつく日超キノコ狩り2nd。スロpick10%⤴︎狙える日",
+      "url": "https://x.com/karasuro_7/status/2079157379879592098"
+    },
+    {
+      "id": "karasuro_7-2079156772695416848-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "周年月間・新台入替・1のつく日。超キノコ狩り2nd",
+      "url": "https://x.com/karasuro_7/status/2079156772695416848"
+    },
+    {
+      "id": "karasuro_7-2079155639994212530-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "1のつく日ニャンギラス。全系2機種以上がテーマ",
+      "url": "https://x.com/karasuro_7/status/2079155639994212530"
+    },
+    {
+      "id": "karasuro_7-2079103557266284921-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川強化店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2079103557266284921"
+    },
+    {
+      "id": "1_take6-2079152460812464487-ガーデン戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "Sゴーゴージャグラー",
+        "L主役は銭形5",
+        "Lマジカルハロウィン8"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "❶付く日、ジャグラー強化。抽選平均70名。",
+      "url": "https://x.com/1_take6/status/2079152460812464487"
+    },
+    {
+      "id": "1_take6-2079148251186614526-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-20",
+      "target_date": "2026-07-21",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "神奈川マルハン共通仕掛け。❶付く日。",
+      "url": "https://x.com/1_take6/status/2079148251186614526"
+    },
     {
       "id": "slot_ogikiti-2078684119870124377-ガーデン戸塚",
       "source": "荻吉@スロ",
