@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T05:34",
-  "count": 1021,
+  "generated_at": "2026-07-21T10:30",
+  "count": 1029,
   "predictions": [
     {
       "id": "slot_ogikiti-2079430617826296136-ハイパージアス立川",
@@ -235,6 +235,133 @@
       "matsubi": [],
       "note": "明日のお品書き掲載店",
       "url": "https://x.com/slot_ogikiti/status/2079430617826296136"
+    },
+    {
+      "id": "slot_ogikiti-2079509755836670064-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-21",
+      "target_date": "2026-07-22",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "サミー機種"
+      ],
+      "matsubi": [],
+      "note": "ゾロ目×ナマ調で立川No.1。超優秀機種＆1/2機種に注目",
+      "url": "https://x.com/slot_ogikiti/status/2079509755836670064"
+    },
+    {
+      "id": "slot_ogikiti-2079489118632096067-スクランブル田谷",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-21",
+      "target_date": "2026-07-22",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [
+        "東リベ"
+      ],
+      "matsubi": [],
+      "note": "ゾロ目×スロトレ『エニグマ』で赤字営業。東リベが1/2以上",
+      "url": "https://x.com/slot_ogikiti/status/2079489118632096067"
+    },
+    {
+      "id": "slot_ogikiti-2079489118632096067-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-21",
+      "target_date": "2026-07-22",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "東リベ"
+      ],
+      "matsubi": [],
+      "note": "ゾロ目×スロトレ『エニグマ』で赤字営業。東リベが1/2以上",
+      "url": "https://x.com/slot_ogikiti/status/2079489118632096067"
+    },
+    {
+      "id": "slot_ogikiti-2079489986974601460-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-21",
+      "target_date": "2026-07-22",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "乙女5",
+        "マイV",
+        "ネオアイム",
+        "北斗"
+      ],
+      "matsubi": [],
+      "note": "ゾロ目×ハーフテン開催。乙女5が1/2以上で早番特権",
+      "url": "https://x.com/slot_ogikiti/status/2079489986974601460"
+    },
+    {
+      "id": "slot_ogikiti-2079480853735092710-ザシティ相模大野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-21",
+      "target_date": "2026-07-22",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "ゾロ目開催。神奈川の穴場候補として期待",
+      "url": "https://x.com/slot_ogikiti/status/2079480853735092710"
+    },
+    {
+      "id": "karasuro_7-2079507813357727888-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-21",
+      "target_date": "2026-07-22",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "ゾロ目。スロパチ来店取材。6台並び複数、毎日仕掛け継続中。",
+      "url": "https://x.com/karasuro_7/status/2079507813357727888"
+    },
+    {
+      "id": "karasuro_7-2079476614925283584-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-21",
+      "target_date": "2026-07-22",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ",
+        "東リベ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "2のつく日。毎日来たい店。東リベ1/2確定、店内10%以上🌈。",
+      "url": "https://x.com/karasuro_7/status/2079476614925283584"
+    },
+    {
+      "id": "karasuro_7-2079474963900404014-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-21",
+      "target_date": "2026-07-22",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ジャグラーシリーズ",
+        "化物語"
+      ],
+      "matsubi": [],
+      "note": "2のつく日。伝説の刻。並び駆使したロング/全仕掛け期待。",
+      "url": "https://x.com/karasuro_7/status/2079474963900404014"
     },
     {
       "id": "karasuro_7-2079157926003200099-相模大野UNO",
