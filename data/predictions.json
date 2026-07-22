@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-07-22T05:33",
-  "count": 1040,
+  "generated_at": "2026-07-22T10:31",
+  "count": 1042,
   "predictions": [
+    {
+      "id": "karasuro_7-2079864836293550401-エランドール泉",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-22",
+      "target_date": "2026-07-23",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [
+        "ネオアイム",
+        "Lカバネリ",
+        "かぐや様",
+        "新鬼3",
+        "鉄拳6",
+        "乙女4",
+        "東京喰種",
+        "マイV",
+        "ファンキー"
+      ],
+      "matsubi": [],
+      "note": "エラントリプルスター来店取材。3のつく日。過去pick10%~、3台並び複数。",
+      "url": "https://x.com/karasuro_7/status/2079864836293550401"
+    },
+    {
+      "id": "karasuro_7-2079815607172927771-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-22",
+      "target_date": "2026-07-23",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "オプチャ掲載店。詳細は画像参照。",
+      "url": "https://x.com/karasuro_7/status/2079815607172927771"
+    },
     {
       "id": "slot_ogikiti-2079430617826296136-ハイパージアス立川",
       "source": "荻吉@スロ",
