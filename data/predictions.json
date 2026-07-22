@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T14:33",
-  "count": 1039,
+  "generated_at": "2026-07-22T05:33",
+  "count": 1040,
   "predictions": [
     {
       "id": "slot_ogikiti-2079430617826296136-ハイパージアス立川",
@@ -524,6 +524,19 @@
       ],
       "note": "毎月22日4店舗共闘。末尾仕掀が最優先。過去1/2以上の仕掛けあり",
       "url": "https://x.com/1_take6/status/2079519677274096116"
+    },
+    {
+      "id": "slot_ogikiti-2079766549645467935-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-22",
+      "target_date": "2026-07-22",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日23日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2079766549645467935"
     },
     {
       "id": "karasuro_7-2079157926003200099-相模大野UNO",
