@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T10:31",
-  "count": 1042,
+  "generated_at": "2026-07-22T14:34",
+  "count": 1046,
   "predictions": [
     {
       "id": "karasuro_7-2079864836293550401-エランドール泉",
@@ -37,6 +37,70 @@
       "matsubi": [],
       "note": "オプチャ掲載店。詳細は画像参照。",
       "url": "https://x.com/karasuro_7/status/2079815607172927771"
+    },
+    {
+      "id": "slot_ogikiti-2079910295716413746-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-22",
+      "target_date": "2026-07-23",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "喰種&Sammy"
+      ],
+      "matsubi": [],
+      "note": "燦撃取材×サミー全国一斉取材のコラボ開催",
+      "url": "https://x.com/slot_ogikiti/status/2079910295716413746"
+    },
+    {
+      "id": "slot_ogikiti-2079910295716413746-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-22",
+      "target_date": "2026-07-23",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "サミー機種パチンコパチスロ全国一斉取材",
+      "url": "https://x.com/slot_ogikiti/status/2079910295716413746"
+    },
+    {
+      "id": "slot_ogikiti-2079905140036005962-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-22",
+      "target_date": "2026-07-23",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "かぐや様",
+        "無職転生",
+        "リオエース2",
+        "いざ番",
+        "ヴヴヴ2",
+        "シャーマン"
+      ],
+      "matsubi": [],
+      "note": "ニブイチ機種＆超優秀機種を軸に立ち回り推奨",
+      "url": "https://x.com/slot_ogikiti/status/2079905140036005962"
+    },
+    {
+      "id": "1_take6-2079899787902738861-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-22",
+      "target_date": "2026-07-23",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "東京喰種",
+        "牙狼"
+      ],
+      "matsubi": [],
+      "note": "新装3日目。東京喰種増台、牙狼42台に増台。メイン機種優先で狙える環境",
+      "url": "https://x.com/1_take6/status/2079899787902738861"
     },
     {
       "id": "slot_ogikiti-2079430617826296136-ハイパージアス立川",
