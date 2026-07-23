@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T06:23",
-  "count": 1059,
+  "generated_at": "2026-07-23T10:41",
+  "count": 1069,
   "predictions": [
     {
       "id": "slot_ogikiti-2080128738692682083-プレゴ立川店",
@@ -92,6 +92,151 @@
       "matsubi": [],
       "note": "3のつく日。エラントリプルスター来店取材",
       "url": "https://x.com/karasuro_7/status/2080084702623625574"
+    },
+    {
+      "id": "slo1_tyousataiZ-2080241426252861793-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-23",
+      "target_date": "2026-07-24",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "Lカバネリ",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "④の付く日。大都機種強化デー。全台系/ニブイチが軸。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2080241426252861793"
+    },
+    {
+      "id": "slo1_tyousataiZ-2080240034276323578-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-23",
+      "target_date": "2026-07-24",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "L東京喰種39台フラゲ、L真打吉宗5台フラゲ入替。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2080240034276323578"
+    },
+    {
+      "id": "slo1_tyousataiZ-2080239592415101123-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-23",
+      "target_date": "2026-07-24",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "攻殻機動隊",
+        "カフェテラス"
+      ],
+      "matsubi": [],
+      "note": "クロロ調査隊Sハーフセレクション初開催。ニブイチ×5機種以上が軸。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2080239592415101123"
+    },
+    {
+      "id": "slo1_tyousataiZ-2080238778132963819-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-23",
+      "target_date": "2026-07-24",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "過去実績：北斗+1710枚、カラクリ+390枚、ドラハナ+1520枚、マイジャグ+1220枚。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2080238778132963819"
+    },
+    {
+      "id": "slo1_tyousataiZ-2080238253131923636-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-23",
+      "target_date": "2026-07-24",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "過去実績6/24総差+12.2万枚。全台系と配分系の2軸が本線。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2080238253131923636"
+    },
+    {
+      "id": "slo1_tyousataiZ-2080237308172014066-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-23",
+      "target_date": "2026-07-24",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "北斗",
+        "ゴッド",
+        "牙狼"
+      ],
+      "matsubi": [],
+      "note": "④の日×にゃんまる尻尾。末尾を軸に立ち回り。ニブイチ目安。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2080237308172014066"
+    },
+    {
+      "id": "slo1_tyousataiZ-2080236362025050519-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-23",
+      "target_date": "2026-07-24",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "過去6/24実績：12本の4台並び仕掛け。ウルミラ最優先。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2080236362025050519"
+    },
+    {
+      "id": "slo1_tyousataiZ-2080236104964604304-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-23",
+      "target_date": "2026-07-24",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "過去7/17実績：全台系北斗+2240枚、ニブイチ喰種+2710枚。複数並び仕掛け。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2080236104964604304"
+    },
+    {
+      "id": "karasuro_7-2080240722222141521-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-23",
+      "target_date": "2026-07-24",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "AI脳トレ取材。毎日来たい店。GOD・ジャグラーがオススメ。",
+      "url": "https://x.com/karasuro_7/status/2080240722222141521"
+    },
+    {
+      "id": "karasuro_7-2080240659009790353-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-23",
+      "target_date": "2026-07-24",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "AI脳トレ取材。画像生成キーワード連想型の取材企画。",
+      "url": "https://x.com/karasuro_7/status/2080240659009790353"
     },
     {
       "id": "karasuro_7-2079864836293550401-エランドール泉",
