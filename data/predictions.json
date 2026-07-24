@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T05:36",
-  "count": 1095,
+  "generated_at": "2026-07-24T10:25",
+  "count": 1106,
   "predictions": [
     {
       "id": "slot_ogikiti-2080493524655739036-ハイパージアス立川",
@@ -14,6 +14,181 @@
       "matsubi": [],
       "note": "BIGディッパーGO2日目の強化対象店",
       "url": "https://x.com/slot_ogikiti/status/2080493524655739036"
+    },
+    {
+      "id": "slot_ogikiti-2080577035412627659-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "Sammy機種"
+      ],
+      "matsubi": [],
+      "note": "5の日×週末強化。天草取材で立川No.1。直近3連続+10万枚クラス",
+      "url": "https://x.com/slot_ogikiti/status/2080577035412627659"
+    },
+    {
+      "id": "slot_ogikiti-2080571672537805286-楽園立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "転生",
+        "ヴヴヴ2",
+        "喰種",
+        "L炎炎2",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "5の日×週末強化。翠嵐取材。店内10%以上が最低ライン",
+      "url": "https://x.com/slot_ogikiti/status/2080571672537805286"
+    },
+    {
+      "id": "slot_ogikiti-2080563155365777900-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "モンキー",
+        "転生",
+        "Lカバネリ",
+        "炎炎2",
+        "ジャグラー"
+      ],
+      "matsubi": [],
+      "note": "スロパチ来店取材。6台並び探し。週末強化×創業月間",
+      "url": "https://x.com/slot_ogikiti/status/2080563155365777900"
+    },
+    {
+      "id": "slot_ogikiti-2080560565596897617-Dステーション八王子北野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "Dステーション八王子北野",
+      "area": null,
+      "machines": [
+        "喰種",
+        "北斗",
+        "ジャグラー"
+      ],
+      "matsubi": [],
+      "note": "スロパチ来店取材。6台並び意識。週末仕様で内容UP期待",
+      "url": "https://x.com/slot_ogikiti/status/2080560565596897617"
+    },
+    {
+      "id": "karasuro_7-2080600040029245602-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "戦国乙女5",
+        "Lカバネリ",
+        "SAO2",
+        "戦コレ6"
+      ],
+      "matsubi": [],
+      "note": "5のつく日。スロパチ来店取材。S全系仕掛け恒例。",
+      "url": "https://x.com/karasuro_7/status/2080600040029245602"
+    },
+    {
+      "id": "karasuro_7-2080591762834215348-ザシティ相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "真打吉宗"
+      ],
+      "matsubi": [],
+      "note": "最終土曜日ラスサタ応援団。全系機種あり。",
+      "url": "https://x.com/karasuro_7/status/2080591762834215348"
+    },
+    {
+      "id": "karasuro_7-2080599578525745276-スーパーDステーション立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "該当店舗リストあるが投稿内容に立川記載なし",
+      "url": "https://x.com/karasuro_7/status/2080599578525745276"
+    },
+    {
+      "id": "karasuro_7-2080589185967432162-スーパーDステーション立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "北斗",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "創業月間。全店合同スロパチ初日。メイン機種推奨。",
+      "url": "https://x.com/karasuro_7/status/2080589185967432162"
+    },
+    {
+      "id": "karasuro_7-2080560563974021299-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び意識。時差開放あり。",
+      "url": "https://x.com/karasuro_7/status/2080560563974021299"
+    },
+    {
+      "id": "1_take6-2080579756727337200-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び15箇所以上の傾向。メイン機種から攻略。",
+      "url": "https://x.com/1_take6/status/2080579756727337200"
+    },
+    {
+      "id": "1_take6-2080579562271126003-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び13箇所。ヴヴヴ2・東京喰種・Lカバネリが優先。",
+      "url": "https://x.com/1_take6/status/2080579562271126003"
     },
     {
       "id": "slot_ogikiti-2080128738692682083-プレゴ立川店",
