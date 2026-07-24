@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-07-23T14:41",
-  "count": 1092,
+  "generated_at": "2026-07-24T05:36",
+  "count": 1095,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2080493524655739036-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-25",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "BIGディッパーGO2日目の強化対象店",
+      "url": "https://x.com/slot_ogikiti/status/2080493524655739036"
+    },
     {
       "id": "slot_ogikiti-2080128738692682083-プレゴ立川店",
       "source": "荻吉@スロ",
@@ -564,6 +577,31 @@
       ],
       "note": "毎月24日。1/2仕掛けに注目。孤軍奮闘取材",
       "url": "https://x.com/1_take6/status/2080261690902598013"
+    },
+    {
+      "id": "slot_ogikiti-2080491674279776490-マルハン入間",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-24",
+      "target_date": "2026-07-24",
+      "store": "マルハン入間",
+      "area": null,
+      "machines": [
+        "真打吉宗",
+        "吉宗",
+        "ゴージャグ",
+        "喰種",
+        "Lカバネリ",
+        "沖ドキB",
+        "ToLOVEる",
+        "乙女4",
+        "乙女5",
+        "マイV",
+        "ファンキー"
+      ],
+      "matsubi": [],
+      "note": "新台入替で総差枚+18,300枚。喰種5台並びで平均+7,580枚",
+      "url": "https://x.com/slot_ogikiti/status/2080491674279776490"
     },
     {
       "id": "karasuro_7-2079864836293550401-エランドール泉",
@@ -1286,6 +1324,37 @@
       "matsubi": [],
       "note": "登録店舗外のため対象外",
       "url": "https://x.com/slot_ogikiti/status/2080114266729066934"
+    },
+    {
+      "id": "slot_ogikiti-2080307694817427596-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-23",
+      "target_date": "2026-07-22",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "真打吉宗",
+        "戦国乙女4",
+        "ホウオウ",
+        "モンハン",
+        "Lカバネリ",
+        "ドラハナ",
+        "ローティス",
+        "乙女5",
+        "マイV",
+        "喰種",
+        "からくり2",
+        "北斗",
+        "化物語",
+        "鉄拳6",
+        "モンキーV"
+      ],
+      "matsubi": [
+        0
+      ],
+      "note": "★4評価。総差枚+163,759枚。喰種&Sammy機種の並び推奨",
+      "url": "https://x.com/slot_ogikiti/status/2080307694817427596"
     },
     {
       "id": "karasuro_7-2079157926003200099-相模大野UNO",
