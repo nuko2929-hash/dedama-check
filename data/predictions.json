@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T09:55",
-  "count": 1146,
+  "generated_at": "2026-07-25T14:11",
+  "count": 1155,
   "predictions": [
     {
       "id": "slot_ogikiti-2080864817515278368-ガーデン戸塚",
@@ -228,6 +228,160 @@
       "matsubi": [],
       "note": "登録店舗但し投稿内に具体的な推奨記載なし",
       "url": "https://x.com/1_take6/status/2080943298374725933"
+    },
+    {
+      "id": "slo1_tyousataiZ-2080998938069418265-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [],
+      "matsubi": [],
+      "note": "⑥の日。6台以上並び×複数、Lカバネリ注目",
+      "url": "https://x.com/slo1_tyousataiZ/status/2080998938069418265"
+    },
+    {
+      "id": "slo1_tyousataiZ-2080973412613370313-楽園渋谷駅前",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "楽園渋谷駅前",
+      "area": null,
+      "machines": [],
+      "matsubi": [
+        6
+      ],
+      "note": "⑥の日。据え置き/Lカバネリ注目、ドル箱乙女5",
+      "url": "https://x.com/slo1_tyousataiZ/status/2080973412613370313"
+    },
+    {
+      "id": "karasuro_7-2081002770967245178-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "モンハン",
+        "ジャグラーシリーズ",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "月周年日。マジか‼︎取材再臨。1/2以上確定のモンハン最優先",
+      "url": "https://x.com/karasuro_7/status/2081002770967245178"
+    },
+    {
+      "id": "karasuro_7-2080970473425469521-エランドール泉",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ",
+        "Lカバネリ"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "6のつく日。スロパチガール来店。過去実績から超鉄板",
+      "url": "https://x.com/karasuro_7/status/2080970473425469521"
+    },
+    {
+      "id": "1_take6-2081007143373922308-ガーデン戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "モンハンライズ",
+        "マジか!!",
+        "Lカバネリ",
+        "ジャグ"
+      ],
+      "matsubi": [],
+      "note": "月周年日。ヤスヲ先生来店。1/2仕掛け複数、10台以上機種からまるごと",
+      "url": "https://x.com/1_take6/status/2081007143373922308"
+    },
+    {
+      "id": "1_take6-2080974078438174984-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "乙女5",
+        "からくり",
+        "GOD",
+        "鬼武者",
+        "ローティス",
+        "北斗転生",
+        "吉宗",
+        "ヤバチバ"
+      ],
+      "matsubi": [],
+      "note": "日曜日。破天荒来店取材。東京喰種/乙女5合計30台が仕掛け濃厚",
+      "url": "https://x.com/1_take6/status/2080974078438174984"
+    },
+    {
+      "id": "1_take6-2080972632279912891-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "東京喰種",
+        "牙狼"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "6の付く日。ドラドラドラ来店取材。増台機種中心に狙える",
+      "url": "https://x.com/1_take6/status/2080972632279912891"
+    },
+    {
+      "id": "1_take6-2080969745411801371-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "サムライブルー",
+        "蒼侍",
+        "新鬼3"
+      ],
+      "matsubi": [],
+      "note": "神奈川ピーアーク系列共闘。合同1/2機種、Sammy機種から1/2仕掛け",
+      "url": "https://x.com/1_take6/status/2080969745411801371"
+    },
+    {
+      "id": "1_take6-2080963676295639130-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "いつつ巴"
+      ],
+      "matsubi": [],
+      "note": "月周年日(26日)。熱烈歓迎での列仕掛け。スロパチステーション取材。",
+      "url": "https://x.com/1_take6/status/2080963676295639130"
     },
     {
       "id": "slot_ogikiti-2080493524655739036-ハイパージアス立川",
