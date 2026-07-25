@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-07-24T14:21",
-  "count": 1126,
+  "generated_at": "2026-07-25T05:28",
+  "count": 1135,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2080864817515278368-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2080864817515278368"
+    },
+    {
+      "id": "karasuro_7-2080870451799322935-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川明日の推奨店リストに掲載",
+      "url": "https://x.com/karasuro_7/status/2080870451799322935"
+    },
+    {
+      "id": "karasuro_7-2080870451799322935-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-26",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川明日の推奨店リストに掲載",
+      "url": "https://x.com/karasuro_7/status/2080870451799322935"
+    },
     {
       "id": "slot_ogikiti-2080493524655739036-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -514,6 +553,58 @@
       ],
       "note": "5の付く日×週末。5連仕掛け中心。ブレイクキングスロット参加。",
       "url": "https://x.com/1_take6/status/2080604242537238704"
+    },
+    {
+      "id": "karasuro_7-2080816199542477199-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-25",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "抽選人数557人で最多掲載",
+      "url": "https://x.com/karasuro_7/status/2080816199542477199"
+    },
+    {
+      "id": "karasuro_7-2080816199542477199-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-25",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "抽選人数150人で掲載",
+      "url": "https://x.com/karasuro_7/status/2080816199542477199"
+    },
+    {
+      "id": "karasuro_7-2080816199542477199-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-25",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "抽選人数111人で掲載",
+      "url": "https://x.com/karasuro_7/status/2080816199542477199"
+    },
+    {
+      "id": "karasuro_7-2080816199542477199-プレイスポットドラゴン川崎店",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-25",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "抽選人数266人で掲載",
+      "url": "https://x.com/karasuro_7/status/2080816199542477199"
     },
     {
       "id": "slot_ogikiti-2080128738692682083-プレゴ立川店",
@@ -3518,6 +3609,49 @@
       "matsubi": [],
       "note": "共創MVP。スロぱちガール来店取材。抽選467人",
       "url": "https://x.com/1_take6/status/2079023524505878957"
+    },
+    {
+      "id": "1_take6-2080874925166919998-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-19",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "並行演算",
+        "バイオRE3",
+        "バイオ5",
+        "ネオアイム",
+        "ゴージャグ",
+        "ガールズ"
+      ],
+      "matsubi": [],
+      "note": "日曜日、抽選30名。3台並びとまるごと仕掛けで狙い目",
+      "url": "https://x.com/1_take6/status/2080874925166919998"
+    },
+    {
+      "id": "1_take6-2080874406499229742-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-25",
+      "target_date": "2026-07-19",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "乙女5",
+        "東京喰種",
+        "戦コレ6",
+        "マイジャグ",
+        "化物語",
+        "かぐや様",
+        "ヴヴヴ2",
+        "ゴッドイーター",
+        "アズレン"
+      ],
+      "matsubi": [],
+      "note": "月周年日、スロパチガール来店。総差枚+32,200枚、乙女5金キノコ",
+      "url": "https://x.com/1_take6/status/2080874406499229742"
     },
     {
       "id": "1_take6-2077733244620124527-クリエ湘南台",
