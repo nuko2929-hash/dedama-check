@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T11:32",
-  "count": 1212,
+  "generated_at": "2026-07-27T15:23",
+  "count": 1235,
   "predictions": [
     {
       "id": "slot_ogikiti-2081599976657092644-ガーデン戸塚",
@@ -242,6 +242,368 @@
       "matsubi": [],
       "note": "AI店長ツイート。パチンコが主役。リコリコ/暴凶星/炎炎推奨",
       "url": "https://x.com/1_take6/status/2081692863969300567"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081736969655349590-パラッツォ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "北斗シリーズ",
+        "喰種シリーズ",
+        "マンキンシリーズ",
+        "ジャグシリーズ"
+      ],
+      "matsubi": [],
+      "note": "⑧のつく日。全体強化で推し機種配分UP期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081736969655349590"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081719531052175685-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "回胴の英雄対象機種"
+      ],
+      "matsubi": [],
+      "note": "回胴の英雄開催。メイン機種優先、ジャグ高配分に注目。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081719531052175685"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081718408484446493-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "ゴージャグ",
+        "炎炎2",
+        "東京喰種",
+        "サミー機種"
+      ],
+      "matsubi": [],
+      "note": "熱烈歓迎×⑧の日。列全/列ニブイチ、全台系に期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081718408484446493"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081718055647035549-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "⑧の日。全台系/ニブイチ/並び期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081718055647035549"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081717192945479766-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "木場グランドOープン記念Wわっしょい10DAYS5日目。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081717192945479766"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081716523455119676-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "喰種",
+        "からサー2",
+        "北斗",
+        "北斗転生",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [],
+      "note": "バチバチウィーク×やっちゃんさん来店。超優秀台/演者寄せ期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081716523455119676"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081716227307946457-パラッツォ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "からサー2",
+        "乙女5",
+        "Lカバネリ",
+        "ヴヴヴ2",
+        "GOD",
+        "ライズ",
+        "喰種",
+        "新鬼3",
+        "ジャグガ"
+      ],
+      "matsubi": [],
+      "note": "⑧の日×BINGO8。ビンゴ機種最優先。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081716227307946457"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081712264407924886-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "月イチ系・⑧の日開催店舗のリスト掲載。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081712264407924886"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081710498681135562-ザシティ相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑧の日×バチバチ賞品入荷。全台系×複数、山佐機種に注目。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081710498681135562"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081710169155903801-ザシティ相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "マイジャグ"
+      ],
+      "matsubi": [],
+      "note": "バチバチくん×パセリ取材。マイジャグ高配分期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081710169155903801"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081709826141532288-ザシティ相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "リコリコ",
+        "ブルーロック"
+      ],
+      "matsubi": [],
+      "note": "オススメ機種更新。店長ポスト示唆確認必須。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081709826141532288"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081709558670692822-ザシティ相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "沖ドキblack",
+        "アズレン"
+      ],
+      "matsubi": [],
+      "note": "新台入替。3台並び複数、増台機種に注目。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081709558670692822"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081708630911701189-ガーデン戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "喰種",
+        "GOD",
+        "Lカバネリ",
+        "北斗転生",
+        "炎炎2",
+        "乙女5",
+        "真打吉宗",
+        "モンキー",
+        "マンキン"
+      ],
+      "matsubi": [],
+      "note": "庭の日。全台系/列仕掛け、喰種は増台で特に◎。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081708630911701189"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081707508239106244-ザシティ相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "ミリオンゴッド"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "⑧の日=にゃんまるバック。末尾⑧を軸に立ち回り。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081707508239106244"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081705492544639280-パラッツォ三郷中央",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "パラッツォ三郷中央",
+      "area": null,
+      "machines": [
+        "ウルトラマンティガ",
+        "東京喰種",
+        "ゴッド",
+        "牙狼",
+        "喰種"
+      ],
+      "matsubi": [],
+      "note": "競合バチバチシン特定日×ワロスさん来店。8にまつわる仕掛けに注目。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081705492544639280"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081705199492645121-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "エヴァ15"
+      ],
+      "matsubi": [],
+      "note": "神マルPS×湘南Wタッグ。スロット時差解放で全体ベースアップ期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081705199492645121"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081704899675643968-ザシティ相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "沖海6",
+        "牙狼"
+      ],
+      "matsubi": [],
+      "note": "新台入替×あいみん取材。特定機種配分仕掛け期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081704899675643968"
+    },
+    {
+      "id": "slo1_tyousataiZ-2081704326032941262-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "⑧の日×インフィニティ取材。全台系/ニブイチ/並び、スロ全体15%UP期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2081704326032941262"
+    },
+    {
+      "id": "karasuro_7-2081718086861029709-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        8
+      ],
+      "note": "8のつく日強化。旧イベ時の仕掛けラインナップ良好",
+      "url": "https://x.com/karasuro_7/status/2081718086861029709"
+    },
+    {
+      "id": "karasuro_7-2081718078526894377-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [
+        8
+      ],
+      "note": "8のつく日。毎日来たい店テーマ。毎日虹あり継続中",
+      "url": "https://x.com/karasuro_7/status/2081718078526894377"
+    },
+    {
+      "id": "karasuro_7-2081718051922464967-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        8
+      ],
+      "note": "8のつく日。28日は特に別格の強さ。派手な仕掛け期待",
+      "url": "https://x.com/karasuro_7/status/2081718051922464967"
+    },
+    {
+      "id": "1_take6-2081707508452806671-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        28
+      ],
+      "note": "月周年日。まるごと仕掛け等複数仕掛け期待",
+      "url": "https://x.com/1_take6/status/2081707508452806671"
     },
     {
       "id": "slot_ogikiti-2081226426716741892-スーパーDステーション立川",
@@ -745,6 +1107,19 @@
       ],
       "note": "新台入替・❼の日・一喝取材。山佐機種装飾変更で9台以上設置が狙い目",
       "url": "https://x.com/slot_ogikiti/status/2081390183904325633"
+    },
+    {
+      "id": "1_take6-2081751826643493282-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-27",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "店舗名は登録外のため除外",
+      "url": "https://x.com/1_take6/status/2081751826643493282"
     },
     {
       "id": "slot_ogikiti-2080864817515278368-ガーデン戸塚",
