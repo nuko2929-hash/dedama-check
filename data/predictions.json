@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-07-26T14:08",
-  "count": 1196,
+  "generated_at": "2026-07-27T06:06",
+  "count": 1203,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2081599976657092644-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2081599976657092644"
+    },
+    {
+      "id": "slot_ogikiti-2081599976657092644-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2081599976657092644"
+    },
+    {
+      "id": "karasuro_7-2081610700833861772-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャ推奨店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2081610700833861772"
+    },
+    {
+      "id": "karasuro_7-2081610700833861772-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャ推奨店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2081610700833861772"
+    },
     {
       "id": "slot_ogikiti-2081226426716741892-スーパーDステーション立川",
       "source": "荻吉@スロ",
@@ -486,6 +538,24 @@
       ],
       "note": "7の付く日、あいた店長就任日。合計15台以上のまるごと仕掛け",
       "url": "https://x.com/1_take6/status/2081335332382069226"
+    },
+    {
+      "id": "slot_ogikiti-2081390183904325633-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-26",
+      "target_date": "2026-07-27",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "山佐機種"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "新台入替・❼の日・一喝取材。山佐機種装飾変更で9台以上設置が狙い目",
+      "url": "https://x.com/slot_ogikiti/status/2081390183904325633"
     },
     {
       "id": "slot_ogikiti-2080864817515278368-ガーデン戸塚",
@@ -2941,6 +3011,21 @@
       "url": "https://x.com/slot_ogikiti/status/2080307694817427596"
     },
     {
+      "id": "karasuro_7-2081578936321097783-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-22",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        2
+      ],
+      "note": "2のつく日取材。全系候補等複数機種推奨",
+      "url": "https://x.com/karasuro_7/status/2081578936321097783"
+    },
+    {
       "id": "karasuro_7-2079157926003200099-相模大野UNO",
       "source": "カラスロ@神奈川",
       "handle": "karasuro_7",
@@ -3206,6 +3291,21 @@
       ],
       "note": "❶の付く日。まるごと・1/2複数仕掛けを意識。メインスマスロからの派手な仕掛けに期待",
       "url": "https://x.com/1_take6/status/2079160554388935057"
+    },
+    {
+      "id": "karasuro_7-2081578207078482134-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-27",
+      "target_date": "2026-07-21",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "1のつく日取材。全系乙女5候補等推奨",
+      "url": "https://x.com/karasuro_7/status/2081578207078482134"
     },
     {
       "id": "slot_ogikiti-2078684119870124377-ガーデン戸塚",
