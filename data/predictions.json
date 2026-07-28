@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T10:42",
-  "count": 1248,
+  "generated_at": "2026-07-28T14:59",
+  "count": 1259,
   "predictions": [
     {
       "id": "slot_ogikiti-2081949801500061884-スーパーDステーション立川",
@@ -219,6 +219,244 @@
       "matsubi": [],
       "note": "新装3日目。スロ王取材。新台・メイン機種優先。",
       "url": "https://x.com/1_take6/status/2082044004250869864"
+    },
+    {
+      "id": "slot_ogikiti-2082086792728334438-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "北斗"
+      ],
+      "matsubi": [],
+      "note": "肉の日。近隣対抗日。東京喰種装飾変更。",
+      "url": "https://x.com/slot_ogikiti/status/2082086792728334438"
+    },
+    {
+      "id": "slot_ogikiti-2082079514457493882-マルハン八王子四谷",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "マルハン八王子四谷",
+      "area": null,
+      "machines": [
+        "ゴージャグ",
+        "ネオアイム",
+        "マイV",
+        "ヴヴヴ2",
+        "かぐや様",
+        "モンキー",
+        "転生",
+        "SBJ",
+        "喰種",
+        "北斗",
+        "モンハン",
+        "バイオRE3",
+        "新鬼武者3",
+        "真打吉宗",
+        "L炎炎2",
+        "ミラクル",
+        "ハッピー",
+        "乙女5",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "BIG THANK YOU。回胴の英雄3days(2日目)。",
+      "url": "https://x.com/slot_ogikiti/status/2082079514457493882"
+    },
+    {
+      "id": "slot_ogikiti-2082077514164527244-マルハン亀有",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "マルハン亀有",
+      "area": null,
+      "machines": [
+        "喰種",
+        "北斗",
+        "マイV",
+        "SLカバネリ",
+        "モンハン",
+        "ファンキー",
+        "ミリゴ",
+        "Lカバネリ",
+        "転生",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [
+        2,
+        9,
+        29
+      ],
+      "note": "肉の日。末尾㉙は別格。Sammy機種に高配分。",
+      "url": "https://x.com/slot_ogikiti/status/2082077514164527244"
+    },
+    {
+      "id": "slot_ogikiti-2082074914493010018-マルハンメガシティ東大和",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "マルハンメガシティ東大和",
+      "area": null,
+      "machines": [
+        "ミリゴ",
+        "喰種",
+        "防振り",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [],
+      "note": "大和の日。+10万枚クラスに期待。少数台×複数パターン。",
+      "url": "https://x.com/slot_ogikiti/status/2082074914493010018"
+    },
+    {
+      "id": "slot_ogikiti-2082070926871642215-マルハンメガシティ柏",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "マルハンメガシティ柏",
+      "area": null,
+      "machines": [
+        "Lカバネリ",
+        "喰種",
+        "マイV",
+        "からくり2",
+        "シャーマン",
+        "新鬼3",
+        "ファンキー",
+        "ミリゴ",
+        "ヴヴヴ2",
+        "マギレコ",
+        "モンキー",
+        "かぐや様",
+        "ToLOVEるTR",
+        "SAO2",
+        "レールガン2",
+        "ヴヴヴ",
+        "ゴー",
+        "乙女5",
+        "いざ番",
+        "L炎炎2",
+        "Lハナビ",
+        "ミスター",
+        "イーター",
+        "ネオアイム"
+      ],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "周年月間。BIG THANK YOU。3台並び狙い。",
+      "url": "https://x.com/slot_ogikiti/status/2082070926871642215"
+    },
+    {
+      "id": "slot_ogikiti-2082070259151114656-マルハン池袋",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "マルハン池袋",
+      "area": null,
+      "machines": [
+        "無職転生",
+        "L炎炎2",
+        "喰種",
+        "転生",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "BIG THANK YOU。③⑨の日。3台並び20本以上。肉関連寄せ。",
+      "url": "https://x.com/slot_ogikiti/status/2082070259151114656"
+    },
+    {
+      "id": "slot_ogikiti-2082061846807490587-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "③⑨感謝の日。創業月間。抽選20-30人でドリラー向き。",
+      "url": "https://x.com/slot_ogikiti/status/2082061846807490587"
+    },
+    {
+      "id": "slot_ogikiti-2082055849577734497-ピーアーク相模大野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "楽園蒲田の肉の日・超トロフィー狩りで店舗違い該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2082055849577734497"
+    },
+    {
+      "id": "slo1_tyousataiZ-2082076571637367011-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "モンハン",
+        "吉宗",
+        "アニマルドッチ",
+        "マギレコ",
+        "ヴヴヴ",
+        "炎炎2"
+      ],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "肉の日×太陽神取材。全台系/配分系/3台並び軸。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2082076571637367011"
+    },
+    {
+      "id": "slo1_tyousataiZ-2082080861512741261-スーパーDステーション立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗一覧に掲載されている。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2082080861512741261"
+    },
+    {
+      "id": "1_take6-2082083816907452843-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "近隣対抗。質の良いまるごと/1/2仕掛け×8箇所を指標に立ち回る",
+      "url": "https://x.com/1_take6/status/2082083816907452843"
     },
     {
       "id": "slot_ogikiti-2081599976657092644-ガーデン戸塚",
