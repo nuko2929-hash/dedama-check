@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-07-27T15:23",
-  "count": 1235,
+  "generated_at": "2026-07-28T05:29",
+  "count": 1236,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2081949801500061884-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2081949801500061884"
+    },
     {
       "id": "slot_ogikiti-2081599976657092644-ガーデン戸塚",
       "source": "荻吉@スロ",
