@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T05:29",
-  "count": 1236,
+  "generated_at": "2026-07-28T10:42",
+  "count": 1248,
   "predictions": [
     {
       "id": "slot_ogikiti-2081949801500061884-スーパーDステーション立川",
@@ -14,6 +14,211 @@
       "matsubi": [],
       "note": "明日のお品書きに掲載",
       "url": "https://x.com/slot_ogikiti/status/2081949801500061884"
+    },
+    {
+      "id": "slot_ogikiti-2082049873919312340-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "乙女5",
+        "からくり2",
+        "SAO2",
+        "ヴヴヴ2",
+        "真打吉宗"
+      ],
+      "matsubi": [],
+      "note": "肉の日×ゲンキー来店。6機種から機種イチ狙い。複数単品も期待。",
+      "url": "https://x.com/slot_ogikiti/status/2082049873919312340"
+    },
+    {
+      "id": "slot_ogikiti-2082031465857183822-ザシティ相模大野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "とある来店取材。極上至極など4機種が目玉。質の高い仕掛け。",
+      "url": "https://x.com/slot_ogikiti/status/2082031465857183822"
+    },
+    {
+      "id": "slot_ogikiti-2082023469953503427-ザシティ相模大野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        16,
+        39,
+        93
+      ],
+      "note": "スロトレLAST CODE開催。777番台と末尾仕掛けが鉄板。複数単品。",
+      "url": "https://x.com/slot_ogikiti/status/2082023469953503427"
+    },
+    {
+      "id": "slot_ogikiti-2082017873661468874-楽園渋谷駅前",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "楽園渋谷駅前",
+      "area": null,
+      "machines": [],
+      "matsubi": [],
+      "note": "肉の日×真骨超初開催。まるごと機種探しから。単品多数期待。",
+      "url": "https://x.com/slot_ogikiti/status/2082017873661468874"
+    },
+    {
+      "id": "slot_ogikiti-2082006344597643553-楽園町田",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "楽園町田",
+      "area": null,
+      "machines": [
+        "モンハン",
+        "サミー",
+        "マイV",
+        "喰種"
+      ],
+      "matsubi": [],
+      "note": "肉の日×四星開催。肉関連機種優先。ジャグ20%以上。3台並び5箇所。",
+      "url": "https://x.com/slot_ogikiti/status/2082006344597643553"
+    },
+    {
+      "id": "slot_ogikiti-2082004993146790377-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "L炎炎2",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "庭の日翌日スロトレ。L炎炎21/2以上。肉の日サミー系優先。",
+      "url": "https://x.com/slot_ogikiti/status/2082004993146790377"
+    },
+    {
+      "id": "karasuro_7-2082046361760125345-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "共闘NEXT",
+        "キングウォッチッチ",
+        "東京喰種",
+        "Lカバネリ",
+        "ミリゴ"
+      ],
+      "matsubi": [],
+      "note": "都内&神奈川ピーアーク2店舗共闘。全系複数、1/2機種8以上。",
+      "url": "https://x.com/karasuro_7/status/2082046361760125345"
+    },
+    {
+      "id": "karasuro_7-2082013841920291087-ピーアーク相模原",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "ピーアーク相模原",
+      "area": null,
+      "machines": [
+        "相模前線",
+        "GOD",
+        "東京喰種",
+        "からくり1",
+        "からくり2",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "月周年日。スロパチ来店取材で全仕掛け恒例。6台並び過去実績。",
+      "url": "https://x.com/karasuro_7/status/2082013841920291087"
+    },
+    {
+      "id": "karasuro_7-2081988123488383450-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "神奈川マルハン2店舗オリイベ。茅ヶ崎は神マル2連戦2日目。",
+      "url": "https://x.com/karasuro_7/status/2081988123488383450"
+    },
+    {
+      "id": "1_take6-2082053692447174739-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        29
+      ],
+      "note": "湘南Wタッグ取材。Sammy機種優先で狙う。",
+      "url": "https://x.com/1_take6/status/2082053692447174739"
+    },
+    {
+      "id": "1_take6-2082047817284231629-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "北斗",
+        "ヴヴヴ",
+        "カバネリ",
+        "モンキー",
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [
+        9
+      ],
+      "note": "覇王のリアル。1/2～1/4配分の機種から狙う。",
+      "url": "https://x.com/1_take6/status/2082047817284231629"
+    },
+    {
+      "id": "1_take6-2082044004250869864-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-28",
+      "target_date": "2026-07-29",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "東京喰種",
+        "GOD",
+        "リコリコ"
+      ],
+      "matsubi": [],
+      "note": "新装3日目。スロ王取材。新台・メイン機種優先。",
+      "url": "https://x.com/1_take6/status/2082044004250869864"
     },
     {
       "id": "slot_ogikiti-2081599976657092644-ガーデン戸塚",
