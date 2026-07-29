@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T10:59",
-  "count": 1265,
+  "generated_at": "2026-07-29T14:40",
+  "count": 1268,
   "predictions": [
     {
       "id": "karasuro_7-2082348659543580709-ピーアーク相模大野",
@@ -72,6 +72,19 @@
       "matsubi": [],
       "note": "明日の神奈川推奨店リストに記載",
       "url": "https://x.com/karasuro_7/status/2082373710154199435"
+    },
+    {
+      "id": "karasuro_7-2082460484566212687-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-29",
+      "target_date": "2026-07-30",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "AI脳トレ取材。毎日来たい店企画。",
+      "url": "https://x.com/karasuro_7/status/2082460484566212687"
     },
     {
       "id": "slot_ogikiti-2081949801500061884-スーパーDステーション立川",
@@ -528,6 +541,25 @@
       "matsubi": [],
       "note": "近隣対抗。質の良いまるごと/1/2仕掛け×8箇所を指標に立ち回る",
       "url": "https://x.com/1_take6/status/2082083816907452843"
+    },
+    {
+      "id": "1_take6-2082448378068447253-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-29",
+      "target_date": "2026-07-29",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "からくり2",
+        "戦コレ6",
+        "東京喰種",
+        "Lカバネリ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "緊急取材。新台やメイン機種から狙える。並び/列の法則に注目",
+      "url": "https://x.com/1_take6/status/2082448378068447253"
     },
     {
       "id": "slot_ogikiti-2081599976657092644-ガーデン戸塚",
@@ -4397,6 +4429,28 @@
       ],
       "note": "1のつく日取材。全系乙女5候補等推奨",
       "url": "https://x.com/karasuro_7/status/2081578207078482134"
+    },
+    {
+      "id": "karasuro_7-2082473642215211353-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-29",
+      "target_date": "2026-07-21",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "乙女5",
+        "サンダーBT",
+        "エヴァBT",
+        "アレックスBT",
+        "ネオアイム",
+        "Lカバネリ"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "超キノコ狩り2nd開催。全系乙女5。複数機種全台。",
+      "url": "https://x.com/karasuro_7/status/2082473642215211353"
     },
     {
       "id": "slot_ogikiti-2078684119870124377-ガーデン戸塚",
