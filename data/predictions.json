@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-07-28T14:59",
-  "count": 1259,
+  "generated_at": "2026-07-29T06:19",
+  "count": 1262,
   "predictions": [
+    {
+      "id": "karasuro_7-2082348659543580709-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-29",
+      "target_date": "2026-07-30",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "月周年日。スロパチ来店取材でS強化",
+      "url": "https://x.com/karasuro_7/status/2082348659543580709"
+    },
+    {
+      "id": "karasuro_7-2082348641772339228-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-29",
+      "target_date": "2026-07-30",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "都内神奈川ピーアーク2店舗共闘。ピン王コラボS全体強化",
+      "url": "https://x.com/karasuro_7/status/2082348641772339228"
+    },
     {
       "id": "slot_ogikiti-2081949801500061884-スーパーDステーション立川",
       "source": "荻吉@スロ",
@@ -6673,6 +6699,26 @@
       ],
       "note": "パラッツォグループ合同BUZZ。GOD合同全。勝率57.8%",
       "url": "https://x.com/karasuro_7/status/2079414316537913641"
+    },
+    {
+      "id": "karasuro_7-2082348498297786825-スクランブル田谷",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-29",
+      "target_date": "2026-07-18",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [
+        "Lカバネリ",
+        "化物語",
+        "ネオプラ~サラ鏡",
+        "東京喰種",
+        "ネオアイム",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "創業月間。スロパチガール来店S。4台並び結果",
+      "url": "https://x.com/karasuro_7/status/2082348498297786825"
     },
     {
       "id": "karasuro_7-2077624993052332393-アビバ湘南台",
