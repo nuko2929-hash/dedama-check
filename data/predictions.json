@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T06:19",
-  "count": 1262,
+  "generated_at": "2026-07-29T10:59",
+  "count": 1265,
   "predictions": [
     {
       "id": "karasuro_7-2082348659543580709-ピーアーク相模大野",
@@ -27,6 +27,51 @@
       "matsubi": [],
       "note": "都内神奈川ピーアーク2店舗共闘。ピン王コラボS全体強化",
       "url": "https://x.com/karasuro_7/status/2082348641772339228"
+    },
+    {
+      "id": "karasuro_7-2082408096283136254-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-29",
+      "target_date": "2026-07-30",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "AI脳トレ仕掛け。防振り/乙女/ウルミラ/ゴージャグ等の仕掛けあり",
+      "url": "https://x.com/karasuro_7/status/2082408096283136254"
+    },
+    {
+      "id": "karasuro_7-2082390565191381458-ハイパージアス立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-29",
+      "target_date": "2026-07-30",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "GOD",
+        "北斗"
+      ],
+      "matsubi": [],
+      "note": "近隣徹底対抗。燦全来店取材。北斗/GOD🌈ローテ実施中",
+      "url": "https://x.com/karasuro_7/status/2082390565191381458"
+    },
+    {
+      "id": "karasuro_7-2082373710154199435-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-29",
+      "target_date": "2026-07-30",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川推奨店リストに記載",
+      "url": "https://x.com/karasuro_7/status/2082373710154199435"
     },
     {
       "id": "slot_ogikiti-2081949801500061884-スーパーDステーション立川",
