@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T11:27",
-  "count": 1281,
+  "generated_at": "2026-07-30T14:53",
+  "count": 1286,
   "predictions": [
     {
       "id": "karasuro_7-2082645380538454488-ガーデン戸塚",
@@ -156,6 +156,90 @@
       "matsubi": [],
       "note": "登録店舗該当なし（スクランブル田谷、ガーデン戸塚等の立川以外）。",
       "url": "https://x.com/1_take6/status/2082778495323889733"
+    },
+    {
+      "id": "slot_ogikiti-2082822745717674061-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "山佐機種"
+      ],
+      "matsubi": [],
+      "note": "とある来店取材。月末最終日で並びを軸に立ち回れる環境",
+      "url": "https://x.com/slot_ogikiti/status/2082822745717674061"
+    },
+    {
+      "id": "slo1_tyousataiZ-2082806928753734140-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "マイジャグ",
+        "ゴージャグ",
+        "ネオアイム",
+        "真打吉宗",
+        "北斗転生",
+        "ヴヴヴ2",
+        "喰種"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "①のつく日。3台並び×複数。特定末尾絡みの仕掛け。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2082806928753734140"
+    },
+    {
+      "id": "slo1_tyousataiZ-2082817102327718051-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "①の日ニャンギラス対象店リスト掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2082817102327718051"
+    },
+    {
+      "id": "slo1_tyousataiZ-2082817102327718051-スーパーDステーション立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "①の日ニャンギラス対象店リスト掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2082817102327718051"
+    },
+    {
+      "id": "1_take6-2082791787224351203-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "GOD",
+        "からくり2",
+        "戦国コレクション6"
+      ],
+      "matsubi": [],
+      "note": "月末ドラドラドラ来店取材。新台・メイン機種から狙える環境に期待",
+      "url": "https://x.com/1_take6/status/2082791787224351203"
     },
     {
       "id": "karasuro_7-2082348659543580709-ピーアーク相模大野",
