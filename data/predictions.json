@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T05:56",
-  "count": 1273,
+  "generated_at": "2026-07-30T11:27",
+  "count": 1281,
   "predictions": [
     {
       "id": "karasuro_7-2082645380538454488-ガーデン戸塚",
@@ -27,6 +27,135 @@
       "matsubi": [],
       "note": "明日31日のお品書き掲載",
       "url": "https://x.com/slot_ogikiti/status/2082692554127257937"
+    },
+    {
+      "id": "slot_ogikiti-2082754590383206898-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "山佐機種"
+      ],
+      "matsubi": [],
+      "note": "とある来店取材【並行演算】開催。3台並び×5箇所以上、装飾変更機種に注目。",
+      "url": "https://x.com/slot_ogikiti/status/2082754590383206898"
+    },
+    {
+      "id": "slot_ogikiti-2082748467496325458-楽園立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "喰種",
+        "Sammyシリーズ"
+      ],
+      "matsubi": [],
+      "note": "月末×『紅蓮』開催。末尾を起点にした3台並び、優秀機種、高配分機種に期待。",
+      "url": "https://x.com/slot_ogikiti/status/2082748467496325458"
+    },
+    {
+      "id": "slot_ogikiti-2082714642535928125-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "③❾感謝の日。創業月間開催。抽選少なめでドリラー向き",
+      "url": "https://x.com/slot_ogikiti/status/2082714642535928125"
+    },
+    {
+      "id": "karasuro_7-2082765299598897484-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "神奈川マルハン全13店舗ニャンギラス。全系2機種以上がテーマ",
+      "url": "https://x.com/karasuro_7/status/2082765299598897484"
+    },
+    {
+      "id": "karasuro_7-2082759899554140601-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "超キノコ狩り2nd初日。スロpick10%以上狙える",
+      "url": "https://x.com/karasuro_7/status/2082759899554140601"
+    },
+    {
+      "id": "1_take6-2082776040762450190-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ジャグラーシリーズ",
+        "ゴージャグ",
+        "ネオアイム",
+        "ハッピー"
+      ],
+      "matsubi": [
+        1,
+        7
+      ],
+      "note": "❶の付く日。ニャンギラス登場。列仕掛け。",
+      "url": "https://x.com/1_take6/status/2082776040762450190"
+    },
+    {
+      "id": "1_take6-2082764655743975520-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [
+        1,
+        7
+      ],
+      "note": "❶の付く日。神奈川マルハン共通仕掛け。",
+      "url": "https://x.com/1_take6/status/2082764655743975520"
+    },
+    {
+      "id": "1_take6-2082778495323889733-スーパーDステーション立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "登録店舗該当なし（スクランブル田谷、ガーデン戸塚等の立川以外）。",
+      "url": "https://x.com/1_take6/status/2082778495323889733"
     },
     {
       "id": "karasuro_7-2082348659543580709-ピーアーク相模大野",
