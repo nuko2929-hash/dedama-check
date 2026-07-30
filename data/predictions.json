@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-07-29T14:40",
-  "count": 1268,
+  "generated_at": "2026-07-30T05:56",
+  "count": 1273,
   "predictions": [
+    {
+      "id": "karasuro_7-2082645380538454488-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-08-02",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "戸塚×スロパチ演者コラボ。2025/6/14振り",
+      "url": "https://x.com/karasuro_7/status/2082645380538454488"
+    },
+    {
+      "id": "slot_ogikiti-2082692554127257937-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-31",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日31日のお品書き掲載",
+      "url": "https://x.com/slot_ogikiti/status/2082692554127257937"
+    },
     {
       "id": "karasuro_7-2082348659543580709-ピーアーク相模大野",
       "source": "カラスロ@神奈川",
@@ -560,6 +586,19 @@
       "matsubi": [],
       "note": "緊急取材。新台やメイン機種から狙える。並び/列の法則に注目",
       "url": "https://x.com/1_take6/status/2082448378068447253"
+    },
+    {
+      "id": "karasuro_7-2082694966695104696-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-29",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ情報リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2082694966695104696"
     },
     {
       "id": "slot_ogikiti-2081599976657092644-ガーデン戸塚",
@@ -1163,6 +1202,28 @@
       ],
       "note": "月周年日。まるごと仕掛け等複数仕掛け期待",
       "url": "https://x.com/1_take6/status/2081707508452806671"
+    },
+    {
+      "id": "karasuro_7-2082667834417758226-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-28",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "GOD",
+        "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった",
+        "Lカバネリ",
+        "マギレコ",
+        "化物語",
+        "バイオRE3",
+        "北斗の拳"
+      ],
+      "matsubi": [],
+      "note": "スロぱちガール来店PS。抽選164人、AT機並び多数",
+      "url": "https://x.com/karasuro_7/status/2082667834417758226"
     },
     {
       "id": "slot_ogikiti-2081226426716741892-スーパーDステーション立川",
@@ -2194,6 +2255,31 @@
       "matsubi": [],
       "note": "スロパチガール来店PS＆相模の頂来店取材。4台並び複数過去傾向。",
       "url": "https://x.com/karasuro_7/status/2081022724378640632"
+    },
+    {
+      "id": "karasuro_7-2082670709642592496-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-30",
+      "target_date": "2026-07-26",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "北斗の拳",
+        "攻殻機動隊",
+        "ウルティマ・ミラクル",
+        "ファンキージャグラー",
+        "Lカバネリ",
+        "東京喰種",
+        "いせかるBT",
+        "クレアBT",
+        "化物語",
+        "マイジャグラーV",
+        "沖ゴージャス"
+      ],
+      "matsubi": [],
+      "note": "月周年日、スロパチ来店取材。抽選217人",
+      "url": "https://x.com/karasuro_7/status/2082670709642592496"
     },
     {
       "id": "slot_ogikiti-2080493524655739036-ハイパージアス立川",
