@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T14:53",
-  "count": 1286,
+  "generated_at": "2026-07-31T05:50",
+  "count": 1293,
   "predictions": [
     {
       "id": "karasuro_7-2082645380538454488-ガーデン戸塚",
@@ -14,6 +14,58 @@
       "matsubi": [],
       "note": "戸塚×スロパチ演者コラボ。2025/6/14振り",
       "url": "https://x.com/karasuro_7/status/2082645380538454488"
+    },
+    {
+      "id": "slot_ogikiti-2083038072980308411-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日1日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2083038072980308411"
+    },
+    {
+      "id": "slot_ogikiti-2083038072980308411-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日1日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2083038072980308411"
+    },
+    {
+      "id": "karasuro_7-2083045368628129995-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日8/1の神奈川オプチャ情報店リストに掲載",
+      "url": "https://x.com/karasuro_7/status/2083045368628129995"
+    },
+    {
+      "id": "karasuro_7-2083045368628129995-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日8/1の神奈川オプチャ情報店リストに掲載",
+      "url": "https://x.com/karasuro_7/status/2083045368628129995"
     },
     {
       "id": "slot_ogikiti-2082692554127257937-ハイパージアス立川",
@@ -240,6 +292,19 @@
       "matsubi": [],
       "note": "月末ドラドラドラ来店取材。新台・メイン機種から狙える環境に期待",
       "url": "https://x.com/1_take6/status/2082791787224351203"
+    },
+    {
+      "id": "slot_ogikiti-2083038072980308411-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-07-31",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日1日の東京大戦対象店",
+      "url": "https://x.com/slot_ogikiti/status/2083038072980308411"
     },
     {
       "id": "karasuro_7-2082348659543580709-ピーアーク相模大野",
@@ -1439,6 +1504,29 @@
       "url": "https://x.com/karasuro_7/status/2082667834417758226"
     },
     {
+      "id": "karasuro_7-2083047540950512081-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-07-28",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ななつま",
+        "アズレン",
+        "レヴュスタ",
+        "かぐや様",
+        "Lカバネリ",
+        "東京喰種",
+        "新鬼3",
+        "マイV",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "8のつく日悪魔のリアル。3台並び候補多数。確定情報複数",
+      "url": "https://x.com/karasuro_7/status/2083047540950512081"
+    },
+    {
       "id": "slot_ogikiti-2081226426716741892-スーパーDステーション立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -2493,6 +2581,29 @@
       "matsubi": [],
       "note": "月周年日、スロパチ来店取材。抽選217人",
       "url": "https://x.com/karasuro_7/status/2082670709642592496"
+    },
+    {
+      "id": "karasuro_7-2083046843408392196-エランドール泉",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-07-26",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [
+        "東京喰種",
+        "モンキーV",
+        "バイオRE3",
+        "SAOⅡ",
+        "南国育ちSP",
+        "マイV",
+        "炎炎2",
+        "Lカバネリ",
+        "ファンキー"
+      ],
+      "matsubi": [],
+      "note": "6のつく日スロパチガール来店S。8台並び東京喰種ピック15.1%",
+      "url": "https://x.com/karasuro_7/status/2083046843408392196"
     },
     {
       "id": "slot_ogikiti-2080493524655739036-ハイパージアス立川",
