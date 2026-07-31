@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-07-31T11:41",
-  "count": 1309,
+  "generated_at": "2026-07-31T14:47",
+  "count": 1322,
   "predictions": [
+    {
+      "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-08",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        8
+      ],
+      "note": "8のつく日。8/8は年1回の8が2つ重なる日。抽選参加券配布",
+      "url": "https://x.com/karasuro_7/status/2083187566497689661"
+    },
     {
       "id": "karasuro_7-2082645380538454488-ガーデン戸塚",
       "source": "カラスロ@神奈川",
@@ -327,6 +342,193 @@
       ],
       "note": "❶の付く日。超キノコ狩り2nd。まるごと・6台並び・単品仕掛け",
       "url": "https://x.com/1_take6/status/2083117421658001789"
+    },
+    {
+      "id": "slot_ogikiti-2083175237248811042-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "プロジェクトZ"
+      ],
+      "matsubi": [],
+      "note": "月頭1日恒例の合同取材開催。山佐＆スパイキーがオススメ機種",
+      "url": "https://x.com/slot_ogikiti/status/2083175237248811042"
+    },
+    {
+      "id": "slo1_tyousataiZ-2083167947703635983-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "サミー機種",
+        "牙狼",
+        "エヴァ17",
+        "海シリーズ"
+      ],
+      "matsubi": [],
+      "note": "周年月間スタート。新店長ポスター&月イチ取材で全台系/ニブイチ期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2083167947703635983"
+    },
+    {
+      "id": "slo1_tyousataiZ-2083164880094347489-SAP立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "SAP立川",
+      "area": null,
+      "machines": [
+        "マギレコ",
+        "喰種"
+      ],
+      "matsubi": [],
+      "note": "8月周年月間。全店合同天下無双取材で合同機種/ニブイチ期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2083164880094347489"
+    },
+    {
+      "id": "karasuro_7-2083178640372871180-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "1のつく日。超雷撃⚡開催。スロpick11%",
+      "url": "https://x.com/karasuro_7/status/2083178640372871180"
+    },
+    {
+      "id": "karasuro_7-2083178476039999928-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "近隣対抗。スロパチガール来店。8月ガーデン月間",
+      "url": "https://x.com/karasuro_7/status/2083178476039999928"
+    },
+    {
+      "id": "karasuro_7-2083178407156973879-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "1のつく日。超キノコ狩り2nd。スロpick10%⤴",
+      "url": "https://x.com/karasuro_7/status/2083178407156973879"
+    },
+    {
+      "id": "karasuro_7-2083178382800658591-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "神奈川マルハン全13店舗。1のつく日イベント",
+      "url": "https://x.com/karasuro_7/status/2083178382800658591"
+    },
+    {
+      "id": "karasuro_7-2083178353578934474-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "スロパチガール来店。やっちゃん/ねろちゃん来店。8月テーマ熱狂",
+      "url": "https://x.com/karasuro_7/status/2083178353578934474"
+    },
+    {
+      "id": "1_take6-2083171571167084973-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "からくり2",
+        "戦コレ6",
+        "東京喰種",
+        "Lカバネリ",
+        "GOD",
+        "リコリコ"
+      ],
+      "matsubi": [],
+      "note": "月初。スロ王来店取材。直近導入機種とメイン機種から狙う",
+      "url": "https://x.com/1_take6/status/2083171571167084973"
+    },
+    {
+      "id": "1_take6-2083167011212058714-ガーデン戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "First×土曜日。店長Xスタート。ガーデン系列初の店長X",
+      "url": "https://x.com/1_take6/status/2083167011212058714"
+    },
+    {
+      "id": "1_take6-2083157635050979532-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "月初。即ドラATTENTION来店取材。相模原で月初の穴場",
+      "url": "https://x.com/1_take6/status/2083157635050979532"
+    },
+    {
+      "id": "1_take6-2083156274225795443-スーパーDステーション立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-07-31",
+      "target_date": "2026-08-01",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "スマスロ",
+        "ジャグシリーズ"
+      ],
+      "matsubi": [],
+      "note": "月初×第壱土曜日。天下無双。店内全体に期待",
+      "url": "https://x.com/1_take6/status/2083156274225795443"
     },
     {
       "id": "slot_ogikiti-2082692554127257937-ハイパージアス立川",
