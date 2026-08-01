@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T14:47",
-  "count": 1322,
+  "generated_at": "2026-08-01T05:42",
+  "count": 1323,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -16,6 +16,21 @@
       ],
       "note": "8のつく日。8/8は年1回の8が2つ重なる日。抽選参加券配布",
       "url": "https://x.com/karasuro_7/status/2083187566497689661"
+    },
+    {
+      "id": "karasuro_7-2083407779373756746-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-01",
+      "target_date": "2026-08-08",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        8
+      ],
+      "note": "8のつく日8/8は年1回の8が2つ重なるイベント",
+      "url": "https://x.com/karasuro_7/status/2083407779373756746"
     },
     {
       "id": "karasuro_7-2082645380538454488-ガーデン戸塚",
