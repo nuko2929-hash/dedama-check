@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T05:42",
-  "count": 1323,
+  "generated_at": "2026-08-01T10:05",
+  "count": 1326,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -44,6 +44,55 @@
       "matsubi": [],
       "note": "戸塚×スロパチ演者コラボ。2025/6/14振り",
       "url": "https://x.com/karasuro_7/status/2082645380538454488"
+    },
+    {
+      "id": "slot_ogikiti-2083471972823146812-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-01",
+      "target_date": "2026-08-02",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "ケロット5",
+        "サンダー",
+        "いせかる",
+        "クレア",
+        "L炎炎2",
+        "シェイク",
+        "いざ番長",
+        "防振り",
+        "モンハン"
+      ],
+      "matsubi": [],
+      "note": "ネクスタ来店取材。ビンゴ対象9機種が最優先。ビンゴラインで高配分やまるごと仕掛け。",
+      "url": "https://x.com/slot_ogikiti/status/2083471972823146812"
+    },
+    {
+      "id": "slot_ogikiti-2083390669285130396-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-01",
+      "target_date": "2026-08-02",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2083390669285130396"
+    },
+    {
+      "id": "slot_ogikiti-2083390669285130396-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-01",
+      "target_date": "2026-08-02",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2083390669285130396"
     },
     {
       "id": "slot_ogikiti-2083038072980308411-楽園立川店",
