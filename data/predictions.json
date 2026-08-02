@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T05:43",
-  "count": 1358,
+  "generated_at": "2026-08-02T10:03",
+  "count": 1365,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -31,6 +31,126 @@
       ],
       "note": "8のつく日8/8は年1回の8が2つ重なるイベント",
       "url": "https://x.com/karasuro_7/status/2083407779373756746"
+    },
+    {
+      "id": "karasuro_7-2083839581640618359-キコーナ戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-02",
+      "target_date": "2026-08-03",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "東京喰種",
+        "ジャグラーシリーズ",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "3のつく日＋新台入替。ジャグラーシリーズ推奨、東京喰種は並び常連",
+      "url": "https://x.com/karasuro_7/status/2083839581640618359"
+    },
+    {
+      "id": "karasuro_7-2083835023610757518-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-02",
+      "target_date": "2026-08-03",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "転生",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "3のつく日＋新台入替。東京喰種は並び常連、メイン機種から狙い探し推奨",
+      "url": "https://x.com/karasuro_7/status/2083835023610757518"
+    },
+    {
+      "id": "1_take6-2083851605842268220-エランドール泉",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-02",
+      "target_date": "2026-08-03",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [
+        "伝説の刻",
+        "宝玉のリアル"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "❸の付く日。店内全体に期待。まるごと・並び仕掛け注目",
+      "url": "https://x.com/1_take6/status/2083851605842268220"
+    },
+    {
+      "id": "1_take6-2083851438963200318-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-02",
+      "target_date": "2026-08-03",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿1はPIA伊勢佐木3丁目で登録店舗ではないため該当なし",
+      "url": "https://x.com/1_take6/status/2083851438963200318"
+    },
+    {
+      "id": "1_take6-2083851368289464564-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-02",
+      "target_date": "2026-08-03",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [
+        "邪神ちゃん",
+        "禁書目録2",
+        "やじきた",
+        "乙女5",
+        "GOD",
+        "転生",
+        "キンハナV",
+        "沖ドキBLACK",
+        "ヤバチバ"
+      ],
+      "matsubi": [],
+      "note": "新装。3×3STARサザンスター。対象9機種注目。ビンゴ狙い",
+      "url": "https://x.com/1_take6/status/2083851368289464564"
+    },
+    {
+      "id": "1_take6-2083851284592181365-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-02",
+      "target_date": "2026-08-03",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "ジャグ"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "❸の付く日。トクダネ取材初。まるごと/5並び仕掛け注目",
+      "url": "https://x.com/1_take6/status/2083851284592181365"
+    },
+    {
+      "id": "1_take6-2083802469201789404-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-02",
+      "target_date": "2026-08-03",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "❶の付く日。超キノコ狩り2nd。GOD平均+8,777枚出現",
+      "url": "https://x.com/1_take6/status/2083802469201789404"
     },
     {
       "id": "karasuro_7-2082645380538454488-ガーデン戸塚",
