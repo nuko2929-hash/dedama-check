@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:57",
-  "count": 1373,
+  "generated_at": "2026-08-03T11:32",
+  "count": 1379,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -31,6 +31,61 @@
       ],
       "note": "8のつく日8/8は年1回の8が2つ重なるイベント",
       "url": "https://x.com/karasuro_7/status/2083407779373756746"
+    },
+    {
+      "id": "karasuro_7-2084219646157390163-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-08-04",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "AI脳トレ取材",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "8月ガーデン月間。AI脳トレ取材で過去傾向から仕掛け。",
+      "url": "https://x.com/karasuro_7/status/2084219646157390163"
+    },
+    {
+      "id": "karasuro_7-2084173177266262221-ザシティ相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-08-04",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川マルハン4店舗オリイベ情報に記載。オプチャ確認推奨。",
+      "url": "https://x.com/karasuro_7/status/2084173177266262221"
+    },
+    {
+      "id": "karasuro_7-2084173177266262221-スーパーDステーション立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-08-04",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャで明日の抽選情報掲載予定。詳細はリンク確認。",
+      "url": "https://x.com/karasuro_7/status/2084173177266262221"
+    },
+    {
+      "id": "karasuro_7-2083928685066007007-キコーナ戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-02",
+      "target_date": "2026-08-04",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "8月1発目スロパチガール来店。3のつく日イベント。新台入替同時開催。",
+      "url": "https://x.com/karasuro_7/status/2083928685066007007"
     },
     {
       "id": "karasuro_7-2083839581640618359-キコーナ戸塚",
@@ -1669,6 +1724,23 @@
       "matsubi": [],
       "note": "AI脳トレ取材。毎日来たい店企画。",
       "url": "https://x.com/karasuro_7/status/2082460484566212687"
+    },
+    {
+      "id": "karasuro_7-2084129594182090753-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-07-30",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "緑ドン",
+        "ライズ",
+        "天膳"
+      ],
+      "matsubi": [],
+      "note": "AI脳トレ取材結果。全系緑ドン、1/2ライズ・天膳。単品1台。",
+      "url": "https://x.com/karasuro_7/status/2084129594182090753"
     },
     {
       "id": "slot_ogikiti-2081949801500061884-スーパーDステーション立川",
@@ -4481,6 +4553,22 @@
       ],
       "note": "❺の日×週末強化で総差枚+91,577枚。戦コレ6等複数優秀機種",
       "url": "https://x.com/slot_ogikiti/status/2081216871463055797"
+    },
+    {
+      "id": "karasuro_7-2084129942787477890-ザシティ相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-07-25",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "からくり2",
+        "このすば"
+      ],
+      "matsubi": [],
+      "note": "ラスサタ応援団。全系からくり2・このすば。2台並び乙女5・ゴージャグ。",
+      "url": "https://x.com/karasuro_7/status/2084129942787477890"
     },
     {
       "id": "slot_ogikiti-2080128738692682083-プレゴ立川店",
