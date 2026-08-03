@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T11:32",
-  "count": 1379,
+  "generated_at": "2026-08-03T15:25",
+  "count": 1385,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -86,6 +86,98 @@
       "matsubi": [],
       "note": "8月1発目スロパチガール来店。3のつく日イベント。新台入替同時開催。",
       "url": "https://x.com/karasuro_7/status/2083928685066007007"
+    },
+    {
+      "id": "slot_ogikiti-2084254505344897259-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-08-04",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "からくり2",
+        "SAO2",
+        "東"
+      ],
+      "matsubi": [],
+      "note": "MONSTER取材調査員来店。モンスター機種を狙い目に",
+      "url": "https://x.com/slot_ogikiti/status/2084254505344897259"
+    },
+    {
+      "id": "slot_ogikiti-2084254140688208008-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-08-04",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ミリオンゴッド",
+        "牙狼",
+        "仕事人",
+        "喰種",
+        "エヴァ",
+        "暴凶星"
+      ],
+      "matsubi": [
+        0,
+        4
+      ],
+      "note": "BIG FOFO開催。4台並び×10本以上。末尾0・4が軸",
+      "url": "https://x.com/slot_ogikiti/status/2084254140688208008"
+    },
+    {
+      "id": "slot_ogikiti-2084243917139275875-マルハン新宿東宝ビル",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-08-04",
+      "store": "マルハン新宿東宝ビル",
+      "area": null,
+      "machines": [
+        "SAO",
+        "ブルロ",
+        "モンキー",
+        "イーター",
+        "かぐや様",
+        "からくり"
+      ],
+      "matsubi": [
+        4
+      ],
+      "note": "4のつく日。四天王4機種49台が狙い目",
+      "url": "https://x.com/slot_ogikiti/status/2084243917139275875"
+    },
+    {
+      "id": "slo1_tyousataiZ-2084261433903300615-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-08-04",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "SANKYO機種",
+        "リコリコ"
+      ],
+      "matsubi": [],
+      "note": "④の日で大都機種強化。全台系/ニブイチが軸。パチスロの日で全体強化も見込める",
+      "url": "https://x.com/slo1_tyousataiZ/status/2084261433903300615"
+    },
+    {
+      "id": "karasuro_7-2084260573450207373-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-08-04",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "AI脳トレ取材。過去画像から機種予想。全系狙い目",
+      "url": "https://x.com/karasuro_7/status/2084260573450207373"
     },
     {
       "id": "karasuro_7-2083839581640618359-キコーナ戸塚",
@@ -309,6 +401,23 @@
       "matsubi": [],
       "note": "③の日。感謝の神アザス開催。3台並び×9本以上。",
       "url": "https://x.com/slo1_tyousataiZ/status/2083897072835764245"
+    },
+    {
+      "id": "1_take6-2084251104376918175-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-08-03",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "スロ新台39台"
+      ],
+      "matsubi": [
+        4
+      ],
+      "note": "全126台超大型新装。新台やメイン機種が狙える",
+      "url": "https://x.com/1_take6/status/2084251104376918175"
     },
     {
       "id": "karasuro_7-2082645380538454488-ガーデン戸塚",
