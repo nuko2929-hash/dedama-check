@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T14:08",
-  "count": 1370,
+  "generated_at": "2026-08-03T05:57",
+  "count": 1373,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -217,6 +217,43 @@
       "matsubi": [],
       "note": "超大型新装。全126台導入。新台とメイン機種から狙う",
       "url": "https://x.com/1_take6/status/2083865374790164632"
+    },
+    {
+      "id": "slo1_tyousataiZ-2083896271522369794-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-02",
+      "target_date": "2026-08-03",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "SANKYO機種",
+        "Lカバネリ",
+        "からくり2"
+      ],
+      "matsubi": [],
+      "note": "③の日。サミー機種強化。新店長始動ポスター。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2083896271522369794"
+    },
+    {
+      "id": "slo1_tyousataiZ-2083897072835764245-楽園渋谷駅前",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-02",
+      "target_date": "2026-08-03",
+      "store": "楽園渋谷駅前",
+      "area": null,
+      "machines": [
+        "乙女5",
+        "Lカバネリ",
+        "喰種",
+        "からくり2",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [],
+      "note": "③の日。感謝の神アザス開催。3台並び×9本以上。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2083897072835764245"
     },
     {
       "id": "karasuro_7-2082645380538454488-ガーデン戸塚",
@@ -783,6 +820,19 @@
       "matsubi": [],
       "note": "プロジェクトZ開催。山佐&スパイキー推奨。優秀列・勝率高機種・4台並び候補複数。",
       "url": "https://x.com/slot_ogikiti/status/2083907664304611631"
+    },
+    {
+      "id": "slot_ogikiti-2084117865658306675-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-03",
+      "target_date": "2026-08-02",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084117865658306675"
     },
     {
       "id": "slot_ogikiti-2083038072980308411-楽園立川店",
