@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T10:45",
-  "count": 1397,
+  "generated_at": "2026-08-04T15:00",
+  "count": 1406,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -182,6 +182,181 @@
       ],
       "note": "剛腕のリアル調査。ジャグに期待。まるごと・高配分・並び注視",
       "url": "https://x.com/1_take6/status/2084569848324235372"
+    },
+    {
+      "id": "slo1_tyousataiZ-2084618988982845448-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "SANKYO機種",
+        "東京喰種399",
+        "エヴァ15",
+        "エヴァ17",
+        "遊パチ海シリーズ"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "⑤の付く日。ジャグ/ヴヴヴ2強化。周年7DAYS",
+      "url": "https://x.com/slo1_tyousataiZ/status/2084618988982845448"
+    },
+    {
+      "id": "slo1_tyousataiZ-2084623356620587331-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [
+        5
+      ],
+      "note": "⑤の付く日の関東イベント店舗リスト掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2084623356620587331"
+    },
+    {
+      "id": "slo1_tyousataiZ-2084609821320650987-楽園渋谷駅前",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "楽園渋谷駅前",
+      "area": null,
+      "machines": [
+        "乙女5",
+        "東京喰種",
+        "Lカバネリ",
+        "SAO2",
+        "L炎炎2",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "⑤の付く日。翠嵐初開催。ニブイチ×2機種",
+      "url": "https://x.com/slo1_tyousataiZ/status/2084609821320650987"
+    },
+    {
+      "id": "slo1_tyousataiZ-2084623356620587331-楽園渋谷駅前",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "楽園渋谷駅前",
+      "area": null,
+      "machines": [],
+      "matsubi": [
+        5
+      ],
+      "note": "⑤の付く日の関東イベント店舗リスト掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2084623356620587331"
+    },
+    {
+      "id": "karasuro_7-2084633574372945980-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "5のつく日。キングウォッチッチ。演者来店。",
+      "url": "https://x.com/karasuro_7/status/2084633574372945980"
+    },
+    {
+      "id": "karasuro_7-2084603732638175663-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "ミリゴ",
+        "L炎炎2",
+        "乙女5",
+        "マイV",
+        "いざ番長",
+        "SBJ",
+        "戦コレ6",
+        "ファンキー",
+        "からくり2",
+        "GE",
+        "モンキーV",
+        "ヨルムン",
+        "ゾンサガ",
+        "GOD",
+        "マジハロ8",
+        "頭文字D"
+      ],
+      "matsubi": [],
+      "note": "ピン王狙い目。喰種・Lカバ・GOD・炎炎2・乙女5推奨。",
+      "url": "https://x.com/karasuro_7/status/2084603732638175663"
+    },
+    {
+      "id": "1_take6-2084608934661464534-アビバ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "東京喰種",
+        "Lカバネリ",
+        "乙女5",
+        "マギレコ"
+      ],
+      "matsubi": [],
+      "note": "リニューアル期間中。裏破天荒初来店。増台541台。",
+      "url": "https://x.com/1_take6/status/2084608934661464534"
+    },
+    {
+      "id": "1_take6-2084603727160492173-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [
+        "5"
+      ],
+      "note": "5の付く日。スロセレ。レポート記載機種に注目。",
+      "url": "https://x.com/1_take6/status/2084603727160492173"
+    },
+    {
+      "id": "1_take6-2084593375332778388-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "沖ドキ",
+        "GOD",
+        "東リべ",
+        "大海5SP",
+        "エヴァ17"
+      ],
+      "matsubi": [
+        "5"
+      ],
+      "note": "5の付く日。華閃蓮撃。5台並び仕掛け中心。",
+      "url": "https://x.com/1_take6/status/2084593375332778388"
     },
     {
       "id": "karasuro_7-2084219646157390163-ガーデン戸塚",
