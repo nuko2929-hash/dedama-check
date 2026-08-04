@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T05:30",
-  "count": 1389,
+  "generated_at": "2026-08-04T10:45",
+  "count": 1397,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -44,6 +44,144 @@
       "matsubi": [],
       "note": "明日5日のお品書き掲載店",
       "url": "https://x.com/slot_ogikiti/status/2084509547604119562"
+    },
+    {
+      "id": "slot_ogikiti-2084569300375863713-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ミリオンゴッド",
+        "ゴージャグ"
+      ],
+      "matsubi": [],
+      "note": "❺の日。アルティメットCG調査隊開催。前回+91,577枚の実績。",
+      "url": "https://x.com/slot_ogikiti/status/2084569300375863713"
+    },
+    {
+      "id": "slot_ogikiti-2084562122781188310-楽園松戸",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "楽園松戸",
+      "area": null,
+      "machines": [
+        "ジャグラー",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "❺の日。四星『水星神🟦』開催。3台並び5箇所以上期待。",
+      "url": "https://x.com/slot_ogikiti/status/2084562122781188310"
+    },
+    {
+      "id": "slo1_tyousataiZ-2084551708664086584-ハイパージアス立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "アルティメットCG調査隊/HYPER撃アッチー、ナツ美さん来店取材",
+      "url": "https://x.com/slo1_tyousataiZ/status/2084551708664086584"
+    },
+    {
+      "id": "karasuro_7-2084567089428430988-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "マイV",
+        "東京喰種",
+        "からくり1",
+        "からくり2"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "直近並び実績から狙い目機種。バラに並び連続中。",
+      "url": "https://x.com/karasuro_7/status/2084567089428430988"
+    },
+    {
+      "id": "karasuro_7-2084559361511510274-プレゴ立川店",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [
+        "マイV",
+        "東京喰種",
+        "Lカバネリ"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "5のつく日スロパチ来店取材。6台並び恒例。",
+      "url": "https://x.com/karasuro_7/status/2084559361511510274"
+    },
+    {
+      "id": "karasuro_7-2084559058955325777-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "GOD",
+        "Lカバネリ",
+        "ジャグラー"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "5のつく日嵐撃イベント。店長推し強化。全系仕掛け予想。",
+      "url": "https://x.com/karasuro_7/status/2084559058955325777"
+    },
+    {
+      "id": "1_take6-2084568544512254435-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [
+        5
+      ],
+      "note": "極誓取材。4台並び+4台設置以上機種、ジャグに注目",
+      "url": "https://x.com/1_take6/status/2084568544512254435"
+    },
+    {
+      "id": "1_take6-2084569848324235372-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "SAO2",
+        "からくり2"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "剛腕のリアル調査。ジャグに期待。まるごと・高配分・並び注視",
+      "url": "https://x.com/1_take6/status/2084569848324235372"
     },
     {
       "id": "karasuro_7-2084219646157390163-ガーデン戸塚",
