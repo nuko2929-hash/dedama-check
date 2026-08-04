@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T15:25",
-  "count": 1385,
+  "generated_at": "2026-08-04T05:30",
+  "count": 1389,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -31,6 +31,19 @@
       ],
       "note": "8のつく日8/8は年1回の8が2つ重なるイベント",
       "url": "https://x.com/karasuro_7/status/2083407779373756746"
+    },
+    {
+      "id": "slot_ogikiti-2084509547604119562-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日5日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2084509547604119562"
     },
     {
       "id": "karasuro_7-2084219646157390163-ガーデン戸塚",
@@ -4067,6 +4080,28 @@
       "url": "https://x.com/karasuro_7/status/2083046843408392196"
     },
     {
+      "id": "karasuro_7-2084463827681468565-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-07-26",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "マイV",
+        "ヴヴヴ2",
+        "ライズ",
+        "鉄拳6",
+        "東京喰種",
+        "化物語",
+        "マンキン~乙女4",
+        "東リべ"
+      ],
+      "matsubi": [],
+      "note": "月周年日。全系・1/2・2台並び・単品で多数高設定示唆",
+      "url": "https://x.com/karasuro_7/status/2084463827681468565"
+    },
+    {
       "id": "slot_ogikiti-2080493524655739036-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -6036,6 +6071,28 @@
       "url": "https://x.com/karasuro_7/status/2081578936321097783"
     },
     {
+      "id": "karasuro_7-2084463337056972961-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-07-22",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "からくり2",
+        "戦コレ6",
+        "東リべ",
+        "GE",
+        "乙女5",
+        "東京喰種"
+      ],
+      "matsubi": [
+        2
+      ],
+      "note": "2のつく日。1/2・2台並び・単品で高設定示唆",
+      "url": "https://x.com/karasuro_7/status/2084463337056972961"
+    },
+    {
       "id": "karasuro_7-2079157926003200099-相模大野UNO",
       "source": "カラスロ@神奈川",
       "handle": "karasuro_7",
@@ -7336,6 +7393,30 @@
       "matsubi": [],
       "note": "7/20抽選人数567人。最大規模。オプチャ情報より",
       "url": "https://x.com/karasuro_7/status/2079014017490964823"
+    },
+    {
+      "id": "karasuro_7-2084463010312331389-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-07-20",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "化物語",
+        "GOD",
+        "マイV",
+        "からくり2",
+        "東京喰種",
+        "転生",
+        "プリズムナナ~銭形5",
+        "モンキーV",
+        "鉄拳6",
+        "北斗"
+      ],
+      "matsubi": [],
+      "note": "全系・1/2・多数2台以上並びで高設定示唆。取材実施",
+      "url": "https://x.com/karasuro_7/status/2084463010312331389"
     },
     {
       "id": "slot_ogikiti-2078314998095634561-エランドール泉",
