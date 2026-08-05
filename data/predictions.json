@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T05:28",
-  "count": 1422,
+  "generated_at": "2026-08-05T10:43",
+  "count": 1445,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -187,6 +187,342 @@
       "matsubi": [],
       "note": "明日のお品書き掲載店舗",
       "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084950323265945725-ピーアーク相模大野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084950323265945725"
+    },
+    {
+      "id": "slot_ogikiti-2084950092239475112-ザシティ相模大野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084950092239475112"
+    },
+    {
+      "id": "slot_ogikiti-2084942090069315728-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084942090069315728"
+    },
+    {
+      "id": "slot_ogikiti-2084939492939719057-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084939492939719057"
+    },
+    {
+      "id": "slot_ogikiti-2084926200296968563-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084926200296968563"
+    },
+    {
+      "id": "slot_ogikiti-2084924730055000421-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084924730055000421"
+    },
+    {
+      "id": "slot_ogikiti-2084922403394646072-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084922403394646072"
+    },
+    {
+      "id": "slot_ogikiti-2084919463539777901-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084919463539777901"
+    },
+    {
+      "id": "slot_ogikiti-2084916193107034490-吉兆東名川崎店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "吉兆東名川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084916193107034490"
+    },
+    {
+      "id": "slot_ogikiti-2084914699653829112-プレイスポットドラゴン川崎店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084914699653829112"
+    },
+    {
+      "id": "slot_ogikiti-2084909129106440411-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084909129106440411"
+    },
+    {
+      "id": "slot_ogikiti-2084907638022897902-キコーナ戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084907638022897902"
+    },
+    {
+      "id": "slot_ogikiti-2084906206750269521-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084906206750269521"
+    },
+    {
+      "id": "slot_ogikiti-2084904553217192352-プレゴ立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084904553217192352"
+    },
+    {
+      "id": "slot_ogikiti-2084903023072215425-ピーアーク相模大野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2084903023072215425"
+    },
+    {
+      "id": "slo1_tyousataiZ-2084951419204120985-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "Lカバネリ",
+        "東京喰種"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "⑥の付く日で6台以上の並び軸。前日据えでジャグ並び期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2084951419204120985"
+    },
+    {
+      "id": "karasuro_7-2084948206694396411-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "バイオRE3",
+        "SBJ",
+        "トラブル"
+      ],
+      "matsubi": [],
+      "note": "AI脳トレ取材。過去傾向から仕掛け質が高い。",
+      "url": "https://x.com/karasuro_7/status/2084948206694396411"
+    },
+    {
+      "id": "karasuro_7-2084947139768328414-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録外店舗(マルハン平塚)のため対象外",
+      "url": "https://x.com/karasuro_7/status/2084947139768328414"
+    },
+    {
+      "id": "karasuro_7-2084942187046010907-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "北斗"
+      ],
+      "matsubi": [],
+      "note": "登録外店舗(マルハン都筑・茅ヶ崎)のため対象外",
+      "url": "https://x.com/karasuro_7/status/2084942187046010907"
+    },
+    {
+      "id": "1_take6-2084952312846639508-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "沖ドキ",
+        "GOD",
+        "東リベ",
+        "大海5SP",
+        "エヴァ17"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "6の付く日。いつつ巴とサンスポロック取材。複数機種の狙い目",
+      "url": "https://x.com/1_take6/status/2084952312846639508"
+    },
+    {
+      "id": "1_take6-2084936547502350780-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ファントム",
+        "攻殻機動隊",
+        "リオエース",
+        "からくり",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "近隣対抗。ファントム取材。まるごと・1/2仕掛けに注目",
+      "url": "https://x.com/1_take6/status/2084936547502350780"
+    },
+    {
+      "id": "1_take6-2084933838300705032-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし（プラザ上大岡アンドミラージュは未登録）",
+      "url": "https://x.com/1_take6/status/2084933838300705032"
+    },
+    {
+      "id": "1_take6-2084932182678925697-ハイパージアス立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "マイジャグ",
+        "リオエース2",
+        "からくり2",
+        "ヴヴヴ2",
+        "北斗",
+        "モンキー",
+        "東京喰種"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "6の付く日。アルティメットCG調査隊来店。4番までマイジャグ最優先",
+      "url": "https://x.com/1_take6/status/2084932182678925697"
     },
     {
       "id": "slot_ogikiti-2084509547604119562-ハイパージアス立川",
