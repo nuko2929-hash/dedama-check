@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T15:00",
-  "count": 1406,
+  "generated_at": "2026-08-05T05:28",
+  "count": 1422,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -31,6 +31,162 @@
       ],
       "note": "8のつく日8/8は年1回の8が2つ重なるイベント",
       "url": "https://x.com/karasuro_7/status/2083407779373756746"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-ピーアーク相模大野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-ザシティ相模大野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-キコーナ戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-クリエ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-吉兆東名川崎店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "吉兆東名川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
+    },
+    {
+      "id": "slot_ogikiti-2084841568708731037-プレイスポットドラゴン川崎店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店舗",
+      "url": "https://x.com/slot_ogikiti/status/2084841568708731037"
     },
     {
       "id": "slot_ogikiti-2084509547604119562-ハイパージアス立川",
@@ -357,6 +513,25 @@
       ],
       "note": "5の付く日。華閃蓮撃。5台並び仕掛け中心。",
       "url": "https://x.com/1_take6/status/2084593375332778388"
+    },
+    {
+      "id": "slo1_tyousataiZ-2084786887663993252-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-04",
+      "target_date": "2026-08-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "まどマギ",
+        "喰種",
+        "ヴヴヴ2",
+        "マイジャグ",
+        "リコリコ"
+      ],
+      "matsubi": [],
+      "note": "8/5は取材盛りだくさん。6台並びを軸に立ち回り推奨。店長ポスト考察で複数機種の仕掛け示唆",
+      "url": "https://x.com/slo1_tyousataiZ/status/2084786887663993252"
     },
     {
       "id": "karasuro_7-2084219646157390163-ガーデン戸塚",
@@ -1825,6 +2000,26 @@
       "url": "https://x.com/1_take6/status/2083156274225795443"
     },
     {
+      "id": "1_take6-2084841795561947509-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-01",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "ハドボ",
+        "LBマジハロ",
+        "炎炎2",
+        "新鬼2"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "超キノコ狩り2nd、4機種から金枠配信、ハドボと新鬼2がまるごと",
+      "url": "https://x.com/1_take6/status/2084841795561947509"
+    },
+    {
       "id": "slot_ogikiti-2082692554127257937-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -2075,6 +2270,22 @@
       "matsubi": [],
       "note": "近隣対抗。極誓取材。北斗まるごと候補など",
       "url": "https://x.com/1_take6/status/2083562822198579222"
+    },
+    {
+      "id": "slot_ogikiti-2084863862323781663-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-07-31",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "モンキー"
+      ],
+      "matsubi": [],
+      "note": "3台並び候補。東京喰種×2箇所、モンキー×2箇所",
+      "url": "https://x.com/slot_ogikiti/status/2084863862323781663"
     },
     {
       "id": "karasuro_7-2082348659543580709-ピーアーク相模大野",
@@ -4413,6 +4624,24 @@
       "matsubi": [],
       "note": "月周年日。全系・1/2・2台並び・単品で多数高設定示唆",
       "url": "https://x.com/karasuro_7/status/2084463827681468565"
+    },
+    {
+      "id": "1_take6-2084841966551142541-ザシティ相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-07-26",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "からくり2",
+        "Sこのすば",
+        "乙女5",
+        "ゴージャグ"
+      ],
+      "matsubi": [],
+      "note": "月末最終土曜日、からくり2とSこのすばがまるごと仕掛け",
+      "url": "https://x.com/1_take6/status/2084841966551142541"
     },
     {
       "id": "slot_ogikiti-2080493524655739036-ハイパージアス立川",
