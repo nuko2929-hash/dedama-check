@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T10:43",
-  "count": 1445,
+  "generated_at": "2026-08-05T15:40",
+  "count": 1449,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -523,6 +523,71 @@
       ],
       "note": "6の付く日。アルティメットCG調査隊来店。4番までマイジャグ最優先",
       "url": "https://x.com/1_take6/status/2084932182678925697"
+    },
+    {
+      "id": "slo1_tyousataiZ-2084973834361573641-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗リストに記載なし",
+      "url": "https://x.com/slo1_tyousataiZ/status/2084973834361573641"
+    },
+    {
+      "id": "karasuro_7-2084992383297704040-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "バイオRE3"
+      ],
+      "matsubi": [],
+      "note": "AI脳トレ取材。過去画像から連想機種に仕掛けあり。",
+      "url": "https://x.com/karasuro_7/status/2084992383297704040"
+    },
+    {
+      "id": "1_take6-2084996986940674198-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "SEED魂",
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "ドリルパチンコ案内人。新台導入済み、メイン機種狙い目",
+      "url": "https://x.com/1_take6/status/2084996986940674198"
+    },
+    {
+      "id": "1_take6-2084977274483560913-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-05",
+      "target_date": "2026-08-06",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "リニューアル2日目。126台導入済み、新台含む39台スロ導入",
+      "url": "https://x.com/1_take6/status/2084977274483560913"
     },
     {
       "id": "slot_ogikiti-2084509547604119562-ハイパージアス立川",
