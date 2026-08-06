@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T10:46",
-  "count": 1470,
+  "generated_at": "2026-08-06T14:45",
+  "count": 1475,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -295,6 +295,74 @@
       ],
       "note": "7の付く日。スロパチステーション来店取材。過去は6台並び×9箇所。",
       "url": "https://x.com/1_take6/status/2085289310614597893"
+    },
+    {
+      "id": "slo1_tyousataiZ-2085360140233150598-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-06",
+      "target_date": "2026-08-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "SANKYO機種",
+        "北斗の拳",
+        "ハナハナシリーズ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "周年日。全台系/ニブイチ/並び等多彩な仕掛け。全機種全台チャンス",
+      "url": "https://x.com/slo1_tyousataiZ/status/2085360140233150598"
+    },
+    {
+      "id": "slo1_tyousataiZ-2085354407189995771-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-06",
+      "target_date": "2026-08-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "SANKYO機種",
+        "北斗の拳",
+        "ハナハナシリーズ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "周年日5日目。全台系/ニブイチ/並び期待。年一クラスの盛り上がり",
+      "url": "https://x.com/slo1_tyousataiZ/status/2085354407189995771"
+    },
+    {
+      "id": "karasuro_7-2085347026548777023-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-06",
+      "target_date": "2026-08-07",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        7
+      ],
+      "note": "7のつく日。嵐撃イベント。店長推し機種強化予想。",
+      "url": "https://x.com/karasuro_7/status/2085347026548777023"
+    },
+    {
+      "id": "karasuro_7-2085346978905620833-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-06",
+      "target_date": "2026-08-07",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "近隣対抗。スロパチガール来店。8/8年イチに繋げる日。",
+      "url": "https://x.com/karasuro_7/status/2085346978905620833"
     },
     {
       "id": "slot_ogikiti-2084841568708731037-楽園立川店",
@@ -2225,6 +2293,31 @@
       "matsubi": [],
       "note": "2のつく日、伝説の刻。全系候補機種多数。",
       "url": "https://x.com/karasuro_7/status/2085186260159840261"
+    },
+    {
+      "id": "slot_ogikiti-2085361271139164234-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-06",
+      "target_date": "2026-08-02",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "炎炎2",
+        "サンダー",
+        "防振り",
+        "真打吉宗",
+        "戦コレ6",
+        "SAO2",
+        "乙女5",
+        "ニューキン",
+        "ハナビ",
+        "Lハナビ",
+        "ジャグ"
+      ],
+      "matsubi": [],
+      "note": "ネクスタ取材。炎炎2がまるごと優秀。サンダー防振りが高勝率。",
+      "url": "https://x.com/slot_ogikiti/status/2085361271139164234"
     },
     {
       "id": "slot_ogikiti-2083038072980308411-楽園立川店",
