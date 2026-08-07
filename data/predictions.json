@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T14:45",
-  "count": 1475,
+  "generated_at": "2026-08-07T05:22",
+  "count": 1477,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -363,6 +363,32 @@
       "matsubi": [],
       "note": "近隣対抗。スロパチガール来店。8/8年イチに繋げる日。",
       "url": "https://x.com/karasuro_7/status/2085346978905620833"
+    },
+    {
+      "id": "slot_ogikiti-2085562692958654954-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-07",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2085562692958654954"
+    },
+    {
+      "id": "slot_ogikiti-2085562692958654954-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-07",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2085562692958654954"
     },
     {
       "id": "slot_ogikiti-2084841568708731037-楽園立川店",
