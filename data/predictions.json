@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T05:22",
-  "count": 1477,
+  "generated_at": "2026-08-07T10:01",
+  "count": 1487,
   "predictions": [
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -31,6 +31,152 @@
       ],
       "note": "8のつく日8/8は年1回の8が2つ重なるイベント",
       "url": "https://x.com/karasuro_7/status/2083407779373756746"
+    },
+    {
+      "id": "slot_ogikiti-2085637997081624910-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "月ゾロ×真骨超。先月+165,683枚。優秀機種狙いから。",
+      "url": "https://x.com/slot_ogikiti/status/2085637997081624910"
+    },
+    {
+      "id": "slot_ogikiti-2085633640743272816-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "アビバ系列合同スロトレ取材。月ゾロ8/8開催。",
+      "url": "https://x.com/slot_ogikiti/status/2085633640743272816"
+    },
+    {
+      "id": "karasuro_7-2085665898028048546-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチ来店取材。6台並び探し推奨。東京喰種等のメイン機種が狙い目。",
+      "url": "https://x.com/karasuro_7/status/2085665898028048546"
+    },
+    {
+      "id": "karasuro_7-2085648358107193407-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ掲載店。詳細は画像参照。",
+      "url": "https://x.com/karasuro_7/status/2085648358107193407"
+    },
+    {
+      "id": "karasuro_7-2085648358107193407-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ掲載店。詳細は画像参照。",
+      "url": "https://x.com/karasuro_7/status/2085648358107193407"
+    },
+    {
+      "id": "1_take6-2085640030857633822-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [
+        "Lカバネリ",
+        "ジャグ"
+      ],
+      "matsubi": [],
+      "note": "月ゾロ。伝説の刻取材。店内全域に仕掛け期待",
+      "url": "https://x.com/1_take6/status/2085640030857633822"
+    },
+    {
+      "id": "1_take6-2085638353165381906-スーパーDステーション立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "Dステーション系列月ゾロ合同。合同機種に期待",
+      "url": "https://x.com/1_take6/status/2085638353165381906"
+    },
+    {
+      "id": "1_take6-2085638228128997666-スーパーDステーション立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [],
+      "note": "月ゾロ。スロパチガール来店。4台並び×9箇所",
+      "url": "https://x.com/1_take6/status/2085638228128997666"
+    },
+    {
+      "id": "1_take6-2085637026939023704-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "Lカバネリ",
+        "乙女5",
+        "禁書目録2",
+        "東京喰種",
+        "マイジャグ"
+      ],
+      "matsubi": [],
+      "note": "月ゾロ。スロパチガール/よしくん/ガオりん来店。4台並び×11箇所以上",
+      "url": "https://x.com/1_take6/status/2085637026939023704"
+    },
+    {
+      "id": "1_take6-2085636312321913247-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "月ゾロ。スロパチガール来店。4台並び4箇所以上",
+      "url": "https://x.com/1_take6/status/2085636312321913247"
     },
     {
       "id": "slot_ogikiti-2085203677544058910-楽園立川店",
