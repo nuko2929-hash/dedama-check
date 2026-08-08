@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T08:49",
-  "count": 1527,
+  "generated_at": "2026-08-08T13:27",
+  "count": 1537,
   "predictions": [
     {
       "id": "slot_ogikiti-2085931572398801347-ガーデン戸塚",
@@ -218,6 +218,175 @@
       "matsubi": [],
       "note": "スロパチガール来店。4台並び13箇所、メインスマスロ優先。",
       "url": "https://x.com/1_take6/status/2086002406836556096"
+    },
+    {
+      "id": "slot_ogikiti-2086064769916670091-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ミリゴ",
+        "ゴージャグ"
+      ],
+      "matsubi": [],
+      "note": "裏燦撃取材初開催。期待を越える3DAYS最終日",
+      "url": "https://x.com/slot_ogikiti/status/2086064769916670091"
+    },
+    {
+      "id": "slo1_tyousataiZ-2086058098725392850-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "Lカバネリ",
+        "東京喰種",
+        "GOD",
+        "乙女5",
+        "モンキー"
+      ],
+      "matsubi": [
+        6,
+        6,
+        6
+      ],
+      "note": "5周年感謝。3台並び、SANKYO機種複数、マギレコに注目",
+      "url": "https://x.com/slo1_tyousataiZ/status/2086058098725392850"
+    },
+    {
+      "id": "karasuro_7-2086016832222396637-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "からくり",
+        "転生",
+        "マギレコ",
+        "マイV",
+        "攻殻機動隊"
+      ],
+      "matsubi": [],
+      "note": "周年月間＆スロパチ来店取材。6台並び(東京喰種/Lカバネリ)が鉄板",
+      "url": "https://x.com/karasuro_7/status/2086016832222396637"
+    },
+    {
+      "id": "1_take6-2086060961983819784-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [
+        9
+      ],
+      "note": "キコーナ8店舗合同取材。まるごと仕掛けに期待。",
+      "url": "https://x.com/1_take6/status/2086060961983819784"
+    },
+    {
+      "id": "1_take6-2086055578326229097-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "クロロ調査隊チームS/P取材。全店合同感謝企画。",
+      "url": "https://x.com/1_take6/status/2086055578326229097"
+    },
+    {
+      "id": "1_take6-2086055521057153315-スーパーDステーション立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "Lモンスターハンター",
+        "L頭文字D 2nd",
+        "L虚構推理"
+      ],
+      "matsubi": [
+        9
+      ],
+      "note": "9の付く日。まいったぁー機種と毎日狙える仕掛け軸。",
+      "url": "https://x.com/1_take6/status/2086055521057153315"
+    },
+    {
+      "id": "1_take6-2086046597314674847-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        9
+      ],
+      "note": "キコーナ8店舗合同。周年日。まるごと派手仕掛けに期待。",
+      "url": "https://x.com/1_take6/status/2086046597314674847"
+    },
+    {
+      "id": "1_take6-2086044542361542773-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "クロロ調査隊チームSP、五國同盟。3連5ヶ所仕掛け期待。",
+      "url": "https://x.com/1_take6/status/2086044542361542773"
+    },
+    {
+      "id": "1_take6-2086020645029356012-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "リニューアル期間。超大型新装。新台39台、SEED42台導入。",
+      "url": "https://x.com/1_take6/status/2086020645029356012"
+    },
+    {
+      "id": "1_take6-2086019607824159011-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "SAO2",
+        "Lカバネリ",
+        "乙女5",
+        "からくり2"
+      ],
+      "matsubi": [
+        9
+      ],
+      "note": "9の付く日。裏破天荒来店。1/2、3台並び、まるごと期待。",
+      "url": "https://x.com/1_take6/status/2086019607824159011"
     },
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
