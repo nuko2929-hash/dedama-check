@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-07T14:00",
-  "count": 1509,
+  "generated_at": "2026-08-08T03:39",
+  "count": 1515,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2085931572398801347-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き店舗として記載",
+      "url": "https://x.com/slot_ogikiti/status/2085931572398801347"
+    },
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
       "source": "カラスロ@神奈川",
@@ -523,6 +536,58 @@
       "url": "https://x.com/1_take6/status/2085680586627366967"
     },
     {
+      "id": "karasuro_7-2085739110032183494-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "年イチ8/8。抽選1111名。サヤカ来店。",
+      "url": "https://x.com/karasuro_7/status/2085739110032183494"
+    },
+    {
+      "id": "karasuro_7-2085739086573453556-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "年イチ8/8。周年日。ガーデングループ合同。集大成Z取材。",
+      "url": "https://x.com/karasuro_7/status/2085739086573453556"
+    },
+    {
+      "id": "karasuro_7-2085739072023372027-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "年イチ8/8。ガーデングループ合同。集大成Z来店取材。",
+      "url": "https://x.com/karasuro_7/status/2085739072023372027"
+    },
+    {
+      "id": "karasuro_7-2085739050401677321-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-07",
+      "target_date": "2026-08-08",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "年イチ8/8。紅の龍。抽選開始8:40。",
+      "url": "https://x.com/karasuro_7/status/2085739050401677321"
+    },
+    {
       "id": "slot_ogikiti-2085203677544058910-楽園立川店",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -879,6 +944,31 @@
       "matsubi": [],
       "note": "明日のお品書き掲載店",
       "url": "https://x.com/slot_ogikiti/status/2085562692958654954"
+    },
+    {
+      "id": "slot_ogikiti-2085900897801195998-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-07",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ミリゴ",
+        "ゴージャグ",
+        "ネオアイム",
+        "乙女5",
+        "Lカバネリ",
+        "喰種",
+        "転生",
+        "北斗",
+        "戦コレ6",
+        "東リベ",
+        "インデックス2"
+      ],
+      "matsubi": [],
+      "note": "PFちゅんげー調査隊。総差枚+44,950枚、抽選300人",
+      "url": "https://x.com/slot_ogikiti/status/2085900897801195998"
     },
     {
       "id": "slot_ogikiti-2084841568708731037-楽園立川店",
