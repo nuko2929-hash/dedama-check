@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T09:05",
-  "count": 1546,
+  "generated_at": "2026-08-09T13:31",
+  "count": 1556,
   "predictions": [
     {
       "id": "slot_ogikiti-2086366428383555698-ハイパージアス立川",
@@ -84,6 +84,155 @@
       "matsubi": [],
       "note": "8のつく日。毎日来たい店として紹介。",
       "url": "https://x.com/karasuro_7/status/2086360999083594046"
+    },
+    {
+      "id": "slo1_tyousataiZ-2086402688116465875-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "からくり2",
+        "喰種",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "⓪の日、ytrさん来店取材。沖スロ強化、⓪まつわり機種が狙い目",
+      "url": "https://x.com/slo1_tyousataiZ/status/2086402688116465875"
+    },
+    {
+      "id": "karasuro_7-2086398236416500139-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "鶴見UNOの色付きスロパチ開催。列全仕掛け恒例。",
+      "url": "https://x.com/karasuro_7/status/2086398236416500139"
+    },
+    {
+      "id": "karasuro_7-2086393950374617335-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "Sカバネリ"
+      ],
+      "matsubi": [],
+      "note": "ダントツ取材。Sカバネリ最優先。1/2以上複数機種。",
+      "url": "https://x.com/karasuro_7/status/2086393950374617335"
+    },
+    {
+      "id": "karasuro_7-2086393454532440211-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川ピーアーク合同開催。タカアキ来店予定。",
+      "url": "https://x.com/karasuro_7/status/2086393454532440211"
+    },
+    {
+      "id": "karasuro_7-2086387987487846880-プレイスポットドラゴン川崎店",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店S。新台入替に重ねて開催。4台並び傾向。",
+      "url": "https://x.com/karasuro_7/status/2086387987487846880"
+    },
+    {
+      "id": "karasuro_7-2086383551990157481-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "12周年月間。近隣対抗日。スロパチ2連戦2日目。6台並び期待。",
+      "url": "https://x.com/karasuro_7/status/2086383551990157481"
+    },
+    {
+      "id": "1_take6-2086434250757460110-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "明日推し機種はジャグラーシリーズ。イクゼ企画",
+      "url": "https://x.com/1_take6/status/2086434250757460110"
+    },
+    {
+      "id": "1_take6-2086387138518728846-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        10
+      ],
+      "note": "神奈川ピーアーク3店舗共闘。合同機種や各種1/2仕掛け",
+      "url": "https://x.com/1_take6/status/2086387138518728846"
+    },
+    {
+      "id": "1_take6-2086382280344539391-アビバ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "Lカバネリ",
+        "ジャグ",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "アビバ5店舗スロトレZEUS開催。GOD最優先推奨",
+      "url": "https://x.com/1_take6/status/2086382280344539391"
+    },
+    {
+      "id": "1_take6-2086381874373701914-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "からくり2",
+        "SAO2"
+      ],
+      "matsubi": [],
+      "note": "お盆仕掛け開催。まるごと複数機種に期待",
+      "url": "https://x.com/1_take6/status/2086381874373701914"
     },
     {
       "id": "slot_ogikiti-2085931572398801347-ガーデン戸塚",
