@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T13:27",
-  "count": 1537,
+  "generated_at": "2026-08-09T04:39",
+  "count": 1541,
   "predictions": [
     {
       "id": "slot_ogikiti-2085931572398801347-ガーデン戸塚",
@@ -387,6 +387,51 @@
       ],
       "note": "9の付く日。裏破天荒来店。1/2、3台並び、まるごと期待。",
       "url": "https://x.com/1_take6/status/2086019607824159011"
+    },
+    {
+      "id": "slot_ogikiti-2086294788048105808-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-09",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日10日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2086294788048105808"
+    },
+    {
+      "id": "karasuro_7-2086085496170790924-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び軸。8連戦中。",
+      "url": "https://x.com/karasuro_7/status/2086085496170790924"
+    },
+    {
+      "id": "karasuro_7-2086085487954112518-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-08",
+      "target_date": "2026-08-09",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "周年月間。スロパチ来店取材。良番恩恵強い。",
+      "url": "https://x.com/karasuro_7/status/2086085487954112518"
     },
     {
       "id": "karasuro_7-2083187566497689661-ピーアーク相模大野",
@@ -959,6 +1004,28 @@
       "matsubi": [],
       "note": "年イチ8/8。紅の龍。抽選開始8:40。",
       "url": "https://x.com/karasuro_7/status/2085739050401677321"
+    },
+    {
+      "id": "slot_ogikiti-2086260402107842968-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-08",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "化物語",
+        "Lカバネリ",
+        "サンダー",
+        "攻殻",
+        "マイV",
+        "喰種",
+        "戦コレ6",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "月ゾロ×真骨超で総差枚+37,917枚",
+      "url": "https://x.com/slot_ogikiti/status/2086260402107842968"
     },
     {
       "id": "slot_ogikiti-2085203677544058910-楽園立川店",
