@@ -1,7 +1,90 @@
 {
-  "generated_at": "2026-08-09T04:39",
-  "count": 1541,
+  "generated_at": "2026-08-09T09:05",
+  "count": 1546,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2086366428383555698-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ファンキー",
+        "ミリゴ",
+        "ゴー"
+      ],
+      "matsubi": [],
+      "note": "新台入替＆ハーフテン開催。ファンキー16台が早番特権。1/2以上機種10機種以上。",
+      "url": "https://x.com/slot_ogikiti/status/2086366428383555698"
+    },
+    {
+      "id": "slot_ogikiti-2086360254128816276-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ミリオンゴッド"
+      ],
+      "matsubi": [
+        0
+      ],
+      "note": "第2エリア共闘開催。ZEUS調査団。⓪の日はGOD推し。多台数からの仕掛け。",
+      "url": "https://x.com/slot_ogikiti/status/2086360254128816276"
+    },
+    {
+      "id": "karasuro_7-2086374258591289620-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "GOD",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "神奈川ピーアーク合同。スロパチガール来店。4台並び軸。",
+      "url": "https://x.com/karasuro_7/status/2086374258591289620"
+    },
+    {
+      "id": "karasuro_7-2086371735335559515-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "海門",
+        "ミリゴ",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "神奈川ピーアーク合同。1/2以上狙い。単品以上期待。",
+      "url": "https://x.com/karasuro_7/status/2086371735335559515"
+    },
+    {
+      "id": "karasuro_7-2086360999083594046-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-09",
+      "target_date": "2026-08-10",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "8のつく日。毎日来たい店として紹介。",
+      "url": "https://x.com/karasuro_7/status/2086360999083594046"
+    },
     {
       "id": "slot_ogikiti-2085931572398801347-ガーデン戸塚",
       "source": "荻吉@スロ",
