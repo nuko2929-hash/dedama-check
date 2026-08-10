@@ -1,7 +1,90 @@
 {
-  "generated_at": "2026-08-10T04:08",
-  "count": 1562,
+  "generated_at": "2026-08-10T09:29",
+  "count": 1567,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2086726570300133838-楽園立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-10",
+      "target_date": "2026-08-11",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "からくり2",
+        "化物語",
+        "沖ドキゴージャス",
+        "真打吉宗",
+        "ネオアイム",
+        "東京喰種",
+        "Lカバネリ",
+        "L炎炎2",
+        "東リベ"
+      ],
+      "matsubi": [],
+      "note": "W周年×ゾロ目。ネクスタ対象9機種でビンゴ仕掛け。朝から参戦価値あり",
+      "url": "https://x.com/slot_ogikiti/status/2086726570300133838"
+    },
+    {
+      "id": "slot_ogikiti-2086734505415676356-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-10",
+      "target_date": "2026-08-11",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "マギレコ",
+        "喰種",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "周年日×真骨超開催。去年+115,792枚実績。優秀機種×3台並び充実",
+      "url": "https://x.com/slot_ogikiti/status/2086734505415676356"
+    },
+    {
+      "id": "slot_ogikiti-2086679437979107631-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-10",
+      "target_date": "2026-08-11",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "周年店として注目店舗リストに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2086679437979107631"
+    },
+    {
+      "id": "slot_ogikiti-2086675147206144173-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-10",
+      "target_date": "2026-08-11",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日11日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2086675147206144173"
+    },
+    {
+      "id": "karasuro_7-2086733658401161489-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-10",
+      "target_date": "2026-08-11",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ",
+        "マイV",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "周年月間×近隣対抗×スロパチガール来店。4台並び期待。",
+      "url": "https://x.com/karasuro_7/status/2086733658401161489"
+    },
     {
       "id": "slot_ogikiti-2086366428383555698-ハイパージアス立川",
       "source": "荻吉@スロ",
