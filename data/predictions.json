@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-10T13:54",
-  "count": 1598,
+  "generated_at": "2026-08-11T03:58",
+  "count": 1601,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2087013039644299596-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-11",
+      "target_date": "2026-08-12",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日12日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2087013039644299596"
+    },
+    {
+      "id": "slot_ogikiti-2087013039644299596-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-11",
+      "target_date": "2026-08-12",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日12日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2087013039644299596"
+    },
     {
       "id": "slot_ogikiti-2086726570300133838-楽園立川",
       "source": "荻吉@スロ",
@@ -891,6 +917,28 @@
       "matsubi": [],
       "note": "創業月間×SSSS×SS・判沢くん取材。7日連続取材開始",
       "url": "https://x.com/1_take6/status/2086446022432264233"
+    },
+    {
+      "id": "slot_ogikiti-2087024646621454474-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-11",
+      "target_date": "2026-08-10",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "モンハン",
+        "ファンキー",
+        "天膳",
+        "いせかる",
+        "新鬼3",
+        "かぐや様",
+        "東リベ",
+        "L炎炎2"
+      ],
+      "matsubi": [],
+      "note": "新台入替。スロトレ調査団ハーフテン。ファンキーが高配分",
+      "url": "https://x.com/slot_ogikiti/status/2087024646621454474"
     },
     {
       "id": "slot_ogikiti-2085931572398801347-ガーデン戸塚",
