@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T03:58",
-  "count": 1601,
+  "generated_at": "2026-08-11T10:00",
+  "count": 1608,
   "predictions": [
     {
       "id": "slot_ogikiti-2087013039644299596-ガーデン戸塚",
@@ -27,6 +27,118 @@
       "matsubi": [],
       "note": "明日12日のお品書き掲載店",
       "url": "https://x.com/slot_ogikiti/status/2087013039644299596"
+    },
+    {
+      "id": "slot_ogikiti-2087100160660934769-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-11",
+      "target_date": "2026-08-12",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "ネオアイム",
+        "からくり2"
+      ],
+      "matsubi": [],
+      "note": "御三家来店取材🔰開催。3機種全て1/3以上配分が最低ライン。",
+      "url": "https://x.com/slot_ogikiti/status/2087100160660934769"
+    },
+    {
+      "id": "slot_ogikiti-2087092733303456017-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-11",
+      "target_date": "2026-08-12",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "東リベ"
+      ],
+      "matsubi": [],
+      "note": "スロトレ調査団『エニグマ』開催。東リベが1/2以上。赤字営業に期待。",
+      "url": "https://x.com/slot_ogikiti/status/2087092733303456017"
+    },
+    {
+      "id": "karasuro_7-2087103671175880852-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-11",
+      "target_date": "2026-08-12",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "東リベ",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "周年月間×2のつく日。店内10%以上🌈🦒。東リベ最優先。",
+      "url": "https://x.com/karasuro_7/status/2087103671175880852"
+    },
+    {
+      "id": "karasuro_7-2087103204605726987-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-11",
+      "target_date": "2026-08-12",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神威の極初陣。全系探しから。3台以上機種から頻度↑。",
+      "url": "https://x.com/karasuro_7/status/2087103204605726987"
+    },
+    {
+      "id": "karasuro_7-2087095550101643371-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-11",
+      "target_date": "2026-08-12",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "マイV",
+        "GOD",
+        "エヴァ15",
+        "暴凶星"
+      ],
+      "matsubi": [],
+      "note": "スロぱちガール来店。4台並び軸。東京喰種・カバネリシリーズ・マイV重点。",
+      "url": "https://x.com/karasuro_7/status/2087095550101643371"
+    },
+    {
+      "id": "karasuro_7-2087067119607566692-吉兆東名川崎店",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-11",
+      "target_date": "2026-08-12",
+      "store": "吉兆東名川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川推奨店リスト掲載。詳細はオプチャ参照。",
+      "url": "https://x.com/karasuro_7/status/2087067119607566692"
+    },
+    {
+      "id": "1_take6-2087096456700432698-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-11",
+      "target_date": "2026-08-12",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ジャグラー",
+        "東京喰種",
+        "SAO2",
+        "からくり2"
+      ],
+      "matsubi": [],
+      "note": "お盆仕掛け。ジャグに期待。高配分・並び等の法則を意識。",
+      "url": "https://x.com/1_take6/status/2087096456700432698"
     },
     {
       "id": "slot_ogikiti-2086726570300133838-楽園立川",
