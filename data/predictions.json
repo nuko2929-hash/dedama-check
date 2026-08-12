@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-08-12T04:21",
-  "count": 1623,
+  "generated_at": "2026-08-12T09:17",
+  "count": 1633,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2087442359105765796-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "モンキー",
+        "喰種",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "天草王道ホール応援団。4台並び13箇所以上、近隣徹底対抗。",
+      "url": "https://x.com/slot_ogikiti/status/2087442359105765796"
+    },
+    {
+      "id": "slot_ogikiti-2087412782207815797-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書き掲載店。強い店の可能性",
+      "url": "https://x.com/slot_ogikiti/status/2087412782207815797"
+    },
+    {
+      "id": "karasuro_7-2087462116378935622-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "周年月間・近隣対抗・アルティメットCG調査隊。全体10%以上、1/3以上機種大量",
+      "url": "https://x.com/karasuro_7/status/2087462116378935622"
+    },
+    {
+      "id": "karasuro_7-2087434157530263995-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャ掲載店。詳細情報あり",
+      "url": "https://x.com/karasuro_7/status/2087434157530263995"
+    },
+    {
+      "id": "1_take6-2087452207738470718-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "真打吉宗",
+        "炎炎2",
+        "GOD",
+        "攻殻機動隊",
+        "化物語"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "3付く日に燦全仕掛け。まるごと狙い優先",
+      "url": "https://x.com/1_take6/status/2087452207738470718"
+    },
+    {
+      "id": "1_take6-2087446082838319571-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "お祭り開催。神奈川スロチャット連動",
+      "url": "https://x.com/1_take6/status/2087446082838319571"
+    },
     {
       "id": "slot_ogikiti-2087013039644299596-ガーデン戸塚",
       "source": "荻吉@スロ",
@@ -341,6 +431,56 @@
       "matsubi": [],
       "note": "リニューアル初日鉄板。3台並びから金キノコ狙い必須",
       "url": "https://x.com/1_take6/status/2087147611837104441"
+    },
+    {
+      "id": "slot_ogikiti-2087428851764978085-楽園立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-12",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2087428851764978085"
+    },
+    {
+      "id": "slot_ogikiti-2087403545729663336-楽園立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-12",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "プリズムナナ",
+        "バイオRE3",
+        "いざ番長",
+        "Lカバネリ",
+        "からくり2"
+      ],
+      "matsubi": [],
+      "note": "W周年&創業月間。複数優秀機種で好調。ネクスタ対象機種に注目",
+      "url": "https://x.com/slot_ogikiti/status/2087403545729663336"
+    },
+    {
+      "id": "slot_ogikiti-2087401790140821978-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-12",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ミリゴ",
+        "ゴージャジャグ",
+        "東リベ",
+        "からくり2"
+      ],
+      "matsubi": [],
+      "note": "週間おすすめ機種『ミリゴ&ゴージャグ』2巡目。複数並び候補で好調",
+      "url": "https://x.com/slot_ogikiti/status/2087401790140821978"
     },
     {
       "id": "slot_ogikiti-2086726570300133838-楽園立川",
@@ -947,6 +1087,25 @@
       "matsubi": [],
       "note": "スロパチガール来店取材。抽選835人",
       "url": "https://x.com/1_take6/status/2087358489807233414"
+    },
+    {
+      "id": "1_take6-2087395136905093504-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-11",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ネオアイムジャグラー",
+        "スマスロ北斗の拳",
+        "戦国乙女4"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "1付く日。抽選109名。複数機種まるごと候補",
+      "url": "https://x.com/1_take6/status/2087395136905093504"
     },
     {
       "id": "slot_ogikiti-2086366428383555698-ハイパージアス立川",
