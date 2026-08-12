@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T09:17",
-  "count": 1633,
+  "generated_at": "2026-08-12T13:56",
+  "count": 1646,
   "predictions": [
     {
       "id": "slot_ogikiti-2087442359105765796-アビバ湘南台",
@@ -91,6 +91,222 @@
       "matsubi": [],
       "note": "お祭り開催。神奈川スロチャット連動",
       "url": "https://x.com/1_take6/status/2087446082838319571"
+    },
+    {
+      "id": "slot_ogikiti-2087521808404885694-キコーナ戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きリストに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2087521808404885694"
+    },
+    {
+      "id": "slot_ogikiti-2087521808404885694-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きリストに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2087521808404885694"
+    },
+    {
+      "id": "slot_ogikiti-2087513005731020814-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "3台並び探し。恒例の狙い目",
+      "url": "https://x.com/slot_ogikiti/status/2087513005731020814"
+    },
+    {
+      "id": "slot_ogikiti-2087512916832797154-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ミリゴ",
+        "ゴージャグ"
+      ],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "燦撃取材。3台並び×9箇所以上",
+      "url": "https://x.com/slot_ogikiti/status/2087512916832797154"
+    },
+    {
+      "id": "slo1_tyousataiZ-2087500887552123080-キコーナ戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [
+        3
+      ],
+      "note": "PS応援女子R来店。初開催。③の日特定日。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2087500887552123080"
+    },
+    {
+      "id": "karasuro_7-2087530052091301909-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "神マルP"
+      ],
+      "matsubi": [],
+      "note": "神奈川マルハン2店舗でオリイベ。綾瀬上土棚は赤P。",
+      "url": "https://x.com/karasuro_7/status/2087530052091301909"
+    },
+    {
+      "id": "karasuro_7-2087529951436423524-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店PS。8連戦5日目。4台並びを軸に立ち回り。",
+      "url": "https://x.com/karasuro_7/status/2087529951436423524"
+    },
+    {
+      "id": "karasuro_7-2087481457300406279-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店PS。ほしみちゃん来店。4台並びが毎日仕掛け。",
+      "url": "https://x.com/karasuro_7/status/2087481457300406279"
+    },
+    {
+      "id": "1_take6-2087493852727070830-ハイパージアス立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ヴヴヴ2",
+        "乙女5",
+        "モンキー",
+        "からくり2",
+        "化物語",
+        "バイオre3",
+        "北斗",
+        "鉄拳6",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "お盆仕掛け。3×3STAR『サザンスター』。化物語は最優先。",
+      "url": "https://x.com/1_take6/status/2087493852727070830"
+    },
+    {
+      "id": "1_take6-2087484462607339725-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "東リべ",
+        "マギレコ",
+        "炎炎2",
+        "GOD",
+        "東京喰種",
+        "ゴージャグ",
+        "Sカバネリ",
+        "化物語",
+        "ゴブスレ",
+        "バーサスリヴァイズ"
+      ],
+      "matsubi": [
+        13
+      ],
+      "note": "月周年日(毎月13日)。キノコスタンプ【金キノコ/塊】。リニューアル直後。",
+      "url": "https://x.com/1_take6/status/2087484462607339725"
+    },
+    {
+      "id": "1_take6-2087484311251411016-エランドール泉",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [
+        "東京喰種",
+        "エヴァ15"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "3の付く日。パチンコ注目。宝玉のリアル。東京喰種デカヘソ増台。",
+      "url": "https://x.com/1_take6/status/2087484311251411016"
+    },
+    {
+      "id": "1_take6-2087483856081600682-アビバ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "モンキー",
+        "Lカバネリ",
+        "リオエース",
+        "沖ドキBLACK",
+        "ユニコーン"
+      ],
+      "matsubi": [],
+      "note": "近隣対抗『天草王道ホール応援団』。まるごと/4台並び狙える。",
+      "url": "https://x.com/1_take6/status/2087483856081600682"
+    },
+    {
+      "id": "1_take6-2087479224861118935-ガーデン戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-12",
+      "target_date": "2026-08-13",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "Sammy機種"
+      ],
+      "matsubi": [],
+      "note": "お盆仕掛け。アルティメットCG調査隊来店。朝入場抽選オンライン化。",
+      "url": "https://x.com/1_take6/status/2087479224861118935"
     },
     {
       "id": "slot_ogikiti-2087013039644299596-ガーデン戸塚",
