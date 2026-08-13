@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T10:14",
-  "count": 1658,
+  "generated_at": "2026-08-13T14:08",
+  "count": 1665,
   "predictions": [
     {
       "id": "karasuro_7-2087844647636717613-ピーアーク相模大野",
@@ -118,6 +118,113 @@
       "matsubi": [],
       "note": "神奈川キコーナ8店舗合同取材。お盆連日仕掛け、まるごと狙い最優先",
       "url": "https://x.com/1_take6/status/2087835993290555402"
+    },
+    {
+      "id": "slo1_tyousataiZ-2087873764545708299-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "L喰種",
+        "ゴッド",
+        "からくり2"
+      ],
+      "matsubi": [],
+      "note": "④の日で大都機種強化。全台系/ニブイチ/並び期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2087873764545708299"
+    },
+    {
+      "id": "slo1_tyousataiZ-2087849894291911040-キコーナ戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "ジャグラー"
+      ],
+      "matsubi": [],
+      "note": "ぺこぱ取材開催。据え置き軸の日。前日③の翌日で狙いやすい。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2087849894291911040"
+    },
+    {
+      "id": "karasuro_7-2087885253138674089-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "周年月間。AI脳トレ取材。ayasi来店。",
+      "url": "https://x.com/karasuro_7/status/2087885253138674089"
+    },
+    {
+      "id": "karasuro_7-2087846767824191595-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "周年月間。AI脳トレ取材。オンライン抽選必須。",
+      "url": "https://x.com/karasuro_7/status/2087846767824191595"
+    },
+    {
+      "id": "karasuro_7-2087885272151359993-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロぱちガール来店PS。桜兎ぬしこ来店。",
+      "url": "https://x.com/karasuro_7/status/2087885272151359993"
+    },
+    {
+      "id": "1_take6-2087869237251678502-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "新台",
+        "メイン機種"
+      ],
+      "matsubi": [],
+      "note": "お盆連日仕掛け。並び/列/1/2仕掛けに注目。",
+      "url": "https://x.com/1_take6/status/2087869237251678502"
+    },
+    {
+      "id": "1_take6-2087869894650171419-プレイスポットドラゴン小田急相模原",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "プレイスポットドラゴン小田急相模原",
+      "area": null,
+      "machines": [
+        "ジャグ"
+      ],
+      "matsubi": [],
+      "note": "お盆仕掛け。並び/まるごと/1/2仕掛けが軸。",
+      "url": "https://x.com/1_take6/status/2087869894650171419"
     },
     {
       "id": "slot_ogikiti-2087442359105765796-アビバ湘南台",
