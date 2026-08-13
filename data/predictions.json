@@ -1,7 +1,124 @@
 {
-  "generated_at": "2026-08-13T05:09",
-  "count": 1651,
+  "generated_at": "2026-08-13T10:14",
+  "count": 1658,
   "predictions": [
+    {
+      "id": "karasuro_7-2087844647636717613-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び軸。過去傾向から東京喰種・カバネリ・GOD推奨",
+      "url": "https://x.com/karasuro_7/status/2087844647636717613"
+    },
+    {
+      "id": "karasuro_7-2087842640662585488-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "エヴァ17"
+      ],
+      "matsubi": [],
+      "note": "パチンコ時差開放8/8～8/16。東京喰種・エヴァ17がオススメ",
+      "url": "https://x.com/karasuro_7/status/2087842640662585488"
+    },
+    {
+      "id": "karasuro_7-2087835947291320346-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "マイV",
+        "東京喰種",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。メイン＋少数バランス良く並び狙える",
+      "url": "https://x.com/karasuro_7/status/2087835947291320346"
+    },
+    {
+      "id": "karasuro_7-2087834588177711174-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "Lカバネリ",
+        "リオエース"
+      ],
+      "matsubi": [],
+      "note": "雷鳴の極開催2回目。全系＋3台～並び。前回実績から推奨",
+      "url": "https://x.com/karasuro_7/status/2087834588177711174"
+    },
+    {
+      "id": "karasuro_7-2087833929789399181-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "防振り",
+        "ライズ",
+        "東京喰種",
+        "カバネリ"
+      ],
+      "matsubi": [],
+      "note": "リニュ8日目・雷鳴の極3回目。全系複数＋2～6台並び",
+      "url": "https://x.com/karasuro_7/status/2087833929789399181"
+    },
+    {
+      "id": "karasuro_7-2087800152664986060-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "GOD",
+        "Lカバネリ",
+        "ジャグ",
+        "化物語",
+        "マンキン"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店8連戦7日目。4台並び。多数オススメ機種",
+      "url": "https://x.com/karasuro_7/status/2087800152664986060"
+    },
+    {
+      "id": "1_take6-2087835993290555402-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-13",
+      "target_date": "2026-08-14",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川キコーナ8店舗合同取材。お盆連日仕掛け、まるごと狙い最優先",
+      "url": "https://x.com/1_take6/status/2087835993290555402"
+    },
     {
       "id": "slot_ogikiti-2087442359105765796-アビバ湘南台",
       "source": "荻吉@スロ",
