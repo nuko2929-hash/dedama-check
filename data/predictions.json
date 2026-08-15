@@ -1,7 +1,131 @@
 {
-  "generated_at": "2026-08-14T13:53",
-  "count": 1691,
+  "generated_at": "2026-08-15T08:36",
+  "count": 1704,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2088544602953515236-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "Sカバネリ",
+        "超太陽神"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "6の日・周年月間。早番特権Sカバネリが最優先。6台並び×3箇所以上",
+      "url": "https://x.com/slot_ogikiti/status/2088544602953515236"
+    },
+    {
+      "id": "slot_ogikiti-2088542296006590495-楽園町田店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "楽園町田店",
+      "area": null,
+      "machines": [
+        "ジャグラー"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "6の日。ジャグ内20%以上。末尾⑥や6に纏わる仕掛けに注目",
+      "url": "https://x.com/slot_ogikiti/status/2088542296006590495"
+    },
+    {
+      "id": "slot_ogikiti-2088540023079723140-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "Lカバネリ",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "マジか!!取材3回目。過去実績◎。全体15%以上が最低ライン",
+      "url": "https://x.com/slot_ogikiti/status/2088540023079723140"
+    },
+    {
+      "id": "slot_ogikiti-2088504341435133965-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "戦コレ6",
+        "喰種",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "8/14実績。優秀機種あり。勝率高機種複数。3台並び複数",
+      "url": "https://x.com/slot_ogikiti/status/2088504341435133965"
+    },
+    {
+      "id": "slot_ogikiti-2088480858487521730-楽園町田店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "楽園町田店",
+      "area": null,
+      "machines": [
+        "真打吉宗",
+        "SAO2",
+        "からくり2"
+      ],
+      "matsubi": [],
+      "note": "8/14スロトレ調査団。勝率高機種複数。からくり2が5/11台",
+      "url": "https://x.com/slot_ogikiti/status/2088480858487521730"
+    },
+    {
+      "id": "slot_ogikiti-2088462123848315128-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日16日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2088462123848315128"
+    },
+    {
+      "id": "karasuro_7-2088506373567123952-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川イベント情報リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2088506373567123952"
+    },
+    {
+      "id": "karasuro_7-2088506373567123952-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川イベント情報リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2088506373567123952"
+    },
     {
       "id": "slot_ogikiti-2088105049734172693-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -341,6 +465,89 @@
       ],
       "note": "土曜日。キノコ総長指令に基づく。8/8のまるごと仕掛けは乙女5",
       "url": "https://x.com/1_take6/status/2088197131563925615"
+    },
+    {
+      "id": "1_take6-2088523779186319473-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-15",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "カイジ沼5"
+      ],
+      "matsubi": [],
+      "note": "奇跡の3台設置。打ち込み1万個で19個ジャス確認",
+      "url": "https://x.com/1_take6/status/2088523779186319473"
+    },
+    {
+      "id": "1_take6-2088513773934113221-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-15",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "カバネリ",
+        "マイジャグラー",
+        "東京喰種",
+        "からくり2",
+        "ゴージャグ",
+        "SBJ",
+        "リオエース",
+        "カイジ沼5"
+      ],
+      "matsubi": [],
+      "note": "6連良さげ。時差解放で反応あり。稼働高いがチャンスあり",
+      "url": "https://x.com/1_take6/status/2088513773934113221"
+    },
+    {
+      "id": "1_take6-2088482781307506956-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-15",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "カイジ沼5"
+      ],
+      "matsubi": [],
+      "note": "神台。1000玉85。時差解放鉄板",
+      "url": "https://x.com/1_take6/status/2088482781307506956"
+    },
+    {
+      "id": "1_take6-2088478232698138951-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-15",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "カイジ沼5"
+      ],
+      "matsubi": [],
+      "note": "時差解放当選で名機カイジ沼5へ",
+      "url": "https://x.com/1_take6/status/2088478232698138951"
+    },
+    {
+      "id": "1_take6-2088473298669904336-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-15",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "SBJ",
+        "リオエース"
+      ],
+      "matsubi": [],
+      "note": "SBJ・リオエースかなり良好。時差抽選へ",
+      "url": "https://x.com/1_take6/status/2088473298669904336"
     },
     {
       "id": "karasuro_7-2087844647636717613-ピーアーク相模大野",
