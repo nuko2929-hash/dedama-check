@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-15T13:07",
-  "count": 1722,
+  "generated_at": "2026-08-16T03:13",
+  "count": 1729,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2088825621090894318-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-17",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日17日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2088825621090894318"
+    },
     {
       "id": "slot_ogikiti-2088544602953515236-楽園立川店",
       "source": "荻吉@スロ",
@@ -435,6 +448,60 @@
       "url": "https://x.com/1_take6/status/2088558483310629272"
     },
     {
+      "id": "karasuro_7-2088769696808247689-スーパーDステーション立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "月日ゾロ、近隣対抗、合同賞品入荷、スロパチガール来店",
+      "url": "https://x.com/karasuro_7/status/2088769696808247689"
+    },
+    {
+      "id": "karasuro_7-2088754610358173739-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "周年月間、マジか！取材、寺井一択来店、派手な全系続く",
+      "url": "https://x.com/karasuro_7/status/2088754610358173739"
+    },
+    {
+      "id": "karasuro_7-2088632593743052984-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "相模の頂来店取材、スロパチガール来店、キングウォッチッチ、月イチ共闘",
+      "url": "https://x.com/karasuro_7/status/2088632593743052984"
+    },
+    {
+      "id": "karasuro_7-2088632583097917838-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-16",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "相模の頂来店取材、キングウォッチッチ、相模原店合同、ピン王コラボ",
+      "url": "https://x.com/karasuro_7/status/2088632583097917838"
+    },
+    {
       "id": "slot_ogikiti-2088105049734172693-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -856,6 +923,48 @@
       "matsubi": [],
       "note": "SBJ・リオエースかなり良好。時差抽選へ",
       "url": "https://x.com/1_take6/status/2088473298669904336"
+    },
+    {
+      "id": "slot_ogikiti-2088790500799373504-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-15",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "8/15結果、3台並び候補あり末尾②⑧軸",
+      "url": "https://x.com/slot_ogikiti/status/2088790500799373504"
+    },
+    {
+      "id": "1_take6-2088618809854947756-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-15",
+      "target_date": "2026-08-15",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "邪神ちゃん",
+        "からくりサーカス",
+        "ソードアート・オンライン",
+        "カバネリ",
+        "マイジャグラー",
+        "ゴージャグラー",
+        "スーパービンゴリオエース"
+      ],
+      "matsubi": [
+        3,
+        3,
+        3,
+        6,
+        6,
+        6,
+        6
+      ],
+      "note": "複数台がコンプ強い。リオエースが全虹濃厚。スロパチ6連も好調。",
+      "url": "https://x.com/1_take6/status/2088618809854947756"
     },
     {
       "id": "karasuro_7-2087844647636717613-ピーアーク相模大野",
