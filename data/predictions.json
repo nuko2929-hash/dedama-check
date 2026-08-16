@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T03:13",
-  "count": 1729,
+  "generated_at": "2026-08-16T08:37",
+  "count": 1735,
   "predictions": [
     {
       "id": "slot_ogikiti-2088825621090894318-ハイパージアス立川",
@@ -14,6 +14,76 @@
       "matsubi": [],
       "note": "明日17日のお品書きに掲載",
       "url": "https://x.com/slot_ogikiti/status/2088825621090894318"
+    },
+    {
+      "id": "slot_ogikiti-2088899231113482556-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-17",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ハッピージャグラー",
+        "ミスタージャグラー",
+        "ファンキージャグラー",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "新台入替。ジャグ4機種から1/2以上の仕掛け見込み。BT機大量増台に注目。",
+      "url": "https://x.com/slot_ogikiti/status/2088899231113482556"
+    },
+    {
+      "id": "karasuro_7-2088884660105531702-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-17",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川推奨店として言及",
+      "url": "https://x.com/karasuro_7/status/2088884660105531702"
+    },
+    {
+      "id": "karasuro_7-2088884660105531702-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-17",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川推奨店として言及",
+      "url": "https://x.com/karasuro_7/status/2088884660105531702"
+    },
+    {
+      "id": "karasuro_7-2088884660105531702-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-17",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川推奨店として言及",
+      "url": "https://x.com/karasuro_7/status/2088884660105531702"
+    },
+    {
+      "id": "1_take6-2088900556027040237-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-17",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "相模エリアマルハンの店長就任日",
+      "url": "https://x.com/1_take6/status/2088900556027040237"
     },
     {
       "id": "slot_ogikiti-2088544602953515236-楽園立川店",
@@ -1528,6 +1598,31 @@
       ],
       "note": "リニューアル初日。店内総差枚+36,500枚over。抽選14名",
       "url": "https://x.com/1_take6/status/2087928715611422941"
+    },
+    {
+      "id": "1_take6-2088878729074446538-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-13",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "LBエヴァ",
+        "乙女4",
+        "乙女5",
+        "アズレン",
+        "天膳",
+        "忍魂",
+        "Sカバネリ",
+        "新鬼3"
+      ],
+      "matsubi": [
+        13
+      ],
+      "note": "月周年日。金キノコ塊。まるごと仕掛け",
+      "url": "https://x.com/1_take6/status/2088878729074446538"
     },
     {
       "id": "slot_ogikiti-2087013039644299596-ガーデン戸塚",
