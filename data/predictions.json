@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T13:09",
-  "count": 1743,
+  "generated_at": "2026-08-17T03:13",
+  "count": 1748,
   "predictions": [
     {
       "id": "slot_ogikiti-2088825621090894318-ハイパージアス立川",
@@ -222,6 +222,69 @@
       "matsubi": [],
       "note": "新装重なり。メイン機種が狙い目。ドリルパチンコ注目",
       "url": "https://x.com/1_take6/status/2088914147119640710"
+    },
+    {
+      "id": "1_take6-2088878729074446538-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-17",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "LBエヴァ"
+      ],
+      "matsubi": [],
+      "note": "毎月13日周年。まるごと仕掛け。配信控えめ",
+      "url": "https://x.com/1_take6/status/2088878729074446538"
+    },
+    {
+      "id": "slo1_tyousataiZ-2088977183561945439-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-17",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "ネオアイム",
+        "からくり2"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "⑦の日×BIG喝×新台入替。全台系/ニブイチ/3台以上並び仕掛け",
+      "url": "https://x.com/slo1_tyousataiZ/status/2088977183561945439"
+    },
+    {
+      "id": "karasuro_7-2088982286490632204-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-17",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "周年月間・新装開店・AI脳トレ取材。戸塚4回目の脳トレ。",
+      "url": "https://x.com/karasuro_7/status/2088982286490632204"
+    },
+    {
+      "id": "karasuro_7-2088982251199680677-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-17",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        7
+      ],
+      "note": "リニューアルオープン初日。スロパチ来店取材・嵐撃。10時OPEN。",
+      "url": "https://x.com/karasuro_7/status/2088982251199680677"
     },
     {
       "id": "slot_ogikiti-2088544602953515236-楽園立川店",
@@ -710,6 +773,19 @@
       "url": "https://x.com/karasuro_7/status/2088632583097917838"
     },
     {
+      "id": "1_take6-2089013220149428569-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-16",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロぱちガール来店PS。抽選人数686人",
+      "url": "https://x.com/1_take6/status/2089013220149428569"
+    },
+    {
       "id": "slot_ogikiti-2088105049734172693-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -1173,6 +1249,33 @@
       ],
       "note": "複数台がコンプ強い。リオエースが全虹濃厚。スロパチ6連も好調。",
       "url": "https://x.com/1_take6/status/2088618809854947756"
+    },
+    {
+      "id": "slot_ogikiti-2088996648907309223-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-16",
+      "target_date": "2026-08-15",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ドラハナ",
+        "攻殻",
+        "ネオアイム",
+        "Lカバネリ",
+        "乙女5",
+        "マイV",
+        "ゴージャグ",
+        "喰種",
+        "からくり2",
+        "新鬼3",
+        "ミリゴ"
+      ],
+      "matsubi": [
+        9
+      ],
+      "note": "5の日。アルティメットCG調査隊。複数5台並び候補。末尾⑨絡み。",
+      "url": "https://x.com/slot_ogikiti/status/2088996648907309223"
     },
     {
       "id": "karasuro_7-2087844647636717613-ピーアーク相模大野",
@@ -1736,31 +1839,6 @@
       ],
       "note": "リニューアル初日。店内総差枚+36,500枚over。抽選14名",
       "url": "https://x.com/1_take6/status/2087928715611422941"
-    },
-    {
-      "id": "1_take6-2088878729074446538-相模大野UNO",
-      "source": "Take6 ホール調査",
-      "handle": "1_take6",
-      "posted_at": "2026-08-16",
-      "target_date": "2026-08-13",
-      "store": "相模大野UNO",
-      "area": "相模大野",
-      "machines": [
-        "東京喰種",
-        "LBエヴァ",
-        "乙女4",
-        "乙女5",
-        "アズレン",
-        "天膳",
-        "忍魂",
-        "Sカバネリ",
-        "新鬼3"
-      ],
-      "matsubi": [
-        13
-      ],
-      "note": "月周年日。金キノコ塊。まるごと仕掛け",
-      "url": "https://x.com/1_take6/status/2088878729074446538"
     },
     {
       "id": "slot_ogikiti-2087013039644299596-ガーデン戸塚",
