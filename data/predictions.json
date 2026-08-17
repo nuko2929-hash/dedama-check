@@ -1,7 +1,81 @@
 {
-  "generated_at": "2026-08-17T03:13",
-  "count": 1748,
+  "generated_at": "2026-08-17T08:51",
+  "count": 1756,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2089261994436329525-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-17",
+      "target_date": "2026-08-18",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "8の日ハーフテン開催。マイV16台が1/2以上で早番特権",
+      "url": "https://x.com/slot_ogikiti/status/2089261994436329525"
+    },
+    {
+      "id": "karasuro_7-2089272436781142326-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-17",
+      "target_date": "2026-08-18",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "マギレコ",
+        "GOD",
+        "Lカバネリ",
+        "東京喰種",
+        "マイV",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "リニューアル2日目。スロパチ演者れんじろう来店。S6台並び、P2BOX。",
+      "url": "https://x.com/karasuro_7/status/2089272436781142326"
+    },
+    {
+      "id": "karasuro_7-2089217360574263750-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-17",
+      "target_date": "2026-08-18",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ対象店。詳細情報あり。",
+      "url": "https://x.com/karasuro_7/status/2089217360574263750"
+    },
+    {
+      "id": "karasuro_7-2089217360574263750-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-17",
+      "target_date": "2026-08-18",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ対象店。詳細情報あり。",
+      "url": "https://x.com/karasuro_7/status/2089217360574263750"
+    },
+    {
+      "id": "karasuro_7-2089217360574263750-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-17",
+      "target_date": "2026-08-18",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ対象店。詳細情報あり。",
+      "url": "https://x.com/karasuro_7/status/2089217360574263750"
+    },
     {
       "id": "slot_ogikiti-2088825621090894318-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -285,6 +359,47 @@
       ],
       "note": "リニューアルオープン初日。スロパチ来店取材・嵐撃。10時OPEN。",
       "url": "https://x.com/karasuro_7/status/2088982251199680677"
+    },
+    {
+      "id": "slot_ogikiti-2089240355392913420-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-17",
+      "target_date": "2026-08-17",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "マジか!!取材で34台全🌈。マイV34台平均+3,076枚",
+      "url": "https://x.com/slot_ogikiti/status/2089240355392913420"
+    },
+    {
+      "id": "slot_ogikiti-2089198537536123244-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-17",
+      "target_date": "2026-08-17",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日18日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2089198537536123244"
+    },
+    {
+      "id": "slot_ogikiti-2089198537536123244-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-17",
+      "target_date": "2026-08-17",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日18日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2089198537536123244"
     },
     {
       "id": "slot_ogikiti-2088544602953515236-楽園立川店",
