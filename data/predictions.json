@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T08:58",
-  "count": 1827,
+  "generated_at": "2026-08-19T13:25",
+  "count": 1836,
   "predictions": [
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
@@ -144,6 +144,162 @@
       "matsubi": [],
       "note": "明日の神奈川の推奨店。朝の抽選人数や確定情報あり",
       "url": "https://x.com/karasuro_7/status/2089961806773342705"
+    },
+    {
+      "id": "slot_ogikiti-2090049519992115596-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-19",
+      "target_date": "2026-08-20",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "月イチ増床記念日。ナマ調開催。聖地巡礼3巡目。",
+      "url": "https://x.com/slot_ogikiti/status/2090049519992115596"
+    },
+    {
+      "id": "slo1_tyousataiZ-2090036493335289981-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-19",
+      "target_date": "2026-08-20",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "東京喰種",
+        "ネオアイム",
+        "からくり2"
+      ],
+      "matsubi": [],
+      "note": "創業日・創業WEEK・⓪の日。沖スロ/⓪まつわり機種に注目",
+      "url": "https://x.com/slo1_tyousataiZ/status/2090036493335289981"
+    },
+    {
+      "id": "slo1_tyousataiZ-2090025741618667634-楽園渋谷駅前",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-19",
+      "target_date": "2026-08-20",
+      "store": "楽園渋谷駅前",
+      "area": null,
+      "machines": [
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "楽園グループ創業60周年。創業3DAYS・⓪の日。沖スロ強化",
+      "url": "https://x.com/slo1_tyousataiZ/status/2090025741618667634"
+    },
+    {
+      "id": "slo1_tyousataiZ-2090025103404982602-楽園ハッピーロード大山",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-19",
+      "target_date": "2026-08-20",
+      "store": "楽園ハッピーロード大山",
+      "area": null,
+      "machines": [
+        "喰種",
+        "北斗転生"
+      ],
+      "matsubi": [],
+      "note": "創業日・ハーフテン取材。ニブイチ×10機種以上。スロ全体10%↑",
+      "url": "https://x.com/slo1_tyousataiZ/status/2090025103404982602"
+    },
+    {
+      "id": "karasuro_7-2090067221569732722-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-19",
+      "target_date": "2026-08-20",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "周年月間。AI脳トレ取材。今月5回目の仕掛け",
+      "url": "https://x.com/karasuro_7/status/2090067221569732722"
+    },
+    {
+      "id": "karasuro_7-2090016526120415482-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-19",
+      "target_date": "2026-08-20",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ",
+        "東京喰種",
+        "かぐや様",
+        "乙女4",
+        "マギレコ",
+        "Lカバネリ",
+        "からくり2",
+        "乙女5",
+        "L炎炎",
+        "GE",
+        "リオエース"
+      ],
+      "matsubi": [],
+      "note": "AI脳トレ取材。過去傾向と解読から機種推奨。ジャグラーは毎日推奨",
+      "url": "https://x.com/karasuro_7/status/2090016526120415482"
+    },
+    {
+      "id": "1_take6-2090045130694938717-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-19",
+      "target_date": "2026-08-20",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "北斗転生",
+        "戦国乙女5",
+        "吉宗",
+        "からくり2",
+        "GOD"
+      ],
+      "matsubi": [
+        "0"
+      ],
+      "note": "破天荒来店取材。仕掛け濃厚の東京喰種/北斗合計26台が最優先",
+      "url": "https://x.com/1_take6/status/2090045130694938717"
+    },
+    {
+      "id": "1_take6-2090043902976053330-吉兆東名川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-19",
+      "target_date": "2026-08-20",
+      "store": "吉兆東名川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [
+        "0"
+      ],
+      "note": "イクゼ！吉兆！開催。美女コレ配信とモーニングLINE配信予定",
+      "url": "https://x.com/1_take6/status/2090043902976053330"
+    },
+    {
+      "id": "1_take6-2090043782737825823-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-19",
+      "target_date": "2026-08-20",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "沖ドキ",
+        "ハナハナ"
+      ],
+      "matsubi": [
+        "0"
+      ],
+      "note": "周年月間。沖ドキ賞品入荷。沖スロ推し日で毎日狙えるまるごと仕掛け",
+      "url": "https://x.com/1_take6/status/2090043782737825823"
     },
     {
       "id": "slot_ogikiti-2089617225540161810-楽園町田",
