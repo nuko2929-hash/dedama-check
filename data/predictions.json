@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-18T13:18",
-  "count": 1798,
+  "generated_at": "2026-08-19T03:54",
+  "count": 1803,
   "predictions": [
+    {
+      "id": "1_take6-2089888827590722021-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-19",
+      "target_date": "2026-08-25",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "ジャンボ店長ファイナル営業日。感謝を込めて盛大に営業",
+      "url": "https://x.com/1_take6/status/2089888827590722021"
+    },
     {
       "id": "slot_ogikiti-2089617225540161810-楽園町田",
       "source": "荻吉@スロ",
@@ -55,7 +68,7 @@
       "area": "相模大野",
       "machines": [],
       "matsubi": [],
-      "note": "明日の神奈川オプチャ情報リスト掲載",
+      "note": "9のつく日イベント対象",
       "url": "https://x.com/karasuro_7/status/2089604350608056802"
     },
     {
@@ -311,6 +324,81 @@
       ],
       "note": "❾の付く日。3台並びと末尾③❾に注目。店長ポスト考察重要",
       "url": "https://x.com/1_take6/status/2089678516258508945"
+    },
+    {
+      "id": "slot_ogikiti-2089715991777587360-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-18",
+      "target_date": "2026-08-19",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ミリゴ",
+        "ゴージャグ"
+      ],
+      "matsubi": [
+        "3",
+        "9"
+      ],
+      "note": "燦撃取材。オススメ機種3巡目。③⑨に因んだ3台並び×9箇所以上の狙い目豊富",
+      "url": "https://x.com/slot_ogikiti/status/2089715991777587360"
+    },
+    {
+      "id": "karasuro_7-2089874648557338765-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-19",
+      "target_date": "2026-08-19",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "新ハナビ",
+        "東京喰種~リオエース",
+        "ファンキー",
+        "アレックスBT",
+        "エヴァBT",
+        "化物語",
+        "バーディー"
+      ],
+      "matsubi": [],
+      "note": "1のつく日。化物語が全💥で推奨",
+      "url": "https://x.com/karasuro_7/status/2089874648557338765"
+    },
+    {
+      "id": "karasuro_7-2089709572881891489-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-18",
+      "target_date": "2026-08-19",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "マギレコ",
+        "GOD",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "リニューアル3日目。スロパチガール来店S",
+      "url": "https://x.com/karasuro_7/status/2089709572881891489"
+    },
+    {
+      "id": "karasuro_7-2089709558805700995-キコーナ戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-18",
+      "target_date": "2026-08-19",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "東京喰種",
+        "乙女5"
+      ],
+      "matsubi": [
+        "9"
+      ],
+      "note": "9のつく日。スロパチガール来店S。4台並び狙い",
+      "url": "https://x.com/karasuro_7/status/2089709558805700995"
     },
     {
       "id": "slot_ogikiti-2089261994436329525-パラッツォ湘南台",
