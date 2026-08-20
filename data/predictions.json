@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T13:25",
-  "count": 1836,
+  "generated_at": "2026-08-20T03:09",
+  "count": 1837,
   "predictions": [
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
@@ -14,6 +14,19 @@
       "matsubi": [],
       "note": "ジャンボ店長ファイナル営業日。感謝を込めて盛大に営業",
       "url": "https://x.com/1_take6/status/2089888827590722021"
+    },
+    {
+      "id": "slot_ogikiti-2090273804312609278-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-20",
+      "target_date": "2026-08-21",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日21日のお品書き推奨店",
+      "url": "https://x.com/slot_ogikiti/status/2090273804312609278"
     },
     {
       "id": "slot_ogikiti-2089996597753213080-該当なし",
