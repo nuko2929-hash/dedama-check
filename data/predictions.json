@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T03:59",
-  "count": 1874,
+  "generated_at": "2026-08-21T09:00",
+  "count": 1879,
   "predictions": [
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
@@ -53,6 +53,93 @@
       "matsubi": [],
       "note": "明日22日のお品書きに記載",
       "url": "https://x.com/slot_ogikiti/status/2090636232032399620"
+    },
+    {
+      "id": "slot_ogikiti-2090720894469775676-新ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-21",
+      "target_date": "2026-08-22",
+      "store": "新ガーデン戸塚",
+      "area": null,
+      "machines": [
+        "モンハン",
+        "新鬼3",
+        "喰種",
+        "化物語",
+        "ネオアイム",
+        "Lハナビ",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "ダントツ取材。モンハン&新鬼3が1/2以上。3Fに10台以上の単品。",
+      "url": "https://x.com/slot_ogikiti/status/2090720894469775676"
+    },
+    {
+      "id": "slot_ogikiti-2090701626717946106-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-21",
+      "target_date": "2026-08-22",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "北斗",
+        "Lカバネリ",
+        "喰種",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "スロパチ来店取材。6台並び探しを軸に。北斗/Lカバネリ/喰種がメイン。",
+      "url": "https://x.com/slot_ogikiti/status/2090701626717946106"
+    },
+    {
+      "id": "karasuro_7-2090695556540879047-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-21",
+      "target_date": "2026-08-22",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "e東京喰種",
+        "エヴァ17"
+      ],
+      "matsubi": [],
+      "note": "パチコーナーは3列仕掛け。超電磁砲2～暴凶星～エヴァ15列が継続",
+      "url": "https://x.com/karasuro_7/status/2090695556540879047"
+    },
+    {
+      "id": "karasuro_7-2090668047816388973-スーパーDステーション立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-21",
+      "target_date": "2026-08-22",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗該当なし。記事参照対象外",
+      "url": "https://x.com/karasuro_7/status/2090668047816388973"
+    },
+    {
+      "id": "1_take6-2090719689848889536-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-21",
+      "target_date": "2026-08-22",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "SAO",
+        "アクセルワールド",
+        "七つの大罪",
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "ドリルパチンコ。P2列注目。新台・メイン機種狙い。",
+      "url": "https://x.com/1_take6/status/2090719689848889536"
     },
     {
       "id": "slot_ogikiti-2090273804312609278-ハイパージアス立川",
