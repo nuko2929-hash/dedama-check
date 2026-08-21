@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T13:28",
-  "count": 1868,
+  "generated_at": "2026-08-21T03:59",
+  "count": 1874,
   "predictions": [
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
@@ -14,6 +14,45 @@
       "matsubi": [],
       "note": "ジャンボ店長ファイナル営業日。感謝を込めて盛大に営業",
       "url": "https://x.com/1_take6/status/2089888827590722021"
+    },
+    {
+      "id": "slot_ogikiti-2090636232032399620-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-21",
+      "target_date": "2026-08-22",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日22日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2090636232032399620"
+    },
+    {
+      "id": "slot_ogikiti-2090636232032399620-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-21",
+      "target_date": "2026-08-22",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日22日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2090636232032399620"
+    },
+    {
+      "id": "slot_ogikiti-2090636232032399620-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-21",
+      "target_date": "2026-08-22",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日22日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2090636232032399620"
     },
     {
       "id": "slot_ogikiti-2090273804312609278-ハイパージアス立川",
@@ -1811,6 +1850,32 @@
       "url": "https://x.com/1_take6/status/2089275921299861536"
     },
     {
+      "id": "karasuro_7-2090645635288744165-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-21",
+      "target_date": "2026-08-18",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "マイV",
+        "GOD",
+        "バイオRE3",
+        "ヴヴヴ",
+        "禁書目録2",
+        "ジャグガ",
+        "防振り",
+        "SAO2",
+        "クレアBT",
+        "サンダーBT"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "8のつく日。スロトレ調査団ハーフテン。抽選110人。",
+      "url": "https://x.com/karasuro_7/status/2090645635288744165"
+    },
+    {
       "id": "slot_ogikiti-2088825621090894318-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -2756,6 +2821,23 @@
       "matsubi": [],
       "note": "スロぱちガール来店PS。抽選人数686人",
       "url": "https://x.com/1_take6/status/2089013220149428569"
+    },
+    {
+      "id": "karasuro_7-2090646307220472028-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-21",
+      "target_date": "2026-08-16",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "ミスジャグ",
+        "ネオアイム",
+        "ファンキー"
+      ],
+      "matsubi": [],
+      "note": "Xチェイン。抽選42人。複数機種並び。",
+      "url": "https://x.com/karasuro_7/status/2090646307220472028"
     },
     {
       "id": "slot_ogikiti-2088105049734172693-ハイパージアス立川",
@@ -4214,6 +4296,32 @@
       "matsubi": [],
       "note": "週間おすすめ機種『ミリゴ&ゴージャグ』2巡目。複数並び候補で好調",
       "url": "https://x.com/slot_ogikiti/status/2087401790140821978"
+    },
+    {
+      "id": "karasuro_7-2090645180458098976-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-21",
+      "target_date": "2026-08-12",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "マンキン",
+        "ライズ",
+        "東リべ",
+        "天膳",
+        "真打吉宗",
+        "新鬼3",
+        "リオエース",
+        "ゴージャグ",
+        "モンキーV",
+        "マイV"
+      ],
+      "matsubi": [
+        2
+      ],
+      "note": "周年月間。キングウォッチッチ。抽選250人。",
+      "url": "https://x.com/karasuro_7/status/2090645180458098976"
     },
     {
       "id": "slot_ogikiti-2086726570300133838-楽園立川",
