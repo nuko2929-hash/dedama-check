@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T08:48",
-  "count": 1915,
+  "generated_at": "2026-08-22T13:09",
+  "count": 1925,
   "predictions": [
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
@@ -209,6 +209,166 @@
       "matsubi": [],
       "note": "4台並び注目。日曜日。スロパチガール来店。",
       "url": "https://x.com/1_take6/status/2091080372108866009"
+    },
+    {
+      "id": "slot_ogikiti-2091142523867865329-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ミリゴ",
+        "ゴージャグ"
+      ],
+      "matsubi": [],
+      "note": "燦撃PLUS初開催。3台並び増量で対象箇所増加。",
+      "url": "https://x.com/slot_ogikiti/status/2091142523867865329"
+    },
+    {
+      "id": "karasuro_7-2091114899216961872-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "GOD",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店PS。相模原共創MVP。並び狙い推奨。",
+      "url": "https://x.com/karasuro_7/status/2091114899216961872"
+    },
+    {
+      "id": "karasuro_7-2091114899216961872-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "相模原共創MVP。ピーアークと4店舗合同仕掛け示唆。",
+      "url": "https://x.com/karasuro_7/status/2091114899216961872"
+    },
+    {
+      "id": "karasuro_7-2091092010434461898-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "周年月間。総取りZERO収録。全機種全台チャンスあり。",
+      "url": "https://x.com/karasuro_7/status/2091092010434461898"
+    },
+    {
+      "id": "karasuro_7-2091088800995037536-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "化物語",
+        "マギレコ",
+        "炎炎2"
+      ],
+      "matsubi": [],
+      "note": "四賢者開催。良番恩恵+α仕掛け。全系優先機種推奨。",
+      "url": "https://x.com/karasuro_7/status/2091088800995037536"
+    },
+    {
+      "id": "1_take6-2091143329719480435-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "Lカバネリ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "❸の付く日。Lカバネリ/GODから優先攻略。合わせて36台。",
+      "url": "https://x.com/1_take6/status/2091143329719480435"
+    },
+    {
+      "id": "1_take6-2091125291083333654-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "相模原地域4店舗MVP共創開催。合同仕掛けに注目。",
+      "url": "https://x.com/1_take6/status/2091125291083333654"
+    },
+    {
+      "id": "1_take6-2091121468596003038-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "沖ドキ"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "❸の付く日。3台並び仕掛け+6台並びに注目。",
+      "url": "https://x.com/1_take6/status/2091121468596003038"
+    },
+    {
+      "id": "1_take6-2091128765833265422-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "喰霊",
+        "SEED"
+      ],
+      "matsubi": [],
+      "note": "日曜日。連日仕掛けるドラゴン川崎。新台喰霊導入。",
+      "url": "https://x.com/1_take6/status/2091128765833265422"
+    },
+    {
+      "id": "1_take6-2091090536610607331-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [
+        "Sジャグラーガールズ",
+        "L東京リベンジャーズ",
+        "L攻殻機動隊"
+      ],
+      "matsubi": [],
+      "note": "週末。まいったぁー機種最優先。穴場筆頭候補。",
+      "url": "https://x.com/1_take6/status/2091090536610607331"
     },
     {
       "id": "slot_ogikiti-2090636232032399620-ハイパージアス立川",
