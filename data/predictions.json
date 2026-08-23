@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T08:36",
-  "count": 1933,
+  "generated_at": "2026-08-23T13:11",
+  "count": 1945,
   "predictions": [
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
@@ -53,6 +53,192 @@
       "matsubi": [],
       "note": "神奈川オプチャで紹介される店舗として掲載",
       "url": "https://x.com/karasuro_7/status/2091393772227903666"
+    },
+    {
+      "id": "slot_ogikiti-2091452457037779371-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗に該当なし",
+      "url": "https://x.com/slot_ogikiti/status/2091452457037779371"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091503115883389027-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "マイジャグラーV"
+      ],
+      "matsubi": [],
+      "note": "④の日=大都市。大都機種ニブイチ仕掛け見込み",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091503115883389027"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091499245056692684-BIGディッパー門前仲町",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "BIGディッパー門前仲町",
+      "area": null,
+      "machines": [
+        "東京喰種",
+        "初代ヴヴヴ"
+      ],
+      "matsubi": [],
+      "note": "だんごWEEK開催。ニブイチ・全台系・3台並び期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091499245056692684"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091495791391342717-ピーアーク千葉駅前",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "ピーアーク千葉駅前",
+      "area": null,
+      "machines": [
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "サキドリ来店取材。対象機種から全台系・ニブイチ期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091495791391342717"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091490492618060005-BIGディッパー木場",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "BIGディッパー木場",
+      "area": null,
+      "machines": [
+        "東京喰種",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "グランドオープン1ヶ月。全台系・塊・並び・ニブイチ期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091490492618060005"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091483209683059042-ピーアーク草加",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "ピーアーク草加",
+      "area": null,
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "ゴッド",
+        "真打吉宗"
+      ],
+      "matsubi": [],
+      "note": "発撃爽快×サキドリ来店取材。対象機種からニブイチ以上期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091483209683059042"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091470864407777418-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載。半転全昇取材予定。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091470864407777418"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091470864407777418-クリエ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載。超ごっつ取材予定。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091470864407777418"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091470569569198153-スーパーDステーション立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "8月22日差枚ランキング東京エリア掲載。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091470569569198153"
+    },
+    {
+      "id": "karasuro_7-2091467406061502804-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "周年月間・AI脳トレ取材。1/2傾向が主。ジャグ毎日推奨。",
+      "url": "https://x.com/karasuro_7/status/2091467406061502804"
+    },
+    {
+      "id": "1_take6-2091480603203920240-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "沖ドキ"
+      ],
+      "matsubi": [
+        4
+      ],
+      "note": "24日は1/2仕掛け中心。賞品入荷で東京喰種・エヴァが優先狙い目",
+      "url": "https://x.com/1_take6/status/2091480603203920240"
+    },
+    {
+      "id": "1_take6-2091470671721214363-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "ワールドダイスター",
+        "攻殻機動隊",
+        "シェイク",
+        "東京喰種",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "還元日。質の良いまるごと/1/2仕掛け×8箇所。指標3機種が最優先",
+      "url": "https://x.com/1_take6/status/2091470671721214363"
     },
     {
       "id": "slot_ogikiti-2091000539047944299-ガーデン戸塚",
