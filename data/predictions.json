@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T13:09",
-  "count": 1925,
+  "generated_at": "2026-08-23T03:17",
+  "count": 1931,
   "predictions": [
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
@@ -14,6 +14,19 @@
       "matsubi": [],
       "note": "ジャンボ店長ファイナル営業日。感謝を込めて盛大に営業",
       "url": "https://x.com/1_take6/status/2089888827590722021"
+    },
+    {
+      "id": "slot_ogikiti-2091360274372812916-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日24日のお品書きに掲載（具体的な仕掛けは記載なし）",
+      "url": "https://x.com/slot_ogikiti/status/2091360274372812916"
     },
     {
       "id": "slot_ogikiti-2091000539047944299-ガーデン戸塚",
@@ -369,6 +382,58 @@
       "matsubi": [],
       "note": "週末。まいったぁー機種最優先。穴場筆頭候補。",
       "url": "https://x.com/1_take6/status/2091090536610607331"
+    },
+    {
+      "id": "karasuro_7-2091153767345664022-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "周年月間、総取りZERO収録、セブンズ来店",
+      "url": "https://x.com/karasuro_7/status/2091153767345664022"
+    },
+    {
+      "id": "karasuro_7-2091153752887832695-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチ来店取材2回目",
+      "url": "https://x.com/karasuro_7/status/2091153752887832695"
+    },
+    {
+      "id": "karasuro_7-2091153658100785606-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店、リニュ後3連戦振り",
+      "url": "https://x.com/karasuro_7/status/2091153658100785606"
+    },
+    {
+      "id": "karasuro_7-2091153562848174522-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-22",
+      "target_date": "2026-08-23",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロぱちガール来店PS。相模原共創MVP合同企画",
+      "url": "https://x.com/karasuro_7/status/2091153562848174522"
     },
     {
       "id": "slot_ogikiti-2090636232032399620-ハイパージアス立川",
@@ -858,6 +923,25 @@
       "matsubi": [],
       "note": "毎月22日。4店舗共闘で末尾仕掛け恒例。店長ポスト要チェック",
       "url": "https://x.com/1_take6/status/2090806867136245928"
+    },
+    {
+      "id": "slot_ogikiti-2091362996241203351-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-22",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ミリゴ",
+        "ゴー",
+        "マギレコ",
+        "ドラハナ",
+        "アレックス"
+      ],
+      "matsubi": [],
+      "note": "ゾロ目＆ファン感。週間おすすめ機種3巡目。総差枚+72,989枚",
+      "url": "https://x.com/slot_ogikiti/status/2091362996241203351"
     },
     {
       "id": "slot_ogikiti-2090273804312609278-ハイパージアス立川",
