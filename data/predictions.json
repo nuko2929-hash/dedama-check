@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T03:17",
-  "count": 1931,
+  "generated_at": "2026-08-23T08:36",
+  "count": 1933,
   "predictions": [
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
@@ -27,6 +27,32 @@
       "matsubi": [],
       "note": "明日24日のお品書きに掲載（具体的な仕掛けは記載なし）",
       "url": "https://x.com/slot_ogikiti/status/2091360274372812916"
+    },
+    {
+      "id": "karasuro_7-2091393772227903666-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャで紹介される店舗として掲載",
+      "url": "https://x.com/karasuro_7/status/2091393772227903666"
+    },
+    {
+      "id": "karasuro_7-2091393772227903666-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャで紹介される店舗として掲載",
+      "url": "https://x.com/karasuro_7/status/2091393772227903666"
     },
     {
       "id": "slot_ogikiti-2091000539047944299-ガーデン戸塚",
