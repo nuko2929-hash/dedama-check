@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T03:17",
-  "count": 1949,
+  "generated_at": "2026-08-24T08:55",
+  "count": 1954,
   "predictions": [
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
@@ -14,6 +14,87 @@
       "matsubi": [],
       "note": "ジャンボ店長ファイナル営業日。感謝を込めて盛大に営業",
       "url": "https://x.com/1_take6/status/2089888827590722021"
+    },
+    {
+      "id": "slot_ogikiti-2091809687306166721-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "翠嵐",
+        "SAO2",
+        "ヴヴヴ2",
+        "喰種",
+        "L炎炎2",
+        "Lカバネリ",
+        "化物語",
+        "Lハナビ",
+        "タクト",
+        "キンハナ",
+        "沖ドキGS25π",
+        "ニューキンハナ",
+        "ヤバチバ",
+        "クラクレ",
+        "チバリヨ2"
+      ],
+      "matsubi": [],
+      "note": "創業月間＆5の日。翠嵐開催で狙い目固定。4台並び多数",
+      "url": "https://x.com/slot_ogikiti/status/2091809687306166721"
+    },
+    {
+      "id": "slot_ogikiti-2091739295921172758-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに掲載。25日イベント開催予定",
+      "url": "https://x.com/slot_ogikiti/status/2091739295921172758"
+    },
+    {
+      "id": "slot_ogikiti-2091739295921172758-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに掲載。25日イベント開催予定",
+      "url": "https://x.com/slot_ogikiti/status/2091739295921172758"
+    },
+    {
+      "id": "karasuro_7-2091764143787553210-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ掲載店舗として紹介",
+      "url": "https://x.com/karasuro_7/status/2091764143787553210"
+    },
+    {
+      "id": "karasuro_7-2091764143787553210-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ掲載店舗として紹介",
+      "url": "https://x.com/karasuro_7/status/2091764143787553210"
     },
     {
       "id": "slot_ogikiti-2091360274372812916-スーパーDステーション立川",
