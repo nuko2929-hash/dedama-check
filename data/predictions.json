@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T08:55",
-  "count": 1954,
+  "generated_at": "2026-08-24T13:32",
+  "count": 1966,
   "predictions": [
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
@@ -95,6 +95,220 @@
       "matsubi": [],
       "note": "神奈川オプチャ掲載店舗として紹介",
       "url": "https://x.com/karasuro_7/status/2091764143787553210"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091858236312064375-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "ジャグラーシリーズ",
+        "SAO2",
+        "ヴヴヴ2",
+        "喰種",
+        "炎炎2",
+        "Lカバネリ"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "⑤の日×翠嵐×ネクスタ来店取材。全台系/ニブイチ/4台並び軸。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091858236312064375"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091861055182152016-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "喰種",
+        "ゴージャグ",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "⑤の付く日。ジャグラー強化。配分系多彩な仕掛けに期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091861055182152016"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091837693303161286-ハイパージアス立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチステーション来店取材",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091837693303161286"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091837693303161286-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "翠嵐/ネクスタ来店取材",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091837693303161286"
+    },
+    {
+      "id": "slo1_tyousataiZ-2091837693303161286-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチステーション来店取材",
+      "url": "https://x.com/slo1_tyousataiZ/status/2091837693303161286"
+    },
+    {
+      "id": "karasuro_7-2091872900999749769-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "炎炎2",
+        "乙女5",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "5のつく日。キングウォッチッチ開催。全域チャンス",
+      "url": "https://x.com/karasuro_7/status/2091872900999749769"
+    },
+    {
+      "id": "karasuro_7-2091816470712078548-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "炎炎2",
+        "乙女5",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "5のつく日。キングウォッチッチ開催。全域チャンス",
+      "url": "https://x.com/karasuro_7/status/2091816470712078548"
+    },
+    {
+      "id": "1_take6-2091858170650251277-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [
+        "北斗",
+        "からくりサーカス",
+        "転生2",
+        "マイジャグラーV",
+        "番長4",
+        "バジ絆2",
+        "ネオアイムジャグラー"
+      ],
+      "matsubi": [],
+      "note": "月周年日。まるごと/列/メーカー寄せこに注目。スマスロ主力が狙い目。",
+      "url": "https://x.com/1_take6/status/2091858170650251277"
+    },
+    {
+      "id": "1_take6-2091835032726040846-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ジャグ",
+        "沖ドキ",
+        "ファンキー",
+        "ガールズ",
+        "マイ",
+        "ネオアイム",
+        "東京喰種",
+        "カバネリ"
+      ],
+      "matsubi": [],
+      "note": "5の付く日。5連仕掛けが中心。ジャグ・沖ドキの5連が鉄板狙い目。",
+      "url": "https://x.com/1_take6/status/2091835032726040846"
+    },
+    {
+      "id": "1_take6-2091834775275458948-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "Lカバネリ",
+        "からくり2",
+        "ヴヴヴ2",
+        "東京喰種",
+        "真打吉宗",
+        "GOD",
+        "戦国乙女5",
+        "マギレコ",
+        "化物語"
+      ],
+      "matsubi": [],
+      "note": "月周年期間2日目。フェノメノン傾向から5000gタイミング機種と1/2仕掛け狙い。",
+      "url": "https://x.com/1_take6/status/2091834775275458948"
+    },
+    {
+      "id": "1_take6-2091827533490868583-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ジャグ",
+        "禁書",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "5の付く日。ジャグに期待。まるごと・高配分・並び・末尾など複合狙い。",
+      "url": "https://x.com/1_take6/status/2091827533490868583"
+    },
+    {
+      "id": "1_take6-2091824740260573440-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-24",
+      "target_date": "2026-08-25",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "ジャンボ店長ファイナル。スクランブル卒業イベント",
+      "url": "https://x.com/1_take6/status/2091824740260573440"
     },
     {
       "id": "slot_ogikiti-2091360274372812916-スーパーDステーション立川",
