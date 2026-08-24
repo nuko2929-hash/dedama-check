@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T13:11",
-  "count": 1945,
+  "generated_at": "2026-08-24T03:17",
+  "count": 1949,
   "predictions": [
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
@@ -239,6 +239,60 @@
       "matsubi": [],
       "note": "還元日。質の良いまるごと/1/2仕掛け×8箇所。指標3機種が最優先",
       "url": "https://x.com/1_take6/status/2091470671721214363"
+    },
+    {
+      "id": "slot_ogikiti-2091518528176492887-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きに記載なし",
+      "url": "https://x.com/slot_ogikiti/status/2091518528176492887"
+    },
+    {
+      "id": "slot_ogikiti-2091518507741806935-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きに記載なし",
+      "url": "https://x.com/slot_ogikiti/status/2091518507741806935"
+    },
+    {
+      "id": "karasuro_7-2091551200269537376-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [
+        7
+      ],
+      "note": "末尾⑦全台仕掛け。平均差枚+2,671枚、勝率68.1%",
+      "url": "https://x.com/karasuro_7/status/2091551200269537376"
+    },
+    {
+      "id": "karasuro_7-2091528207963205812-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-23",
+      "target_date": "2026-08-24",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "周年月間。AI脳トレ取材。オンライン抽選",
+      "url": "https://x.com/karasuro_7/status/2091528207963205812"
     },
     {
       "id": "slot_ogikiti-2091000539047944299-ガーデン戸塚",
