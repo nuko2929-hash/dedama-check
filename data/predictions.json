@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T08:51",
-  "count": 1980,
+  "generated_at": "2026-08-25T13:28",
+  "count": 1992,
   "predictions": [
     {
       "id": "slot_ogikiti-2092172365388272036-楽園立川店",
@@ -146,6 +146,217 @@
       "matsubi": [],
       "note": "神奈川オプチャ掲載店",
       "url": "https://x.com/karasuro_7/status/2092159926877761834"
+    },
+    {
+      "id": "slo1_tyousataiZ-2092217773959295286-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "Lカバネリ",
+        "東京喰種",
+        "マイジャグ"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "激クレイジー開催。6台以上並び×6本前後を軸に立ち回り。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2092217773959295286"
+    },
+    {
+      "id": "slo1_tyousataiZ-2092192029615001936-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載。詳細情報なし",
+      "url": "https://x.com/slo1_tyousataiZ/status/2092192029615001936"
+    },
+    {
+      "id": "slo1_tyousataiZ-2092192029615001936-ガーデン戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "エニグマ取材。天草ヤスヲさん/あんなさん来店",
+      "url": "https://x.com/slo1_tyousataiZ/status/2092192029615001936"
+    },
+    {
+      "id": "slo1_tyousataiZ-2092192029615001936-エランドール泉",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店S取材",
+      "url": "https://x.com/slo1_tyousataiZ/status/2092192029615001936"
+    },
+    {
+      "id": "karasuro_7-2092182150766584265-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ネオアイム",
+        "マイV",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "周年月間×月周年日。全体10%以上🌈。ネオアイム最優先",
+      "url": "https://x.com/karasuro_7/status/2092182150766584265"
+    },
+    {
+      "id": "karasuro_7-2092179662923342212-エランドール泉",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [
+        "マイV",
+        "ジャグラー",
+        "北斗シリーズ",
+        "海物語シリーズ"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "6のつく日。スロパチガール来店S。過去実績良好",
+      "url": "https://x.com/karasuro_7/status/2092179662923342212"
+    },
+    {
+      "id": "1_take6-2092240960361267575-グランドホール長後",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "グランドホール長後",
+      "area": "湘南台",
+      "machines": [
+        "カバネリ",
+        "東京喰種"
+      ],
+      "matsubi": [
+        3,
+        6
+      ],
+      "note": "❻の付く日。カバネリを🌈狙いで最優先",
+      "url": "https://x.com/1_take6/status/2092240960361267575"
+    },
+    {
+      "id": "1_take6-2092223208514859388-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "カバネリ",
+        "GOD",
+        "ジャグ",
+        "天膳",
+        "モンハン"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "ALL⭐︎STAR来店取材。全設定から仕掛け",
+      "url": "https://x.com/1_take6/status/2092223208514859388"
+    },
+    {
+      "id": "1_take6-2092207977684168708-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "北斗",
+        "喰霊"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "新装2日目。北斗増台20台、喰霊に注目",
+      "url": "https://x.com/1_take6/status/2092207977684168708"
+    },
+    {
+      "id": "1_take6-2092207548678217826-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "ハッピージャグラー",
+        "やじきた",
+        "コードギアス"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "まいったぁー⤴︎機種最優先。安定のやっぴー",
+      "url": "https://x.com/1_take6/status/2092207548678217826"
+    },
+    {
+      "id": "1_take6-2092175622747664630-ガーデン戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ネオアイム",
+        "GOD"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "月周年日。ネオアイムを最優先で1/2仕掛け",
+      "url": "https://x.com/1_take6/status/2092175622747664630"
+    },
+    {
+      "id": "1_take6-2092200484644028691-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-25",
+      "target_date": "2026-08-26",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ゴージャグ",
+        "ハッピー",
+        "ファンキー"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "月周年日。熱烈歓迎✖️ジャグの列仕掛け",
+      "url": "https://x.com/1_take6/status/2092200484644028691"
     },
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
