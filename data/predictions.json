@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T08:51",
-  "count": 1997,
+  "generated_at": "2026-08-26T13:34",
+  "count": 2008,
   "predictions": [
     {
       "id": "slot_ogikiti-2092450549962821715-パラッツォ湘南台",
@@ -27,6 +27,199 @@
       "matsubi": [],
       "note": "神奈川の明日の狙い目店として掲載",
       "url": "https://x.com/karasuro_7/status/2092522718906495417"
+    },
+    {
+      "id": "slot_ogikiti-2092587593242464461-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "GOD",
+        "ゴージャグ"
+      ],
+      "matsubi": [],
+      "note": "一喝取材開催。MONSTERも実施。近隣対抗で盛り上がり予想",
+      "url": "https://x.com/slot_ogikiti/status/2092587593242464461"
+    },
+    {
+      "id": "slo1_tyousataiZ-2092593469927952660-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "必殺仕事人Ⅵ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "⑦の日×BIG喝開催。全台系/ニブイチ/並び期待。北斗/ハナハナからのサブイチ鉄板",
+      "url": "https://x.com/slo1_tyousataiZ/status/2092593469927952660"
+    },
+    {
+      "id": "slo1_tyousataiZ-2092572358875943288-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "エヴァ",
+        "喰種"
+      ],
+      "matsubi": [],
+      "note": "天草覇道ホール応援団来店。オススメ機種掲載。注目ホール40選に選定",
+      "url": "https://x.com/slo1_tyousataiZ/status/2092572358875943288"
+    },
+    {
+      "id": "slo1_tyousataiZ-2092572358875943288-スーパーDステーション立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に選定。詳細情報なし",
+      "url": "https://x.com/slo1_tyousataiZ/status/2092572358875943288"
+    },
+    {
+      "id": "karasuro_7-2092549074109284840-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "Lカバネリ",
+        "東京喰種",
+        "マギレコ",
+        "モンキーV",
+        "ジャグラー"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "嵐撃開催。月間推し機種から狙い目。1/2以上機種あり",
+      "url": "https://x.com/karasuro_7/status/2092549074109284840"
+    },
+    {
+      "id": "karasuro_7-2092548172417728969-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ゴージャグ",
+        "マギレコ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "嵐撃開催。月間推し機種推奨。困ったらこれら機種へ",
+      "url": "https://x.com/karasuro_7/status/2092548172417728969"
+    },
+    {
+      "id": "1_take6-2092573184461779227-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "北斗",
+        "喰霊"
+      ],
+      "matsubi": [],
+      "note": "7の付く日。新台や直近導入機種からの仕掛けに注目。",
+      "url": "https://x.com/1_take6/status/2092573184461779227"
+    },
+    {
+      "id": "1_take6-2092546846103372275-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "GOD",
+        "ジャグ"
+      ],
+      "matsubi": [],
+      "note": "7の付く日。まるごと・3台並びに注目。複数箇所仕掛けに期待。",
+      "url": "https://x.com/1_take6/status/2092546846103372275"
+    },
+    {
+      "id": "1_take6-2092543723141845349-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "SAO",
+        "アクセルワールド",
+        "七つの大罪",
+        "牙狼",
+        "SEED"
+      ],
+      "matsubi": [],
+      "note": "ドリルパチンコ。P2列注目。新台・メイン機種狙い目。",
+      "url": "https://x.com/1_take6/status/2092543723141845349"
+    },
+    {
+      "id": "1_take6-2092543578736140540-楽園立川店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "北斗シリーズ",
+        "ノーマル機"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "7の付く日。スロパチステーション取材。6台並び×9箇所。",
+      "url": "https://x.com/1_take6/status/2092543578736140540"
+    },
+    {
+      "id": "1_take6-2092541247118618881-楽園立川店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "北斗シリーズ",
+        "ノーマル機"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "7の付く日。スロパチステーション取材。6台並び×9箇所。",
+      "url": "https://x.com/1_take6/status/2092541247118618881"
     },
     {
       "id": "slot_ogikiti-2092172365388272036-楽園立川店",
