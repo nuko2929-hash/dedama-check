@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T03:17",
-  "count": 1996,
+  "generated_at": "2026-08-26T08:51",
+  "count": 1997,
   "predictions": [
     {
       "id": "slot_ogikiti-2092450549962821715-パラッツォ湘南台",
@@ -14,6 +14,19 @@
       "matsubi": [],
       "note": "明日のお品書きに掲載",
       "url": "https://x.com/slot_ogikiti/status/2092450549962821715"
+    },
+    {
+      "id": "karasuro_7-2092522718906495417-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-26",
+      "target_date": "2026-08-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川の明日の狙い目店として掲載",
+      "url": "https://x.com/karasuro_7/status/2092522718906495417"
     },
     {
       "id": "slot_ogikiti-2092172365388272036-楽園立川店",
