@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T12:37",
-  "count": 2028,
+  "generated_at": "2026-08-27T19:08",
+  "count": 2033,
   "predictions": [
     {
       "id": "slot_ogikiti-2092890782802080163-ガーデン戸塚",
@@ -306,6 +306,54 @@
       "url": "https://x.com/1_take6/status/2092943871324090372"
     },
     {
+      "id": "slo1_tyousataiZ-2092955575382643166-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-27",
+      "target_date": "2026-08-28",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "ゴージャグ",
+        "炎炎2",
+        "GOD",
+        "喰種",
+        "Lカバネリ",
+        "ネオアイム",
+        "北斗転生",
+        "SAO2"
+      ],
+      "matsubi": [],
+      "note": "⑧のつく日。ヤバイラー希少種出現で全台系×2期待。列全/列ニブイチ仕掛け。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2092955575382643166"
+    },
+    {
+      "id": "karasuro_7-2092965854392840199-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-27",
+      "target_date": "2026-08-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "月周年日。8のつく日。スロパチ来店取材。抽選1111名。",
+      "url": "https://x.com/karasuro_7/status/2092965854392840199"
+    },
+    {
+      "id": "karasuro_7-2092965843605024906-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-27",
+      "target_date": "2026-08-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "周年月間。8のつく日。キングウォッチッチ。狙い目あり。",
+      "url": "https://x.com/karasuro_7/status/2092965843605024906"
+    },
+    {
       "id": "slot_ogikiti-2092450549962821715-パラッツォ湘南台",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -523,6 +571,32 @@
       ],
       "note": "7の付く日。スロパチステーション取材。6台並び×9箇所。",
       "url": "https://x.com/1_take6/status/2092541247118618881"
+    },
+    {
+      "id": "1_take6-2093005678831124706-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-27",
+      "target_date": "2026-08-27",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "26日月周年日。熱烈歓迎で抽選37人",
+      "url": "https://x.com/1_take6/status/2093005678831124706"
+    },
+    {
+      "id": "1_take6-2093005567875035557-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-27",
+      "target_date": "2026-08-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "天草覇道応援団。抽選138人。来店あり",
+      "url": "https://x.com/1_take6/status/2093005567875035557"
     },
     {
       "id": "slot_ogikiti-2092172365388272036-楽園立川店",
