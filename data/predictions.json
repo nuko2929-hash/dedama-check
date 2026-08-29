@@ -1,7 +1,113 @@
 {
-  "generated_at": "2026-08-28T13:59",
-  "count": 2066,
+  "generated_at": "2026-08-29T08:48",
+  "count": 2073,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2093619346065272973-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "Lカバネリ",
+        "ヴヴヴ2",
+        "喰種",
+        "ミリゴ"
+      ],
+      "matsubi": [],
+      "note": "埼玉の有力候補。1/2以上＆3台並び多数。優秀機種×複数",
+      "url": "https://x.com/slot_ogikiti/status/2093619346065272973"
+    },
+    {
+      "id": "slot_ogikiti-2093607784403394629-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "とある禁書目録2",
+        "喰種",
+        "ミリゴ",
+        "転生"
+      ],
+      "matsubi": [],
+      "note": "天草極上ホール応援団来店。とある2が1/2以上。4台並び複数",
+      "url": "https://x.com/slot_ogikiti/status/2093607784403394629"
+    },
+    {
+      "id": "slot_ogikiti-2093606551131156504-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ヴヴヴ2"
+      ],
+      "matsubi": [],
+      "note": "スロトレ調査団『エニグマ』。ヴヴヴ2が1/2以上。赤字営業に期待",
+      "url": "https://x.com/slot_ogikiti/status/2093606551131156504"
+    },
+    {
+      "id": "slot_ogikiti-2093599256531849329-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "アビバ全16店舗合同企画。VIVA取材で1/2高配分マスト",
+      "url": "https://x.com/slot_ogikiti/status/2093599256531849329"
+    },
+    {
+      "id": "slot_ogikiti-2093535433540182453-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日30日のお品書き掲載",
+      "url": "https://x.com/slot_ogikiti/status/2093535433540182453"
+    },
+    {
+      "id": "karasuro_7-2093619600319811762-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "北斗",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "神奈川ガーデン合同『新！撃』取材。オンライン抽選8:30受付終了。北斗最優先、1/2以上で虹鶴あり。",
+      "url": "https://x.com/karasuro_7/status/2093619600319811762"
+    },
+    {
+      "id": "karasuro_7-2093587482856272061-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "8/30明日の神奈川取材店リスト掲載。詳細は画像参照。",
+      "url": "https://x.com/karasuro_7/status/2093587482856272061"
+    },
     {
       "id": "slot_ogikiti-2093313485530865784-ハイパージアス立川",
       "source": "荻吉@スロ",
