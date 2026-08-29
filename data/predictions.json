@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T08:48",
-  "count": 2073,
+  "generated_at": "2026-08-29T13:46",
+  "count": 2083,
   "predictions": [
     {
       "id": "slot_ogikiti-2093619346065272973-パラッツォ湘南台",
@@ -107,6 +107,155 @@
       "matsubi": [],
       "note": "8/30明日の神奈川取材店リスト掲載。詳細は画像参照。",
       "url": "https://x.com/karasuro_7/status/2093587482856272061"
+    },
+    {
+      "id": "slo1_tyousataiZ-2093663300106272797-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2093663300106272797"
+    },
+    {
+      "id": "slo1_tyousataiZ-2093663300106272797-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店S/P",
+      "url": "https://x.com/slo1_tyousataiZ/status/2093663300106272797"
+    },
+    {
+      "id": "slo1_tyousataiZ-2093663300106272797-キコーナ戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2093663300106272797"
+    },
+    {
+      "id": "slo1_tyousataiZ-2093663300106272797-スクランブル田谷",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2093663300106272797"
+    },
+    {
+      "id": "slo1_tyousataiZ-2093663300106272797-ガーデン戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2093663300106272797"
+    },
+    {
+      "id": "slo1_tyousataiZ-2093663300106272797-プレゴ立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載",
+      "url": "https://x.com/slo1_tyousataiZ/status/2093663300106272797"
+    },
+    {
+      "id": "karasuro_7-2093649589178171864-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "化物語",
+        "北斗",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "周年月間ラスト週末。神奈川ガーデン合同『新！撃』取材。四季の森と合同機種あり。",
+      "url": "https://x.com/karasuro_7/status/2093649589178171864"
+    },
+    {
+      "id": "karasuro_7-2093648978554527759-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "相模前線",
+        "東京喰種",
+        "エヴァ17"
+      ],
+      "matsubi": [],
+      "note": "スロパチ2連戦2日目。PS二刀流で立ち回り可能。6台並び/3台並び/1BOX狙い。",
+      "url": "https://x.com/karasuro_7/status/2093648978554527759"
+    },
+    {
+      "id": "karasuro_7-2093641552925217220-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "GOD",
+        "エヴァ17"
+      ],
+      "matsubi": [],
+      "note": "スロパチ3連戦最終日。PS二刀流対応。4台並び。毎日仕掛けあり。",
+      "url": "https://x.com/karasuro_7/status/2093641552925217220"
+    },
+    {
+      "id": "1_take6-2093624152532132148-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "ヴヴヴ2",
+        "東京喰種",
+        "Lカバネリ",
+        "マイジャグ",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び×13箇所、3列に期待",
+      "url": "https://x.com/1_take6/status/2093624152532132148"
     },
     {
       "id": "slot_ogikiti-2093313485530865784-ハイパージアス立川",
