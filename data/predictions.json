@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T13:46",
-  "count": 2083,
+  "generated_at": "2026-08-29T16:52",
+  "count": 2086,
   "predictions": [
     {
       "id": "slot_ogikiti-2093619346065272973-パラッツォ湘南台",
@@ -256,6 +256,38 @@
       "matsubi": [],
       "note": "スロパチガール来店。4台並び×13箇所、3列に期待",
       "url": "https://x.com/1_take6/status/2093624152532132148"
+    },
+    {
+      "id": "karasuro_7-2093712998850535620-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "周年月間ラスト週末。神奈川ガーデン合同『新！撃』取材。化物語4連続合同。",
+      "url": "https://x.com/karasuro_7/status/2093712998850535620"
+    },
+    {
+      "id": "karasuro_7-2093712978667516156-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-30",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "カバネリシリーズ",
+        "東京喰種",
+        "GOD"
+      ],
+      "matsubi": [
+        "4"
+      ],
+      "note": "スロぱちガール来店PS。スロパチ3連戦最終日。S4台並び毎日仕掛け。",
+      "url": "https://x.com/karasuro_7/status/2093712978667516156"
     },
     {
       "id": "slot_ogikiti-2093313485530865784-ハイパージアス立川",
@@ -761,6 +793,19 @@
       "matsubi": [],
       "note": "半撃来店取材。1/2仕掛け7機種以上に期待。安定環境で立ち回れる。",
       "url": "https://x.com/1_take6/status/2093283247052734618"
+    },
+    {
+      "id": "1_take6-2093681221884878929-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-29",
+      "target_date": "2026-08-29",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "日曜日のファントム仕掛け。まるごと/並び仕掛けに期待",
+      "url": "https://x.com/1_take6/status/2093681221884878929"
     },
     {
       "id": "slot_ogikiti-2092890782802080163-ガーデン戸塚",
