@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-08-29T16:52",
-  "count": 2086,
+  "generated_at": "2026-08-30T08:09",
+  "count": 2090,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2093899132809191468-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-30",
+      "target_date": "2026-08-31",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日31日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2093899132809191468"
+    },
+    {
+      "id": "karasuro_7-2093951705000059158-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-30",
+      "target_date": "2026-08-31",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川の朝抽選人数や確定情報リスト掲載店",
+      "url": "https://x.com/karasuro_7/status/2093951705000059158"
+    },
+    {
+      "id": "karasuro_7-2093951705000059158-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-30",
+      "target_date": "2026-08-31",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川の朝抽選人数や確定情報リスト掲載店",
+      "url": "https://x.com/karasuro_7/status/2093951705000059158"
+    },
     {
       "id": "slot_ogikiti-2093619346065272973-パラッツォ湘南台",
       "source": "荻吉@スロ",
@@ -3936,6 +3975,32 @@
       ],
       "note": "1の付く日・PS熱烈歓迎。ニャンギラス賞品入荷",
       "url": "https://x.com/1_take6/status/2092104706994983135"
+    },
+    {
+      "id": "1_take6-2093880557138767999-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-08-30",
+      "target_date": "2026-08-21",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "沖ドキアンコール",
+        "乙女5",
+        "ヴヴヴ2",
+        "北斗",
+        "やじきた",
+        "沖ドキGOLD",
+        "ゴージャグ",
+        "真打吉宗",
+        "からくり2",
+        "ミスター"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "日曜日。メイン機種からジャグまで幅広く仕掛けあり。チャンスのある環境。",
+      "url": "https://x.com/1_take6/status/2093880557138767999"
     },
     {
       "id": "slot_ogikiti-2089996597753213080-該当なし",
