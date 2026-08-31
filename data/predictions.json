@@ -1,7 +1,90 @@
 {
-  "generated_at": "2026-08-30T16:54",
-  "count": 2107,
+  "generated_at": "2026-08-31T08:23",
+  "count": 2115,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2094326311833706959-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-31",
+      "target_date": "2026-09-01",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "ジアス系列合同『プロジェクトZ』月初強化。4台並び起点に立ち回り。",
+      "url": "https://x.com/slot_ogikiti/status/2094326311833706959"
+    },
+    {
+      "id": "slot_ogikiti-2094330894068683064-グランドホール長後",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-31",
+      "target_date": "2026-09-01",
+      "store": "グランドホール長後",
+      "area": "湘南台",
+      "machines": [
+        "喰種",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "スロトレ『アルマゲドン』開催。喰種＆マイVが1/2以上で早番特権。3台並び多数。",
+      "url": "https://x.com/slot_ogikiti/status/2094330894068683064"
+    },
+    {
+      "id": "slot_ogikiti-2094272201751171558-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-31",
+      "target_date": "2026-09-01",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに記載。東京エリア推奨店",
+      "url": "https://x.com/slot_ogikiti/status/2094272201751171558"
+    },
+    {
+      "id": "karasuro_7-2094320387345785056-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-31",
+      "target_date": "2026-09-01",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        "1"
+      ],
+      "note": "1のつく日の超雷撃開催。スロ11%以上期待",
+      "url": "https://x.com/karasuro_7/status/2094320387345785056"
+    },
+    {
+      "id": "karasuro_7-2094292658625950188-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-31",
+      "target_date": "2026-09-01",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャで明日の情報提供対象店",
+      "url": "https://x.com/karasuro_7/status/2094292658625950188"
+    },
+    {
+      "id": "karasuro_7-2094292658625950188-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-08-31",
+      "target_date": "2026-09-01",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャで明日の情報提供対象店",
+      "url": "https://x.com/karasuro_7/status/2094292658625950188"
+    },
     {
       "id": "slot_ogikiti-2093899132809191468-楽園立川店",
       "source": "荻吉@スロ",
@@ -543,6 +626,32 @@
       ],
       "note": "スロぱちガール来店PS。スロパチ3連戦最終日。S4台並び毎日仕掛け。",
       "url": "https://x.com/karasuro_7/status/2093712978667516156"
+    },
+    {
+      "id": "slot_ogikiti-2094271378166018408-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-31",
+      "target_date": "2026-08-30",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗ではない店の記事",
+      "url": "https://x.com/slot_ogikiti/status/2094271378166018408"
+    },
+    {
+      "id": "slot_ogikiti-2094261252411593091-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-08-31",
+      "target_date": "2026-08-30",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗ではない店の記事",
+      "url": "https://x.com/slot_ogikiti/status/2094261252411593091"
     },
     {
       "id": "slot_ogikiti-2093313485530865784-ハイパージアス立川",
