@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-31T16:03",
-  "count": 2147,
+  "generated_at": "2026-09-01T07:28",
+  "count": 2150,
   "predictions": [
+    {
+      "id": "karasuro_7-2094657676785684874-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川推奨店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2094657676785684874"
+    },
+    {
+      "id": "karasuro_7-2094657676785684874-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川推奨店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2094657676785684874"
+    },
     {
       "id": "slot_ogikiti-2094326311833706959-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -581,6 +607,19 @@
       "matsubi": [],
       "note": "ドリルスロット案内人。パチンコが狙える環境。月初いつも以上に期待",
       "url": "https://x.com/1_take6/status/2094348309867766253"
+    },
+    {
+      "id": "slot_ogikiti-2094635976610267272-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-01",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2094635976610267272"
     },
     {
       "id": "slot_ogikiti-2093899132809191468-楽園立川店",
