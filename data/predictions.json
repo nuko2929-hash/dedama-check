@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T07:28",
-  "count": 2150,
+  "generated_at": "2026-09-01T13:21",
+  "count": 2169,
   "predictions": [
     {
       "id": "karasuro_7-2094657676785684874-ガーデン戸塚",
@@ -27,6 +27,296 @@
       "matsubi": [],
       "note": "明日の神奈川推奨店リスト掲載",
       "url": "https://x.com/karasuro_7/status/2094657676785684874"
+    },
+    {
+      "id": "slot_ogikiti-2094717251534598259-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "化物語",
+        "ガールズ",
+        "ジャグラー"
+      ],
+      "matsubi": [],
+      "note": "スロトレ調査団『エニグマ』開催。赤字営業に期待。化物語＆ガールズが1/2以上",
+      "url": "https://x.com/slot_ogikiti/status/2094717251534598259"
+    },
+    {
+      "id": "slo1_tyousataiZ-2094766848881672603-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "ゴッド",
+        "ネオアイム"
+      ],
+      "matsubi": [
+        2
+      ],
+      "note": "②の日。時を戻そう！取材。据え置きメインで立ち回り。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2094766848881672603"
+    },
+    {
+      "id": "slo1_tyousataiZ-2094729940742942733-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "DMC5",
+        "Lカバネリ海門"
+      ],
+      "matsubi": [],
+      "note": "サキドリ来店取材開催。DMC5が全台系で最優先。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2094729940742942733"
+    },
+    {
+      "id": "slo1_tyousataiZ-2094734222674317667-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ミリオンゴッド",
+        "マイジャグ"
+      ],
+      "matsubi": [],
+      "note": "新店長就任。全台系複数＆マイジャグ最優先。8ヵ月連続プラス継続中。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2094734222674317667"
+    },
+    {
+      "id": "slo1_tyousataiZ-2094729940742942733-ザシティ相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に選定。詳細情報なし。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2094729940742942733"
+    },
+    {
+      "id": "slo1_tyousataiZ-2094729940742942733-吉兆東名川崎店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "吉兆東名川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に選定。詳細情報なし。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2094729940742942733"
+    },
+    {
+      "id": "slo1_tyousataiZ-2094729940742942733-ガーデン戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に選定。エニグマ取材予定。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2094729940742942733"
+    },
+    {
+      "id": "karasuro_7-2094773775275585607-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "化物語",
+        "ジャグラーシリーズ",
+        "モンキーV",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "2のつく日。スロトレ調査団エニグマ開催。良番恩恵と幅広い期待",
+      "url": "https://x.com/karasuro_7/status/2094773775275585607"
+    },
+    {
+      "id": "karasuro_7-2094773763418333336-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [
+        2,
+        8
+      ],
+      "note": "2のつく日。紅の龍開催。3台以上の並びを意識。末尾②⑧が良好",
+      "url": "https://x.com/karasuro_7/status/2094773763418333336"
+    },
+    {
+      "id": "karasuro_7-2094773744552251405-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [
+        2,
+        8
+      ],
+      "note": "2のつく日。紅の龍開催。3台以上の並びを意識。末尾②⑧が良好",
+      "url": "https://x.com/karasuro_7/status/2094773744552251405"
+    },
+    {
+      "id": "karasuro_7-2094773731310911852-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "2のつく日。ドリルスロット開催。抽選甘く手堅い環境",
+      "url": "https://x.com/karasuro_7/status/2094773731310911852"
+    },
+    {
+      "id": "karasuro_7-2094721809090543674-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "化物語",
+        "ジャグラーシリーズ",
+        "モンキーV",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "2のつく日。スロトレ調査団エニグマ開催。全体10%以上が虹・ゴリラ",
+      "url": "https://x.com/karasuro_7/status/2094721809090543674"
+    },
+    {
+      "id": "karasuro_7-2094720013488083306-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [
+        2,
+        8
+      ],
+      "note": "2のつく日。紅の龍開催。3台以上の並びを意識。末尾②⑧が良好",
+      "url": "https://x.com/karasuro_7/status/2094720013488083306"
+    },
+    {
+      "id": "karasuro_7-2094716760486195244-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "2のつく日。ガチ分析虹開催。旧イベは全系・1/2仕掛け多彩",
+      "url": "https://x.com/karasuro_7/status/2094716760486195244"
+    },
+    {
+      "id": "karasuro_7-2094714509046992962-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "2のつく日。クロロS/P調査隊チームZZ。3台並びを意識",
+      "url": "https://x.com/karasuro_7/status/2094714509046992962"
+    },
+    {
+      "id": "karasuro_7-2094714317677719677-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ゴージャグ",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "2のつく日。ドリルスロット開催。毎回3台並びあり。抽選甘い",
+      "url": "https://x.com/karasuro_7/status/2094714317677719677"
+    },
+    {
+      "id": "1_take6-2094760346175320536-スーパーDステーション立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "eガンダムSEEDクライマックス"
+      ],
+      "matsubi": [],
+      "note": "9月スタート。全店合同おすすめ機種紹介",
+      "url": "https://x.com/1_take6/status/2094760346175320536"
+    },
+    {
+      "id": "1_take6-2094736874061656096-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-09-02",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "沖ドキ",
+        "カバネリ",
+        "GOD",
+        "大海5SP",
+        "デカヘソ東京喰種"
+      ],
+      "matsubi": [
+        2
+      ],
+      "note": "❷付く日。Twister初。タマノリにゃんまル。新仕掛けスタート",
+      "url": "https://x.com/1_take6/status/2094736874061656096"
     },
     {
       "id": "slot_ogikiti-2094326311833706959-ハイパージアス立川",
@@ -875,6 +1165,19 @@
       "matsubi": [],
       "note": "御三家2回目取材。オススメ機種5巡目。取材予定機種は強めの配分",
       "url": "https://x.com/slot_ogikiti/status/2094063427505562015"
+    },
+    {
+      "id": "slo1_tyousataiZ-2094729711733924189-相模大野UNO",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-01",
+      "target_date": "2026-08-31",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "8月31日差枚ランキング神奈川3位。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2094729711733924189"
     },
     {
       "id": "slot_ogikiti-2093619346065272973-パラッツォ湘南台",
