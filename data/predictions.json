@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T12:45",
-  "count": 2222,
+  "generated_at": "2026-09-03T17:32",
+  "count": 2233,
   "predictions": [
     {
       "id": "slot_ogikiti-2095373724333776947-楽園立川店",
@@ -499,6 +499,126 @@
       "matsubi": [],
       "note": "華金。スロ王来店取材。まるごと/1/2仕掛け/3台並び仕掛け軸。",
       "url": "https://x.com/1_take6/status/2095464352740778311"
+    },
+    {
+      "id": "slot_ogikiti-2095519386706796884-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿0。馬橋中根長津は登録外のため対象外",
+      "url": "https://x.com/slot_ogikiti/status/2095519386706796884"
+    },
+    {
+      "id": "slot_ogikiti-2095518892873658433-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿1。横浜町田は登録外のため対象外",
+      "url": "https://x.com/slot_ogikiti/status/2095518892873658433"
+    },
+    {
+      "id": "slot_ogikiti-2095518506624139628-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿2。新宿東宝ビルは登録外のため対象外",
+      "url": "https://x.com/slot_ogikiti/status/2095518506624139628"
+    },
+    {
+      "id": "slot_ogikiti-2095496873738182984-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿13。ジアス上大岡は登録外のため対象外",
+      "url": "https://x.com/slot_ogikiti/status/2095496873738182984"
+    },
+    {
+      "id": "slot_ogikiti-2095496810542530871-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿15。楽園アメ横は登録外のため対象外",
+      "url": "https://x.com/slot_ogikiti/status/2095496810542530871"
+    },
+    {
+      "id": "slot_ogikiti-2095496793157189815-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿16。楽園蒲田は登録外のため対象外",
+      "url": "https://x.com/slot_ogikiti/status/2095496793157189815"
+    },
+    {
+      "id": "slot_ogikiti-2095496779156623475-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿17。楽園溝の口は登録外のため対象外",
+      "url": "https://x.com/slot_ogikiti/status/2095496779156623475"
+    },
+    {
+      "id": "karasuro_7-2095495694346035610-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "AI脳トレ取材。オンライン抽選。指標系取材",
+      "url": "https://x.com/karasuro_7/status/2095495694346035610"
+    },
+    {
+      "id": "karasuro_7-2095495683759624492-マルハン厚木北",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "マルハン厚木北",
+      "area": null,
+      "machines": [
+        "化物語",
+        "炎炎2"
+      ],
+      "matsubi": [],
+      "note": "NEOMARU~Perfect Surprise~。PS二刀流で立ち回り可能",
+      "url": "https://x.com/karasuro_7/status/2095495683759624492"
     },
     {
       "id": "slot_ogikiti-2095001929390887403-ハイパージアス立川",
@@ -1621,6 +1741,26 @@
       "url": "https://x.com/slot_ogikiti/status/2095029764847460622"
     },
     {
+      "id": "karasuro_7-2095527245901410448-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-01",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "攻殻機動隊",
+        "ウルミラ",
+        "Lハナビ",
+        "ハッピー"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "神奈川マルハン全13店舗合同。抽選61人。全系2機種以上",
+      "url": "https://x.com/karasuro_7/status/2095527245901410448"
+    },
+    {
       "id": "slot_ogikiti-2093899132809191468-楽園立川店",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -1887,6 +2027,24 @@
       "matsubi": [],
       "note": "8月31日差枚ランキング神奈川3位。",
       "url": "https://x.com/slo1_tyousataiZ/status/2094729711733924189"
+    },
+    {
+      "id": "karasuro_7-2095527057451295072-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-08-31",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ハッピー",
+        "Lハナビ"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "神奈川マルハン全13店舗合同。抽選41人。全系2機種以上",
+      "url": "https://x.com/karasuro_7/status/2095527057451295072"
     },
     {
       "id": "slot_ogikiti-2093619346065272973-パラッツォ湘南台",
