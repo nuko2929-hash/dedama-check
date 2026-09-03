@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-02T16:49",
-  "count": 2184,
+  "generated_at": "2026-09-03T07:05",
+  "count": 2191,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2095373724333776947-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2095373724333776947"
+    },
+    {
+      "id": "slot_ogikiti-2095373724333776947-ザシティ相模大野",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに掲載（ベルシティ川崎記載）",
+      "url": "https://x.com/slot_ogikiti/status/2095373724333776947"
+    },
+    {
+      "id": "karasuro_7-2095405600884900118-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川推奨店として掲載",
+      "url": "https://x.com/karasuro_7/status/2095405600884900118"
+    },
+    {
+      "id": "karasuro_7-2095405600884900118-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-04",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川推奨店として掲載",
+      "url": "https://x.com/karasuro_7/status/2095405600884900118"
+    },
     {
       "id": "slot_ogikiti-2095001929390887403-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -151,6 +203,48 @@
       "matsubi": [],
       "note": "3のつく日。スロパチガール来店。8/19振りのガール企画。",
       "url": "https://x.com/karasuro_7/status/2095137185909596531"
+    },
+    {
+      "id": "1_take6-2095363903194890741-スーパーDステーション立川",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-03",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "ゴージャグ",
+        "ガールズ",
+        "ウルミラ",
+        "SAO2",
+        "クレア",
+        "Lカバネリ",
+        "モンキー"
+      ],
+      "matsubi": [
+        "9"
+      ],
+      "note": "❾付く日は狙い目。まいったぁー⤴︎機種から仕掛けあり",
+      "url": "https://x.com/1_take6/status/2095363903194890741"
+    },
+    {
+      "id": "1_take6-2095363660936085561-相模大野UNO",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-09-03",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "SBJ",
+        "ネオアイム",
+        "Lハナビ",
+        "リオエース2",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "土曜日は穴場環境。SBJまるごと仕掛けあり",
+      "url": "https://x.com/1_take6/status/2095363660936085561"
     },
     {
       "id": "karasuro_7-2094657676785684874-ガーデン戸塚",
@@ -3852,6 +3946,23 @@
       "matsubi": [],
       "note": "周年月間。AI脳トレ取材。オンライン抽選",
       "url": "https://x.com/karasuro_7/status/2091528207963205812"
+    },
+    {
+      "id": "karasuro_7-2095383331563339944-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-03",
+      "target_date": "2026-08-24",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "銭形5",
+        "乙女4",
+        "ライズ"
+      ],
+      "matsubi": [],
+      "note": "周年月間・AI脳トレ取材。全系1機種、1/2候補2機種",
+      "url": "https://x.com/karasuro_7/status/2095383331563339944"
     },
     {
       "id": "slot_ogikiti-2091000539047944299-ガーデン戸塚",
