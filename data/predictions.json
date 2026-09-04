@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T07:14",
-  "count": 2236,
+  "generated_at": "2026-09-04T12:40",
+  "count": 2257,
   "predictions": [
     {
       "id": "slot_ogikiti-2095753481399492806-ハイパージアス立川",
@@ -40,6 +40,369 @@
       "matsubi": [],
       "note": "明日の神奈川の推奨店リスト掲載",
       "url": "https://x.com/karasuro_7/status/2095755555952628105"
+    },
+    {
+      "id": "slot_ogikiti-2095845691914678700-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ミリオンゴッド",
+        "ゴー"
+      ],
+      "matsubi": [],
+      "note": "HYPER撃アッチー、スロパチ来店取材。立川地区が強い",
+      "url": "https://x.com/slot_ogikiti/status/2095845691914678700"
+    },
+    {
+      "id": "slot_ogikiti-2095845709300007423-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "週末強化、天草覇道ホール応援団、ビンゴ8来店取材",
+      "url": "https://x.com/slot_ogikiti/status/2095845709300007423"
+    },
+    {
+      "id": "slot_ogikiti-2095785456407646274-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ミリゴ",
+        "ゴージャグ",
+        "Lカバネリ",
+        "喰種",
+        "モンキー",
+        "からくり2"
+      ],
+      "matsubi": [],
+      "note": "スロパチ取材。6台並びを起点に立ち回り。",
+      "url": "https://x.com/slot_ogikiti/status/2095785456407646274"
+    },
+    {
+      "id": "slot_ogikiti-2095780585872712072-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "乙女5",
+        "マイV",
+        "モンキー",
+        "戦コレ6",
+        "バラ",
+        "イーター",
+        "鉄拳6",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。週末強化で4台並び探し。",
+      "url": "https://x.com/slot_ogikiti/status/2095780585872712072"
+    },
+    {
+      "id": "slo1_tyousataiZ-2095843041135501647-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "喰種",
+        "ゴッド",
+        "ネオアイム"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "⑤の日×翠嵐取材。ニブイチ×2機種、全台系、4台並び×6本期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2095843041135501647"
+    },
+    {
+      "id": "slo1_tyousataiZ-2095824555399065755-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店P&S、アツ姫来店",
+      "url": "https://x.com/slo1_tyousataiZ/status/2095824555399065755"
+    },
+    {
+      "id": "slo1_tyousataiZ-2095824555399065755-ガーデン戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店S、Let'sGO取材",
+      "url": "https://x.com/slo1_tyousataiZ/status/2095824555399065755"
+    },
+    {
+      "id": "karasuro_7-2095835806971867477-ハイパージアス立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ジャグラーシリーズ",
+        "GOD",
+        "東京喰種シリーズ"
+      ],
+      "matsubi": [],
+      "note": "スロパチ初開催。6台並び探し推奨。GODローテ。",
+      "url": "https://x.com/karasuro_7/status/2095835806971867477"
+    },
+    {
+      "id": "karasuro_7-2095818662766919712-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "GOD"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "スロパチガール2連戦初日。4台並び狙い。毎日仕掛け。",
+      "url": "https://x.com/karasuro_7/status/2095818662766919712"
+    },
+    {
+      "id": "karasuro_7-2095808732349522392-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ",
+        "マイV",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。Let's GO取材=ジャグベース上げ。",
+      "url": "https://x.com/karasuro_7/status/2095808732349522392"
+    },
+    {
+      "id": "karasuro_7-2095806247647977777-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "ビンゴ8来店取材。ビンゴ機種が手厚い。",
+      "url": "https://x.com/karasuro_7/status/2095806247647977777"
+    },
+    {
+      "id": "karasuro_7-2095799013924651018-キコーナ戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "乙女5",
+        "真打吉宗",
+        "モンハン"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び狙い。",
+      "url": "https://x.com/karasuro_7/status/2095799013924651018"
+    },
+    {
+      "id": "karasuro_7-2095798198690599225-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "マイV",
+        "乙女5"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "5のつく日嵐撃開催。店長推し機種強化。",
+      "url": "https://x.com/karasuro_7/status/2095798198690599225"
+    },
+    {
+      "id": "1_take6-2095836764577599782-ザシティ相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "GOD",
+        "喰霊",
+        "カバネリ",
+        "北斗",
+        "乙女"
+      ],
+      "matsubi": [],
+      "note": "寿司投げ来店取材・超塊初開催。21台以上の仕掛けに期待",
+      "url": "https://x.com/1_take6/status/2095836764577599782"
+    },
+    {
+      "id": "1_take6-2095835157676568944-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "GOD",
+        "マイジャグ"
+      ],
+      "matsubi": [],
+      "note": "燦全来店取材。まるごと仕掛け3機種以上に注目",
+      "url": "https://x.com/1_take6/status/2095835157676568944"
+    },
+    {
+      "id": "1_take6-2095827713571660036-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [
+        "東京喰種",
+        "炎炎ノ消防隊2",
+        "ジャグラーガールズ"
+      ],
+      "matsubi": [],
+      "note": "週末×周年月間。深いい店長就任。まいったぁー機種最優先",
+      "url": "https://x.com/1_take6/status/2095827713571660036"
+    },
+    {
+      "id": "1_take6-2095826379208265878-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "GOD",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "5の付く日。華閃蓮撃×13時時差解放。5連仕掛け中心",
+      "url": "https://x.com/1_take6/status/2095826379208265878"
+    },
+    {
+      "id": "1_take6-2095813869302108397-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ジャグシリーズ",
+        "GOD",
+        "SAO2",
+        "東京喰種"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "5の付く日。剛腕のリアル来店。ジャグに期待。",
+      "url": "https://x.com/1_take6/status/2095813869302108397"
+    },
+    {
+      "id": "1_take6-2095811645096497191-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [
+        5
+      ],
+      "note": "5の付く日。スロセレ来店。時間別レポート注目。",
+      "url": "https://x.com/1_take6/status/2095811645096497191"
+    },
+    {
+      "id": "1_take6-2095809392608424395-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "ヴヴヴ2",
+        "東京喰種",
+        "Lカバネリ",
+        "マイジャグ",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "土曜日。スロパチガール来店。4台並び×13箇所に期待。",
+      "url": "https://x.com/1_take6/status/2095809392608424395"
+    },
+    {
+      "id": "1_take6-2095807245556777208-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "Lカバネリ",
+        "乙女5",
+        "とある",
+        "東京喰種"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "5の付く日。取材傾向6連8ヶ所仕掛け。相模前線機種優先推奨",
+      "url": "https://x.com/1_take6/status/2095807245556777208"
     },
     {
       "id": "slot_ogikiti-2095373724333776947-楽園立川店",
