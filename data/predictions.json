@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-03T17:32",
-  "count": 2233,
+  "generated_at": "2026-09-04T07:14",
+  "count": 2236,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2095753481399492806-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2095753481399492806"
+    },
+    {
+      "id": "karasuro_7-2095755555952628105-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川の推奨店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2095755555952628105"
+    },
+    {
+      "id": "karasuro_7-2095755555952628105-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川の推奨店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2095755555952628105"
+    },
     {
       "id": "slot_ogikiti-2095373724333776947-楽園立川店",
       "source": "荻吉@スロ",
