@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T12:40",
-  "count": 2257,
+  "generated_at": "2026-09-04T16:32",
+  "count": 2261,
   "predictions": [
     {
       "id": "slot_ogikiti-2095753481399492806-ハイパージアス立川",
@@ -403,6 +403,65 @@
       ],
       "note": "5の付く日。取材傾向6連8ヶ所仕掛け。相模前線機種優先推奨",
       "url": "https://x.com/1_take6/status/2095807245556777208"
+    },
+    {
+      "id": "slo1_tyousataiZ-2095848975836532828-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "ジャグラー",
+        "モンキー"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "⑤の日×週末強化。ジャグ/モンキー注目。全台系/ニブイチ/並び期待",
+      "url": "https://x.com/slo1_tyousataiZ/status/2095848975836532828"
+    },
+    {
+      "id": "karasuro_7-2095865375099638097-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        5
+      ],
+      "note": "5のつく日。スロぱちガール来店PS。連日PS二刀流",
+      "url": "https://x.com/karasuro_7/status/2095865375099638097"
+    },
+    {
+      "id": "karasuro_7-2095865333051723997-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店。Let's GO取材でジャグベース上昇の日",
+      "url": "https://x.com/karasuro_7/status/2095865333051723997"
+    },
+    {
+      "id": "karasuro_7-2095865272221737389-キコーナ戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-04",
+      "target_date": "2026-09-05",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "3ヶ月連続スロパチガール来店。4台並び傾向",
+      "url": "https://x.com/karasuro_7/status/2095865272221737389"
     },
     {
       "id": "slot_ogikiti-2095373724333776947-楽園立川店",
