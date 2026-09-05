@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T11:47",
-  "count": 2285,
+  "generated_at": "2026-09-05T15:26",
+  "count": 2286,
   "predictions": [
     {
       "id": "slot_ogikiti-2096072201179136388-プレゴ立川店",
@@ -74,7 +74,7 @@
         "化物語"
       ],
       "matsubi": [],
-      "note": "ネクスタ開催。ビンゴ対象9機種が最優先。高配分やまるごと期待。",
+      "note": "ネクスタ来店取材。9機種ビンゴ対象で週末強化。最低でも単品以上に期待。",
       "url": "https://x.com/slot_ogikiti/status/2096147816124936491"
     },
     {
@@ -439,6 +439,22 @@
       "matsubi": [],
       "note": "スロパチガール来店、4台並び13箇所、パチンコ3列に期待",
       "url": "https://x.com/1_take6/status/2096165290765844829"
+    },
+    {
+      "id": "slot_ogikiti-2096224377801200029-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-05",
+      "target_date": "2026-09-06",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "カバネリ"
+      ],
+      "matsubi": [],
+      "note": "COME BACK取材開催。5の日据え置き狙いが主役",
+      "url": "https://x.com/slot_ogikiti/status/2096224377801200029"
     },
     {
       "id": "slot_ogikiti-2095753481399492806-ハイパージアス立川",
