@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-04T16:32",
-  "count": 2261,
+  "generated_at": "2026-09-05T06:57",
+  "count": 2265,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2096072201179136388-プレゴ立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-05",
+      "target_date": "2026-09-06",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに掲載なし。該当店舗なし",
+      "url": "https://x.com/slot_ogikiti/status/2096072201179136388"
+    },
+    {
+      "id": "karasuro_7-2096127454759030996-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-05",
+      "target_date": "2026-09-06",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川の狙い目店として紹介",
+      "url": "https://x.com/karasuro_7/status/2096127454759030996"
+    },
+    {
+      "id": "karasuro_7-2096127454759030996-キコーナ戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-05",
+      "target_date": "2026-09-06",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "キコーナ海老名の誤りと思われるが登録外。抽出なし",
+      "url": "https://x.com/karasuro_7/status/2096127454759030996"
+    },
+    {
+      "id": "karasuro_7-2096127454759030996-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-05",
+      "target_date": "2026-09-06",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川の狙い目店として紹介",
+      "url": "https://x.com/karasuro_7/status/2096127454759030996"
+    },
     {
       "id": "slot_ogikiti-2095753481399492806-ハイパージアス立川",
       "source": "荻吉@スロ",
