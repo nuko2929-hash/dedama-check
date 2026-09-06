@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T12:17",
-  "count": 2329,
+  "generated_at": "2026-09-06T15:39",
+  "count": 2335,
   "predictions": [
     {
       "id": "slot_ogikiti-2096501349701832990-楽園立川店",
@@ -628,6 +628,53 @@
       "url": "https://x.com/1_take6/status/2096513790041080065"
     },
     {
+      "id": "karasuro_7-2096580647322374372-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        7
+      ],
+      "note": "新台入替、7のつく日、嵐撃開催。店長推し機種強化予想",
+      "url": "https://x.com/karasuro_7/status/2096580647322374372"
+    },
+    {
+      "id": "karasuro_7-2096498660855226868-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "Lカバネリ",
+        "乙女5",
+        "ジャグラー"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "嵐撃＝扱い○の月間推し機種。1/2以上で仕掛けあり",
+      "url": "https://x.com/karasuro_7/status/2096498660855226868"
+    },
+    {
+      "id": "1_take6-2096589017659949118-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿に店舗名が明記されていません。登録店舗との一致確認不可",
+      "url": "https://x.com/1_take6/status/2096589017659949118"
+    },
+    {
       "id": "slot_ogikiti-2096072201179136388-プレゴ立川店",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -1137,6 +1184,37 @@
       "url": "https://x.com/1_take6/status/2096225070528250350"
     },
     {
+      "id": "slot_ogikiti-2096586033257148556-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-06",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "カバネリ",
+        "GOD",
+        "ゴージャグ"
+      ],
+      "matsubi": [],
+      "note": "9/7新台入替。演者来店、定量制あり。",
+      "url": "https://x.com/slot_ogikiti/status/2096586033257148556"
+    },
+    {
+      "id": "slot_ogikiti-2096587290873315785-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-06",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "毎月7日は立川がバチバチ。ジアス立川は連日打てる。",
+      "url": "https://x.com/slot_ogikiti/status/2096587290873315785"
+    },
+    {
       "id": "slot_ogikiti-2095753481399492806-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -1596,6 +1674,30 @@
       "matsubi": [],
       "note": "3ヶ月連続スロパチガール来店。4台並び傾向",
       "url": "https://x.com/karasuro_7/status/2095865272221737389"
+    },
+    {
+      "id": "slot_ogikiti-2096605583101305063-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-05",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "真打吉宗",
+        "ネオアイム",
+        "Lカバネリ",
+        "マイV",
+        "ゴージャグ",
+        "喰種",
+        "モンハン",
+        "モンキーV",
+        "ミリゴ",
+        "ゴー"
+      ],
+      "matsubi": [],
+      "note": "総差枚+147,965枚。優秀機種・6台並び候補多数。",
+      "url": "https://x.com/slot_ogikiti/status/2096605583101305063"
     },
     {
       "id": "slot_ogikiti-2095373724333776947-楽園立川店",
