@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-09-05T15:26",
-  "count": 2286,
+  "generated_at": "2026-09-06T07:50",
+  "count": 2295,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2096501349701832990-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "新台入替でスロトレ開催。Lカバネリ&戦コレ6が1/2以上。",
+      "url": "https://x.com/slot_ogikiti/status/2096501349701832990"
+    },
+    {
+      "id": "slot_ogikiti-2096498000315179197-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "新台入替。7の日。PFちゅんげー調査隊開催。4台並び×2箇所以上。",
+      "url": "https://x.com/slot_ogikiti/status/2096498000315179197"
+    },
+    {
+      "id": "slot_ogikiti-2096494784101957724-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "7の日。天草極上ホール応援団開催。4台並び×多数。",
+      "url": "https://x.com/slot_ogikiti/status/2096494784101957724"
+    },
+    {
+      "id": "karasuro_7-2096500413117993376-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "Lカバネリ",
+        "乙女5",
+        "ジャグラー"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "7のつく日の嵐撃。新台入替も重なる",
+      "url": "https://x.com/karasuro_7/status/2096500413117993376"
+    },
+    {
+      "id": "karasuro_7-2096501341422276852-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ジャグラー",
+        "ネオアイム",
+        "ゴージャグ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "7のつく日のMAX BET。穴場狙い向け",
+      "url": "https://x.com/karasuro_7/status/2096501341422276852"
+    },
     {
       "id": "slot_ogikiti-2096072201179136388-プレゴ立川店",
       "source": "荻吉@スロ",
@@ -455,6 +532,61 @@
       "matsubi": [],
       "note": "COME BACK取材開催。5の日据え置き狙いが主役",
       "url": "https://x.com/slot_ogikiti/status/2096224377801200029"
+    },
+    {
+      "id": "karasuro_7-2096245308640706863-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-05",
+      "target_date": "2026-09-06",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [
+        6
+      ],
+      "note": "近隣対抗。ダントツ！取材",
+      "url": "https://x.com/karasuro_7/status/2096245308640706863"
+    },
+    {
+      "id": "karasuro_7-2096245300063298045-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-05",
+      "target_date": "2026-09-06",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        6
+      ],
+      "note": "相模の頂来店取材。スロパチガール来店",
+      "url": "https://x.com/karasuro_7/status/2096245300063298045"
+    },
+    {
+      "id": "1_take6-2096225070528250350-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-05",
+      "target_date": "2026-09-06",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "カバネリ",
+        "からくり",
+        "マンキン",
+        "防ふり",
+        "攻殻機動隊",
+        "バイオ",
+        "SAO",
+        "炎炎",
+        "エウレカ",
+        "ペルソナ",
+        "バイオRE2"
+      ],
+      "matsubi": [],
+      "note": "6連仕掛けからの複数機種推奨。SAO付近とバラから展開",
+      "url": "https://x.com/1_take6/status/2096225070528250350"
     },
     {
       "id": "slot_ogikiti-2095753481399492806-ハイパージアス立川",
@@ -2057,6 +2189,31 @@
       "matsubi": [],
       "note": "連日仕掛け、全国初寿司投げ取材、9月推し機種から攻め推奨",
       "url": "https://x.com/1_take6/status/2094741084991820021"
+    },
+    {
+      "id": "karasuro_7-2096466141388632192-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-02",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "クレアBT",
+        "いせかるBT",
+        "新鬼3",
+        "マジハロBT",
+        "乙女5",
+        "バイオRE3",
+        "マイV",
+        "Lカバネリ",
+        "東リべ"
+      ],
+      "matsubi": [
+        2
+      ],
+      "note": "2のつく日の紅の龍。抽選65人",
+      "url": "https://x.com/karasuro_7/status/2096466141388632192"
     },
     {
       "id": "slot_ogikiti-2094326311833706959-ハイパージアス立川",
