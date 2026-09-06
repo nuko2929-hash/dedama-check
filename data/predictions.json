@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T07:50",
-  "count": 2295,
+  "generated_at": "2026-09-06T12:17",
+  "count": 2329,
   "predictions": [
     {
       "id": "slot_ogikiti-2096501349701832990-楽園立川店",
@@ -78,6 +78,554 @@
       ],
       "note": "7のつく日のMAX BET。穴場狙い向け",
       "url": "https://x.com/karasuro_7/status/2096501341422276852"
+    },
+    {
+      "id": "slot_ogikiti-2096567729222537634-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "ブラックホール"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "20スロ増設に合わせて蒲田店との共闘開催",
+      "url": "https://x.com/slot_ogikiti/status/2096567729222537634"
+    },
+    {
+      "id": "slot_ogikiti-2096567466055143910-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "ブラックホール"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "立川店との共闘でブラックホール開催予定",
+      "url": "https://x.com/slot_ogikiti/status/2096567466055143910"
+    },
+    {
+      "id": "slot_ogikiti-2096527447575728143-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "転生"
+      ],
+      "matsubi": [
+        "7"
+      ],
+      "note": "20スロ増設×月イチ7日。蒲田との共闘ブラックホール開催で内容期待。",
+      "url": "https://x.com/slot_ogikiti/status/2096527447575728143"
+    },
+    {
+      "id": "slot_ogikiti-2096525148014907802-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "ミラクル",
+        "からくり",
+        "炎炎2",
+        "乙女5",
+        "サンダー",
+        "ワールドダイスター",
+        "SAO2",
+        "化物語",
+        "ゴー",
+        "喰種",
+        "ガールズ",
+        "モンキー",
+        "ハッピー",
+        "転生",
+        "新ハナビ",
+        "沖ドキG"
+      ],
+      "matsubi": [],
+      "note": "新台入替+来店取材。全系3本以上発動、朝からジャグ島スタート推奨",
+      "url": "https://x.com/slot_ogikiti/status/2096525148014907802"
+    },
+    {
+      "id": "slot_ogikiti-2096522910395752488-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "SAO2",
+        "炎炎2",
+        "モンハン",
+        "リコリコ",
+        "青春ブタ野郎",
+        "モグモグ風林火山",
+        "タコスロ"
+      ],
+      "matsubi": [],
+      "note": "新台入替+来店取材。全系3機種以上。新台扱い良好で初日から凸推奨",
+      "url": "https://x.com/slot_ogikiti/status/2096522910395752488"
+    },
+    {
+      "id": "slot_ogikiti-2096520803982754198-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "ハッピー",
+        "ゴージャグ",
+        "ローティス",
+        "ワールドダイスター",
+        "うみねこ",
+        "ダークハイビ",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [],
+      "note": "7の日+来店取材。1/2機種5機種以上。ローティス&ワールドダイスター連続仕掛け",
+      "url": "https://x.com/slot_ogikiti/status/2096520803982754198"
+    },
+    {
+      "id": "slot_ogikiti-2096518627189195199-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "ブラックホール",
+        "転生",
+        "北斗",
+        "エウレカ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "7の日+新台入替+立川店共闘。末尾7が1/2以上。共闘要素に注目",
+      "url": "https://x.com/slot_ogikiti/status/2096518627189195199"
+    },
+    {
+      "id": "slot_ogikiti-2096516263384351097-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "Lリコリス・リコイル"
+      ],
+      "matsubi": [],
+      "note": "千葉マルハン全店で大型新台入替。話題のスマスロ新台導入",
+      "url": "https://x.com/slot_ogikiti/status/2096516263384351097"
+    },
+    {
+      "id": "slot_ogikiti-2096512296491401502-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "喰種"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "7の日+調査団取材。喰種が1/2以上。7に纏わる仕掛けに注目",
+      "url": "https://x.com/slot_ogikiti/status/2096512296491401502"
+    },
+    {
+      "id": "slot_ogikiti-2096511083901272081-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "Lカバネリ",
+        "喰種",
+        "SAO2"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "新台入替+7の日+四星ブラックホール。早番特権あり。朝イチ狙い目明確",
+      "url": "https://x.com/slot_ogikiti/status/2096511083901272081"
+    },
+    {
+      "id": "slot_ogikiti-2096507876076605942-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "ミリゴ"
+      ],
+      "matsubi": [],
+      "note": "大型新台入替+7の日+調査団取材。ミリゴ1/2以上。1/2機種山盛り",
+      "url": "https://x.com/slot_ogikiti/status/2096507876076605942"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-スーパーDステーション立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-ザシティ相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-相模大野UNO",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-キコーナ戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-エランドール泉",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-ブラジャン戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "ブラジャン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-スクランブル田谷",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-ガーデン戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-アビバ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-クリエ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-パラッツォ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-グランドホール長後",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "グランドホール長後",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-吉兆東名川崎店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "吉兆東名川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096571443601604768-プレイスポットドラゴン川崎店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "⑦の日。全台系×複数、全体強化に期待。店長ポスト連想要確認。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096571443601604768"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096548865252209039-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "北斗",
+        "ハナハナ",
+        "喰種",
+        "カバネリ",
+        "ゴージャグ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "⑦の日。大型新台入替×ブラックホール合同取材。北斗/ハナハナサブイチ以上に注目。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096548865252209039"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096547245877268920-ハイパージアス立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "9/5差枚実績TOP10掲載。スロパチ(青)とHYPER撃アッチー取材記事あり。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096547245877268920"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096547245877268920-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "9/5差枚実績に掲載。スロパチ(青)取材記事あり。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096547245877268920"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096547424911454685-ザシティ相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "9/5差枚実績。クロロエンジェルS来店/オフミーグラレポ取材ポスト掲載。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096547424911454685"
+    },
+    {
+      "id": "1_take6-2096563387434193360-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "カバネリ",
+        "GOD",
+        "東京喰種GOLD",
+        "マギレコ",
+        "番長ZERO",
+        "沖ドキゴージャス",
+        "アズレン",
+        "ウルミラ",
+        "ワールドダイスター",
+        "吉宗真打",
+        "北斗",
+        "乙女5",
+        "バイオre3",
+        "炎炎2",
+        "モンハン",
+        "鬼武者3"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "❼の付く日。合計15台以上のまるごと仕掛け期待。バナナポスト＝まるごと仕掛け",
+      "url": "https://x.com/1_take6/status/2096563387434193360"
+    },
+    {
+      "id": "1_take6-2096515128166699499-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "GOD",
+        "ジャグ",
+        "鉄拳6",
+        "無職転生",
+        "いせかる"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "❼の付く日×近隣対抗。まるごと＋大量3台並び期待。19箇所の仕掛け狙い",
+      "url": "https://x.com/1_take6/status/2096515128166699499"
+    },
+    {
+      "id": "1_take6-2096513790041080065-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-06",
+      "target_date": "2026-09-07",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "牙狼",
+        "SEED"
+      ],
+      "matsubi": [],
+      "note": "パチンコ2列に注目。P2列のドリパチ狙い目。",
+      "url": "https://x.com/1_take6/status/2096513790041080065"
     },
     {
       "id": "slot_ogikiti-2096072201179136388-プレゴ立川店",
