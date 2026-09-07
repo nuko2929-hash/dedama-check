@@ -1,7 +1,76 @@
 {
-  "generated_at": "2026-09-06T15:39",
-  "count": 2335,
+  "generated_at": "2026-09-07T07:17",
+  "count": 2347,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2096799920372244812-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "化物語",
+        "ワールドダイスター",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "ネクスタ来店取材。化物語が優秀機種で高配分期待。",
+      "url": "https://x.com/slot_ogikiti/status/2096799920372244812"
+    },
+    {
+      "id": "slot_ogikiti-2096801861097664634-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日8日のお品書き掲載店。新台入替など期待。",
+      "url": "https://x.com/slot_ogikiti/status/2096801861097664634"
+    },
+    {
+      "id": "slot_ogikiti-2096801861097664634-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日8日のお品書き掲載店。新台入替など期待。",
+      "url": "https://x.com/slot_ogikiti/status/2096801861097664634"
+    },
+    {
+      "id": "karasuro_7-2096833649371209812-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日9/8神奈川オプチャ掲載店。詳細情報あり",
+      "url": "https://x.com/karasuro_7/status/2096833649371209812"
+    },
+    {
+      "id": "karasuro_7-2096833649371209812-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日9/8神奈川オプチャ掲載店。詳細情報あり",
+      "url": "https://x.com/karasuro_7/status/2096833649371209812"
+    },
     {
       "id": "slot_ogikiti-2096501349701832990-楽園立川店",
       "source": "荻吉@スロ",
@@ -673,6 +742,21 @@
       "matsubi": [],
       "note": "投稿に店舗名が明記されていません。登録店舗との一致確認不可",
       "url": "https://x.com/1_take6/status/2096589017659949118"
+    },
+    {
+      "id": "karasuro_7-2096851854542213412-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-07",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "青い彼女"
+      ],
+      "matsubi": [],
+      "note": "青ブタ8台導入。気合いの配置で明日の8つくで狙い目",
+      "url": "https://x.com/karasuro_7/status/2096851854542213412"
     },
     {
       "id": "slot_ogikiti-2096072201179136388-プレゴ立川店",
@@ -2866,6 +2950,32 @@
       "url": "https://x.com/karasuro_7/status/2096466141388632192"
     },
     {
+      "id": "karasuro_7-2096819582384451897-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-02",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "乙女5",
+        "マギレコ",
+        "SAOⅡ",
+        "東京喰種",
+        "北斗",
+        "やじきた",
+        "マイV",
+        "Lカバネリ",
+        "からくり2",
+        "モンキーV"
+      ],
+      "matsubi": [
+        2
+      ],
+      "note": "抽選55人。全系・1/2・1/3等複数候補機種あり。虹ガチ分析",
+      "url": "https://x.com/karasuro_7/status/2096819582384451897"
+    },
+    {
       "id": "slot_ogikiti-2094326311833706959-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -3483,6 +3593,49 @@
       "url": "https://x.com/karasuro_7/status/2095527245901410448"
     },
     {
+      "id": "karasuro_7-2096819330893959616-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-01",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "SAOⅡ",
+        "攻殻機動隊",
+        "乙女5",
+        "ワンピース"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "抽選82人。超キノコ狩り2nd。乙女5全、8台並びあり",
+      "url": "https://x.com/karasuro_7/status/2096819330893959616"
+    },
+    {
+      "id": "karasuro_7-2096819210223591874-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-01",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "禁書目録2",
+        "Lハナビ",
+        "ゴージャグ",
+        "ネオアイム",
+        "東京喰種",
+        "GOD",
+        "マイV"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "抽選42人。超キノコ狩り2nd。全系2機種、6台並びあり",
+      "url": "https://x.com/karasuro_7/status/2096819210223591874"
+    },
+    {
       "id": "slot_ogikiti-2093899132809191468-楽園立川店",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -3767,6 +3920,47 @@
       ],
       "note": "神奈川マルハン全13店舗合同。抽選41人。全系2機種以上",
       "url": "https://x.com/karasuro_7/status/2095527057451295072"
+    },
+    {
+      "id": "karasuro_7-2096818950315405809-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-08-31",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "化物語",
+        "Lカバネリ",
+        "マイV"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "抽選45人。超キノコ狩り2nd。全系化物語、6台並びあり",
+      "url": "https://x.com/karasuro_7/status/2096818950315405809"
+    },
+    {
+      "id": "karasuro_7-2096818595682824221-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-08-31",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [
+        "禁書目録2",
+        "サンダーBT",
+        "不二子BT",
+        "マイV",
+        "ネオアイム",
+        "スト6"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "抽選34人。超キノコ狩り2nd。全系禁書目録2、6台並びあり",
+      "url": "https://x.com/karasuro_7/status/2096818595682824221"
     },
     {
       "id": "slot_ogikiti-2093619346065272973-パラッツォ湘南台",
@@ -4598,6 +4792,36 @@
       "matsubi": [],
       "note": "日曜日のファントム仕掛け。まるごと/並び仕掛けに期待",
       "url": "https://x.com/1_take6/status/2093681221884878929"
+    },
+    {
+      "id": "karasuro_7-2096818404762210660-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-08-29",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "Sカバネリ",
+        "Lカバネリ",
+        "新鬼3",
+        "バイオRE3",
+        "東京喰種",
+        "SAOⅡ",
+        "ヴヴヴ",
+        "かぐや様",
+        "禁書目録2",
+        "SBJ",
+        "頭文字D2",
+        "アクダマ",
+        "ヴヴヴ2",
+        "マイV",
+        "炎炎2",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "抽選553人。スロパチ・すろぱちガール来店取材。7台並びSカバネリ全💥",
+      "url": "https://x.com/karasuro_7/status/2096818404762210660"
     },
     {
       "id": "slot_ogikiti-2092890782802080163-ガーデン戸塚",
