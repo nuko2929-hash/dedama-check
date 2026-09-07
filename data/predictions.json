@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T07:17",
-  "count": 2347,
+  "generated_at": "2026-09-07T14:09",
+  "count": 2375,
   "predictions": [
     {
       "id": "slot_ogikiti-2096799920372244812-スーパーDステーション立川",
@@ -70,6 +70,423 @@
       "matsubi": [],
       "note": "明日9/8神奈川オプチャ掲載店。詳細情報あり",
       "url": "https://x.com/karasuro_7/status/2096833649371209812"
+    },
+    {
+      "id": "slot_ogikiti-2096902291827667405-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "SAO2"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "スロトレ調査団『和尚大激怒』開催。SAO2が1/2以上、末尾8が1/2以上の見込み",
+      "url": "https://x.com/slot_ogikiti/status/2096902291827667405"
+    },
+    {
+      "id": "slot_ogikiti-2096882747302363518-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "8の日。店内10%以上が最低ライン。1/2以上機種×複数あり。ジャグラーシリーズに仕掛け。",
+      "url": "https://x.com/slot_ogikiti/status/2096882747302363518"
+    },
+    {
+      "id": "slot_ogikiti-2096888918171922882-キコーナ戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "8の日。全撃来店取材。店内10%以上、10台以上規模のまるごと機種に期待。",
+      "url": "https://x.com/slot_ogikiti/status/2096888918171922882"
+    },
+    {
+      "id": "slot_ogikiti-2096868336856691085-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "カバネリ",
+        "ミリゴ",
+        "ゴー",
+        "イーター",
+        "鉄拳6"
+      ],
+      "matsubi": [],
+      "note": "PFちゅんげー調査隊。4台以上に機種イチ以上単品。優秀機種あり。",
+      "url": "https://x.com/slot_ogikiti/status/2096868336856691085"
+    },
+    {
+      "id": "slot_ogikiti-2096865086782738529-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ゴージャグ"
+      ],
+      "matsubi": [],
+      "note": "スロトレ『ハーフテン』開催。ゴージャグが1/2以上。1/2以上機種×10機種以上。",
+      "url": "https://x.com/slot_ogikiti/status/2096865086782738529"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096910286980522120-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "ゴージャグ",
+        "Lカバネリ"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "⑧の付く日×和尚大激怒初開催。全台系/ニブイチ/並び仕掛け。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096910286980522120"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096897105273274464-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載。アナスロ予測来店取材。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096897105273274464"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096911426611032128-相模大野UNO",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗リストに該当。詳細情報なし。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096911426611032128"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096911426611032128-ザシティ相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗リストに該当。詳細情報なし。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096911426611032128"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096909300786405418-キコーナ戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "全撃来店取材×⑧の日。全台系/列全狙い。10台以上設置機種優先。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096909300786405418"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096897105273274464-新ガーデン戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "新ガーデン戸塚",
+      "area": null,
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載。新台入替。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096897105273274464"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096911426611032128-スクランブル田谷",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗リストに該当。詳細情報なし。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096911426611032128"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096911426611032128-アビバ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗リストに該当。詳細情報なし。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096911426611032128"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096911426611032128-クリエ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗リストに該当。詳細情報なし。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096911426611032128"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096911426611032128-パラッツォ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗リストに該当。詳細情報なし。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096911426611032128"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096911426611032128-グランドホール長後",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "グランドホール長後",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗リストに該当。詳細情報なし。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096911426611032128"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096911426611032128-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗リストに該当。詳細情報なし。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096911426611032128"
+    },
+    {
+      "id": "slo1_tyousataiZ-2096911426611032128-プレイスポットドラゴン川崎店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗リストに該当。詳細情報なし。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2096911426611032128"
+    },
+    {
+      "id": "karasuro_7-2096956513835421718-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "青ブタ"
+      ],
+      "matsubi": [],
+      "note": "8のつく日。青ブタ8台導入、藤沢舞台アニメ。",
+      "url": "https://x.com/karasuro_7/status/2096956513835421718"
+    },
+    {
+      "id": "karasuro_7-2096956494667559288-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "新台入替、8のつく日。サヤカ来店。抽選1111名。",
+      "url": "https://x.com/karasuro_7/status/2096956494667559288"
+    },
+    {
+      "id": "karasuro_7-2096956469501677736-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "8のつく日。9月1発目の8つく強化。イベシル発表。",
+      "url": "https://x.com/karasuro_7/status/2096956469501677736"
+    },
+    {
+      "id": "karasuro_7-2096956458349048107-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "モンキーV",
+        "青ブタ"
+      ],
+      "matsubi": [],
+      "note": "8のつく日。ガチ分析虹。調査団廻来店取材。",
+      "url": "https://x.com/karasuro_7/status/2096956458349048107"
+    },
+    {
+      "id": "karasuro_7-2096906899384041923-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "新台入替、8のつく日。サヤカ来店。抽選1111名。",
+      "url": "https://x.com/karasuro_7/status/2096906899384041923"
+    },
+    {
+      "id": "karasuro_7-2096883086986465728-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "8のつく日。9月1発目。店長Xポストに注目。",
+      "url": "https://x.com/karasuro_7/status/2096883086986465728"
+    },
+    {
+      "id": "1_take6-2096913632642879962-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "革命機ヴァルヴレイヴ2",
+        "モンスターハンターライズ",
+        "ゴッドイーター",
+        "GOD",
+        "東京喰種"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "❽の付く日。まいったぁー機種最優先。闘龍景品入荷で3台並び×5箇所以上",
+      "url": "https://x.com/1_take6/status/2096913632642879962"
+    },
+    {
+      "id": "1_take6-2096909628743524737-クリエ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "禁書2",
+        "Lカバネリ",
+        "乙女5",
+        "北斗"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "❽の付く日。裏破天荒来店取材。まるごと・1/2仕掛け・3台並び期待",
+      "url": "https://x.com/1_take6/status/2096909628743524737"
+    },
+    {
+      "id": "1_take6-2096908432855257522-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "リコリコ",
+        "青ブタ",
+        "彼女お借りします",
+        "タコスロ"
+      ],
+      "matsubi": [],
+      "note": "新装2日目。22台導入リコリコ最優先。全91台大型新台入替。朝から新台狙える",
+      "url": "https://x.com/1_take6/status/2096908432855257522"
+    },
+    {
+      "id": "1_take6-2096890203894120519-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-07",
+      "target_date": "2026-09-08",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        8
+      ],
+      "note": "❽の付く日。新装重なる。質の良いまるごと仕掛け複数・1/2以上機種複数期待",
+      "url": "https://x.com/1_take6/status/2096890203894120519"
     },
     {
       "id": "slot_ogikiti-2096501349701832990-楽園立川店",
