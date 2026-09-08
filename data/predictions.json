@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T12:46",
-  "count": 2393,
+  "generated_at": "2026-09-08T16:49",
+  "count": 2405,
   "predictions": [
     {
       "id": "slot_ogikiti-2097160021624999950-ハイパージアス立川",
@@ -260,6 +260,178 @@
       "matsubi": [],
       "note": "月ゾロ。スロパチステーション取材。6並び＋3並び複数に期待",
       "url": "https://x.com/1_take6/status/2097244939818312020"
+    },
+    {
+      "id": "slot_ogikiti-2097305913766162569-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "カバネリ",
+        "GOD",
+        "ゴージャグ",
+        "イーター",
+        "鉄拳6"
+      ],
+      "matsubi": [],
+      "note": "月ゾロ・極上取材。全系＆3台並び軸。店内10％以上が狙い目",
+      "url": "https://x.com/slot_ogikiti/status/2097305913766162569"
+    },
+    {
+      "id": "slot_ogikiti-2097306285532418192-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "ジアス＆楽園の仕掛けに注目。全系＆3台並びを軸に",
+      "url": "https://x.com/slot_ogikiti/status/2097306285532418192"
+    },
+    {
+      "id": "slo1_tyousataiZ-2097323172416958730-スーパーDステーション立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "月ゾロ目",
+        "合同全台系"
+      ],
+      "matsubi": [],
+      "note": "月ゾロ目×合同賞品入荷。全台系に期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2097323172416958730"
+    },
+    {
+      "id": "slo1_tyousataiZ-2097317196271886546-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "登録店舗外（ピーアーク草加）のため対象外",
+      "url": "https://x.com/slo1_tyousataiZ/status/2097317196271886546"
+    },
+    {
+      "id": "slo1_tyousataiZ-2097309667018072440-楽園立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "喰種",
+        "ゴージャグ",
+        "Lカバネリ"
+      ],
+      "matsubi": [
+        9
+      ],
+      "note": "キングヤバイラー×⑨の日。全台系/ニブイチ多数出現。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2097309667018072440"
+    },
+    {
+      "id": "slo1_tyousataiZ-2097317196271886546-ハイパージアス立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿に対象店なし",
+      "url": "https://x.com/slo1_tyousataiZ/status/2097317196271886546"
+    },
+    {
+      "id": "slo1_tyousataiZ-2097317196271886546-プレゴ立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿に対象店なし",
+      "url": "https://x.com/slo1_tyousataiZ/status/2097317196271886546"
+    },
+    {
+      "id": "karasuro_7-2097342702555939027-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "月日ゾロ。月に一度のスロパチ開催。過去に複数台並び実績あり。",
+      "url": "https://x.com/karasuro_7/status/2097342702555939027"
+    },
+    {
+      "id": "karasuro_7-2097342624483180673-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "月日ゾロ。集大成Z取材。全台系複数、3台並び複数あり。",
+      "url": "https://x.com/karasuro_7/status/2097342624483180673"
+    },
+    {
+      "id": "karasuro_7-2097342608381227046-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "月日ゾロ。集大成Z来店取材。全店合同仕掛け。",
+      "url": "https://x.com/karasuro_7/status/2097342608381227046"
+    },
+    {
+      "id": "karasuro_7-2097342591306228138-スーパーDステーション立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "年イチ9/9。全国一斉合同賞品入荷。月ゾロ合同仕掛け。",
+      "url": "https://x.com/karasuro_7/status/2097342591306228138"
+    },
+    {
+      "id": "1_take6-2097244397041815793-アビバ湘南台",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-08",
+      "target_date": "2026-09-09",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "月ゾロ。スロ6台並び6箇所+パチンコ2BOX指標",
+      "url": "https://x.com/1_take6/status/2097244397041815793"
     },
     {
       "id": "slot_ogikiti-2096799920372244812-スーパーDステーション立川",
@@ -709,9 +881,9 @@
         "北斗"
       ],
       "matsubi": [
-        8
+        "8"
       ],
-      "note": "❽の付く日。裏破天荒来店取材。まるごと・1/2仕掛け・3台並び期待",
+      "note": "❽付く日。裏破天荒来店取材。1/2仕掛け注目",
       "url": "https://x.com/1_take6/status/2096909628743524737"
     },
     {
