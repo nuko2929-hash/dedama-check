@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T13:47",
-  "count": 2416,
+  "generated_at": "2026-09-09T16:53",
+  "count": 2421,
   "predictions": [
     {
       "id": "slot_ogikiti-2097496927457919139-楽園立川店",
@@ -168,6 +168,74 @@
       "matsubi": [],
       "note": "毎月10日合同取材。綾瀬上土棚と鶴見で実施。",
       "url": "https://x.com/1_take6/status/2097639347587518749"
+    },
+    {
+      "id": "slot_ogikiti-2097674461336240467-マルハン池袋本館",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-09",
+      "target_date": "2026-09-10",
+      "store": "マルハン池袋本館",
+      "area": null,
+      "machines": [],
+      "matsubi": [],
+      "note": "明日10日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2097674461336240467"
+    },
+    {
+      "id": "slot_ogikiti-2097685044232102239-マルハン亀有",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-09",
+      "target_date": "2026-09-10",
+      "store": "マルハン亀有",
+      "area": null,
+      "machines": [],
+      "matsubi": [
+        0,
+        4
+      ],
+      "note": "BIG FO FO、末尾0.4絡み4台並び×7本",
+      "url": "https://x.com/slot_ogikiti/status/2097685044232102239"
+    },
+    {
+      "id": "slot_ogikiti-2097674461336240467-マルハン亀有",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-09",
+      "target_date": "2026-09-10",
+      "store": "マルハン亀有",
+      "area": null,
+      "machines": [],
+      "matsubi": [],
+      "note": "明日10日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2097674461336240467"
+    },
+    {
+      "id": "karasuro_7-2097690417185894491-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-09",
+      "target_date": "2026-09-10",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "AI脳トレ取材。オンライン抽選開催。戸塚店名物企画。",
+      "url": "https://x.com/karasuro_7/status/2097690417185894491"
+    },
+    {
+      "id": "karasuro_7-2097690398047228130-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-09",
+      "target_date": "2026-09-10",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "近隣対抗日。スロパチ来店取材。毎月10日開催。",
+      "url": "https://x.com/karasuro_7/status/2097690398047228130"
     },
     {
       "id": "slot_ogikiti-2097160021624999950-ハイパージアス立川",
@@ -545,7 +613,7 @@
       "area": "相模大野",
       "machines": [],
       "matsubi": [],
-      "note": "月日ゾロ。月に一度のスロパチ開催。過去に複数台並び実績あり。",
+      "note": "月日ゾロ。スロパチ来店取材。今月開催。",
       "url": "https://x.com/karasuro_7/status/2097342702555939027"
     },
     {
