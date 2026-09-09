@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-09-08T16:49",
-  "count": 2405,
+  "generated_at": "2026-09-09T07:21",
+  "count": 2408,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2097496927457919139-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-09",
+      "target_date": "2026-09-10",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "モンハン",
+        "SAO2",
+        "ゴージャグ",
+        "リコリコ",
+        "キンハナ",
+        "喰種",
+        "マイV",
+        "ネオアイム",
+        "からくり2",
+        "Lカバネリ",
+        "転生",
+        "ミリゴ",
+        "新ハナビ",
+        "シェイク",
+        "ケロット",
+        "モグモグ",
+        "インデックス2",
+        "ジャグ"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "スロトレ調査団『和尚大激怒』で優秀機種多数。末尾⑧が素直な仕掛け。",
+      "url": "https://x.com/slot_ogikiti/status/2097496927457919139"
+    },
     {
       "id": "slot_ogikiti-2097160021624999950-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -920,6 +954,23 @@
       "url": "https://x.com/1_take6/status/2096890203894120519"
     },
     {
+      "id": "slot_ogikiti-2097482840888037728-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-09",
+      "target_date": "2026-09-08",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "ゴー",
+        "ハナビ",
+        "インデックス2"
+      ],
+      "matsubi": [],
+      "note": "スロトレ調査団ハーフテン。総差枚+19,287枚。抽選40人",
+      "url": "https://x.com/slot_ogikiti/status/2097482840888037728"
+    },
+    {
       "id": "slot_ogikiti-2096501349701832990-楽園立川店",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -1605,6 +1656,27 @@
       "matsubi": [],
       "note": "青ブタ8台導入。気合いの配置で明日の8つくで狙い目",
       "url": "https://x.com/karasuro_7/status/2096851854542213412"
+    },
+    {
+      "id": "slot_ogikiti-2097482433591685433-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-09",
+      "target_date": "2026-09-07",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "エウレカ",
+        "転生",
+        "リコリコ",
+        "Lカバネリ",
+        "喰種"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "20スロ増設。月イチ7日。総差枚+18,191枚。抽選251人",
+      "url": "https://x.com/slot_ogikiti/status/2097482433591685433"
     },
     {
       "id": "slot_ogikiti-2096072201179136388-プレゴ立川店",
