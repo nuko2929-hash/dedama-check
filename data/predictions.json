@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T12:51",
-  "count": 2462,
+  "generated_at": "2026-09-10T16:37",
+  "count": 2465,
   "predictions": [
     {
       "id": "slot_ogikiti-2097885584438292685-ハイパージアス立川",
@@ -455,6 +455,49 @@
       "matsubi": [],
       "note": "雷撃仕掛けで目立つ仕掛けに注目。旗艦店として派手な仕掛け期待。",
       "url": "https://x.com/1_take6/status/2097969577741475975"
+    },
+    {
+      "id": "karasuro_7-2098048924884082787-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-10",
+      "target_date": "2026-09-11",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "近隣対抗。ウルミラ最優先、ジャグラーシリーズ狙い目",
+      "url": "https://x.com/karasuro_7/status/2098048924884082787"
+    },
+    {
+      "id": "karasuro_7-2098048672324001941-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-10",
+      "target_date": "2026-09-11",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "カバネリシリーズ",
+        "GOD",
+        "東京喰種"
+      ],
+      "matsubi": [],
+      "note": "ゾロ目恒例スロパチ来店取材。6台並び予定",
+      "url": "https://x.com/karasuro_7/status/2098048672324001941"
+    },
+    {
+      "id": "karasuro_7-2098048632092320139-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-10",
+      "target_date": "2026-09-11",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川アビバ14店舗の1つ。9/11対象",
+      "url": "https://x.com/karasuro_7/status/2098048632092320139"
     },
     {
       "id": "slot_ogikiti-2097496927457919139-楽園立川店",
