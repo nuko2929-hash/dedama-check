@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-09T16:53",
-  "count": 2421,
+  "generated_at": "2026-09-10T07:14",
+  "count": 2429,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2097885584438292685-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-10",
+      "target_date": "2026-09-11",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2097885584438292685"
+    },
+    {
+      "id": "slot_ogikiti-2097885584438292685-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-10",
+      "target_date": "2026-09-11",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2097885584438292685"
+    },
+    {
+      "id": "karasuro_7-2097923657595240745-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-10",
+      "target_date": "2026-09-11",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川情報リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2097923657595240745"
+    },
+    {
+      "id": "karasuro_7-2097923657595240745-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-10",
+      "target_date": "2026-09-11",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川情報リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2097923657595240745"
+    },
     {
       "id": "slot_ogikiti-2097496927457919139-楽園立川店",
       "source": "荻吉@スロ",
@@ -667,6 +719,37 @@
       "matsubi": [],
       "note": "月ゾロ。スロ6台並び6箇所+パチンコ2BOX指標",
       "url": "https://x.com/1_take6/status/2097244397041815793"
+    },
+    {
+      "id": "slot_ogikiti-2097875584517026094-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-10",
+      "target_date": "2026-09-09",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ドラハナ",
+        "SBJ",
+        "インデックス2",
+        "喰種",
+        "リコリコ",
+        "真打吉宗",
+        "アズレン",
+        "Lカバネリ",
+        "からくり2",
+        "やじきた",
+        "ヴヴヴ2",
+        "ミリゴ",
+        "モンキーV",
+        "イーター",
+        "鉄拳6",
+        "北斗",
+        "ジャグ"
+      ],
+      "matsubi": [],
+      "note": "極上取材。月ゾロ。総差枚+59,806枚",
+      "url": "https://x.com/slot_ogikiti/status/2097875584517026094"
     },
     {
       "id": "slot_ogikiti-2096799920372244812-スーパーDステーション立川",
@@ -5397,6 +5480,26 @@
       "url": "https://x.com/slot_ogikiti/status/2094261252411593091"
     },
     {
+      "id": "karasuro_7-2097740659985932525-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-09",
+      "target_date": "2026-08-30",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "新鬼3",
+        "ライズ",
+        "東リべ",
+        "北斗",
+        "モンキーV",
+        "ウルミラ"
+      ],
+      "matsubi": [],
+      "note": "周年月間。新鬼3・ライズ・東リべ・北斗1/2確定",
+      "url": "https://x.com/karasuro_7/status/2097740659985932525"
+    },
+    {
       "id": "slot_ogikiti-2093313485530865784-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -5943,6 +6046,23 @@
       "matsubi": [],
       "note": "抽選553人。スロパチ・すろぱちガール来店取材。7台並びSカバネリ全💥",
       "url": "https://x.com/karasuro_7/status/2096818404762210660"
+    },
+    {
+      "id": "karasuro_7-2097742659251273983-ザシティ相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-09",
+      "target_date": "2026-08-29",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "邪神ちゃん",
+        "モンキーV",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "最終土曜日ラスサタ応援団。邪神ちゃん全設定確定",
+      "url": "https://x.com/karasuro_7/status/2097742659251273983"
     },
     {
       "id": "slot_ogikiti-2092890782802080163-ガーデン戸塚",
@@ -6986,6 +7106,29 @@
       ],
       "note": "6のつく日。pick16.7%と高実績。台番被り3箇所",
       "url": "https://x.com/karasuro_7/status/2094092920165167324"
+    },
+    {
+      "id": "karasuro_7-2097740356985221457-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-09",
+      "target_date": "2026-08-26",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "マギレコ",
+        "炎炎2",
+        "攻殻機動隊",
+        "化物語",
+        "トラブル",
+        "ゴージャグ",
+        "ネオアイム",
+        "東京喰種",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "周年月間×月周年日。マギレコ1/2確定",
+      "url": "https://x.com/karasuro_7/status/2097740356985221457"
     },
     {
       "id": "1_take6-2089888827590722021-スクランブル田谷",
