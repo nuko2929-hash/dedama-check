@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T12:45",
-  "count": 2491,
+  "generated_at": "2026-09-11T16:42",
+  "count": 2494,
   "predictions": [
     {
       "id": "slot_ogikiti-2098306672251031990-キコーナ戸塚",
@@ -431,6 +431,49 @@
       "matsubi": [],
       "note": "スロパチガール来店。4台並び×13箇所に期待。メインスマスロが優先",
       "url": "https://x.com/1_take6/status/2098334101787009226"
+    },
+    {
+      "id": "karasuro_7-2098421343620669716-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-11",
+      "target_date": "2026-09-12",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [
+        2
+      ],
+      "note": "2のつく日。ダントツ取材。戸塚オリジナル企画",
+      "url": "https://x.com/karasuro_7/status/2098421343620669716"
+    },
+    {
+      "id": "karasuro_7-2098421332186898921-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-11",
+      "target_date": "2026-09-12",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        2
+      ],
+      "note": "2のつく日。スロパチガール来店。全軍突撃取材",
+      "url": "https://x.com/karasuro_7/status/2098421332186898921"
+    },
+    {
+      "id": "karasuro_7-2098421290902392880-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-11",
+      "target_date": "2026-09-12",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店。PS二刀流で立ち回り可能",
+      "url": "https://x.com/karasuro_7/status/2098421290902392880"
     },
     {
       "id": "slot_ogikiti-2097885584438292685-ハイパージアス立川",
