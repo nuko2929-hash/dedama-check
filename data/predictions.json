@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T13:14",
-  "count": 2549,
+  "generated_at": "2026-09-13T16:35",
+  "count": 2550,
   "predictions": [
     {
       "id": "slot_ogikiti-2098970657199628470-スーパーDステーション立川",
@@ -197,6 +197,19 @@
       "matsubi": [],
       "note": "新装で1/2仕掛け8機種以上に期待。乙女5増台がメイン狙い。",
       "url": "https://x.com/1_take6/status/2099050942306082923"
+    },
+    {
+      "id": "karasuro_7-2099132199887118510-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-14",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "新装開店、AI脳トレ取材。オンライン抽選。",
+      "url": "https://x.com/karasuro_7/status/2099132199887118510"
     },
     {
       "id": "slot_ogikiti-2098716386231021878-マルハン綾瀬",
