@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:27",
-  "count": 2542,
+  "generated_at": "2026-09-13T13:14",
+  "count": 2549,
   "predictions": [
     {
       "id": "slot_ogikiti-2098970657199628470-スーパーDステーション立川",
@@ -79,6 +79,124 @@
       "matsubi": [],
       "note": "神奈川明日の推奨店リスト掲載",
       "url": "https://x.com/karasuro_7/status/2099026073078104116"
+    },
+    {
+      "id": "slo1_tyousataiZ-2099105741848343037-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-14",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "GOD",
+        "ネオアイム"
+      ],
+      "matsubi": [
+        4
+      ],
+      "note": "④の付く日。大都機種強化。全台系/ニブイチ仕掛け",
+      "url": "https://x.com/slo1_tyousataiZ/status/2099105741848343037"
+    },
+    {
+      "id": "slo1_tyousataiZ-2099105387043848422-スーパーDステーション立川",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-14",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "マギレコ",
+        "喰種",
+        "ジャグシリーズ"
+      ],
+      "matsubi": [],
+      "note": "④の付く日×ととのっち取材。全体10%以上の配分",
+      "url": "https://x.com/slo1_tyousataiZ/status/2099105387043848422"
+    },
+    {
+      "id": "slo1_tyousataiZ-2099082440547447200-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-14",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "エヴァ",
+        "喰種"
+      ],
+      "matsubi": [],
+      "note": "橘リノさん来店。超りみっとぶれいく取材",
+      "url": "https://x.com/slo1_tyousataiZ/status/2099082440547447200"
+    },
+    {
+      "id": "slo1_tyousataiZ-2099082440547447200-アビバ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-14",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "整列ドリラー取材",
+      "url": "https://x.com/slo1_tyousataiZ/status/2099082440547447200"
+    },
+    {
+      "id": "slo1_tyousataiZ-2099082440547447200-クリエ湘南台",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-14",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "超ごっつ取材",
+      "url": "https://x.com/slo1_tyousataiZ/status/2099082440547447200"
+    },
+    {
+      "id": "karasuro_7-2099087991977451954-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-14",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ゴージャグ",
+        "防振り",
+        "GE",
+        "マンキン",
+        "スト6",
+        "鉄拳6",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "新装開店。AI脳トレ取材。オンライン抽選。過去の仕掛け傾向から全系/1/2系が推奨",
+      "url": "https://x.com/karasuro_7/status/2099087991977451954"
+    },
+    {
+      "id": "1_take6-2099050942306082923-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-14",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "乙女5",
+        "リコリコ",
+        "かのかり",
+        "青ブタ",
+        "タコスロ"
+      ],
+      "matsubi": [],
+      "note": "新装で1/2仕掛け8機種以上に期待。乙女5増台がメイン狙い。",
+      "url": "https://x.com/1_take6/status/2099050942306082923"
     },
     {
       "id": "slot_ogikiti-2098716386231021878-マルハン綾瀬",
