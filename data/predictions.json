@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-13T16:35",
-  "count": 2550,
+  "generated_at": "2026-09-14T07:50",
+  "count": 2558,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2099335473261113693-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-14",
+      "target_date": "2026-09-15",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日15日のお品書き掲載店",
+      "url": "https://x.com/slot_ogikiti/status/2099335473261113693"
+    },
+    {
+      "id": "slot_ogikiti-2099290097300717581-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-14",
+      "target_date": "2026-09-15",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "9/15の注目店として掲載",
+      "url": "https://x.com/slot_ogikiti/status/2099290097300717581"
+    },
+    {
+      "id": "karasuro_7-2099362505705619814-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-14",
+      "target_date": "2026-09-15",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャ情報、朝の抽選人数や確定情報掲載予定",
+      "url": "https://x.com/karasuro_7/status/2099362505705619814"
+    },
     {
       "id": "slot_ogikiti-2098970657199628470-スーパーDステーション立川",
       "source": "荻吉@スロ",
@@ -2062,6 +2101,23 @@
       "url": "https://x.com/slo1_tyousataiZ/status/2097668990223229088"
     },
     {
+      "id": "karasuro_7-2099211003573702936-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-10",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "マンキン",
+        "スト6",
+        "鉄拳6"
+      ],
+      "matsubi": [],
+      "note": "AI脳トレ取材、抽選74人、イベシルPICK UP掲載",
+      "url": "https://x.com/karasuro_7/status/2099211003573702936"
+    },
+    {
       "id": "slot_ogikiti-2097160021624999950-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -2590,6 +2646,41 @@
       "url": "https://x.com/1_take6/status/2098584625128104234"
     },
     {
+      "id": "karasuro_7-2099209339798180087-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-09",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "乙女5",
+        "北斗",
+        "Lカバネリ",
+        "GOD",
+        "リコリコ"
+      ],
+      "matsubi": [],
+      "note": "集大成Z取材、神奈川抽選141人、乙女5全🌈等",
+      "url": "https://x.com/karasuro_7/status/2099209339798180087"
+    },
+    {
+      "id": "karasuro_7-2099206820267245946-スーパーDステーション立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-09",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "禁書目録2",
+        "SAOⅡ"
+      ],
+      "matsubi": [],
+      "note": "年イチ9/9、Dステーション3店舗合同賞品入荷",
+      "url": "https://x.com/karasuro_7/status/2099206820267245946"
+    },
+    {
       "id": "slot_ogikiti-2096799920372244812-スーパーDステーション立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -3116,6 +3207,27 @@
       ],
       "note": "8のつく日。抽選56人。全系候補多数",
       "url": "https://x.com/karasuro_7/status/2099003801420324867"
+    },
+    {
+      "id": "karasuro_7-2099200020553834781-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-08",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "マギレコ",
+        "東リべ",
+        "リコリコ",
+        "ゴージャグ",
+        "Lカバネリ"
+      ],
+      "matsubi": [
+        8
+      ],
+      "note": "8のつく日、抽選114人、イベシルPICK UP",
+      "url": "https://x.com/karasuro_7/status/2099200020553834781"
     },
     {
       "id": "slot_ogikiti-2096501349701832990-楽園立川店",
@@ -4387,6 +4499,27 @@
       "matsubi": [],
       "note": "毎月7日は立川がバチバチ。ジアス立川は連日打てる。",
       "url": "https://x.com/slot_ogikiti/status/2096587290873315785"
+    },
+    {
+      "id": "karasuro_7-2099196382326538456-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-13",
+      "target_date": "2026-09-06",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "炎炎2",
+        "GOD",
+        "Lカバネリ",
+        "GE",
+        "乙女5"
+      ],
+      "matsubi": [
+        6
+      ],
+      "note": "近隣対抗・ダントツ取材、抽選185人",
+      "url": "https://x.com/karasuro_7/status/2099196382326538456"
     },
     {
       "id": "slot_ogikiti-2095753481399492806-ハイパージアス立川",
