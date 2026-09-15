@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-09-14T18:14",
-  "count": 2575,
+  "generated_at": "2026-09-15T07:24",
+  "count": 2578,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2099672155562889587-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-15",
+      "target_date": "2026-09-16",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "SAP立川として明日16日注目店",
+      "url": "https://x.com/slot_ogikiti/status/2099672155562889587"
+    },
     {
       "id": "slot_ogikiti-2099335473261113693-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -578,6 +591,32 @@
       "matsubi": [],
       "note": "新装開店、AI脳トレ取材。オンライン抽選。",
       "url": "https://x.com/karasuro_7/status/2099132199887118510"
+    },
+    {
+      "id": "slot_ogikiti-2099699336401858994-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-15",
+      "target_date": "2026-09-14",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日16日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2099699336401858994"
+    },
+    {
+      "id": "slot_ogikiti-2099699336401858994-プレゴ立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-15",
+      "target_date": "2026-09-14",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日16日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2099699336401858994"
     },
     {
       "id": "slot_ogikiti-2098716386231021878-マルハン綾瀬",
