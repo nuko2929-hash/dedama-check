@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-09-15T17:15",
-  "count": 2603,
+  "generated_at": "2026-09-16T07:28",
+  "count": 2605,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2100121825569313013-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-16",
+      "target_date": "2026-09-17",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書きに掲載。明日17日の強化店",
+      "url": "https://x.com/slot_ogikiti/status/2100121825569313013"
+    },
     {
       "id": "slot_ogikiti-2099672155562889587-スーパーDステーション立川",
       "source": "荻吉@スロ",
@@ -775,6 +788,31 @@
       ],
       "note": "スロセレ。レポート機種を朝一から狙う。",
       "url": "https://x.com/1_take6/status/2099423661061239064"
+    },
+    {
+      "id": "slot_ogikiti-2100114012356927645-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-16",
+      "target_date": "2026-09-15",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ネオアイム",
+        "マイV",
+        "ゴージャグ",
+        "喰種",
+        "やじきた",
+        "ヴヴヴ2",
+        "青ブタ",
+        "L炎炎2",
+        "モンキーV"
+      ],
+      "matsubi": [
+        5
+      ],
+      "note": "⑤の日。スロパチ取材。複数6台並び候補あり",
+      "url": "https://x.com/slot_ogikiti/status/2100114012356927645"
     },
     {
       "id": "slot_ogikiti-2098970657199628470-スーパーDステーション立川",
