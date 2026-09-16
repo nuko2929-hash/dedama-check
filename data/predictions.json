@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T07:28",
-  "count": 2605,
+  "generated_at": "2026-09-16T14:14",
+  "count": 2614,
   "predictions": [
     {
       "id": "slot_ogikiti-2100121825569313013-ハイパージアス立川",
@@ -14,6 +14,179 @@
       "matsubi": [],
       "note": "お品書きに掲載。明日17日の強化店",
       "url": "https://x.com/slot_ogikiti/status/2100121825569313013"
+    },
+    {
+      "id": "slo1_tyousataiZ-2100197455426093228-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-16",
+      "target_date": "2026-09-17",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "東京喰種",
+        "ゴッド",
+        "ネオアイム",
+        "リコリコ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "⑦のつく日×BIG喝。全台系/配分系/並び狙い。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2100197455426093228"
+    },
+    {
+      "id": "slo1_tyousataiZ-2100184726086791361-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-16",
+      "target_date": "2026-09-17",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "マイジャグ",
+        "ゴッド"
+      ],
+      "matsubi": [],
+      "note": "サキドリ来店取材×Half Strong開催。ニブイチ×10機種以上。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2100184726086791361"
+    },
+    {
+      "id": "karasuro_7-2100205326536724484-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-16",
+      "target_date": "2026-09-17",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "GOD",
+        "マギレコ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "7のつく日。嵐撃開催。店長推し強化で全系候補。",
+      "url": "https://x.com/karasuro_7/status/2100205326536724484"
+    },
+    {
+      "id": "karasuro_7-2100146051105669301-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-16",
+      "target_date": "2026-09-17",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "GOD",
+        "マギレコ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "7のつく日。嵐撃開催。店長推し強化で全系候補。",
+      "url": "https://x.com/karasuro_7/status/2100146051105669301"
+    },
+    {
+      "id": "karasuro_7-2100142090827256078-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-16",
+      "target_date": "2026-09-17",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "翌日の神奈川予想店リストに掲載されている店舗。",
+      "url": "https://x.com/karasuro_7/status/2100142090827256078"
+    },
+    {
+      "id": "1_take6-2100162695416918394-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-16",
+      "target_date": "2026-09-17",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "乙女5",
+        "リコリコ",
+        "青ブタ",
+        "彼女お借りします"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "7の付く日。3台並び仕掛け。新台乙女5増台。",
+      "url": "https://x.com/1_take6/status/2100162695416918394"
+    },
+    {
+      "id": "1_take6-2100175629215814053-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-16",
+      "target_date": "2026-09-17",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ヴヴヴ2",
+        "北斗",
+        "SAO",
+        "炎炎2"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "7の付く日。合計15台以上のまるごと仕掛け。",
+      "url": "https://x.com/1_take6/status/2100175629215814053"
+    },
+    {
+      "id": "1_take6-2100158583354876076-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-16",
+      "target_date": "2026-09-17",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "まるごと",
+        "Lカバネリ",
+        "GOD",
+        "ジャグシリーズ"
+      ],
+      "matsubi": [
+        7
+      ],
+      "note": "❼の付く日。近隣対抗。まるごと+3台並び19箇所に期待",
+      "url": "https://x.com/1_take6/status/2100158583354876076"
+    },
+    {
+      "id": "1_take6-2100143401048109527-プレイスポットドラゴン川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-16",
+      "target_date": "2026-09-17",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "アグネス",
+        "アサルトリリィ",
+        "美女と野獣",
+        "タクトオーパス",
+        "牙狼",
+        "SEED",
+        "乙女5"
+      ],
+      "matsubi": [],
+      "note": "ドリルパチンコ。パチンコ2列+スロ乙女5に注目。連日仕掛け",
+      "url": "https://x.com/1_take6/status/2100143401048109527"
     },
     {
       "id": "slot_ogikiti-2099672155562889587-スーパーDステーション立川",
