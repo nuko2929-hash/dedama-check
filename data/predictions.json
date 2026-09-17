@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-09-16T17:18",
-  "count": 2616,
+  "generated_at": "2026-09-17T07:22",
+  "count": 2622,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2100458570223669580-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-17",
+      "target_date": "2026-09-18",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2100458570223669580"
+    },
+    {
+      "id": "karasuro_7-2100448882534605218-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-17",
+      "target_date": "2026-09-18",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川の注目店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2100448882534605218"
+    },
+    {
+      "id": "karasuro_7-2100448882534605218-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-17",
+      "target_date": "2026-09-18",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川の注目店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2100448882534605218"
+    },
+    {
+      "id": "karasuro_7-2100448882534605218-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-17",
+      "target_date": "2026-09-18",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川の注目店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2100448882534605218"
+    },
+    {
+      "id": "karasuro_7-2100448882534605218-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-17",
+      "target_date": "2026-09-18",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川の注目店リスト掲載",
+      "url": "https://x.com/karasuro_7/status/2100448882534605218"
+    },
     {
       "id": "slot_ogikiti-2100121825569313013-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -594,6 +659,19 @@
       ],
       "note": "近隣対抗、NEOMARU~Surprise~。6のつく日イベント",
       "url": "https://x.com/karasuro_7/status/2099887926616449269"
+    },
+    {
+      "id": "slot_ogikiti-2100479044240437461-スクランブル田谷",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-17",
+      "target_date": "2026-09-16",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿内で言及なし（登録店舗マッチのみ）",
+      "url": "https://x.com/slot_ogikiti/status/2100479044240437461"
     },
     {
       "id": "slot_ogikiti-2099335473261113693-ハイパージアス立川",
