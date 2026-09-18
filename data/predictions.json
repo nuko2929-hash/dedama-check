@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T12:52",
-  "count": 2671,
+  "generated_at": "2026-09-18T16:37",
+  "count": 2676,
   "predictions": [
     {
       "id": "slot_ogikiti-2100785299576234220-プレゴ立川店",
@@ -457,6 +457,71 @@
       "url": "https://x.com/1_take6/status/2100873033959272749"
     },
     {
+      "id": "karasuro_7-2100939244693053756-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-18",
+      "target_date": "2026-09-19",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店。相模原共創MVP",
+      "url": "https://x.com/karasuro_7/status/2100939244693053756"
+    },
+    {
+      "id": "karasuro_7-2100938950999441891-キコーナ戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-18",
+      "target_date": "2026-09-19",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "9のつく日。スロパチガール来店S",
+      "url": "https://x.com/karasuro_7/status/2100938950999441891"
+    },
+    {
+      "id": "karasuro_7-2100939021463748784-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-18",
+      "target_date": "2026-09-19",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "近隣対抗。スロパチガール来店S",
+      "url": "https://x.com/karasuro_7/status/2100939021463748784"
+    },
+    {
+      "id": "karasuro_7-2100938734619496607-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-18",
+      "target_date": "2026-09-19",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチ来店取材。3連戦2日目",
+      "url": "https://x.com/karasuro_7/status/2100938734619496607"
+    },
+    {
+      "id": "karasuro_7-2100938663857467460-スーパーDステーション立川",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-18",
+      "target_date": "2026-09-19",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "9のつく日。スロパチガール来店S",
+      "url": "https://x.com/karasuro_7/status/2100938663857467460"
+    },
+    {
       "id": "slot_ogikiti-2100458570223669580-ガーデン戸塚",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -801,9 +866,9 @@
         "Lゴッドイーター"
       ],
       "matsubi": [
-        8
+        "8"
       ],
-      "note": "❽の付く日。まいったぁー⤴︎来店。3台並び✖️5箇所以上、まいったぁー機種最優先",
+      "note": "まいったぁー機種が最優先。闘龍景品入荷で3台並び×5箇所以上。18時パチ時差解放。",
       "url": "https://x.com/1_take6/status/2100532303873343811"
     },
     {
