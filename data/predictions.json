@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-17T17:13",
-  "count": 2641,
+  "generated_at": "2026-09-18T07:19",
+  "count": 2647,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2100785299576234220-プレゴ立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-18",
+      "target_date": "2026-09-19",
+      "store": "プレゴ立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日19日のお品書きに掲載",
+      "url": "https://x.com/slot_ogikiti/status/2100785299576234220"
+    },
+    {
+      "id": "karasuro_7-2100813590089572863-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-18",
+      "target_date": "2026-09-19",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャに掲載される推奨店",
+      "url": "https://x.com/karasuro_7/status/2100813590089572863"
+    },
+    {
+      "id": "karasuro_7-2100813590089572863-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-18",
+      "target_date": "2026-09-19",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャに掲載される推奨店",
+      "url": "https://x.com/karasuro_7/status/2100813590089572863"
+    },
+    {
+      "id": "karasuro_7-2100813590089572863-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-18",
+      "target_date": "2026-09-19",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャに掲載される推奨店",
+      "url": "https://x.com/karasuro_7/status/2100813590089572863"
+    },
     {
       "id": "slot_ogikiti-2100458570223669580-ガーデン戸塚",
       "source": "荻吉@スロ",
@@ -573,6 +625,52 @@
       "matsubi": [],
       "note": "ドリルパチンコ。パチンコ2列+スロ乙女5に注目。連日仕掛け",
       "url": "https://x.com/1_take6/status/2100143401048109527"
+    },
+    {
+      "id": "slot_ogikiti-2100814350365929835-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-18",
+      "target_date": "2026-09-17",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "乙女5",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "PFちゅんげー調査隊。総差枚+60,842枚。乙女5平均+974枚",
+      "url": "https://x.com/slot_ogikiti/status/2100814350365929835"
+    },
+    {
+      "id": "slot_ogikiti-2100747943146111280-楽園立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-18",
+      "target_date": "2026-09-17",
+      "store": "楽園立川",
+      "area": null,
+      "machines": [
+        "ヴヴヴ2",
+        "喰種",
+        "SAO2",
+        "Lカバネリ",
+        "L炎炎2",
+        "邪神ちゃん",
+        "沖ドキGS",
+        "南国育ちSP",
+        "キンハナ",
+        "ニューキン",
+        "ミリゴ",
+        "乙女5",
+        "攻殻",
+        "リコリコ",
+        "喰霊",
+        "ジャグ"
+      ],
+      "matsubi": [],
+      "note": "5の日×近隣対抗。翠嵐。高配分機種多数。ビンゴ機種あり。",
+      "url": "https://x.com/slot_ogikiti/status/2100747943146111280"
     },
     {
       "id": "slot_ogikiti-2099672155562889587-スーパーDステーション立川",
