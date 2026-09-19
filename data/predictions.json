@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T12:25",
-  "count": 2703,
+  "generated_at": "2026-09-19T16:00",
+  "count": 2708,
   "predictions": [
     {
       "id": "slot_ogikiti-2101148524582686967-ハイパージアス立川",
@@ -385,6 +385,62 @@
       "matsubi": [],
       "note": "4台並び×14箇所。メイン機種優先で4台並びを探す",
       "url": "https://x.com/1_take6/status/2101229558271803567"
+    },
+    {
+      "id": "slot_ogikiti-2101296939920961570-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-19",
+      "target_date": "2026-09-20",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "月イチ増床記念日。PFちゅんげー調査隊来店。",
+      "url": "https://x.com/slot_ogikiti/status/2101296939920961570"
+    },
+    {
+      "id": "karasuro_7-2101311541182451752-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-19",
+      "target_date": "2026-09-20",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "戸塚オリジナル凸か！取材初開催。新しい仕掛け。",
+      "url": "https://x.com/karasuro_7/status/2101311541182451752"
+    },
+    {
+      "id": "karasuro_7-2101311526162547116-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-19",
+      "target_date": "2026-09-20",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川ピーアーク合同。スロパチガール来店PS。キングウォッチッチ。",
+      "url": "https://x.com/karasuro_7/status/2101311526162547116"
+    },
+    {
+      "id": "karasuro_7-2101311457069834687-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-19",
+      "target_date": "2026-09-20",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "L カバネリ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "スロパチガール来店S。スロトレ調査団ZEUS。3連戦最終日。",
+      "url": "https://x.com/karasuro_7/status/2101311457069834687"
     },
     {
       "id": "slot_ogikiti-2100785299576234220-プレゴ立川店",
@@ -904,6 +960,19 @@
       "matsubi": [],
       "note": "9のつく日。スロパチガール来店S",
       "url": "https://x.com/karasuro_7/status/2100938663857467460"
+    },
+    {
+      "id": "1_take6-2101297474610901293-吉兆東名川崎店",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-19",
+      "target_date": "2026-09-19",
+      "store": "吉兆東名川崎店",
+      "area": "川崎",
+      "machines": [],
+      "matsubi": [],
+      "note": "合計10台以上の全or1/2仕掛け",
+      "url": "https://x.com/1_take6/status/2101297474610901293"
     },
     {
       "id": "slot_ogikiti-2100458570223669580-ガーデン戸塚",
