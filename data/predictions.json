@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T13:00",
-  "count": 2754,
+  "generated_at": "2026-09-20T16:22",
+  "count": 2757,
   "predictions": [
     {
       "id": "slot_ogikiti-2101523397314478207-ガーデン戸塚",
@@ -403,6 +403,50 @@
       ],
       "note": "❶付く日。超キノコ狩り2nd。金キノコ出現は必須",
       "url": "https://x.com/1_take6/status/2101588296526876710"
+    },
+    {
+      "id": "karasuro_7-2101664218420486499-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-21",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "近隣対抗・スロパチ来店取材。良番恩恵強め",
+      "url": "https://x.com/karasuro_7/status/2101664218420486499"
+    },
+    {
+      "id": "karasuro_7-2101664203782377958-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-21",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "カバネリシリーズ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "スロぱちガール来店。バケゆか来店。10連戦3日目",
+      "url": "https://x.com/karasuro_7/status/2101664203782377958"
+    },
+    {
+      "id": "karasuro_7-2101664137915068697-相模大野UNO",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-21",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [
+        1
+      ],
+      "note": "1のつく日。超キノコ狩り2nd。スロ10%↑狙える",
+      "url": "https://x.com/karasuro_7/status/2101664137915068697"
     },
     {
       "id": "slot_ogikiti-2101148524582686967-ハイパージアス立川",
