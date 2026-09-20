@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-19T16:00",
-  "count": 2708,
+  "generated_at": "2026-09-20T07:44",
+  "count": 2732,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2101523397314478207-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-21",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿11。明日21日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2101523397314478207"
+    },
+    {
+      "id": "karasuro_7-2101536835965214821-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-21",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のオプチャ配信予定店",
+      "url": "https://x.com/karasuro_7/status/2101536835965214821"
+    },
+    {
+      "id": "karasuro_7-2101536835965214821-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-21",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のオプチャ配信予定店",
+      "url": "https://x.com/karasuro_7/status/2101536835965214821"
+    },
     {
       "id": "slot_ogikiti-2101148524582686967-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -441,6 +480,214 @@
       "matsubi": [],
       "note": "スロパチガール来店S。スロトレ調査団ZEUS。3連戦最終日。",
       "url": "https://x.com/karasuro_7/status/2101311457069834687"
+    },
+    {
+      "id": "slot_ogikiti-2101576327552016440-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿0。鹿浜店の投稿で他店言及なし",
+      "url": "https://x.com/slot_ogikiti/status/2101576327552016440"
+    },
+    {
+      "id": "slot_ogikiti-2101575716341231621-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿1。小岩の投稿で他店言及なし",
+      "url": "https://x.com/slot_ogikiti/status/2101575716341231621"
+    },
+    {
+      "id": "slot_ogikiti-2101574951392489705-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿2。柏店の投稿で他店言及なし",
+      "url": "https://x.com/slot_ogikiti/status/2101574951392489705"
+    },
+    {
+      "id": "slot_ogikiti-2101574672957464643-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿3。新橋の投稿で他店言及なし",
+      "url": "https://x.com/slot_ogikiti/status/2101574672957464643"
+    },
+    {
+      "id": "slot_ogikiti-2101574211462672891-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿4。池袋本館の投稿で他店言及なし",
+      "url": "https://x.com/slot_ogikiti/status/2101574211462672891"
+    },
+    {
+      "id": "slot_ogikiti-2101573994453561741-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿5。池袋SBの投稿で他店言及なし",
+      "url": "https://x.com/slot_ogikiti/status/2101573994453561741"
+    },
+    {
+      "id": "slot_ogikiti-2101532028470718763-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿6。青梅新町の投稿で他店言及なし",
+      "url": "https://x.com/slot_ogikiti/status/2101532028470718763"
+    },
+    {
+      "id": "slot_ogikiti-2101531022596985336-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿7。馬橋中根長津の投稿。神奈川リスト内",
+      "url": "https://x.com/slot_ogikiti/status/2101531022596985336"
+    },
+    {
+      "id": "slot_ogikiti-2101523397314478207-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿11。明日21日のお品書き。東金も登録外",
+      "url": "https://x.com/slot_ogikiti/status/2101523397314478207"
+    },
+    {
+      "id": "slot_ogikiti-2101522384306278650-パラッツォ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿13。横浜町田の投稿で他店言及なし",
+      "url": "https://x.com/slot_ogikiti/status/2101522384306278650"
+    },
+    {
+      "id": "slot_ogikiti-2101510916231880733-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿14。新宿東宝ビルの投稿で他店言及なし",
+      "url": "https://x.com/slot_ogikiti/status/2101510916231880733"
+    },
+    {
+      "id": "slot_ogikiti-2101505276059030001-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿15。蒲田7の投稿で他店言及なし",
+      "url": "https://x.com/slot_ogikiti/status/2101505276059030001"
+    },
+    {
+      "id": "slot_ogikiti-2101486217670074605-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿19。蒲田1の投稿で他店言及なし",
+      "url": "https://x.com/slot_ogikiti/status/2101486217670074605"
+    },
+    {
+      "id": "karasuro_7-2101468844074438822-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "抽選252人。オプチャ更新",
+      "url": "https://x.com/karasuro_7/status/2101468844074438822"
+    },
+    {
+      "id": "karasuro_7-2101468844074438822-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "抽選167人。オプチャ更新",
+      "url": "https://x.com/karasuro_7/status/2101468844074438822"
+    },
+    {
+      "id": "karasuro_7-2101468844074438822-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-20",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "抽選600人。オプチャ更新",
+      "url": "https://x.com/karasuro_7/status/2101468844074438822"
     },
     {
       "id": "slot_ogikiti-2100785299576234220-プレゴ立川店",
@@ -2046,6 +2293,31 @@
       "url": "https://x.com/slot_ogikiti/status/2100479044240437461"
     },
     {
+      "id": "karasuro_7-2101489602964144146-エランドール泉",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-16",
+      "store": "エランドール泉",
+      "area": "戸塚",
+      "machines": [
+        "転生",
+        "鉄拳6",
+        "バイオRE3",
+        "モンキーV",
+        "マイV",
+        "東京喰種",
+        "銭形5",
+        "バイオ5",
+        "Lカバネリ",
+        "ハッピー",
+        "ファンキー"
+      ],
+      "matsubi": [],
+      "note": "ファンキー3連続全開。4台並び配置",
+      "url": "https://x.com/karasuro_7/status/2101489602964144146"
+    },
+    {
       "id": "slot_ogikiti-2099335473261113693-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -2672,6 +2944,23 @@
       "matsubi": [],
       "note": "明日16日のお品書きに掲載",
       "url": "https://x.com/slot_ogikiti/status/2099699336401858994"
+    },
+    {
+      "id": "karasuro_7-2101478098361622742-ガーデン weranda",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-14",
+      "store": "ガーデン weranda",
+      "area": null,
+      "machines": [
+        "戦コレ6",
+        "東リベ",
+        "天膳"
+      ],
+      "matsubi": [],
+      "note": "新装開店。AI脳トレ取材。1/2確定",
+      "url": "https://x.com/karasuro_7/status/2101478098361622742"
     },
     {
       "id": "slot_ogikiti-2098716386231021878-マルハン綾瀬",
@@ -3641,6 +3930,31 @@
       "url": "https://x.com/karasuro_7/status/2100235989725909072"
     },
     {
+      "id": "karasuro_7-2101477841380749514-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-12",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "かぐや様",
+        "DMC5",
+        "ヨルムン",
+        "L炎炎",
+        "ライズ",
+        "化物語",
+        "北斗",
+        "ゴージャグ",
+        "Lカバネリ",
+        "GOD",
+        "マイV"
+      ],
+      "matsubi": [],
+      "note": "時差あり。Pick10.6%。4台並び複数",
+      "url": "https://x.com/karasuro_7/status/2101477841380749514"
+    },
+    {
       "id": "slot_ogikiti-2097885584438292685-ハイパージアス立川",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -4255,6 +4569,23 @@
       "matsubi": [],
       "note": "1のつく日。超キノコ狩り2nd。pick11.3%。全系2機種",
       "url": "https://x.com/karasuro_7/status/2100229970304049399"
+    },
+    {
+      "id": "karasuro_7-2101477556465832144-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-11",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ウルミラ",
+        "ネオアイム",
+        "アイム"
+      ],
+      "matsubi": [],
+      "note": "ウルミラ全系。近隣対抗イベント",
+      "url": "https://x.com/karasuro_7/status/2101477556465832144"
     },
     {
       "id": "slot_ogikiti-2097496927457919139-楽園立川店",
@@ -5148,6 +5479,27 @@
       "matsubi": [],
       "note": "年イチ9/9、Dステーション3店舗合同賞品入荷",
       "url": "https://x.com/karasuro_7/status/2099206820267245946"
+    },
+    {
+      "id": "karasuro_7-2101477330682261946-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-20",
+      "target_date": "2026-09-09",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "乙女5",
+        "SAOⅡ",
+        "リコリス",
+        "Lカバネリ",
+        "北斗",
+        "GOD",
+        "リコリコ"
+      ],
+      "matsubi": [],
+      "note": "乙女5・SAOⅡ全系。3台並び配置",
+      "url": "https://x.com/karasuro_7/status/2101477330682261946"
     },
     {
       "id": "slot_ogikiti-2096799920372244812-スーパーDステーション立川",
