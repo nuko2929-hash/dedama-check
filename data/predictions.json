@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-21T15:02",
-  "count": 2802,
+  "generated_at": "2026-09-22T07:33",
+  "count": 2809,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2102233084225839533-キコーナ戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日23日のお品書きに掲載。取材予定店。",
+      "url": "https://x.com/slot_ogikiti/status/2102233084225839533"
+    },
+    {
+      "id": "karasuro_7-2102266230820438291-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャ掲載店",
+      "url": "https://x.com/karasuro_7/status/2102266230820438291"
+    },
+    {
+      "id": "karasuro_7-2102266230820438291-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャ掲載店",
+      "url": "https://x.com/karasuro_7/status/2102266230820438291"
+    },
+    {
+      "id": "karasuro_7-2102266230820438291-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川オプチャ掲載店",
+      "url": "https://x.com/karasuro_7/status/2102266230820438291"
+    },
     {
       "id": "slot_ogikiti-2101913249004568643-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -593,6 +645,26 @@
       "url": "https://x.com/1_take6/status/2101952320666038478"
     },
     {
+      "id": "1_take6-2102289761801220489-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-22",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "ファンキー2",
+        "新鬼武者3",
+        "番長ZERO",
+        "鉄拳6"
+      ],
+      "matsubi": [
+        1
+      ],
+      "note": "抽選103名。4機種のまるごと候補。末尾1の付く日。",
+      "url": "https://x.com/1_take6/status/2102289761801220489"
+    },
+    {
       "id": "slot_ogikiti-2101523397314478207-ガーデン戸塚",
       "source": "荻吉@スロ",
       "handle": "slot_ogikiti",
@@ -1076,6 +1148,32 @@
       "matsubi": [],
       "note": "本日抽選人数110人",
       "url": "https://x.com/karasuro_7/status/2101845171197612396"
+    },
+    {
+      "id": "slot_ogikiti-2102243791239540802-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-21",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "マルハン日野の投稿。登録店舗に該当なし。",
+      "url": "https://x.com/slot_ogikiti/status/2102243791239540802"
+    },
+    {
+      "id": "slot_ogikiti-2102231462351433980-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-21",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "ジアスセンター南は登録店舗(ハイパージアス立川)に該当なし。",
+      "url": "https://x.com/slot_ogikiti/status/2102231462351433980"
     },
     {
       "id": "slot_ogikiti-2101148524582686967-ハイパージアス立川",
