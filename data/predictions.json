@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T07:33",
-  "count": 2809,
+  "generated_at": "2026-09-22T13:17",
+  "count": 2828,
   "predictions": [
     {
       "id": "slot_ogikiti-2102233084225839533-キコーナ戸塚",
@@ -53,6 +53,386 @@
       "matsubi": [],
       "note": "明日の神奈川オプチャ掲載店",
       "url": "https://x.com/karasuro_7/status/2102266230820438291"
+    },
+    {
+      "id": "slot_ogikiti-2102363709809262898-マルハン入間",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "マルハン入間",
+      "area": null,
+      "machines": [
+        "e喰種",
+        "eリコリコ",
+        "無職転生",
+        "ハッピー",
+        "ファンキー",
+        "イーター",
+        "真打吉宗",
+        "ミリゴ",
+        "沖ドキB",
+        "ToLOVEる",
+        "ミラクル",
+        "ネオアイム",
+        "ゴー",
+        "マイV",
+        "Sアイム",
+        "ガールズ",
+        "化物語",
+        "マギレコ"
+      ],
+      "matsubi": [],
+      "note": "月イチ周年日(23日)。シルバーウィーク最終日で多台数仕掛け充実の狙い目",
+      "url": "https://x.com/slot_ogikiti/status/2102363709809262898"
+    },
+    {
+      "id": "slot_ogikiti-2102359394381938914-マルハン新宿東宝ビル",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "マルハン新宿東宝ビル",
+      "area": null,
+      "machines": [
+        "e東京喰種",
+        "eリコリコ",
+        "マイV",
+        "ゴー",
+        "からくり2",
+        "このすば",
+        "スタハナ",
+        "ULTRAMAN",
+        "ハナビ",
+        "ハッピー",
+        "ToLOVEるTR",
+        "ドッチ",
+        "北斗",
+        "SBJ",
+        "末尾ゾロ"
+      ],
+      "matsubi": [],
+      "note": "男版ダンち3回目開催。2127ウィーク3日目で高配分30台以上見込み",
+      "url": "https://x.com/slot_ogikiti/status/2102359394381938914"
+    },
+    {
+      "id": "slot_ogikiti-2102354583934915026-マルハンメガシティ2000蒲田1",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "マルハンメガシティ2000蒲田1",
+      "area": null,
+      "machines": [
+        "Lカバネリ",
+        "喰種",
+        "マイV",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "シルバーウィーク終盤。W抽選で優秀機種探しが最優先",
+      "url": "https://x.com/slot_ogikiti/status/2102354583934915026"
+    },
+    {
+      "id": "slot_ogikiti-2102351484931494036-マルハンメガシティ柏",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "マルハンメガシティ柏",
+      "area": null,
+      "machines": [
+        "喰種",
+        "Lカバネリ",
+        "シャーマン",
+        "マイV",
+        "SANKYO機種",
+        "ミリゴ",
+        "乙女5",
+        "ヴヴヴ",
+        "モンキー",
+        "いざ番",
+        "鉄拳6",
+        "ヴヴヴ2",
+        "ミスター",
+        "化物語",
+        "アズレン",
+        "スタァライト",
+        "北斗",
+        "ゴー"
+      ],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "シルバーウィーク。スロパチ橙来店取材。6台以上並びと末尾③⑨狙い",
+      "url": "https://x.com/slot_ogikiti/status/2102351484931494036"
+    },
+    {
+      "id": "slot_ogikiti-2102350021136134565-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "9/23注目店舗として掲載",
+      "url": "https://x.com/slot_ogikiti/status/2102350021136134565"
+    },
+    {
+      "id": "slot_ogikiti-2102349831947931963-マルハンメガシティ東大和",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "マルハンメガシティ東大和",
+      "area": null,
+      "machines": [
+        "Lカバネリ",
+        "乙女5",
+        "モンキー",
+        "からくり2",
+        "防振り",
+        "ヴヴヴ2",
+        "e魔女と野獣",
+        "eタクトオーパス",
+        "eデカ喰種",
+        "eカフェテラス"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "四星『太陽神』開催中。まるごと機種を起点に立ち回り",
+      "url": "https://x.com/slot_ogikiti/status/2102349831947931963"
+    },
+    {
+      "id": "slot_ogikiti-2102347772808806688-マルハン池袋 本館&SLOT BASE",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "マルハン池袋 本館&SLOT BASE",
+      "area": null,
+      "machines": [
+        "e喰種",
+        "リコリコ",
+        "L喰種",
+        "からくり2",
+        "無職転生",
+        "L炎炎2",
+        "かぐや様",
+        "化物語"
+      ],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "BIG THANK YOU・イケイケウィーク。四星水星神で高配分。3台並び20本以上",
+      "url": "https://x.com/slot_ogikiti/status/2102347772808806688"
+    },
+    {
+      "id": "slot_ogikiti-2102343541821517950-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "❸⑨の日「BIG Thank you」、3台並び×10本+9台以上並び",
+      "url": "https://x.com/slot_ogikiti/status/2102343541821517950"
+    },
+    {
+      "id": "slot_ogikiti-2102332981025349916-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロトレ調査団『インフィニティ』、ワロスさん来店実践",
+      "url": "https://x.com/slot_ogikiti/status/2102332981025349916"
+    },
+    {
+      "id": "slo1_tyousataiZ-2102344082819616908-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "喰種",
+        "乙女5",
+        "エヴァシリーズ",
+        "仕事人",
+        "大海5"
+      ],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "感謝の神アザス開催。3台並び×9本以上。末尾③⑨起点。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2102344082819616908"
+    },
+    {
+      "id": "slo1_tyousataiZ-2102341547102793741-マルハン綾瀬",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "喰種",
+        "カバネリ",
+        "からくり2",
+        "GOD",
+        "沖ドキ",
+        "乙女",
+        "SAO2",
+        "リコリコ"
+      ],
+      "matsubi": [
+        3,
+        9
+      ],
+      "note": "BIG THANK YOU開催。3台並び×9本以上。末尾③⑨起点。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2102341547102793741"
+    },
+    {
+      "id": "slo1_tyousataiZ-2102339858492424198-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "喰種",
+        "Lカバネリ",
+        "マイジャグ",
+        "GOD",
+        "リコリコ",
+        "エヴァ17"
+      ],
+      "matsubi": [],
+      "note": "スロぱちガール来店取材。4台並び×9本以上。最大級設置機種に注目。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2102339858492424198"
+    },
+    {
+      "id": "karasuro_7-2102315244668453182-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "トラブル",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "ダントツ取材。全体10%以上が虹。トラブル最優先",
+      "url": "https://x.com/karasuro_7/status/2102315244668453182"
+    },
+    {
+      "id": "karasuro_7-2102341046302892398-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "マイV",
+        "SAOⅡ",
+        "東京喰種",
+        "Lカバネリ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "スロパチ緑10連戦5日目。6台並び狙い。毎日仕掛けあり",
+      "url": "https://x.com/karasuro_7/status/2102341046302892398"
+    },
+    {
+      "id": "1_take6-2102364138806648874-マルハン綾瀬",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "東京喰種",
+        "Lカバネリ",
+        "ヴヴヴ2",
+        "真打吉宗",
+        "Sカバネリ"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "裏破天荒来店取材初日。先出し5機種を最優先。1/2仕掛けに注目",
+      "url": "https://x.com/1_take6/status/2102364138806648874"
+    },
+    {
+      "id": "1_take6-2102345361440592319-プレイスポットドラゴン川崎",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "プレイスポットドラゴン川崎",
+      "area": null,
+      "machines": [
+        "乙女5",
+        "リコリコ",
+        "青ブタ",
+        "彼女お借りします",
+        "タコスロ"
+      ],
+      "matsubi": [],
+      "note": "ドラドラドラ来店取材。3台並びに注目。新台メイン機種から攻める",
+      "url": "https://x.com/1_take6/status/2102345361440592319"
+    },
+    {
+      "id": "1_take6-2102344381915435239-キコーナ戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "キコーナ戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "SW連日仕掛け最終日。創力の結晶取材。3台並び複数箇所に注目",
+      "url": "https://x.com/1_take6/status/2102344381915435239"
+    },
+    {
+      "id": "1_take6-2102340638037725292-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-23",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "Lカバネリ",
+        "乙女5",
+        "禁書目録",
+        "東京喰種",
+        "マイジャグ"
+      ],
+      "matsubi": [
+        3
+      ],
+      "note": "相模前線機種優先。4台並び×11箇所以上期待。スロパチガール取材。",
+      "url": "https://x.com/1_take6/status/2102340638037725292"
     },
     {
       "id": "slot_ogikiti-2101913249004568643-ハイパージアス立川",
@@ -663,6 +1043,28 @@
       ],
       "note": "抽選103名。4機種のまるごと候補。末尾1の付く日。",
       "url": "https://x.com/1_take6/status/2102289761801220489"
+    },
+    {
+      "id": "karasuro_7-2102360869216887109-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-22",
+      "target_date": "2026-09-22",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "北斗",
+        "リコリコ",
+        "GOD",
+        "モンハン",
+        "ネオアイム",
+        "東京喰種",
+        "Lカバネリ",
+        "ヴヴヴ2"
+      ],
+      "matsubi": [],
+      "note": "取材4回目。全台設置機種に虹複数。合計30台全虹の可能性",
+      "url": "https://x.com/karasuro_7/status/2102360869216887109"
     },
     {
       "id": "slot_ogikiti-2101523397314478207-ガーデン戸塚",
