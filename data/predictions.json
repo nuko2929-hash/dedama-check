@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-09-22T17:10",
-  "count": 2832,
+  "generated_at": "2026-09-23T07:36",
+  "count": 2843,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2102650986418291164-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-24",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [
+        "ホウオウ",
+        "北斗",
+        "ネオアイム",
+        "Lカバネリ",
+        "マイV",
+        "喰種",
+        "モンキーV"
+      ],
+      "matsubi": [],
+      "note": "ゾロ目×アルティメットCG調査隊。優秀機種候補あり、5台並び複数。",
+      "url": "https://x.com/slot_ogikiti/status/2102650986418291164"
+    },
+    {
+      "id": "slot_ogikiti-2102662665122586727-楽園立川店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-24",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿0は楽園立川店に該当するが、店舗名が異なる（青梅新町）。登録店舗なし。",
+      "url": "https://x.com/slot_ogikiti/status/2102662665122586727"
+    },
+    {
+      "id": "slot_ogikiti-2102596845923115413-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-24",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日24日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2102596845923115413"
+    },
+    {
+      "id": "slot_ogikiti-2102596845923115413-クリエ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-24",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日24日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2102596845923115413"
+    },
+    {
+      "id": "slot_ogikiti-2102596845923115413-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-24",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日24日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2102596845923115413"
+    },
+    {
+      "id": "slot_ogikiti-2102596845923115413-グランドホール長後",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-24",
+      "store": "グランドホール長後",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日24日のお品書きに記載",
+      "url": "https://x.com/slot_ogikiti/status/2102596845923115413"
+    },
+    {
+      "id": "karasuro_7-2102643455378022601-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-24",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "神奈川オプチャ掲載店。明日の推奨店リスト。",
+      "url": "https://x.com/karasuro_7/status/2102643455378022601"
+    },
     {
       "id": "slot_ogikiti-2102233084225839533-キコーナ戸塚",
       "source": "荻吉@スロ",
@@ -461,6 +560,32 @@
       "matsubi": [],
       "note": "SW最終日。ダントツ取材。良番恩恵あり。イベシル発表予定。",
       "url": "https://x.com/karasuro_7/status/2102393435538002190"
+    },
+    {
+      "id": "karasuro_7-2102560182895284515-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-23",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "9/23抽選人数207人。オプチャ情報掲載。",
+      "url": "https://x.com/karasuro_7/status/2102560182895284515"
+    },
+    {
+      "id": "karasuro_7-2102560182895284515-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-23",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "9/23抽選人数111人。オプチャ情報掲載。",
+      "url": "https://x.com/karasuro_7/status/2102560182895284515"
     },
     {
       "id": "slot_ogikiti-2101913249004568643-ハイパージアス立川",
@@ -1132,6 +1257,41 @@
       ],
       "note": "22日4店舗共闘、22日共闘開催。抽選人数67人。",
       "url": "https://x.com/1_take6/status/2102443899071717737"
+    },
+    {
+      "id": "slot_ogikiti-2102590355136991533-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-22",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [
+        "Sカバネリ",
+        "アズレン",
+        "SAO2"
+      ],
+      "matsubi": [
+        "⑤",
+        "②"
+      ],
+      "note": "ゾロ目。シルバーロボニャン来店。全虹機種ローテ",
+      "url": "https://x.com/slot_ogikiti/status/2102590355136991533"
+    },
+    {
+      "id": "slot_ogikiti-2102585181379162132-プレイスポットドラゴン川崎店",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-22",
+      "store": "プレイスポットドラゴン川崎店",
+      "area": "川崎",
+      "machines": [
+        "かのかり"
+      ],
+      "matsubi": [],
+      "note": "ゾロ目。2127ウィーク2日目。ギャオスロ",
+      "url": "https://x.com/slot_ogikiti/status/2102585181379162132"
     },
     {
       "id": "slot_ogikiti-2101523397314478207-ガーデン戸塚",
