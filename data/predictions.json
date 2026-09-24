@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-23T17:28",
-  "count": 2877,
+  "generated_at": "2026-09-24T07:23",
+  "count": 2882,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2102958952757801233-ハイパージアス立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-24",
+      "target_date": "2026-09-25",
+      "store": "ハイパージアス立川",
+      "area": "立川",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日のお品書きに記載。25日の営業情報リスト掲載",
+      "url": "https://x.com/slot_ogikiti/status/2102958952757801233"
+    },
+    {
+      "id": "karasuro_7-2102989977110118592-スクランブル田谷",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-24",
+      "target_date": "2026-09-25",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川予想に記載",
+      "url": "https://x.com/karasuro_7/status/2102989977110118592"
+    },
+    {
+      "id": "karasuro_7-2102989977110118592-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-24",
+      "target_date": "2026-09-25",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "明日の神奈川予想に記載",
+      "url": "https://x.com/karasuro_7/status/2102989977110118592"
+    },
     {
       "id": "slot_ogikiti-2102650986418291164-ハイパージアス立川",
       "source": "荻吉@スロ",
@@ -1061,6 +1100,38 @@
       "matsubi": [],
       "note": "9/23抽選人数111人。オプチャ情報掲載。",
       "url": "https://x.com/karasuro_7/status/2102560182895284515"
+    },
+    {
+      "id": "slot_ogikiti-2102947191874887778-マルハン綾瀬",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-24",
+      "target_date": "2026-09-23",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "投稿0はマルハンメガシティ東大和のため除外",
+      "url": "https://x.com/slot_ogikiti/status/2102947191874887778"
+    },
+    {
+      "id": "slot_ogikiti-2102898761202901306-楽園町田",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-23",
+      "store": "楽園町田",
+      "area": null,
+      "machines": [
+        "マイV",
+        "沖ドキG",
+        "喰種",
+        "Lカバネリ",
+        "リコリコ"
+      ],
+      "matsubi": [],
+      "note": "シルバーウィーク×四星『水星神』3台並び候補が好調",
+      "url": "https://x.com/slot_ogikiti/status/2102898761202901306"
     },
     {
       "id": "slot_ogikiti-2101913249004568643-ハイパージアス立川",
