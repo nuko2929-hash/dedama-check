@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T13:27",
-  "count": 2901,
+  "generated_at": "2026-09-24T17:30",
+  "count": 2902,
   "predictions": [
     {
       "id": "slot_ogikiti-2102958952757801233-ハイパージアス立川",
@@ -844,15 +844,9 @@
       "target_date": "2026-09-24",
       "store": "アビバ湘南台",
       "area": "湘南台",
-      "machines": [
-        "からくり2",
-        "乙女5",
-        "ネオアイム",
-        "東京喰種",
-        "Lカバネリ"
-      ],
+      "machines": [],
       "matsubi": [],
-      "note": "スロパチガール来店S。過去スロパチ開催時並び頻度高。扱い良好機種から攻略",
+      "note": "スロパチガール来店。SW明け2回目",
       "url": "https://x.com/karasuro_7/status/2102749585936629948"
     },
     {
@@ -943,6 +937,19 @@
       "matsubi": [],
       "note": "SW仕掛け。まるごと/1/2仕掛け9箇所",
       "url": "https://x.com/1_take6/status/2102691209273921854"
+    },
+    {
+      "id": "karasuro_7-2102749546682233123-クリエ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-23",
+      "target_date": "2026-09-24",
+      "store": "クリエ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "脳汁王子WEEK。スロパチ演者じゃんじゃん来店取材",
+      "url": "https://x.com/karasuro_7/status/2102749546682233123"
     },
     {
       "id": "slot_ogikiti-2102233084225839533-キコーナ戸塚",
