@@ -1,7 +1,159 @@
 {
-  "generated_at": "2026-09-24T17:30",
-  "count": 2902,
+  "generated_at": "2026-09-25T07:20",
+  "count": 2913,
   "predictions": [
+    {
+      "id": "slot_ogikiti-2103382973248884926-スーパーDステーション立川",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-25",
+      "target_date": "2026-09-26",
+      "store": "スーパーDステーション立川",
+      "area": "立川",
+      "machines": [
+        "Lカバネリ",
+        "喰種",
+        "モンキー",
+        "北斗"
+      ],
+      "matsubi": [],
+      "note": "週末強化。4台並び起点に攻略。直近抽選335人で平均+230枚",
+      "url": "https://x.com/slot_ogikiti/status/2103382973248884926"
+    },
+    {
+      "id": "slot_ogikiti-2103377607798706585-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-25",
+      "target_date": "2026-09-26",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "アビバグループ合同VIVA取材。15店舗同時開催。旗艦店で分岐営業に期待",
+      "url": "https://x.com/slot_ogikiti/status/2103377607798706585"
+    },
+    {
+      "id": "slot_ogikiti-2103348390381994025-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-25",
+      "target_date": "2026-09-26",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "お品書き掲載。26日開催店として紹介されている",
+      "url": "https://x.com/slot_ogikiti/status/2103348390381994025"
+    },
+    {
+      "id": "karasuro_7-2103380447791313059-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-25",
+      "target_date": "2026-09-26",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "全機種"
+      ],
+      "matsubi": [],
+      "note": "ラスサタ応援団開催。メイン<少数機種が狙い目",
+      "url": "https://x.com/karasuro_7/status/2103380447791313059"
+    },
+    {
+      "id": "karasuro_7-2103380447791313059-ザシティ相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-25",
+      "target_date": "2026-09-26",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [
+        "全機種"
+      ],
+      "matsubi": [],
+      "note": "ラスサタ応援団開催。初回から+α仕掛け継続中",
+      "url": "https://x.com/karasuro_7/status/2103380447791313059"
+    },
+    {
+      "id": "karasuro_7-2103372570947199440-スクランブル田谷",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-25",
+      "target_date": "2026-09-26",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "オプチャ掲載。詳細は神奈川オプチャ参照",
+      "url": "https://x.com/karasuro_7/status/2103372570947199440"
+    },
+    {
+      "id": "karasuro_7-2103372570947199440-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-25",
+      "target_date": "2026-09-26",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "オプチャ掲載。詳細は神奈川オプチャ参照",
+      "url": "https://x.com/karasuro_7/status/2103372570947199440"
+    },
+    {
+      "id": "karasuro_7-2103372570947199440-マルハン綾瀬",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-25",
+      "target_date": "2026-09-26",
+      "store": "マルハン綾瀬",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "オプチャ掲載。詳細は神奈川オプチャ参照",
+      "url": "https://x.com/karasuro_7/status/2103372570947199440"
+    },
+    {
+      "id": "karasuro_7-2103372570947199440-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-25",
+      "target_date": "2026-09-26",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "オプチャ掲載。詳細は神奈川オプチャ参照",
+      "url": "https://x.com/karasuro_7/status/2103372570947199440"
+    },
+    {
+      "id": "karasuro_7-2103372570947199440-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-25",
+      "target_date": "2026-09-26",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "オプチャ掲載。詳細は神奈川オプチャ参照",
+      "url": "https://x.com/karasuro_7/status/2103372570947199440"
+    },
+    {
+      "id": "karasuro_7-2103372570947199440-グランドホール長後",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-25",
+      "target_date": "2026-09-26",
+      "store": "グランドホール長後",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "オプチャ掲載。詳細は神奈川オプチャ参照",
+      "url": "https://x.com/karasuro_7/status/2103372570947199440"
+    },
     {
       "id": "slot_ogikiti-2102958952757801233-ハイパージアス立川",
       "source": "荻吉@スロ",
