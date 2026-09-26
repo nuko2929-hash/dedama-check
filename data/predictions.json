@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T12:52",
-  "count": 2968,
+  "generated_at": "2026-09-26T16:37",
+  "count": 2976,
   "predictions": [
     {
       "id": "slot_ogikiti-2103746388576309570-アビバ湘南台",
@@ -321,6 +321,112 @@
       ],
       "note": "スロ3台並び仕掛け+パチンコ2列に注目。新台からメイン機種まで狙い目。",
       "url": "https://x.com/1_take6/status/2103749765070827563"
+    },
+    {
+      "id": "slot_ogikiti-2103832437444743339-アビバ湘南台",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-26",
+      "target_date": "2026-09-27",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [],
+      "note": "アビバグループ合同開催。スロトレ『VIVA取材』週末2日間連日開催",
+      "url": "https://x.com/slot_ogikiti/status/2103832437444743339"
+    },
+    {
+      "id": "karasuro_7-2103837464704278570-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-26",
+      "target_date": "2026-09-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び狙い目",
+      "url": "https://x.com/karasuro_7/status/2103837464704278570"
+    },
+    {
+      "id": "karasuro_7-2103837373901762990-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-26",
+      "target_date": "2026-09-27",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "スロパチガール来店。4台並び狙い目",
+      "url": "https://x.com/karasuro_7/status/2103837373901762990"
+    },
+    {
+      "id": "karasuro_7-2103837344273215565-アビバ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-26",
+      "target_date": "2026-09-27",
+      "store": "アビバ湘南台",
+      "area": "湘南台",
+      "machines": [],
+      "matsubi": [
+        7
+      ],
+      "note": "7のつく日。嵐撃強化。リニュ後1発目",
+      "url": "https://x.com/karasuro_7/status/2103837344273215565"
+    },
+    {
+      "id": "1_take6-2103833966805688463-スクランブル田谷",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-26",
+      "target_date": "2026-09-27",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [
+        "L東京喰種",
+        "L甲鉄城のカバネリ",
+        "Lとある魔術の禁書目録2"
+      ],
+      "matsubi": [],
+      "note": "週末＆周年月間。深イイ店長就任で仕掛け期待",
+      "url": "https://x.com/1_take6/status/2103833966805688463"
+    },
+    {
+      "id": "1_take6-2103832462564417886-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-26",
+      "target_date": "2026-09-27",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "L甲鉄城のカバネリ",
+        "マイジャグラー",
+        "ネオアイム"
+      ],
+      "matsubi": [],
+      "note": "日曜日。スロパチガール来店。4台並び×13箇所期待",
+      "url": "https://x.com/1_take6/status/2103832462564417886"
+    },
+    {
+      "id": "1_take6-2103830946277654773-ガーデン戸塚",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-26",
+      "target_date": "2026-09-27",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "Sミラクルジャグラー",
+        "LBタコスロ",
+        "LBアレックス"
+      ],
+      "matsubi": [],
+      "note": "週末＆まいったぁー開催。サミーネットワークフェス",
+      "url": "https://x.com/1_take6/status/2103830946277654773"
     },
     {
       "id": "slot_ogikiti-2103382973248884926-スーパーDステーション立川",
@@ -1013,6 +1119,23 @@
       "matsubi": [],
       "note": "9/26抽選人数情報掲載175人",
       "url": "https://x.com/karasuro_7/status/2103648273366216926"
+    },
+    {
+      "id": "1_take6-2103867625868836883-ピーアーク相模大野",
+      "source": "Take6 ホール調査",
+      "handle": "1_take6",
+      "posted_at": "2026-09-26",
+      "target_date": "2026-09-26",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "Sペルソナ5",
+        "異世界かるてっと",
+        "戦国乙女5"
+      ],
+      "matsubi": [],
+      "note": "初抽選47名。半転全昇で3機種ピックアップ",
+      "url": "https://x.com/1_take6/status/2103867625868836883"
     },
     {
       "id": "slot_ogikiti-2102958952757801233-ハイパージアス立川",
