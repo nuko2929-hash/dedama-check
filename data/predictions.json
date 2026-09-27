@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T07:52",
-  "count": 2989,
+  "generated_at": "2026-09-27T13:45",
+  "count": 3002,
   "predictions": [
     {
       "id": "karasuro_7-2104091837913002109-ガーデン戸塚",
@@ -27,6 +27,216 @@
       "matsubi": [],
       "note": "明日の神奈川オプチャ予想店に掲載",
       "url": "https://x.com/karasuro_7/status/2104091837913002109"
+    },
+    {
+      "id": "slot_ogikiti-2104152008399991191-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "8の日×庭の日。店内10%以上、全機種全台チャンス。3F各BOXに単品以上。",
+      "url": "https://x.com/slot_ogikiti/status/2104152008399991191"
+    },
+    {
+      "id": "slot_ogikiti-2104147290579673588-ガーデン戸塚",
+      "source": "荻吉@スロ",
+      "handle": "slot_ogikiti",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "28日「庭の日」でいつも以上の内容強化に期待。全機種に仕掛け。",
+      "url": "https://x.com/slot_ogikiti/status/2104147290579673588"
+    },
+    {
+      "id": "slo1_tyousataiZ-2104184471180230728-楽園立川店",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "楽園立川店",
+      "area": "立川",
+      "machines": [
+        "ゴージャグ",
+        "炎炎2",
+        "喰種",
+        "SAO2",
+        "アイム"
+      ],
+      "matsubi": [],
+      "note": "⑧の付く日。列全/列ニブイチを軸に全台系/高配分を意識。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2104184471180230728"
+    },
+    {
+      "id": "slo1_tyousataiZ-2104170235280646470-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "喰種",
+        "Lカバネリ",
+        "マイジャグ",
+        "GOD"
+      ],
+      "matsubi": [],
+      "note": "6台並び×6本以上。全台系/ニブイチ/単品で多彩な仕掛けに期待。",
+      "url": "https://x.com/slo1_tyousataiZ/status/2104170235280646470"
+    },
+    {
+      "id": "slo1_tyousataiZ-2104157221978517755-ピーアーク相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "リゼロ2",
+        "ひきこまり",
+        "アサルトリリィ",
+        "暴凶星",
+        "キン肉マン",
+        "無職転生",
+        "ラグナドール",
+        "ガンゲイル",
+        "ガルパン",
+        "バイオハザード"
+      ],
+      "matsubi": [],
+      "note": "スロパチステーション来店取材。全台系×複数、ニブイチ×複数が軸",
+      "url": "https://x.com/slo1_tyousataiZ/status/2104157221978517755"
+    },
+    {
+      "id": "slo1_tyousataiZ-2104157221978517755-ザシティ相模大野",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "ザシティ相模大野",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載。当該エリア推奨店",
+      "url": "https://x.com/slo1_tyousataiZ/status/2104157221978517755"
+    },
+    {
+      "id": "slo1_tyousataiZ-2104157221978517755-相模大野UNO",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "相模大野UNO",
+      "area": "相模大野",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載。当該エリア推奨店",
+      "url": "https://x.com/slo1_tyousataiZ/status/2104157221978517755"
+    },
+    {
+      "id": "slo1_tyousataiZ-2104157001202946254-スクランブル田谷",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "スクランブル田谷",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "9/26差枚TOP10に掲載。当該エリア推奨店",
+      "url": "https://x.com/slo1_tyousataiZ/status/2104157001202946254"
+    },
+    {
+      "id": "slo1_tyousataiZ-2104157221978517755-ガーデン戸塚",
+      "source": "スロイベ調査隊Z@関東(2代目)",
+      "handle": "slo1_tyousataiZ",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [],
+      "matsubi": [],
+      "note": "注目ホール40選に掲載。当該エリア推奨店",
+      "url": "https://x.com/slo1_tyousataiZ/status/2104157221978517755"
+    },
+    {
+      "id": "karasuro_7-2104179312635036097-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "東京喰種",
+        "カバネリシリーズ",
+        "GOD",
+        "攻殻機動隊",
+        "いせかる"
+      ],
+      "matsubi": [],
+      "note": "月周年日・8のつく日。全台てっぺん・全系複数・1/2以上機種複数期待",
+      "url": "https://x.com/karasuro_7/status/2104179312635036097"
+    },
+    {
+      "id": "karasuro_7-2104173627675435337-ガーデン戸塚",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "ガーデン戸塚",
+      "area": "戸塚",
+      "machines": [
+        "マギレコ",
+        "ジャグラーシリーズ"
+      ],
+      "matsubi": [],
+      "note": "9月ラスト8のつく日。店内10%以上が虹・獣。1/2以上機種連続",
+      "url": "https://x.com/karasuro_7/status/2104173627675435337"
+    },
+    {
+      "id": "karasuro_7-2104170028794818737-ピーアーク相模大野",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "ピーアーク相模大野",
+      "area": "相模大野",
+      "machines": [
+        "ジャグ",
+        "沖スロシリーズ",
+        "東京喰種",
+        "GOD",
+        "Lカバネリ"
+      ],
+      "matsubi": [],
+      "note": "スロパチ4連戦最終日。全体強化日。P2BOX（エヴァ15・e東京喰種）",
+      "url": "https://x.com/karasuro_7/status/2104170028794818737"
+    },
+    {
+      "id": "karasuro_7-2104166890860114183-パラッツォ湘南台",
+      "source": "カラスロ@神奈川",
+      "handle": "karasuro_7",
+      "posted_at": "2026-09-27",
+      "target_date": "2026-09-28",
+      "store": "パラッツォ湘南台",
+      "area": "湘南台",
+      "machines": [
+        "e東京喰種"
+      ],
+      "matsubi": [],
+      "note": "9月ラスト8のつく日。全系・1/2・1/3・並び・単品期待。旧イベ時並び仕掛け恒例",
+      "url": "https://x.com/karasuro_7/status/2104166890860114183"
     },
     {
       "id": "slot_ogikiti-2103746388576309570-アビバ湘南台",
